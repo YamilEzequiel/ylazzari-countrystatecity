@@ -8,7 +8,7 @@ export { LIST_COUNTRY } from "./country-list";
  * @class CountryService
  * @description Class for the country service
  */
-export default class CountryService {
+export class CountryService {
   constructor() {}
 
   /**
@@ -20,7 +20,7 @@ export default class CountryService {
   public getCountryByKey = (key: string): Country | undefined => {
     return LIST_COUNTRY[key.toUpperCase()];
   };
-  
+
   public getAllCountries = (): Country[] => {
     return Object.values(LIST_COUNTRY);
   };
@@ -33,6 +33,3 @@ export default class CountryService {
     return countries;
   };
 }
-
-
-export { CountryService };

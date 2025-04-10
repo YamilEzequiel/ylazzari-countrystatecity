@@ -31,5 +31,4 @@ class CountryService {
         };
     }
 }
-exports.default = CountryService;
 exports.CountryService = CountryService;

@@ -5,7 +5,7 @@ export { LIST_COUNTRY } from "./country-list";
  * @class CountryService
  * @description Class for the country service
  */
-export default class CountryService {
+export declare class CountryService {
     constructor();
     /**
      * @method getCountryByKey
@@ -19,4 +19,3 @@ export default class CountryService {
         [key: string]: string;
     };
 }
-export { CountryService };

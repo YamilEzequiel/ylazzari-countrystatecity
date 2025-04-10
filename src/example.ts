@@ -1,4 +1,4 @@
-import CountryService from "./country";
+import { CountryService } from "./country";
 import { StateEnum } from "./shared/enum";
 import StateService from "./states";
 
