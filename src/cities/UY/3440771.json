@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11820850,
+    "parentId": 3440771,
+    "country": "UY",
+    "name": "Castillos",
+    "fullName": null,
+    "lat": -34.01738,
+    "lng": -53.87891,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820872,
+    "parentId": 3440771,
+    "country": "UY",
+    "name": "Chuy",
+    "fullName": null,
+    "lat": -33.73128,
+    "lng": -53.50001,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820803,
+    "parentId": 3440771,
+    "country": "UY",
+    "name": "La Paloma",
+    "fullName": null,
+    "lat": -34.56823,
+    "lng": -54.17842,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820804,
+    "parentId": 3440771,
+    "country": "UY",
+    "name": "Lascano",
+    "fullName": null,
+    "lat": -33.7651,
+    "lng": -54.26093,
+    "tz": "America/Montevideo"
+  }
+]

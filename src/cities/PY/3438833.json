@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11840098,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Azotey",
+    "fullName": null,
+    "lat": -23.32344,
+    "lng": -56.50114,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840069,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Belen",
+    "fullName": null,
+    "lat": -23.4278,
+    "lng": -57.23169,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840042,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Concepcion",
+    "fullName": null,
+    "lat": -22.87931,
+    "lng": -57.36778,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840139,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Horqueta",
+    "fullName": null,
+    "lat": -23.25651,
+    "lng": -56.838,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840081,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Loreto",
+    "fullName": null,
+    "lat": -23.18896,
+    "lng": -57.15119,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840114,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": -22.39295,
+    "lng": -57.29779,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840109,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "San Lazaro",
+    "fullName": null,
+    "lat": -22.24718,
+    "lng": -57.73504,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840007,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Sgto. Jose Felix Lopez",
+    "fullName": null,
+    "lat": -22.53258,
+    "lng": -56.94168,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840024,
+    "parentId": 3438833,
+    "country": "PY",
+    "name": "Yvy Ya´U",
+    "fullName": null,
+    "lat": -22.99614,
+    "lng": -56.38143,
+    "tz": "America/Asuncion"
+  }
+]

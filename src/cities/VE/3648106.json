@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8129246,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Bolivariano Angostura",
+    "fullName": null,
+    "lat": 7.49247,
+    "lng": -63.26941,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646491,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Caroní",
+    "fullName": "Municipio Caroní",
+    "lat": 8.11667,
+    "lng": -62.8,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646105,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Cedeño",
+    "fullName": "Municipio Cedeño",
+    "lat": 6.5,
+    "lng": -66,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129214,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "El Callao",
+    "fullName": "Municipio El Callao",
+    "lat": 7.33326,
+    "lng": -61.82874,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129151,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Gran Sabana",
+    "fullName": "Municipio Gran Sabana",
+    "lat": 4.61667,
+    "lng": -61.13333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639562,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Heres",
+    "fullName": "Municipio Heres",
+    "lat": 6,
+    "lng": -63.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131426,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Padre Pedro Chien",
+    "fullName": "Municipio Padre Pedro Chien",
+    "lat": 8.02455,
+    "lng": -61.88187,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630283,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Piar",
+    "fullName": "Municipio Piar",
+    "lat": 6.16667,
+    "lng": -62.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628959,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Roscio",
+    "fullName": "Municipio Roscio",
+    "lat": 6,
+    "lng": -61.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129218,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Sifontes",
+    "fullName": "Municipio Sifontes",
+    "lat": 7.24809,
+    "lng": -61.53151,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626664,
+    "parentId": 3648106,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 6,
+    "lng": -64.25,
+    "tz": "America/Caracas"
+  }
+]

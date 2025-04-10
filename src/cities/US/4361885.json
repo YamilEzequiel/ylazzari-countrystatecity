@@ -1,0 +1,242 @@
+[
+  {
+    "id": 4347094,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Allegany County",
+    "fullName": null,
+    "lat": 39.62148,
+    "lng": -78.6989,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4347283,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Anne Arundel County",
+    "fullName": null,
+    "lat": 38.99416,
+    "lng": -76.5676,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4347790,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Baltimore County",
+    "fullName": null,
+    "lat": 39.44307,
+    "lng": -76.61632,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4350123,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Calvert County",
+    "fullName": null,
+    "lat": 38.53471,
+    "lng": -76.53056,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4350425,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Caroline County",
+    "fullName": null,
+    "lat": 38.87173,
+    "lng": -75.8316,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4350461,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Carroll County",
+    "fullName": null,
+    "lat": 39.56286,
+    "lng": -77.02252,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4350685,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Cecil County",
+    "fullName": null,
+    "lat": 39.56242,
+    "lng": -75.94811,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4351021,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Charles County",
+    "fullName": null,
+    "lat": 38.47368,
+    "lng": -77.01348,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4347820,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "City of Baltimore",
+    "fullName": null,
+    "lat": 39.29038,
+    "lng": -76.61219,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4353543,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Dorchester County",
+    "fullName": null,
+    "lat": 38.42261,
+    "lng": -76.08332,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4355594,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Frederick County",
+    "fullName": null,
+    "lat": 39.47222,
+    "lng": -77.39799,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4355939,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Garrett County",
+    "fullName": null,
+    "lat": 39.5286,
+    "lng": -79.27388,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4357407,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Harford County",
+    "fullName": null,
+    "lat": 39.53644,
+    "lng": -76.29887,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4358598,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Howard County",
+    "fullName": null,
+    "lat": 39.25072,
+    "lng": -76.93119,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4359780,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Kent County",
+    "fullName": null,
+    "lat": 39.2356,
+    "lng": -76.09582,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4362716,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Montgomery County",
+    "fullName": null,
+    "lat": 39.13638,
+    "lng": -77.20424,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4366164,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Prince George's County",
+    "fullName": null,
+    "lat": 38.82952,
+    "lng": -76.84729,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4366351,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Queen Anne's County",
+    "fullName": null,
+    "lat": 39.03763,
+    "lng": -76.08504,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4368320,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Saint Mary's County",
+    "fullName": null,
+    "lat": 38.21586,
+    "lng": -76.52906,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4369894,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Somerset County",
+    "fullName": null,
+    "lat": 38.08007,
+    "lng": -75.85347,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4370904,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Talbot County",
+    "fullName": null,
+    "lat": 38.7491,
+    "lng": -76.17862,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4372777,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 39.60367,
+    "lng": -77.81398,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4373554,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Wicomico County",
+    "fullName": null,
+    "lat": 38.36942,
+    "lng": -75.63151,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4374180,
+    "parentId": 4361885,
+    "country": "US",
+    "name": "Worcester County",
+    "fullName": null,
+    "lat": 38.2165,
+    "lng": -75.29667,
+    "tz": "America/New_York"
+  }
+]

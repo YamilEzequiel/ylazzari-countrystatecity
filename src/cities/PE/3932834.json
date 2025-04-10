@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3941507,
+    "parentId": 3932834,
+    "country": "PE",
+    "name": "Daniel Carrión",
+    "fullName": "Provincia de Daniel Carrión",
+    "lat": -10.5,
+    "lng": -76.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3933873,
+    "parentId": 3932834,
+    "country": "PE",
+    "name": "Oxapampa",
+    "fullName": "Provincia de Oxapampa",
+    "lat": -10.33333,
+    "lng": -75.08333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3932833,
+    "parentId": 3932834,
+    "country": "PE",
+    "name": "Pasco",
+    "fullName": "Provincia de Pasco",
+    "lat": -10.66667,
+    "lng": -76.08333,
+    "tz": "America/Lima"
+  }
+]

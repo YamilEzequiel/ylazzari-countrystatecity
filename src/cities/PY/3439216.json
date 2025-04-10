@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11840125,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Corpus Christi",
+    "fullName": null,
+    "lat": -24.11047,
+    "lng": -55.00993,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839977,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Curuguaty",
+    "fullName": null,
+    "lat": -24.33618,
+    "lng": -55.77463,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839956,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Francisco Caballero Alvarez",
+    "fullName": null,
+    "lat": -24.15653,
+    "lng": -54.71145,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839978,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Itanara",
+    "fullName": null,
+    "lat": -23.75892,
+    "lng": -55.65763,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839999,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Katuete",
+    "fullName": null,
+    "lat": -24.3429,
+    "lng": -54.79242,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840062,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "La Paloma",
+    "fullName": null,
+    "lat": -24.1938,
+    "lng": -54.562,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839972,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Nueva Esperanza",
+    "fullName": null,
+    "lat": -24.58166,
+    "lng": -54.65388,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839948,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Saltos Del Guaira",
+    "fullName": null,
+    "lat": -24.18629,
+    "lng": -54.46661,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840060,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Villa Ygatimí",
+    "fullName": null,
+    "lat": -24.13346,
+    "lng": -55.48191,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840068,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Yasy Kañy",
+    "fullName": null,
+    "lat": -24.56255,
+    "lng": -55.86979,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840134,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Ybyrarobana",
+    "fullName": null,
+    "lat": -24.3509,
+    "lng": -55.1162,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839979,
+    "parentId": 3439216,
+    "country": "PY",
+    "name": "Ype Jhu",
+    "fullName": null,
+    "lat": -23.92806,
+    "lng": -55.76758,
+    "tz": "America/Asuncion"
+  }
+]

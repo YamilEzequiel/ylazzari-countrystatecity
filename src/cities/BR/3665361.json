@@ -1,0 +1,622 @@
+[
+  {
+    "id": 6319294,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Alvarães",
+    "fullName": null,
+    "lat": -3.20085,
+    "lng": -64.95117,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319295,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Amaturá",
+    "fullName": null,
+    "lat": -3.38926,
+    "lng": -68.22698,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319296,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Anamã",
+    "fullName": null,
+    "lat": -3.4799,
+    "lng": -61.71689,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319297,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Anori",
+    "fullName": null,
+    "lat": -4.21324,
+    "lng": -62.15564,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319298,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Apuí",
+    "fullName": null,
+    "lat": -7.78922,
+    "lng": -59.34104,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319299,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Atalaia do Norte",
+    "fullName": null,
+    "lat": -5.66448,
+    "lng": -71.82776,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319300,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Autazes",
+    "fullName": null,
+    "lat": -3.87303,
+    "lng": -59.68136,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319301,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Barcelos",
+    "fullName": null,
+    "lat": -0.39287,
+    "lng": -63.53706,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319302,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Barreirinha",
+    "fullName": null,
+    "lat": -3.06562,
+    "lng": -57.16619,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319303,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Benjamin Constant",
+    "fullName": null,
+    "lat": -5.64837,
+    "lng": -70.40685,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319304,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Beruri",
+    "fullName": null,
+    "lat": -4.34371,
+    "lng": -61.75126,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319305,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Boa Vista do Ramos",
+    "fullName": null,
+    "lat": -3.15779,
+    "lng": -57.90517,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319306,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Boca do Acre",
+    "fullName": null,
+    "lat": -8.55417,
+    "lng": -68.03585,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319307,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Borba",
+    "fullName": null,
+    "lat": -5.11242,
+    "lng": -59.30536,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319308,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Caapiranga",
+    "fullName": null,
+    "lat": -3.12981,
+    "lng": -61.74406,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6324275,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Canutama",
+    "fullName": null,
+    "lat": -7.58969,
+    "lng": -64.12937,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319309,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Carauari",
+    "fullName": null,
+    "lat": -5.1159,
+    "lng": -67.35779,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319310,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Careiro",
+    "fullName": null,
+    "lat": -3.78706,
+    "lng": -60.3479,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319311,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Careiro da Várzea",
+    "fullName": null,
+    "lat": -3.35155,
+    "lng": -59.65526,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6324179,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Coari",
+    "fullName": null,
+    "lat": -4.05402,
+    "lng": -64.15114,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319312,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Codajás",
+    "fullName": null,
+    "lat": -3.16263,
+    "lng": -63.14732,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319313,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Eirunepé",
+    "fullName": null,
+    "lat": -7.15849,
+    "lng": -70.41554,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319314,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Envira",
+    "fullName": null,
+    "lat": -7.64212,
+    "lng": -70.14077,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319315,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Fonte Boa",
+    "fullName": null,
+    "lat": -2.49591,
+    "lng": -66.26623,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319316,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Guajará",
+    "fullName": null,
+    "lat": -7.13653,
+    "lng": -72.71513,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319317,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Humaitá",
+    "fullName": null,
+    "lat": -7.43866,
+    "lng": -62.32481,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319318,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Ipixuna",
+    "fullName": null,
+    "lat": -7.1191,
+    "lng": -71.3759,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319319,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Iranduba",
+    "fullName": null,
+    "lat": -3.10145,
+    "lng": -60.44644,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319320,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Itacoatiara",
+    "fullName": null,
+    "lat": -3.13435,
+    "lng": -58.43353,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319321,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Itamarati",
+    "fullName": null,
+    "lat": -6.76472,
+    "lng": -68.03926,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319322,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Itapiranga",
+    "fullName": null,
+    "lat": -2.516,
+    "lng": -58.5573,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319323,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Japurá",
+    "fullName": null,
+    "lat": -1.55349,
+    "lng": -68.24526,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319324,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Juruá",
+    "fullName": null,
+    "lat": -3.27526,
+    "lng": -66.24211,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319325,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Jutaí",
+    "fullName": null,
+    "lat": -4.65485,
+    "lng": -68.28027,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 3663683,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Lábrea",
+    "fullName": null,
+    "lat": -8.18437,
+    "lng": -66.075,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319326,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Manacapuru",
+    "fullName": null,
+    "lat": -3.24746,
+    "lng": -61.00788,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319327,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Manaquiri",
+    "fullName": null,
+    "lat": -3.79048,
+    "lng": -60.70718,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319328,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Manaus",
+    "fullName": null,
+    "lat": -3.04361,
+    "lng": -60.01282,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319329,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Manicoré",
+    "fullName": null,
+    "lat": -7.06636,
+    "lng": -61.55696,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319330,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Maraã",
+    "fullName": null,
+    "lat": -2.63792,
+    "lng": -64.80423,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319331,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Maués",
+    "fullName": null,
+    "lat": -5.06331,
+    "lng": -58.30285,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319332,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Nhamundá",
+    "fullName": null,
+    "lat": -1.6805,
+    "lng": -57.65625,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319333,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Nova Olinda do Norte",
+    "fullName": null,
+    "lat": -3.9464,
+    "lng": -58.59745,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319334,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Novo Airão",
+    "fullName": null,
+    "lat": -1.98386,
+    "lng": -61.78513,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319335,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Novo Aripuanã",
+    "fullName": null,
+    "lat": -7.00105,
+    "lng": -60.63017,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319336,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Parintins",
+    "fullName": null,
+    "lat": -2.66345,
+    "lng": -56.93412,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319337,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Pauini",
+    "fullName": null,
+    "lat": -7.68931,
+    "lng": -68.14223,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319338,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Presidente Figueiredo",
+    "fullName": null,
+    "lat": -1.28344,
+    "lng": -59.98317,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319339,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Rio Preto da Eva",
+    "fullName": null,
+    "lat": -2.49292,
+    "lng": -59.60783,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319340,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Santa Isabel do Rio Negro",
+    "fullName": null,
+    "lat": -0.25484,
+    "lng": -65.55119,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6318997,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Santo Antônio do Içá",
+    "fullName": null,
+    "lat": -3.08995,
+    "lng": -68.75919,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319341,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "São Gabriel da Cachoeira",
+    "fullName": null,
+    "lat": 0.24042,
+    "lng": -68.03239,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319342,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "São Paulo de Olivença",
+    "fullName": null,
+    "lat": -4.65086,
+    "lng": -69.58141,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319343,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "São Sebastião do Uatumã",
+    "fullName": null,
+    "lat": -1.93197,
+    "lng": -58.74216,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319344,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Silves",
+    "fullName": null,
+    "lat": -2.76846,
+    "lng": -58.62751,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319345,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Tabatinga",
+    "fullName": null,
+    "lat": -3.96298,
+    "lng": -69.60265,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6324276,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Tapauá",
+    "fullName": null,
+    "lat": -6.21423,
+    "lng": -65.69985,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319346,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Tefé",
+    "fullName": null,
+    "lat": -4.52227,
+    "lng": -65.60446,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319347,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Tonantins",
+    "fullName": null,
+    "lat": -2.57612,
+    "lng": -67.47282,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319348,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Uarini",
+    "fullName": null,
+    "lat": -3.14736,
+    "lng": -65.42036,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319349,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Urucará",
+    "fullName": null,
+    "lat": -1.19284,
+    "lng": -58.80434,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319350,
+    "parentId": 3665361,
+    "country": "BR",
+    "name": "Urucurituba",
+    "fullName": null,
+    "lat": -2.83268,
+    "lng": -57.75009,
+    "tz": "America/Manaus"
+  }
+]

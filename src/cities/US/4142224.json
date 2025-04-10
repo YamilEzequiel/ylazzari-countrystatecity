@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4143221,
+    "parentId": 4142224,
+    "country": "US",
+    "name": "Kent County",
+    "fullName": null,
+    "lat": 39.09595,
+    "lng": -75.50461,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4143835,
+    "parentId": 4142224,
+    "country": "US",
+    "name": "New Castle County",
+    "fullName": null,
+    "lat": 39.57833,
+    "lng": -75.63898,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4144895,
+    "parentId": 4142224,
+    "country": "US",
+    "name": "Sussex County",
+    "fullName": null,
+    "lat": 38.6833,
+    "lng": -75.33954,
+    "tz": "America/New_York"
+  }
+]

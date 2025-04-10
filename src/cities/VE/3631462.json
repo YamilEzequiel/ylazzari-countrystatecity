@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8131448,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Antolín del Campo",
+    "fullName": "Municipio Antolín del Campo",
+    "lat": 11.10758,
+    "lng": -63.8564,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648881,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Arismendi",
+    "fullName": "Municipio Arismendi",
+    "lat": 11.05291,
+    "lng": -63.84911,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3644510,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Díaz",
+    "fullName": "Municipio Díaz",
+    "lat": 10.98333,
+    "lng": -64.15,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129156,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "García",
+    "fullName": "Municipio García",
+    "lat": 10.98283,
+    "lng": -63.8831,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640582,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Gómez",
+    "fullName": "Municipio Gómez",
+    "lat": 11.08333,
+    "lng": -63.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3633180,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Maneiro",
+    "fullName": "Municipio Maneiro",
+    "lat": 11,
+    "lng": -63.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131449,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Marcano",
+    "fullName": "Municipio Marcano",
+    "lat": 11.08307,
+    "lng": -63.96412,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632894,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Mariño",
+    "fullName": "Municipio Mariño",
+    "lat": 10.95,
+    "lng": -63.88333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630389,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Península de Macanao",
+    "fullName": "Municipio Península de Macanao",
+    "lat": 11.01667,
+    "lng": -64.28333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625967,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Tubores",
+    "fullName": "Municipio Tubores",
+    "lat": 10.95,
+    "lng": -64.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625334,
+    "parentId": 3631462,
+    "country": "VE",
+    "name": "Villalba",
+    "fullName": "Municipio Villalba",
+    "lat": 10.78333,
+    "lng": -63.95,
+    "tz": "America/Caracas"
+  }
+]

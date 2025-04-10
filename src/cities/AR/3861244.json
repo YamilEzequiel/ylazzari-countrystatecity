@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3864255,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Biedma",
+    "fullName": "Departamento de Biedma",
+    "lat": -42.41667,
+    "lng": -65,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3859556,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Cushamen",
+    "fullName": "Departamento de Cushamen",
+    "lat": -42.5,
+    "lng": -70.83333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3856121,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Escalante",
+    "fullName": "Departamento de Escalante",
+    "lat": -45.33333,
+    "lng": -67.33333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3855504,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Florentino Ameghino",
+    "fullName": "Departamento de Florentino Ameghino",
+    "lat": -44.41667,
+    "lng": -66.16667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3855298,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Futaleufú",
+    "fullName": "Departamento de Futaleufú",
+    "lat": -43.08333,
+    "lng": -71.41667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3855282,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Gaimán",
+    "fullName": "Departamento de Gaimán",
+    "lat": -43.33333,
+    "lng": -66.33333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3855185,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Gastre",
+    "fullName": "Departamento de Gastre",
+    "lat": -42.83333,
+    "lng": -68.66667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3849745,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Languiñeo",
+    "fullName": "Departamento de Languiñeo",
+    "lat": -43.33333,
+    "lng": -70.66667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3844763,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Mártires",
+    "fullName": "Departamento de Mártires",
+    "lat": -43.83333,
+    "lng": -67.16667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3841892,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Paso de Indios",
+    "fullName": "Departamento de Paso de Indios",
+    "lat": -44,
+    "lng": -68.83333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3839303,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Rawson",
+    "fullName": "Departamento de Rawson",
+    "lat": -43.12342,
+    "lng": -65.10179,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3838795,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Río Senguerr",
+    "fullName": "Departamento de Río Senguerr",
+    "lat": -45.33333,
+    "lng": -70.83333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3835705,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Sarmiento",
+    "fullName": "Departamento de Sarmiento",
+    "lat": -45.33333,
+    "lng": -69,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3834560,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Tehuelches",
+    "fullName": "Departamento de Tehuelches",
+    "lat": -44.22132,
+    "lng": -70.2526,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3834535,
+    "parentId": 3861244,
+    "country": "AR",
+    "name": "Telsen",
+    "fullName": "Departamento de Telsen",
+    "lat": -42.41667,
+    "lng": -67.16667,
+    "tz": "America/Argentina/Catamarca"
+  }
+]

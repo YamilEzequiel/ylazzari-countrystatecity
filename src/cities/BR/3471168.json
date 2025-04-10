@@ -1,0 +1,4172 @@
+[
+  {
+    "id": 6320721,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Abaíra",
+    "fullName": null,
+    "lat": -13.32129,
+    "lng": -41.69759,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320722,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Abaré",
+    "fullName": null,
+    "lat": -8.80961,
+    "lng": -39.27062,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320723,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Acajutiba",
+    "fullName": null,
+    "lat": -11.60682,
+    "lng": -38.03594,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320724,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Adustina",
+    "fullName": null,
+    "lat": -10.48227,
+    "lng": -37.98446,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320725,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Água Fria",
+    "fullName": null,
+    "lat": -11.74762,
+    "lng": -38.73497,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320727,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aiquara",
+    "fullName": null,
+    "lat": -14.11135,
+    "lng": -39.87641,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3472764,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Alagoinhas",
+    "fullName": null,
+    "lat": -12.0058,
+    "lng": -38.36146,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320728,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Alcobaça",
+    "fullName": null,
+    "lat": -17.46365,
+    "lng": -39.37401,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320729,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Almadina",
+    "fullName": null,
+    "lat": -14.67608,
+    "lng": -39.69066,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320730,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Amargosa",
+    "fullName": null,
+    "lat": -13.0497,
+    "lng": -39.6072,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320731,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Amélia Rodrigues",
+    "fullName": null,
+    "lat": -12.38975,
+    "lng": -38.75153,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320732,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "América Dourada",
+    "fullName": null,
+    "lat": -11.4694,
+    "lng": -41.47335,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320733,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Anagé",
+    "fullName": null,
+    "lat": -14.66168,
+    "lng": -41.14703,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320734,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Andaraí",
+    "fullName": null,
+    "lat": -12.84167,
+    "lng": -41.27679,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320735,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Andorinha",
+    "fullName": null,
+    "lat": -10.22216,
+    "lng": -39.86387,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320736,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Angical",
+    "fullName": null,
+    "lat": -11.9628,
+    "lng": -44.7498,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320737,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Anguera",
+    "fullName": null,
+    "lat": -12.18221,
+    "lng": -39.21384,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320738,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Antas",
+    "fullName": null,
+    "lat": -10.42138,
+    "lng": -38.30341,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320739,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Antônio Cardoso",
+    "fullName": null,
+    "lat": -12.38641,
+    "lng": -39.14549,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320740,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Antônio Gonçalves",
+    "fullName": null,
+    "lat": -10.62282,
+    "lng": -40.40933,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320741,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aporá",
+    "fullName": null,
+    "lat": -11.75439,
+    "lng": -38.22784,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320742,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Apuarema",
+    "fullName": null,
+    "lat": -13.83005,
+    "lng": -39.73444,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320744,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Araçás",
+    "fullName": null,
+    "lat": -12.14681,
+    "lng": -38.17233,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320743,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aracatu",
+    "fullName": null,
+    "lat": -14.39011,
+    "lng": -41.36331,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320745,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Araci",
+    "fullName": null,
+    "lat": -11.13564,
+    "lng": -39.07003,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324321,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aramari",
+    "fullName": null,
+    "lat": -12.04618,
+    "lng": -38.55762,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320746,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Arataca",
+    "fullName": null,
+    "lat": -15.24607,
+    "lng": -39.42481,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320747,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aratuípe",
+    "fullName": null,
+    "lat": -13.09363,
+    "lng": -39.08259,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320748,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Aurelino Leal",
+    "fullName": null,
+    "lat": -14.3631,
+    "lng": -39.47961,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320749,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Baianópolis",
+    "fullName": null,
+    "lat": -12.48331,
+    "lng": -44.53105,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320750,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Baixa Grande",
+    "fullName": null,
+    "lat": -11.97735,
+    "lng": -40.17993,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320751,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Banzaê",
+    "fullName": null,
+    "lat": -10.61578,
+    "lng": -38.62688,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320752,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barra",
+    "fullName": null,
+    "lat": -11.31829,
+    "lng": -43.4688,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320753,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barra da Estiva",
+    "fullName": null,
+    "lat": -13.64622,
+    "lng": -41.1346,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320754,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barra do Choça",
+    "fullName": null,
+    "lat": -15.01024,
+    "lng": -40.66731,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324198,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barra do Mendes",
+    "fullName": null,
+    "lat": -12.16094,
+    "lng": -42.03542,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320755,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barra do Rocha",
+    "fullName": null,
+    "lat": -14.0751,
+    "lng": -39.59068,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3470579,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barreiras",
+    "fullName": null,
+    "lat": -11.93334,
+    "lng": -45.49239,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320756,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barro Alto",
+    "fullName": null,
+    "lat": -11.77394,
+    "lng": -41.91323,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320757,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barro Preto",
+    "fullName": null,
+    "lat": -14.75795,
+    "lng": -39.40711,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319220,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Barrocas",
+    "fullName": null,
+    "lat": -11.6019,
+    "lng": -39.12267,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319073,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Belmonte",
+    "fullName": null,
+    "lat": -15.89158,
+    "lng": -39.32266,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320758,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Belo Campo",
+    "fullName": null,
+    "lat": -14.87419,
+    "lng": -41.22671,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320759,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Biritinga",
+    "fullName": null,
+    "lat": -11.67075,
+    "lng": -38.78931,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320760,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Boa Nova",
+    "fullName": null,
+    "lat": -14.36412,
+    "lng": -40.22378,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320761,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Boa Vista do Tupim",
+    "fullName": null,
+    "lat": -12.87313,
+    "lng": -40.62823,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320762,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Bom Jesus da Lapa",
+    "fullName": null,
+    "lat": -13.20853,
+    "lng": -43.29624,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320763,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Bom Jesus da Serra",
+    "fullName": null,
+    "lat": -14.3838,
+    "lng": -40.53982,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320764,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Boninal",
+    "fullName": null,
+    "lat": -12.80363,
+    "lng": -41.68338,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320765,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Bonito",
+    "fullName": null,
+    "lat": -12.00488,
+    "lng": -41.31779,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320766,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Boquira",
+    "fullName": null,
+    "lat": -12.73943,
+    "lng": -42.64175,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320767,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Botuporã",
+    "fullName": null,
+    "lat": -13.29549,
+    "lng": -42.52593,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319074,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Brejões",
+    "fullName": null,
+    "lat": -13.07059,
+    "lng": -39.82099,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320768,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Brejolândia",
+    "fullName": null,
+    "lat": -12.41237,
+    "lng": -43.92822,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320769,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Brotas de Macaúbas",
+    "fullName": null,
+    "lat": -12.10605,
+    "lng": -42.51108,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320770,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Brumado",
+    "fullName": null,
+    "lat": -14.15265,
+    "lng": -41.60375,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320771,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Buerarema",
+    "fullName": null,
+    "lat": -14.99067,
+    "lng": -39.30588,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320772,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Buritirama",
+    "fullName": null,
+    "lat": -10.57081,
+    "lng": -43.68863,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320773,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caatiba",
+    "fullName": null,
+    "lat": -14.9761,
+    "lng": -40.39048,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320774,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cabaceiras do Paraguaçu",
+    "fullName": null,
+    "lat": -12.55423,
+    "lng": -39.19596,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320775,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cachoeira",
+    "fullName": null,
+    "lat": -12.58461,
+    "lng": -38.97091,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320776,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caculé",
+    "fullName": null,
+    "lat": -14.38829,
+    "lng": -42.41516,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320777,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caém",
+    "fullName": null,
+    "lat": -11.14182,
+    "lng": -40.29142,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320778,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caetanos",
+    "fullName": null,
+    "lat": -14.29234,
+    "lng": -41.01004,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320779,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caetité",
+    "fullName": null,
+    "lat": -13.97883,
+    "lng": -42.49334,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320780,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cafarnaum",
+    "fullName": null,
+    "lat": -11.74558,
+    "lng": -41.50727,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320781,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cairu",
+    "fullName": null,
+    "lat": -13.52662,
+    "lng": -38.94814,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320782,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caldeirão Grande",
+    "fullName": null,
+    "lat": -11.04347,
+    "lng": -40.29515,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320783,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Camacan",
+    "fullName": null,
+    "lat": -15.42769,
+    "lng": -39.50818,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320784,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Camaçari",
+    "fullName": null,
+    "lat": -12.66583,
+    "lng": -38.20623,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320785,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Camamu",
+    "fullName": null,
+    "lat": -13.94073,
+    "lng": -39.12231,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320786,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Campo Alegre de Lourdes",
+    "fullName": null,
+    "lat": -9.50097,
+    "lng": -42.98275,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320787,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Campo Formoso",
+    "fullName": null,
+    "lat": -10.31007,
+    "lng": -40.81082,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320788,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Canápolis",
+    "fullName": null,
+    "lat": -13.12516,
+    "lng": -44.25095,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320789,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Canarana",
+    "fullName": null,
+    "lat": -11.66778,
+    "lng": -41.73764,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320790,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Canavieiras",
+    "fullName": null,
+    "lat": -15.64831,
+    "lng": -39.17092,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320791,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Candeal",
+    "fullName": null,
+    "lat": -11.89504,
+    "lng": -39.2039,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3467552,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Candeias",
+    "fullName": null,
+    "lat": -12.65569,
+    "lng": -38.487,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320792,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Candiba",
+    "fullName": null,
+    "lat": -14.46972,
+    "lng": -42.87386,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320793,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cândido Sales",
+    "fullName": null,
+    "lat": -15.46082,
+    "lng": -41.16353,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320794,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cansanção",
+    "fullName": null,
+    "lat": -10.73105,
+    "lng": -39.47418,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320795,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Canudos",
+    "fullName": null,
+    "lat": -9.87981,
+    "lng": -39.14723,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320796,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Capela do Alto Alegre",
+    "fullName": null,
+    "lat": -11.61838,
+    "lng": -39.83227,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320797,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Capim Grosso",
+    "fullName": null,
+    "lat": -11.29423,
+    "lng": -39.95572,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320798,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caraíbas",
+    "fullName": null,
+    "lat": -14.60631,
+    "lng": -41.25763,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320799,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caravelas",
+    "fullName": null,
+    "lat": -17.65842,
+    "lng": -39.35989,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320800,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cardeal da Silva",
+    "fullName": null,
+    "lat": -11.99798,
+    "lng": -37.92468,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320801,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Carinhanha",
+    "fullName": null,
+    "lat": -14.21387,
+    "lng": -43.84712,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320802,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Casa Nova",
+    "fullName": null,
+    "lat": -9.10439,
+    "lng": -41.15736,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320803,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Castro Alves",
+    "fullName": null,
+    "lat": -12.74937,
+    "lng": -39.37691,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320804,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Catolândia",
+    "fullName": null,
+    "lat": -12.29613,
+    "lng": -44.67528,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320805,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Catu",
+    "fullName": null,
+    "lat": -12.3776,
+    "lng": -38.40049,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320806,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Caturama",
+    "fullName": null,
+    "lat": -13.18601,
+    "lng": -42.3025,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320807,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Central",
+    "fullName": null,
+    "lat": -11.15424,
+    "lng": -42.08146,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324322,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Chorrochó",
+    "fullName": null,
+    "lat": -9.3055,
+    "lng": -39.15652,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320808,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cícero Dantas",
+    "fullName": null,
+    "lat": -10.53881,
+    "lng": -38.42136,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320809,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cipó",
+    "fullName": null,
+    "lat": -11.11045,
+    "lng": -38.50952,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320810,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Coaraci",
+    "fullName": null,
+    "lat": -14.64492,
+    "lng": -39.59376,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320811,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cocos",
+    "fullName": null,
+    "lat": -14.59438,
+    "lng": -45.2796,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320812,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Conceição da Feira",
+    "fullName": null,
+    "lat": -12.50687,
+    "lng": -38.99467,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320813,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Conceição do Almeida",
+    "fullName": null,
+    "lat": -12.85503,
+    "lng": -39.24093,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320814,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Conceição do Coité",
+    "fullName": null,
+    "lat": -11.63206,
+    "lng": -39.19112,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320815,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Conceição do Jacuípe",
+    "fullName": null,
+    "lat": -12.33229,
+    "lng": -38.75736,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320816,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Conde",
+    "fullName": null,
+    "lat": -11.80333,
+    "lng": -37.6482,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320817,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Condeúba",
+    "fullName": null,
+    "lat": -14.93275,
+    "lng": -42.00693,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320818,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Contendas do Sincorá",
+    "fullName": null,
+    "lat": -13.79599,
+    "lng": -41.05002,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320819,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Coração de Maria",
+    "fullName": null,
+    "lat": -12.24274,
+    "lng": -38.78243,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320820,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cordeiros",
+    "fullName": null,
+    "lat": -14.99846,
+    "lng": -41.89749,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320821,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Coribe",
+    "fullName": null,
+    "lat": -13.72337,
+    "lng": -44.43538,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320822,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Coronel João Sá",
+    "fullName": null,
+    "lat": -10.38878,
+    "lng": -37.94281,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320823,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Correntina",
+    "fullName": null,
+    "lat": -13.28985,
+    "lng": -45.1319,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320824,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cotegipe",
+    "fullName": null,
+    "lat": -11.58844,
+    "lng": -44.17,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320825,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cravolândia",
+    "fullName": null,
+    "lat": -13.47018,
+    "lng": -39.75493,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320826,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Crisópolis",
+    "fullName": null,
+    "lat": -11.45532,
+    "lng": -38.13933,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320827,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cristópolis",
+    "fullName": null,
+    "lat": -12.21789,
+    "lng": -44.24987,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320828,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Cruz das Almas",
+    "fullName": null,
+    "lat": -12.67027,
+    "lng": -39.11439,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320829,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Curaçá",
+    "fullName": null,
+    "lat": -9.13458,
+    "lng": -39.66849,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320830,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Dário Meira",
+    "fullName": null,
+    "lat": -14.4234,
+    "lng": -39.95935,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319075,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Dias d'Ávila",
+    "fullName": null,
+    "lat": -12.60625,
+    "lng": -38.33717,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319076,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Dom Basílio",
+    "fullName": null,
+    "lat": -13.79717,
+    "lng": -41.70877,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320831,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Dom Macedo Costa",
+    "fullName": null,
+    "lat": -12.93379,
+    "lng": -39.14621,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320832,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Elísio Medrado",
+    "fullName": null,
+    "lat": -12.95431,
+    "lng": -39.50579,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320833,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Encruzilhada",
+    "fullName": null,
+    "lat": -15.56839,
+    "lng": -40.90789,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320834,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Entre Rios",
+    "fullName": null,
+    "lat": -12.06972,
+    "lng": -38.0299,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320726,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Érico Cardoso",
+    "fullName": null,
+    "lat": -13.43695,
+    "lng": -42.10325,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320835,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Esplanada",
+    "fullName": null,
+    "lat": -11.95469,
+    "lng": -37.89356,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320836,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Euclides da Cunha",
+    "fullName": null,
+    "lat": -10.40511,
+    "lng": -39.03374,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320837,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Eunápolis",
+    "fullName": null,
+    "lat": -16.31219,
+    "lng": -39.67022,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320838,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Fátima",
+    "fullName": null,
+    "lat": -10.546,
+    "lng": -38.22367,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320839,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Feira da Mata",
+    "fullName": null,
+    "lat": -14.13203,
+    "lng": -44.25281,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320840,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Feira de Santana",
+    "fullName": null,
+    "lat": -12.23366,
+    "lng": -39.06563,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320841,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Filadélfia",
+    "fullName": null,
+    "lat": -10.76635,
+    "lng": -40.20555,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320842,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Firmino Alves",
+    "fullName": null,
+    "lat": -14.9136,
+    "lng": -39.91192,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320843,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Floresta Azul",
+    "fullName": null,
+    "lat": -14.8445,
+    "lng": -39.75503,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320844,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Formosa do Rio Preto",
+    "fullName": null,
+    "lat": -10.88861,
+    "lng": -45.91214,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320845,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Gandu",
+    "fullName": null,
+    "lat": -13.81558,
+    "lng": -39.44745,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320846,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Gavião",
+    "fullName": null,
+    "lat": -11.48891,
+    "lng": -39.77412,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320847,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Gentio do Ouro",
+    "fullName": null,
+    "lat": -11.36279,
+    "lng": -42.54827,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324224,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Glória",
+    "fullName": null,
+    "lat": -9.11097,
+    "lng": -38.40655,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320848,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Gongogi",
+    "fullName": null,
+    "lat": -14.29995,
+    "lng": -39.60138,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320849,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Governador Mangabeira",
+    "fullName": null,
+    "lat": -12.57719,
+    "lng": -39.03115,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320850,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Guajeru",
+    "fullName": null,
+    "lat": -14.57881,
+    "lng": -42.03986,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320851,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Guanambi",
+    "fullName": null,
+    "lat": -14.13304,
+    "lng": -42.82402,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320852,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Guaratinga",
+    "fullName": null,
+    "lat": -16.56987,
+    "lng": -39.97821,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320853,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Heliópolis",
+    "fullName": null,
+    "lat": -10.72863,
+    "lng": -38.2549,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319077,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Iaçu",
+    "fullName": null,
+    "lat": -12.7698,
+    "lng": -40.18337,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320854,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibiassucê",
+    "fullName": null,
+    "lat": -14.20285,
+    "lng": -42.30214,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320855,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibicaraí",
+    "fullName": null,
+    "lat": -14.87438,
+    "lng": -39.55979,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320856,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibicoara",
+    "fullName": null,
+    "lat": -13.37664,
+    "lng": -41.34081,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320857,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibicuí",
+    "fullName": null,
+    "lat": -14.6097,
+    "lng": -39.85568,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320858,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibipeba",
+    "fullName": null,
+    "lat": -11.49784,
+    "lng": -42.19079,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320859,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibipitanga",
+    "fullName": null,
+    "lat": -12.88655,
+    "lng": -42.37115,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320860,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibiquera",
+    "fullName": null,
+    "lat": -12.57265,
+    "lng": -40.84158,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320861,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibirapitanga",
+    "fullName": null,
+    "lat": -14.05893,
+    "lng": -39.40815,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320862,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibirapuã",
+    "fullName": null,
+    "lat": -17.75567,
+    "lng": -39.97365,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320863,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibirataia",
+    "fullName": null,
+    "lat": -13.97288,
+    "lng": -39.63714,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320864,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibitiara",
+    "fullName": null,
+    "lat": -12.56582,
+    "lng": -42.3899,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320865,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibititá",
+    "fullName": null,
+    "lat": -11.69354,
+    "lng": -41.84148,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320866,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ibotirama",
+    "fullName": null,
+    "lat": -11.88616,
+    "lng": -43.25289,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320867,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ichu",
+    "fullName": null,
+    "lat": -11.70344,
+    "lng": -39.18722,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320868,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Igaporã",
+    "fullName": null,
+    "lat": -13.89064,
+    "lng": -42.76046,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320869,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Igrapiúna",
+    "fullName": null,
+    "lat": -13.85607,
+    "lng": -39.19363,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320870,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Iguaí",
+    "fullName": null,
+    "lat": -14.61816,
+    "lng": -40.06165,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320871,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ilhéus",
+    "fullName": null,
+    "lat": -14.75939,
+    "lng": -39.21795,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320872,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Inhambupe",
+    "fullName": null,
+    "lat": -11.7966,
+    "lng": -38.37037,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320873,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ipecaetá",
+    "fullName": null,
+    "lat": -12.33777,
+    "lng": -39.32835,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320874,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ipiaú",
+    "fullName": null,
+    "lat": -14.05705,
+    "lng": -39.72546,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320875,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ipirá",
+    "fullName": null,
+    "lat": -12.27411,
+    "lng": -39.91639,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320876,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ipupiara",
+    "fullName": null,
+    "lat": -11.76946,
+    "lng": -42.43301,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320877,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Irajuba",
+    "fullName": null,
+    "lat": -13.17999,
+    "lng": -39.9953,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320878,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Iramaia",
+    "fullName": null,
+    "lat": -13.54627,
+    "lng": -40.82834,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320879,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Iraquara",
+    "fullName": null,
+    "lat": -12.28624,
+    "lng": -41.59153,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320880,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Irará",
+    "fullName": null,
+    "lat": -12.04896,
+    "lng": -38.7362,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320881,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Irecê",
+    "fullName": null,
+    "lat": -11.30321,
+    "lng": -41.83445,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320882,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itabela",
+    "fullName": null,
+    "lat": -16.71635,
+    "lng": -39.57325,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320883,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaberaba",
+    "fullName": null,
+    "lat": -12.45097,
+    "lng": -40.20305,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320884,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itabuna",
+    "fullName": null,
+    "lat": -14.84966,
+    "lng": -39.32572,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320885,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itacaré",
+    "fullName": null,
+    "lat": -14.36948,
+    "lng": -39.12515,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320886,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaeté",
+    "fullName": null,
+    "lat": -13.08598,
+    "lng": -41.02566,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320887,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itagi",
+    "fullName": null,
+    "lat": -14.19701,
+    "lng": -40.033,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320888,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itagibá",
+    "fullName": null,
+    "lat": -14.2464,
+    "lng": -39.84969,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320889,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itagimirim",
+    "fullName": null,
+    "lat": -16.13473,
+    "lng": -39.81646,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320890,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaguaçu da Bahia",
+    "fullName": null,
+    "lat": -10.64259,
+    "lng": -42.21083,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320891,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaju do Colônia",
+    "fullName": null,
+    "lat": -15.15505,
+    "lng": -39.71598,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320892,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itajuípe",
+    "fullName": null,
+    "lat": -14.69194,
+    "lng": -39.42921,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320893,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itamaraju",
+    "fullName": null,
+    "lat": -16.94519,
+    "lng": -39.81271,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320894,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itamari",
+    "fullName": null,
+    "lat": -13.7859,
+    "lng": -39.68416,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320895,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itambé",
+    "fullName": null,
+    "lat": -15.22477,
+    "lng": -40.49507,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320896,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itanagra",
+    "fullName": null,
+    "lat": -12.30982,
+    "lng": -38.11328,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320897,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itanhém",
+    "fullName": null,
+    "lat": -17.08113,
+    "lng": -40.361,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320898,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaparica",
+    "fullName": null,
+    "lat": -12.90598,
+    "lng": -38.66383,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320899,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itapé",
+    "fullName": null,
+    "lat": -14.91851,
+    "lng": -39.48637,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320900,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itapebi",
+    "fullName": null,
+    "lat": -15.88751,
+    "lng": -39.68792,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320901,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itapetinga",
+    "fullName": null,
+    "lat": -15.33408,
+    "lng": -40.08626,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324323,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itapicuru",
+    "fullName": null,
+    "lat": -11.18105,
+    "lng": -38.14995,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320902,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itapitanga",
+    "fullName": null,
+    "lat": -14.46369,
+    "lng": -39.62565,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320903,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itaquara",
+    "fullName": null,
+    "lat": -13.4472,
+    "lng": -39.9103,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320904,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itarantim",
+    "fullName": null,
+    "lat": -15.6518,
+    "lng": -40.0589,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320905,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itatim",
+    "fullName": null,
+    "lat": -12.62835,
+    "lng": -39.68234,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320906,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itiruçu",
+    "fullName": null,
+    "lat": -13.52088,
+    "lng": -40.16409,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320907,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itiúba",
+    "fullName": null,
+    "lat": -10.79357,
+    "lng": -39.80381,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320908,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Itororó",
+    "fullName": null,
+    "lat": -15.06721,
+    "lng": -40.01943,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320909,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ituaçu",
+    "fullName": null,
+    "lat": -13.90363,
+    "lng": -41.39694,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319078,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ituberá",
+    "fullName": null,
+    "lat": -13.74945,
+    "lng": -39.15366,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320910,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Iuiu",
+    "fullName": null,
+    "lat": -14.65015,
+    "lng": -43.6487,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320911,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jaborandi",
+    "fullName": null,
+    "lat": -14.0385,
+    "lng": -45.18408,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320912,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jacaraci",
+    "fullName": null,
+    "lat": -14.83523,
+    "lng": -42.40112,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320913,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jacobina",
+    "fullName": null,
+    "lat": -11.13905,
+    "lng": -40.55943,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320914,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jaguaquara",
+    "fullName": null,
+    "lat": -13.59565,
+    "lng": -39.92934,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320915,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jaguarari",
+    "fullName": null,
+    "lat": -10.14804,
+    "lng": -40.10431,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320916,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jaguaripe",
+    "fullName": null,
+    "lat": -13.12834,
+    "lng": -39.01339,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320917,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jandaíra",
+    "fullName": null,
+    "lat": -11.61099,
+    "lng": -37.61845,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320918,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jequié",
+    "fullName": null,
+    "lat": -13.92298,
+    "lng": -40.08374,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320919,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jeremoabo",
+    "fullName": null,
+    "lat": -9.92088,
+    "lng": -38.72629,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320920,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jiquiriçá",
+    "fullName": null,
+    "lat": -13.31081,
+    "lng": -39.58091,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320921,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jitaúna",
+    "fullName": null,
+    "lat": -13.979,
+    "lng": -39.90056,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320922,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "João Dourado",
+    "fullName": null,
+    "lat": -11.14883,
+    "lng": -41.40438,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320923,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Juazeiro",
+    "fullName": null,
+    "lat": -9.39679,
+    "lng": -40.23381,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320924,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jucuruçu",
+    "fullName": null,
+    "lat": -16.84832,
+    "lng": -40.08414,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320925,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jussara",
+    "fullName": null,
+    "lat": -10.96408,
+    "lng": -41.85572,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320926,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jussari",
+    "fullName": null,
+    "lat": -15.15451,
+    "lng": -39.51559,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320927,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Jussiape",
+    "fullName": null,
+    "lat": -13.4881,
+    "lng": -41.62335,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320928,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lafaiete Coutinho",
+    "fullName": null,
+    "lat": -13.62029,
+    "lng": -40.20444,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319079,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lagoa Real",
+    "fullName": null,
+    "lat": -14.10985,
+    "lng": -42.21697,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320929,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Laje",
+    "fullName": null,
+    "lat": -13.18464,
+    "lng": -39.29751,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320930,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lajedão",
+    "fullName": null,
+    "lat": -17.57112,
+    "lng": -40.31123,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320931,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lajedinho",
+    "fullName": null,
+    "lat": -12.42698,
+    "lng": -41.15097,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320932,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lajedo do Tabocal",
+    "fullName": null,
+    "lat": -13.37125,
+    "lng": -40.23004,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320933,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lamarão",
+    "fullName": null,
+    "lat": -11.77625,
+    "lng": -38.90341,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320934,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lapão",
+    "fullName": null,
+    "lat": -11.61583,
+    "lng": -41.70516,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320935,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lauro de Freitas",
+    "fullName": null,
+    "lat": -12.84245,
+    "lng": -38.32726,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320936,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Lençóis",
+    "fullName": null,
+    "lat": -12.47259,
+    "lng": -41.30815,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320937,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Licínio de Almeida",
+    "fullName": null,
+    "lat": -14.70644,
+    "lng": -42.50442,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320938,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Livramento de Nossa Senhora",
+    "fullName": null,
+    "lat": -13.8068,
+    "lng": -41.99709,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324151,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Luís Eduardo Magalhães",
+    "fullName": null,
+    "lat": -12.23208,
+    "lng": -46.1146,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320939,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Macajuba",
+    "fullName": null,
+    "lat": -12.14371,
+    "lng": -40.30199,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320940,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Macarani",
+    "fullName": null,
+    "lat": -15.557,
+    "lng": -40.39049,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320941,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Macaúbas",
+    "fullName": null,
+    "lat": -13.19169,
+    "lng": -42.68328,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324324,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Macururé",
+    "fullName": null,
+    "lat": -9.28091,
+    "lng": -38.91463,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320942,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Madre de Deus",
+    "fullName": null,
+    "lat": -12.73806,
+    "lng": -38.62539,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320943,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Maetinga",
+    "fullName": null,
+    "lat": -14.6653,
+    "lng": -41.49055,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320944,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Maiquinique",
+    "fullName": null,
+    "lat": -15.69897,
+    "lng": -40.26411,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320945,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mairi",
+    "fullName": null,
+    "lat": -11.63488,
+    "lng": -40.21337,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320946,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Malhada",
+    "fullName": null,
+    "lat": -14.19145,
+    "lng": -43.63151,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320947,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Malhada de Pedras",
+    "fullName": null,
+    "lat": -14.27766,
+    "lng": -41.89207,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320948,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Manoel Vitorino",
+    "fullName": null,
+    "lat": -14.00487,
+    "lng": -40.48008,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320949,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mansidão",
+    "fullName": null,
+    "lat": -11.2078,
+    "lng": -44.14109,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320950,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Maracás",
+    "fullName": null,
+    "lat": -13.65007,
+    "lng": -40.61986,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320951,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Maragogipe",
+    "fullName": null,
+    "lat": -12.83511,
+    "lng": -38.94024,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320952,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Maraú",
+    "fullName": null,
+    "lat": -14.15408,
+    "lng": -39.14738,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320953,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Marcionílio Souza",
+    "fullName": null,
+    "lat": -13.11581,
+    "lng": -40.62915,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320954,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mascote",
+    "fullName": null,
+    "lat": -15.64044,
+    "lng": -39.42798,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320955,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mata de São João",
+    "fullName": null,
+    "lat": -12.48239,
+    "lng": -38.1555,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320956,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Matina",
+    "fullName": null,
+    "lat": -13.89342,
+    "lng": -42.98279,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320957,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Medeiros Neto",
+    "fullName": null,
+    "lat": -17.39019,
+    "lng": -40.27568,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320958,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Miguel Calmon",
+    "fullName": null,
+    "lat": -11.5255,
+    "lng": -40.579,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324259,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Milagres",
+    "fullName": null,
+    "lat": -12.95591,
+    "lng": -39.81783,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320959,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mirangaba",
+    "fullName": null,
+    "lat": -10.80362,
+    "lng": -40.67056,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320960,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mirante",
+    "fullName": null,
+    "lat": -14.18613,
+    "lng": -40.7831,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320961,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Monte Santo",
+    "fullName": null,
+    "lat": -10.26646,
+    "lng": -39.56837,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320962,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Morpará",
+    "fullName": null,
+    "lat": -11.75265,
+    "lng": -43.09133,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320963,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Morro do Chapéu",
+    "fullName": null,
+    "lat": -11.25413,
+    "lng": -41.36364,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320964,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mortugaba",
+    "fullName": null,
+    "lat": -14.9848,
+    "lng": -42.40555,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320965,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mucugê",
+    "fullName": null,
+    "lat": -13.14869,
+    "lng": -41.51742,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320966,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mucuri",
+    "fullName": null,
+    "lat": -18.00576,
+    "lng": -39.79813,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320967,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mulungu do Morro",
+    "fullName": null,
+    "lat": -12.00797,
+    "lng": -41.42582,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320968,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mundo Novo",
+    "fullName": null,
+    "lat": -11.9193,
+    "lng": -40.5231,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320969,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Muniz Ferreira",
+    "fullName": null,
+    "lat": -13.00146,
+    "lng": -39.10601,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319080,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Muquém do São Francisco",
+    "fullName": null,
+    "lat": -12.19886,
+    "lng": -43.51311,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320970,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Muritiba",
+    "fullName": null,
+    "lat": -12.63455,
+    "lng": -39.06653,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320971,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Mutuípe",
+    "fullName": null,
+    "lat": -13.33276,
+    "lng": -39.50849,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320972,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nazaré",
+    "fullName": null,
+    "lat": -12.95002,
+    "lng": -38.97869,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319081,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nilo Peçanha",
+    "fullName": null,
+    "lat": -13.64812,
+    "lng": -39.23876,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319082,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nordestina",
+    "fullName": null,
+    "lat": -10.89685,
+    "lng": -39.45141,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320973,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Canaã",
+    "fullName": null,
+    "lat": -14.84621,
+    "lng": -40.17826,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320974,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Fátima",
+    "fullName": null,
+    "lat": -11.56608,
+    "lng": -39.58609,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320975,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Ibiá",
+    "fullName": null,
+    "lat": -13.8623,
+    "lng": -39.58877,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320976,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Itarana",
+    "fullName": null,
+    "lat": -13.04028,
+    "lng": -40.00784,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320977,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Redenção",
+    "fullName": null,
+    "lat": -12.87403,
+    "lng": -41.12335,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320978,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Soure",
+    "fullName": null,
+    "lat": -11.31894,
+    "lng": -38.46213,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319083,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Nova Viçosa",
+    "fullName": null,
+    "lat": -17.87451,
+    "lng": -39.66519,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320979,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Novo Horizonte",
+    "fullName": null,
+    "lat": -12.87886,
+    "lng": -42.13834,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320980,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Novo Triunfo",
+    "fullName": null,
+    "lat": -10.34787,
+    "lng": -38.40211,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320981,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Olindina",
+    "fullName": null,
+    "lat": -11.37236,
+    "lng": -38.38589,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319084,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Oliveira dos Brejinhos",
+    "fullName": null,
+    "lat": -12.30626,
+    "lng": -42.69628,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320982,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ouriçangas",
+    "fullName": null,
+    "lat": -12.00343,
+    "lng": -38.65208,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320983,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ourolândia",
+    "fullName": null,
+    "lat": -10.83804,
+    "lng": -41.02839,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320984,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Palmas de Monte Alto",
+    "fullName": null,
+    "lat": -14.17381,
+    "lng": -43.21985,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320985,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Palmeiras",
+    "fullName": null,
+    "lat": -12.51485,
+    "lng": -41.57707,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320986,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Paramirim",
+    "fullName": null,
+    "lat": -13.51428,
+    "lng": -42.23117,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320987,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Paratinga",
+    "fullName": null,
+    "lat": -12.73564,
+    "lng": -43.06975,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320988,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Paripiranga",
+    "fullName": null,
+    "lat": -10.58278,
+    "lng": -37.88601,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320989,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pau Brasil",
+    "fullName": null,
+    "lat": -15.44321,
+    "lng": -39.68972,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324325,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Paulo Afonso",
+    "fullName": null,
+    "lat": -9.55234,
+    "lng": -38.16905,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320990,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pé de Serra",
+    "fullName": null,
+    "lat": -11.88974,
+    "lng": -39.61937,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320991,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pedrão",
+    "fullName": null,
+    "lat": -12.13311,
+    "lng": -38.60621,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320992,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pedro Alexandre",
+    "fullName": null,
+    "lat": -9.97693,
+    "lng": -37.91489,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320993,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Piatã",
+    "fullName": null,
+    "lat": -13.12099,
+    "lng": -41.89093,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320994,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pilão Arcado",
+    "fullName": null,
+    "lat": -10.00201,
+    "lng": -43.39371,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320995,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pindaí",
+    "fullName": null,
+    "lat": -14.52319,
+    "lng": -42.67822,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320996,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pindobaçu",
+    "fullName": null,
+    "lat": -10.73848,
+    "lng": -40.3274,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320997,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pintadas",
+    "fullName": null,
+    "lat": -11.92312,
+    "lng": -39.97782,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320998,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Piraí do Norte",
+    "fullName": null,
+    "lat": -13.84971,
+    "lng": -39.39208,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320999,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Piripá",
+    "fullName": null,
+    "lat": -14.92617,
+    "lng": -41.75304,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321000,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Piritiba",
+    "fullName": null,
+    "lat": -11.62849,
+    "lng": -40.51495,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321001,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Planaltino",
+    "fullName": null,
+    "lat": -13.27349,
+    "lng": -40.22316,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321002,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Planalto",
+    "fullName": null,
+    "lat": -14.72862,
+    "lng": -40.38025,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319085,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Poções",
+    "fullName": null,
+    "lat": -14.58293,
+    "lng": -40.27619,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321003,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Pojuca",
+    "fullName": null,
+    "lat": -12.36588,
+    "lng": -38.24332,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321004,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ponto Novo",
+    "fullName": null,
+    "lat": -10.85472,
+    "lng": -40.16197,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321005,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Porto Seguro",
+    "fullName": null,
+    "lat": -16.67179,
+    "lng": -39.26418,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321006,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Potiraguá",
+    "fullName": null,
+    "lat": -15.70117,
+    "lng": -39.76689,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324230,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Prado",
+    "fullName": null,
+    "lat": -17.31655,
+    "lng": -39.23355,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321007,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Presidente Dutra",
+    "fullName": null,
+    "lat": -11.29503,
+    "lng": -41.98563,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321008,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Presidente Jânio Quadros",
+    "fullName": null,
+    "lat": -14.82942,
+    "lng": -41.78616,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319086,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Presidente Tancredo Neves",
+    "fullName": null,
+    "lat": -13.46145,
+    "lng": -39.42126,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321009,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Queimadas",
+    "fullName": null,
+    "lat": -11.05908,
+    "lng": -39.76379,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321010,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Quijingue",
+    "fullName": null,
+    "lat": -10.78803,
+    "lng": -39.03389,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321011,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Quixabeira",
+    "fullName": null,
+    "lat": -11.41345,
+    "lng": -40.13302,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321012,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rafael Jambeiro",
+    "fullName": null,
+    "lat": -12.50087,
+    "lng": -39.50915,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321013,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Remanso",
+    "fullName": null,
+    "lat": -9.54115,
+    "lng": -42.36956,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321014,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Retirolândia",
+    "fullName": null,
+    "lat": -11.47733,
+    "lng": -39.40649,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321015,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Riachão das Neves",
+    "fullName": null,
+    "lat": -11.7748,
+    "lng": -45.12504,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6321016,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Riachão do Jacuípe",
+    "fullName": null,
+    "lat": -11.84558,
+    "lng": -39.38105,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321017,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Riacho de Santana",
+    "fullName": null,
+    "lat": -13.8429,
+    "lng": -43.17474,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321018,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ribeira do Amparo",
+    "fullName": null,
+    "lat": -11.00558,
+    "lng": -38.38732,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321019,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ribeira do Pombal",
+    "fullName": null,
+    "lat": -10.63309,
+    "lng": -38.50117,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321020,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ribeirão do Largo",
+    "fullName": null,
+    "lat": -15.38558,
+    "lng": -40.65886,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321021,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rio de Contas",
+    "fullName": null,
+    "lat": -13.62169,
+    "lng": -41.68702,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321022,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rio do Antônio",
+    "fullName": null,
+    "lat": -14.22674,
+    "lng": -42.16613,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321023,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rio do Pires",
+    "fullName": null,
+    "lat": -13.11134,
+    "lng": -42.17747,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324326,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rio Real",
+    "fullName": null,
+    "lat": -11.52997,
+    "lng": -37.90394,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324327,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Rodelas",
+    "fullName": null,
+    "lat": -9.21767,
+    "lng": -38.64607,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321024,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ruy Barbosa",
+    "fullName": null,
+    "lat": -12.2465,
+    "lng": -40.32675,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321025,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Salinas da Margarida",
+    "fullName": null,
+    "lat": -12.90667,
+    "lng": -38.78043,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321026,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Salvador",
+    "fullName": null,
+    "lat": -12.97177,
+    "lng": -38.50811,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321027,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Bárbara",
+    "fullName": null,
+    "lat": -11.9177,
+    "lng": -38.99206,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321028,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Brígida",
+    "fullName": null,
+    "lat": -9.67904,
+    "lng": -38.11371,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6321029,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Cruz Cabrália",
+    "fullName": null,
+    "lat": -16.27846,
+    "lng": -39.17262,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321030,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Cruz da Vitória",
+    "fullName": null,
+    "lat": -14.90311,
+    "lng": -39.79148,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321031,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Inês",
+    "fullName": null,
+    "lat": -13.26617,
+    "lng": -39.8331,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321033,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Luzia",
+    "fullName": null,
+    "lat": -15.46388,
+    "lng": -39.27671,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319087,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Maria da Vitória",
+    "fullName": null,
+    "lat": -13.26141,
+    "lng": -44.378,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321035,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Rita de Cássia",
+    "fullName": null,
+    "lat": -11.02715,
+    "lng": -44.59582,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6321036,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santa Terezinha",
+    "fullName": null,
+    "lat": -12.6712,
+    "lng": -39.55082,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321032,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santaluz",
+    "fullName": null,
+    "lat": -11.12791,
+    "lng": -39.5086,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319088,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santana",
+    "fullName": null,
+    "lat": -13.0894,
+    "lng": -43.84757,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321034,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santanópolis",
+    "fullName": null,
+    "lat": -12.02416,
+    "lng": -38.88007,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321037,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santo Amaro",
+    "fullName": null,
+    "lat": -12.61369,
+    "lng": -38.77427,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321038,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santo Antônio de Jesus",
+    "fullName": null,
+    "lat": -13.00796,
+    "lng": -39.22679,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321039,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Santo Estêvão",
+    "fullName": null,
+    "lat": -12.46423,
+    "lng": -39.26814,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321040,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Desidério",
+    "fullName": null,
+    "lat": -12.89267,
+    "lng": -45.56379,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6321041,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Domingos",
+    "fullName": null,
+    "lat": -11.48464,
+    "lng": -39.59916,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321044,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Felipe",
+    "fullName": null,
+    "lat": -12.86533,
+    "lng": -39.09624,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321042,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Félix",
+    "fullName": null,
+    "lat": -12.67807,
+    "lng": -38.99979,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321043,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Félix do Coribe",
+    "fullName": null,
+    "lat": -13.41471,
+    "lng": -43.98138,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321045,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Francisco do Conde",
+    "fullName": null,
+    "lat": -12.64556,
+    "lng": -38.63335,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321046,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Gabriel",
+    "fullName": null,
+    "lat": -10.95576,
+    "lng": -41.55411,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321047,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Gonçalo dos Campos",
+    "fullName": null,
+    "lat": -12.40845,
+    "lng": -38.97766,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321048,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São José da Vitória",
+    "fullName": null,
+    "lat": -15.07185,
+    "lng": -39.35016,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321049,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São José do Jacuípe",
+    "fullName": null,
+    "lat": -11.46833,
+    "lng": -39.90377,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321050,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Miguel das Matas",
+    "fullName": null,
+    "lat": -13.04308,
+    "lng": -39.43403,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321051,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "São Sebastião do Passé",
+    "fullName": null,
+    "lat": -12.50362,
+    "lng": -38.45167,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321052,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sapeaçu",
+    "fullName": null,
+    "lat": -12.772,
+    "lng": -39.23848,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321053,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sátiro Dias",
+    "fullName": null,
+    "lat": -11.63166,
+    "lng": -38.48886,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321054,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Saubara",
+    "fullName": null,
+    "lat": -12.7662,
+    "lng": -38.80174,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321055,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Saúde",
+    "fullName": null,
+    "lat": -10.84463,
+    "lng": -40.3751,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321056,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Seabra",
+    "fullName": null,
+    "lat": -12.38298,
+    "lng": -41.91675,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321057,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sebastião Laranjeiras",
+    "fullName": null,
+    "lat": -14.56848,
+    "lng": -43.13729,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321058,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Senhor do Bonfim",
+    "fullName": null,
+    "lat": -10.42875,
+    "lng": -40.10122,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321060,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sento Sé",
+    "fullName": null,
+    "lat": -10.21251,
+    "lng": -41.57947,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321059,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Serra do Ramalho",
+    "fullName": null,
+    "lat": -13.41101,
+    "lng": -43.77849,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321061,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Serra Dourada",
+    "fullName": null,
+    "lat": -12.91499,
+    "lng": -43.796,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321062,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Serra Preta",
+    "fullName": null,
+    "lat": -12.06913,
+    "lng": -39.3005,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319178,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Serrinha",
+    "fullName": null,
+    "lat": -11.59947,
+    "lng": -39.03871,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321063,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Serrolândia",
+    "fullName": null,
+    "lat": -11.54018,
+    "lng": -40.24783,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321064,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Simões Filho",
+    "fullName": null,
+    "lat": -12.77834,
+    "lng": -38.38225,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321065,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sítio do Mato",
+    "fullName": null,
+    "lat": -13.00385,
+    "lng": -43.54537,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321066,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sítio do Quinto",
+    "fullName": null,
+    "lat": -10.34321,
+    "lng": -38.07346,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6321067,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Sobradinho",
+    "fullName": null,
+    "lat": -9.59037,
+    "lng": -40.77516,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324199,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Souto Soares",
+    "fullName": null,
+    "lat": -11.94603,
+    "lng": -41.94815,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321068,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tabocas do Brejo Velho",
+    "fullName": null,
+    "lat": -12.36943,
+    "lng": -44.08362,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321069,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tanhaçu",
+    "fullName": null,
+    "lat": -14.0701,
+    "lng": -41.13506,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321070,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tanque Novo",
+    "fullName": null,
+    "lat": -13.58365,
+    "lng": -42.54311,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321071,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tanquinho",
+    "fullName": null,
+    "lat": -11.95674,
+    "lng": -39.09608,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321072,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Taperoá",
+    "fullName": null,
+    "lat": -13.56959,
+    "lng": -39.2202,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321073,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tapiramutá",
+    "fullName": null,
+    "lat": -11.94733,
+    "lng": -40.75692,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321074,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Teixeira de Freitas",
+    "fullName": null,
+    "lat": -17.42402,
+    "lng": -39.78697,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321075,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Teodoro Sampaio",
+    "fullName": null,
+    "lat": -12.26547,
+    "lng": -38.61211,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321076,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Teofilândia",
+    "fullName": null,
+    "lat": -11.53412,
+    "lng": -38.94519,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321077,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Teolândia",
+    "fullName": null,
+    "lat": -13.57031,
+    "lng": -39.46492,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321078,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Terra Nova",
+    "fullName": null,
+    "lat": -12.38537,
+    "lng": -38.61874,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319089,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tremedal",
+    "fullName": null,
+    "lat": -14.9008,
+    "lng": -41.32339,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321079,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Tucano",
+    "fullName": null,
+    "lat": -10.99427,
+    "lng": -38.86249,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321080,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Uauá",
+    "fullName": null,
+    "lat": -9.84143,
+    "lng": -39.23025,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321081,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ubaíra",
+    "fullName": null,
+    "lat": -13.287,
+    "lng": -39.69347,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321082,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ubaitaba",
+    "fullName": null,
+    "lat": -14.27052,
+    "lng": -39.38078,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321083,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Ubatã",
+    "fullName": null,
+    "lat": -14.05629,
+    "lng": -39.52278,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321084,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Uibaí",
+    "fullName": null,
+    "lat": -11.3906,
+    "lng": -42.15615,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319090,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Umburanas",
+    "fullName": null,
+    "lat": -10.5086,
+    "lng": -41.17419,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319091,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Una",
+    "fullName": null,
+    "lat": -15.16451,
+    "lng": -39.20568,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321085,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Urandi",
+    "fullName": null,
+    "lat": -14.734,
+    "lng": -42.66544,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321086,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Uruçuca",
+    "fullName": null,
+    "lat": -14.4842,
+    "lng": -39.1686,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321087,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Utinga",
+    "fullName": null,
+    "lat": -12.04274,
+    "lng": -41.19475,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321088,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Valença",
+    "fullName": null,
+    "lat": -13.37213,
+    "lng": -39.24002,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321089,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Valente",
+    "fullName": null,
+    "lat": -11.43393,
+    "lng": -39.48472,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321090,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Várzea da Roça",
+    "fullName": null,
+    "lat": -11.53905,
+    "lng": -40.07647,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321091,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Várzea do Poço",
+    "fullName": null,
+    "lat": -11.53021,
+    "lng": -40.30918,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321092,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Várzea Nova",
+    "fullName": null,
+    "lat": -11.05523,
+    "lng": -41.2323,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321093,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Varzedo",
+    "fullName": null,
+    "lat": -12.99662,
+    "lng": -39.37091,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321094,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Vera Cruz",
+    "fullName": null,
+    "lat": -13.0255,
+    "lng": -38.70906,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321095,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Vereda",
+    "fullName": null,
+    "lat": -17.14998,
+    "lng": -40.04873,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321096,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Vitória da Conquista",
+    "fullName": null,
+    "lat": -15.27953,
+    "lng": -40.96575,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321097,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Wagner",
+    "fullName": null,
+    "lat": -12.2593,
+    "lng": -41.22095,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321098,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Wanderley",
+    "fullName": null,
+    "lat": -11.765,
+    "lng": -43.99378,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321099,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Wenceslau Guimarães",
+    "fullName": null,
+    "lat": -13.61819,
+    "lng": -39.58092,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6321100,
+    "parentId": 3471168,
+    "country": "BR",
+    "name": "Xique-Xique",
+    "fullName": null,
+    "lat": -10.83393,
+    "lng": -42.5632,
+    "tz": "America/Bahia"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 6319493,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Amapá",
+    "fullName": null,
+    "lat": 1.85706,
+    "lng": -50.84374,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319494,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Calçoene",
+    "fullName": null,
+    "lat": 2.36098,
+    "lng": -51.45285,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319495,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Cutias",
+    "fullName": null,
+    "lat": 0.99713,
+    "lng": -50.52041,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324186,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Ferreira Gomes",
+    "fullName": null,
+    "lat": 0.91012,
+    "lng": -51.35442,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319496,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Itaubal",
+    "fullName": null,
+    "lat": 0.57732,
+    "lng": -50.67833,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324188,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Laranjal do Jari",
+    "fullName": null,
+    "lat": 0.93828,
+    "lng": -53.22949,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319498,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Macapá",
+    "fullName": null,
+    "lat": 0.58767,
+    "lng": -50.96274,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319499,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Mazagão",
+    "fullName": null,
+    "lat": 0.03993,
+    "lng": -52.11627,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319500,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Oiapoque",
+    "fullName": null,
+    "lat": 2.70795,
+    "lng": -52.16963,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324185,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Pedra Branca do Amapari",
+    "fullName": null,
+    "lat": 1.14843,
+    "lng": -52.40118,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324187,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Porto Grande",
+    "fullName": null,
+    "lat": 0.56553,
+    "lng": -51.71181,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319501,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Pracuúba",
+    "fullName": null,
+    "lat": 1.67076,
+    "lng": -51.2449,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319502,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Santana",
+    "fullName": null,
+    "lat": 0.18128,
+    "lng": -51.38835,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324184,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Serra do Navio",
+    "fullName": null,
+    "lat": 1.65803,
+    "lng": -52.28195,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319503,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Tartarugalzinho",
+    "fullName": null,
+    "lat": 1.263,
+    "lng": -51.10973,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319497,
+    "parentId": 3407762,
+    "country": "BR",
+    "name": "Vitória do Jari",
+    "fullName": null,
+    "lat": -0.95653,
+    "lng": -52.03443,
+    "tz": "America/Belem"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 6942866,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Calakmul",
+    "fullName": null,
+    "lat": 18,
+    "lng": -89.75,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942857,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Calkiní",
+    "fullName": null,
+    "lat": 20.38583,
+    "lng": -89.98764,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942858,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Campeche",
+    "fullName": null,
+    "lat": 19.81839,
+    "lng": -90.53009,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942867,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Candelaria",
+    "fullName": null,
+    "lat": 18,
+    "lng": -90.75,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942859,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Carmen",
+    "fullName": null,
+    "lat": 18.63,
+    "lng": -91.83,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942860,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Champotón",
+    "fullName": null,
+    "lat": 19.35042,
+    "lng": -90.70991,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942865,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Escárcega",
+    "fullName": null,
+    "lat": 18.61404,
+    "lng": -90.7287,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942861,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Hecelchakán",
+    "fullName": null,
+    "lat": 20.16667,
+    "lng": -90.13333,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 8583595,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Hopelchén",
+    "fullName": null,
+    "lat": 19.57579,
+    "lng": -89.68745,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942863,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Palizada",
+    "fullName": null,
+    "lat": 18.25261,
+    "lng": -92.07779,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 6942864,
+    "parentId": 3531730,
+    "country": "MX",
+    "name": "Tenabo",
+    "fullName": null,
+    "lat": 19.83333,
+    "lng": -90,
+    "tz": "America/Merida"
+  }
+]

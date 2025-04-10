@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820831,
+    "parentId": 3440780,
+    "country": "UY",
+    "name": "Minas De Corrales",
+    "fullName": null,
+    "lat": -31.5103,
+    "lng": -55.49982,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820808,
+    "parentId": 3440780,
+    "country": "UY",
+    "name": "Tranqueras",
+    "fullName": null,
+    "lat": -31.21274,
+    "lng": -55.84563,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820830,
+    "parentId": 3440780,
+    "country": "UY",
+    "name": "Vichadero",
+    "fullName": null,
+    "lat": -31.79629,
+    "lng": -54.60219,
+    "tz": "America/Montevideo"
+  }
+]

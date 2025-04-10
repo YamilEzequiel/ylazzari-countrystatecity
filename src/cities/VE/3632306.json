@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3649500,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Alberto Adriani",
+    "fullName": "Municipio Alberto Adriani",
+    "lat": 8.60861,
+    "lng": -71.76556,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649249,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Andrés Bello",
+    "fullName": "Municipio Andrés Bello",
+    "lat": 8.83333,
+    "lng": -71.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131438,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Antonio Pinto Salinas",
+    "fullName": "Municipio Antonio Pinto Salinas",
+    "lat": 8.39613,
+    "lng": -71.6427,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129255,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Aricagua",
+    "fullName": "Municipio Aricagua",
+    "lat": 8.22343,
+    "lng": -71.13705,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648827,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Arzobispo Chacón",
+    "fullName": "Municipio Arzobispo Chacón",
+    "lat": 8.03333,
+    "lng": -71.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3647193,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Campo Elías",
+    "fullName": "Municipio Campo Elías",
+    "lat": 8.45,
+    "lng": -71.28333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131439,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Caracciolo Parra Olmedo",
+    "fullName": "Municipio Caracciolo Parra Olmedo",
+    "lat": 8.96681,
+    "lng": -71.27295,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131440,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Cardenal Quintero",
+    "fullName": "Municipio Cardenal Quintero",
+    "lat": 8.86158,
+    "lng": -70.69282,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129243,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Guaraque",
+    "fullName": "Municipio Guaraque",
+    "lat": 8.15347,
+    "lng": -71.73563,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129259,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Julio César Salas",
+    "fullName": "Municipio Julio César Salas",
+    "lat": 9.25934,
+    "lng": -70.95248,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639053,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Justo Briceño",
+    "fullName": "Municipio Justo Briceño",
+    "lat": 9,
+    "lng": -71,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3634755,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 8.33333,
+    "lng": -71.11667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632194,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": "Municipio Miranda",
+    "lat": 9,
+    "lng": -70.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129225,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Obispo Ramos de Lora",
+    "fullName": "Municipio Obispo Ramos de Lora",
+    "lat": 8.81924,
+    "lng": -71.46564,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129161,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Padre Noguera",
+    "fullName": "Municipio Padre Noguera",
+    "lat": 7.71412,
+    "lng": -71.46466,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129231,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Pueblo Llano",
+    "fullName": "Municipio Pueblo Llano",
+    "lat": 8.91485,
+    "lng": -70.65919,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629269,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Rangel",
+    "fullName": "Municipio Rangel",
+    "lat": 8.75,
+    "lng": -70.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629042,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Rivas Dávila",
+    "fullName": "Municipio Rivas Dávila",
+    "lat": 8.16667,
+    "lng": -71.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129182,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Santos Marquina",
+    "fullName": "Municipio Santos Marquina",
+    "lat": 8.6311,
+    "lng": -71.07843,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626662,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 8.58333,
+    "lng": -71.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626043,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Tovar",
+    "fullName": "Municipio Tovar",
+    "lat": 8.36667,
+    "lng": -71.7,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129236,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Tulio Febres Cordero",
+    "fullName": "Municipio Tulio Febres Cordero",
+    "lat": 9.14176,
+    "lng": -71.0912,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129215,
+    "parentId": 3632306,
+    "country": "VE",
+    "name": "Zea",
+    "fullName": "Municipio Zea",
+    "lat": 8.37628,
+    "lng": -71.78185,
+    "tz": "America/Caracas"
+  }
+]

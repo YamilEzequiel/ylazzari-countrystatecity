@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2521883,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Almería",
+    "fullName": null,
+    "lat": 37.16667,
+    "lng": -2.33333,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2520597,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Cádiz",
+    "fullName": "Provincia de Cádiz",
+    "lat": 36.5,
+    "lng": -5.75,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2519239,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Córdoba",
+    "fullName": "Province of Córdoba",
+    "lat": 38,
+    "lng": -4.83333,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2517115,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Granada",
+    "fullName": "Provincia de Granada",
+    "lat": 37.25,
+    "lng": -3.25,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2516547,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Huelva",
+    "fullName": "Provincia de Huelva",
+    "lat": 37.66667,
+    "lng": -7,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2516394,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Jaén",
+    "fullName": "Provincia de Jaén",
+    "lat": 38,
+    "lng": -3.5,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2514254,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Málaga",
+    "fullName": "Provincia de Málaga",
+    "lat": 36.8,
+    "lng": -4.75,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2510910,
+    "parentId": 2593109,
+    "country": "ES",
+    "name": "Sevilla",
+    "fullName": "Provincia de Sevilla",
+    "lat": 37.44701,
+    "lng": -5.69608,
+    "tz": "Europe/Madrid"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 8128836,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Albania",
+    "fullName": null,
+    "lat": 1.26325,
+    "lng": -75.95366,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688992,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Belén de Los Andaquies",
+    "fullName": null,
+    "lat": 1.41667,
+    "lng": -75.91667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172287,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Cartagena del Chairá",
+    "fullName": null,
+    "lat": 0.85246,
+    "lng": -74.6059,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172289,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Curillo",
+    "fullName": null,
+    "lat": 1.09861,
+    "lng": -76.0304,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6979260,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "El Doncello",
+    "fullName": null,
+    "lat": 1.7086,
+    "lng": -75.28588,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6979261,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "El Paujil",
+    "fullName": null,
+    "lat": 1.57085,
+    "lng": -75.31403,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682428,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Florencia",
+    "fullName": null,
+    "lat": 1.71619,
+    "lng": -75.59624,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674528,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "La Montañita",
+    "fullName": null,
+    "lat": 1.46389,
+    "lng": -75.30363,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6977691,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Milán",
+    "fullName": null,
+    "lat": 1.15382,
+    "lng": -75.54606,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172293,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Morelia",
+    "fullName": null,
+    "lat": 1.4823,
+    "lng": -75.72052,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6979259,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Puerto Rico",
+    "fullName": null,
+    "lat": 1.96779,
+    "lng": -75.03334,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172295,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "San José del Fragua",
+    "fullName": null,
+    "lat": 1.3078,
+    "lng": -76.16554,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668291,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "San Vicente del Caguán",
+    "fullName": null,
+    "lat": 1.578,
+    "lng": -74.51784,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172297,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Solano",
+    "fullName": null,
+    "lat": 0.22842,
+    "lng": -73.27597,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6792005,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Solita",
+    "fullName": null,
+    "lat": 0.96979,
+    "lng": -75.65532,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172351,
+    "parentId": 3687479,
+    "country": "CO",
+    "name": "Valparaíso",
+    "fullName": null,
+    "lat": 1.05706,
+    "lng": -75.75969,
+    "tz": "America/Bogota"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3436058,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Bella Vista",
+    "fullName": "Departamento de Bella Vista",
+    "lat": -28.5,
+    "lng": -58.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3436028,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Berón de Astrada",
+    "fullName": "Departamento de Berón de Astrada",
+    "lat": -27.5,
+    "lng": -57.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435698,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -27.5,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435269,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Concepción",
+    "fullName": "Departamento de Concepción",
+    "lat": -28.33333,
+    "lng": -58,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435101,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Curuzú Cuatiá",
+    "fullName": "Departamento de Curuzú Cuatiá",
+    "lat": -29.5,
+    "lng": -58.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3434152,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Empedrado",
+    "fullName": "Departamento de Empedrado",
+    "lat": -27.83333,
+    "lng": -58.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3434094,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Esquina",
+    "fullName": "Departamento de Esquina",
+    "lat": -30,
+    "lng": -59.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433819,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "General Alvear",
+    "fullName": "Departamento de General Alvear",
+    "lat": -28.83333,
+    "lng": -56.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433786,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "General Paz",
+    "fullName": "Departamento de General Paz",
+    "lat": -27.75,
+    "lng": -57.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433714,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Goya",
+    "fullName": "Departamento de Goya",
+    "lat": -29.5,
+    "lng": -59.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433362,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Itatí",
+    "fullName": "Departamento de Itatí",
+    "lat": -27.33333,
+    "lng": -58,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433357,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Ituzaingó",
+    "fullName": "Departamento de Ituzaingó",
+    "lat": -27.90085,
+    "lng": -56.86604,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3431468,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Lavalle",
+    "fullName": "Departamento de Lavalle",
+    "lat": -29,
+    "lng": -58.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430759,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Mburucuyá",
+    "fullName": "Departamento de Mburucuyá",
+    "lat": -28,
+    "lng": -58.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430706,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Mercedes",
+    "fullName": "Departamento de Mercedes",
+    "lat": -29,
+    "lng": -57.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430597,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Monte Caseros",
+    "fullName": "Departamento de Monte Caseros",
+    "lat": -30.25,
+    "lng": -57.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430103,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Paso de los Libres",
+    "fullName": "Departamento de Paso de los Libres",
+    "lat": -29.66667,
+    "lng": -57.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429402,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Saladas",
+    "fullName": "Departamento de Saladas",
+    "lat": -28.25,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429156,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "San Cosme",
+    "fullName": "Departamento de San Cosme",
+    "lat": -27.33333,
+    "lng": -58.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428707,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "San Luis del Palmar",
+    "fullName": "Departamento de San Luis del Palmar",
+    "lat": -27.5,
+    "lng": -58.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428679,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "San Martín",
+    "fullName": "Departamento de San Martín",
+    "lat": -28.83333,
+    "lng": -56.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428638,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "San Miguel",
+    "fullName": "Departamento de San Miguel",
+    "lat": -27.91667,
+    "lng": -57.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428491,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "San Roque",
+    "fullName": "Departamento de San Roque",
+    "lat": -28.66667,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428070,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Santo Tomé",
+    "fullName": "Departamento de Santo Tomé",
+    "lat": -28.25,
+    "lng": -56.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428003,
+    "parentId": 3435214,
+    "country": "AR",
+    "name": "Sauce",
+    "fullName": "Departamento de Sauce",
+    "lat": -30,
+    "lng": -58.66667,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

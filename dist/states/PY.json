@@ -1,0 +1,182 @@
+[
+    {
+        "id": 3439441,
+        "parentId": null,
+        "country": "PY",
+        "name": "Alto Paraguay",
+        "fullName": "Departamento de Alto Paraguay",
+        "lat": -20.5,
+        "lng": -59.16667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439440,
+        "parentId": null,
+        "country": "PY",
+        "name": "Alto Paraná",
+        "fullName": "Departamento del Alto Paraná",
+        "lat": -25.5,
+        "lng": -54.83333,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439433,
+        "parentId": null,
+        "country": "PY",
+        "name": "Amambay",
+        "fullName": "Departamento del Amambay",
+        "lat": -22.83333,
+        "lng": -55.95,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3474570,
+        "parentId": null,
+        "country": "PY",
+        "name": "Asunción",
+        "fullName": null,
+        "lat": -25.28207,
+        "lng": -57.63539,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3867442,
+        "parentId": null,
+        "country": "PY",
+        "name": "Boquerón",
+        "fullName": "Departamento de Boquerón",
+        "lat": -22.64105,
+        "lng": -61.07381,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439312,
+        "parentId": null,
+        "country": "PY",
+        "name": "Caaguazú",
+        "fullName": "Departamento de Caaguazú",
+        "lat": -25.2,
+        "lng": -55.83333,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439296,
+        "parentId": null,
+        "country": "PY",
+        "name": "Caazapá",
+        "fullName": "Departamento de Caazapá",
+        "lat": -26.25,
+        "lng": -56.06667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439216,
+        "parentId": null,
+        "country": "PY",
+        "name": "Canindeyú",
+        "fullName": "Departamento de Canindeyú",
+        "lat": -24.25,
+        "lng": -55.25,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3438833,
+        "parentId": null,
+        "country": "PY",
+        "name": "Concepción",
+        "fullName": "Departamento de Concepción",
+        "lat": -22.83333,
+        "lng": -57.16667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3439137,
+        "parentId": null,
+        "country": "PY",
+        "name": "Departamento Central",
+        "fullName": null,
+        "lat": -25.53333,
+        "lng": -57.46667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3438049,
+        "parentId": null,
+        "country": "PY",
+        "name": "Guairá",
+        "fullName": "Departamento del Guairá",
+        "lat": -25.8,
+        "lng": -56.26667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437923,
+        "parentId": null,
+        "country": "PY",
+        "name": "Itapúa",
+        "fullName": "Departamento de Itapúa",
+        "lat": -26.83333,
+        "lng": -55.66667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3438827,
+        "parentId": null,
+        "country": "PY",
+        "name": "la Cordillera",
+        "fullName": "Departamento de la Cordillera",
+        "lat": -25.25,
+        "lng": -57,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437727,
+        "parentId": null,
+        "country": "PY",
+        "name": "Misiones",
+        "fullName": "Departamento de Misiones",
+        "lat": -27,
+        "lng": -57,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437677,
+        "parentId": null,
+        "country": "PY",
+        "name": "Ñeembucú",
+        "fullName": "Departamento de Ñeembucú",
+        "lat": -26.66667,
+        "lng": -57.91667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437599,
+        "parentId": null,
+        "country": "PY",
+        "name": "Paraguarí",
+        "fullName": "Departamento de Paraguarí",
+        "lat": -26,
+        "lng": -57.16667,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437443,
+        "parentId": null,
+        "country": "PY",
+        "name": "Presidente Hayes",
+        "fullName": "Departamento de Presidente Hayes",
+        "lat": -23.5,
+        "lng": -58.83333,
+        "tz": "America/Asuncion"
+    },
+    {
+        "id": 3437027,
+        "parentId": null,
+        "country": "PY",
+        "name": "San Pedro",
+        "fullName": "Departamento de San Pedro",
+        "lat": -24.13333,
+        "lng": -56.66667,
+        "tz": "America/Asuncion"
+    }
+]

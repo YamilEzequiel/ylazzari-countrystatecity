@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3689720,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Arauca",
+    "fullName": null,
+    "lat": 6.87306,
+    "lng": -70.47972,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6194448,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Arauquita",
+    "fullName": null,
+    "lat": 6.94583,
+    "lng": -71.4697,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6195938,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Cravo Norte",
+    "fullName": null,
+    "lat": 6.3875,
+    "lng": -70.15472,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6194449,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Fortul",
+    "fullName": null,
+    "lat": 6.74611,
+    "lng": -71.85667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6194450,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Puerto Rondón",
+    "fullName": null,
+    "lat": 6.41889,
+    "lng": -70.965,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668259,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Saravena",
+    "fullName": null,
+    "lat": 6.92056,
+    "lng": -71.85333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667480,
+    "parentId": 3689717,
+    "country": "CO",
+    "name": "Tame",
+    "fullName": null,
+    "lat": 6.39833,
+    "lng": -71.78389,
+    "tz": "America/Bogota"
+  }
+]

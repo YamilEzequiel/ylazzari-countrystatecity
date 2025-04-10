@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3690466,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Aguachica",
+    "fullName": null,
+    "lat": 8.24932,
+    "lng": -73.61889,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3690298,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Agustín Codazzi",
+    "fullName": null,
+    "lat": 9.9485,
+    "lng": -73.22161,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172309,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Astrea",
+    "fullName": null,
+    "lat": 9.48985,
+    "lng": -73.97883,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172311,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Becerril",
+    "fullName": null,
+    "lat": 9.74288,
+    "lng": -73.21746,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172312,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Bosconia",
+    "fullName": null,
+    "lat": 9.92922,
+    "lng": -73.88856,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686586,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Chimichagua",
+    "fullName": null,
+    "lat": 9.2225,
+    "lng": -73.8075,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686481,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Chiriguaná",
+    "fullName": null,
+    "lat": 9.39322,
+    "lng": -73.51883,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172314,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Curumaní",
+    "fullName": null,
+    "lat": 9.20545,
+    "lng": -73.51988,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172363,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "El Copey",
+    "fullName": null,
+    "lat": 10.18544,
+    "lng": -73.93328,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172315,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "El Paso",
+    "fullName": null,
+    "lat": 9.65843,
+    "lng": -73.71418,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682184,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Gamarra",
+    "fullName": null,
+    "lat": 8.32969,
+    "lng": -73.71773,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681991,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "González",
+    "fullName": null,
+    "lat": 8.36735,
+    "lng": -73.40032,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678913,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "La Gloria",
+    "fullName": null,
+    "lat": 8.6116,
+    "lng": -73.63045,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179887,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "La Jagua de Ibirico",
+    "fullName": null,
+    "lat": 9.56667,
+    "lng": -73.33333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670673,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": 10.10487,
+    "lng": -73.22056,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172317,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Manaure",
+    "fullName": null,
+    "lat": 10.40138,
+    "lng": -72.93102,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172319,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Pailitas",
+    "fullName": null,
+    "lat": 8.9255,
+    "lng": -73.59292,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172414,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Pelaya",
+    "fullName": null,
+    "lat": 8.77066,
+    "lng": -73.61088,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179890,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Pueblo Bello",
+    "fullName": null,
+    "lat": 10.41667,
+    "lng": -73.58333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670757,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Río de Oro",
+    "fullName": null,
+    "lat": 8.17879,
+    "lng": -73.51218,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9073589,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "San Alberto",
+    "fullName": null,
+    "lat": 7.81435,
+    "lng": -73.45818,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172326,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "San Diego",
+    "fullName": null,
+    "lat": 10.23244,
+    "lng": -73.27349,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172163,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "San Martín",
+    "fullName": null,
+    "lat": 7.97003,
+    "lng": -73.57247,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667529,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Tamalameque",
+    "fullName": null,
+    "lat": 8.86422,
+    "lng": -73.78106,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172328,
+    "parentId": 3686880,
+    "country": "CO",
+    "name": "Valledupar",
+    "fullName": null,
+    "lat": 10.35653,
+    "lng": -73.36641,
+    "tz": "America/Bogota"
+  }
+]

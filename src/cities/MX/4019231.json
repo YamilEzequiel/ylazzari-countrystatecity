@@ -1,0 +1,112 @@
+[
+  {
+    "id": 6942835,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Aguascalientes",
+    "fullName": null,
+    "lat": 21.88333,
+    "lng": -102.3,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942836,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Asientos",
+    "fullName": null,
+    "lat": 22.23333,
+    "lng": -102.08333,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942837,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Calvillo",
+    "fullName": null,
+    "lat": 21.85,
+    "lng": -102.71666,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942838,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Cosío",
+    "fullName": null,
+    "lat": 22.36667,
+    "lng": -102.3,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942845,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "El Llano",
+    "fullName": null,
+    "lat": 21.91667,
+    "lng": -101.96666,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942839,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Jesús María",
+    "fullName": null,
+    "lat": 21.96667,
+    "lng": -102.35,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942840,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Pabellón de Arteaga",
+    "fullName": null,
+    "lat": 22.15,
+    "lng": -102.26666,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942841,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Rincón de Romos",
+    "fullName": null,
+    "lat": 22.23333,
+    "lng": -102.31666,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942846,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "San Francisco de los Romo",
+    "fullName": null,
+    "lat": 22.03307,
+    "lng": -102.22902,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942843,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "San José de Gracia",
+    "fullName": null,
+    "lat": 22.15,
+    "lng": -102.41666,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6942844,
+    "parentId": 4019231,
+    "country": "MX",
+    "name": "Tepezalá",
+    "fullName": null,
+    "lat": 22.21667,
+    "lng": -102.16666,
+    "tz": "America/Mexico_City"
+  }
+]

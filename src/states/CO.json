@@ -1,0 +1,332 @@
+[
+  {
+    "id": 3689982,
+    "parentId": null,
+    "country": "CO",
+    "name": "Amazonas",
+    "fullName": null,
+    "lat": -1.16667,
+    "lng": -71.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689815,
+    "parentId": null,
+    "country": "CO",
+    "name": "Antioquia",
+    "fullName": "Departamento de Antioquia",
+    "lat": 7,
+    "lng": -75.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689717,
+    "parentId": null,
+    "country": "CO",
+    "name": "Arauca",
+    "fullName": "Departamento de Arauca",
+    "lat": 6.66667,
+    "lng": -71,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689436,
+    "parentId": null,
+    "country": "CO",
+    "name": "Atlántico",
+    "fullName": "Departamento del Atlántico",
+    "lat": 10.75,
+    "lng": -75,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688650,
+    "parentId": null,
+    "country": "CO",
+    "name": "Bolívar",
+    "fullName": "Departamento de Bolívar",
+    "lat": 9,
+    "lng": -74.33333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688536,
+    "parentId": null,
+    "country": "CO",
+    "name": "Boyacá",
+    "fullName": "Departamento de Boyacá",
+    "lat": 5.66667,
+    "lng": -73,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687951,
+    "parentId": null,
+    "country": "CO",
+    "name": "Caldas",
+    "fullName": "Departamento de Caldas",
+    "lat": 5.26667,
+    "lng": -75.33333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687479,
+    "parentId": null,
+    "country": "CO",
+    "name": "Caquetá",
+    "fullName": "Departamento del Caquetá",
+    "lat": 0.75,
+    "lng": -74,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687173,
+    "parentId": null,
+    "country": "CO",
+    "name": "Casanare",
+    "fullName": "Departamento de Casanare",
+    "lat": 5.5,
+    "lng": -71.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687029,
+    "parentId": null,
+    "country": "CO",
+    "name": "Cauca",
+    "fullName": "Departamento del Cauca",
+    "lat": 2.5,
+    "lng": -76.83333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686880,
+    "parentId": null,
+    "country": "CO",
+    "name": "Cesar",
+    "fullName": "Departamento del Cesar",
+    "lat": 9.33333,
+    "lng": -73.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686431,
+    "parentId": null,
+    "country": "CO",
+    "name": "Chocó",
+    "fullName": "Departamento del Chocó",
+    "lat": 6,
+    "lng": -77,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685889,
+    "parentId": null,
+    "country": "CO",
+    "name": "Córdoba",
+    "fullName": "Departamento de Córdoba",
+    "lat": 8.33333,
+    "lng": -75.66667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685413,
+    "parentId": null,
+    "country": "CO",
+    "name": "Cundinamarca",
+    "fullName": "Departamento de Cundinamarca",
+    "lat": 5,
+    "lng": -74.16667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688685,
+    "parentId": null,
+    "country": "CO",
+    "name": "Distrito Capital de Bogotá",
+    "fullName": null,
+    "lat": 4.25,
+    "lng": -74.18333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681652,
+    "parentId": null,
+    "country": "CO",
+    "name": "Guainía",
+    "fullName": "Departamento del Guainía",
+    "lat": 2.5,
+    "lng": -69,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681344,
+    "parentId": null,
+    "country": "CO",
+    "name": "Guaviare",
+    "fullName": "Departamento del Guaviare",
+    "lat": 1.91667,
+    "lng": -72,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680692,
+    "parentId": null,
+    "country": "CO",
+    "name": "Huila",
+    "fullName": "Departamento del Huila",
+    "lat": 2.5,
+    "lng": -75.58333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678847,
+    "parentId": null,
+    "country": "CO",
+    "name": "La Guajira",
+    "fullName": "Departamento de La Guajira",
+    "lat": 11.5,
+    "lng": -72.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675686,
+    "parentId": null,
+    "country": "CO",
+    "name": "Magdalena",
+    "fullName": "Departamento del Magdalena",
+    "lat": 10,
+    "lng": -74.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674810,
+    "parentId": null,
+    "country": "CO",
+    "name": "Meta",
+    "fullName": "Departamento del Meta",
+    "lat": 3.5,
+    "lng": -73,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674021,
+    "parentId": null,
+    "country": "CO",
+    "name": "Nariño",
+    "fullName": "Departamento de Nariño",
+    "lat": 1.5,
+    "lng": -78,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673798,
+    "parentId": null,
+    "country": "CO",
+    "name": "Norte de Santander",
+    "fullName": "Departamento de Norte de Santander",
+    "lat": 8,
+    "lng": -73,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670205,
+    "parentId": null,
+    "country": "CO",
+    "name": "Providencia y Santa Catalina,  Archipiélago de San Andrés",
+    "fullName": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés",
+    "lat": 12.52449,
+    "lng": -81.71983,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671178,
+    "parentId": null,
+    "country": "CO",
+    "name": "Putumayo",
+    "fullName": "Departamento del Putumayo",
+    "lat": 0.5,
+    "lng": -76,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671087,
+    "parentId": null,
+    "country": "CO",
+    "name": "Quindío",
+    "fullName": "Quindío Department",
+    "lat": 4.5,
+    "lng": -75.66667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670698,
+    "parentId": null,
+    "country": "CO",
+    "name": "Risaralda",
+    "fullName": "Departamento de Risaralda",
+    "lat": 5,
+    "lng": -76,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668578,
+    "parentId": null,
+    "country": "CO",
+    "name": "Santander",
+    "fullName": "Departamento de Santander",
+    "lat": 6.83333,
+    "lng": -73.41667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667725,
+    "parentId": null,
+    "country": "CO",
+    "name": "Sucre",
+    "fullName": "Departamento de Sucre",
+    "lat": 9,
+    "lng": -75,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666951,
+    "parentId": null,
+    "country": "CO",
+    "name": "Tolima",
+    "fullName": "Departamento de Tolima",
+    "lat": 4,
+    "lng": -75.25,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666313,
+    "parentId": null,
+    "country": "CO",
+    "name": "Valle del Cauca",
+    "fullName": "Departamento del Valle del Cauca",
+    "lat": 3.75,
+    "lng": -76.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666254,
+    "parentId": null,
+    "country": "CO",
+    "name": "Vaupés",
+    "fullName": "Departamento del Vaupés",
+    "lat": 0.75,
+    "lng": -70.75,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666082,
+    "parentId": null,
+    "country": "CO",
+    "name": "Vichada",
+    "fullName": "Departamento del Vichada",
+    "lat": 5,
+    "lng": -69.5,
+    "tz": "America/Bogota"
+  }
+]

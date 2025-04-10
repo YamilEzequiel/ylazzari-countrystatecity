@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3671718,
+    "parentId": 3670205,
+    "country": "CO",
+    "name": "Providencia",
+    "fullName": null,
+    "lat": 13.38479,
+    "lng": -81.37468,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670229,
+    "parentId": 3670205,
+    "country": "CO",
+    "name": "San Andrés",
+    "fullName": null,
+    "lat": 12.54308,
+    "lng": -81.71752,
+    "tz": "America/Bogota"
+  }
+]

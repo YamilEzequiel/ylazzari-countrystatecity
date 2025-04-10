@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3900336,
+    "parentId": 3900333,
+    "country": "CL",
+    "name": "Aisén",
+    "fullName": "Provincia de Aisén",
+    "lat": -45.35626,
+    "lng": -72.57322,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181715,
+    "parentId": 3900333,
+    "country": "CL",
+    "name": "Coyhaique",
+    "fullName": "Provincia de Coyhaique",
+    "lat": -45.63037,
+    "lng": -72.32025,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3896832,
+    "parentId": 3900333,
+    "country": "CL",
+    "name": "Provincia Capitán Prat",
+    "fullName": null,
+    "lat": -47.9755,
+    "lng": -73.54155,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3889024,
+    "parentId": 3900333,
+    "country": "CL",
+    "name": "Provincia General Carrera",
+    "fullName": null,
+    "lat": -46.63435,
+    "lng": -72.31476,
+    "tz": "America/Santiago"
+  }
+]

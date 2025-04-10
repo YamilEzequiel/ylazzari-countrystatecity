@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3714635,
+    "parentId": 11353126,
+    "country": "PA",
+    "name": "Distrito Arraiján",
+    "fullName": null,
+    "lat": 8.95,
+    "lng": -79.7,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713045,
+    "parentId": 11353126,
+    "country": "PA",
+    "name": "Distrito de Capira",
+    "fullName": null,
+    "lat": 8.76228,
+    "lng": -79.88275,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712575,
+    "parentId": 11353126,
+    "country": "PA",
+    "name": "Distrito de Chame",
+    "fullName": null,
+    "lat": 8.6,
+    "lng": -79.91667,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3707960,
+    "parentId": 11353126,
+    "country": "PA",
+    "name": "Distrito de La Chorrera",
+    "fullName": null,
+    "lat": 8.95,
+    "lng": -79.85,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701523,
+    "parentId": 11353126,
+    "country": "PA",
+    "name": "Distrito de San Carlos",
+    "fullName": null,
+    "lat": 8.53196,
+    "lng": -80.06906,
+    "tz": "America/Panama"
+  }
+]

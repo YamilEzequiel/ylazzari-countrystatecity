@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11840137,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "3 De Febrero",
+    "fullName": null,
+    "lat": -25.21261,
+    "lng": -55.80808,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840030,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Caaguazu",
+    "fullName": null,
+    "lat": -25.41922,
+    "lng": -56.05173,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840142,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Carayao",
+    "fullName": null,
+    "lat": -25.18748,
+    "lng": -56.32904,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839950,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Cecilio Baez",
+    "fullName": null,
+    "lat": -25.08912,
+    "lng": -56.23085,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839960,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Coronel Oviedo",
+    "fullName": null,
+    "lat": -25.48658,
+    "lng": -56.42111,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840148,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Dr. Juan Manuel Frutos",
+    "fullName": null,
+    "lat": -25.36211,
+    "lng": -55.82163,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840072,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "J Eulogio Estigarribia",
+    "fullName": null,
+    "lat": -25.40286,
+    "lng": -55.59406,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839993,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Jose Domingo Ocampos",
+    "fullName": null,
+    "lat": -25.44037,
+    "lng": -55.43764,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840154,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "La Pastora",
+    "fullName": null,
+    "lat": -25.2508,
+    "lng": -56.5502,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840002,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Mcal. Francisco Solano Lopez",
+    "fullName": null,
+    "lat": -25.17948,
+    "lng": -55.18013,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840112,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Nueva Londres",
+    "fullName": null,
+    "lat": -25.41999,
+    "lng": -56.56605,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840066,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Nueva Toledo",
+    "fullName": null,
+    "lat": -24.97421,
+    "lng": -55.49037,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839941,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "R.I. 3 Corrales",
+    "fullName": null,
+    "lat": -25.3536,
+    "lng": -56.21978,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840149,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Raul Arsenio Oviedo",
+    "fullName": null,
+    "lat": -25.15375,
+    "lng": -55.57547,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839957,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Repatriacion",
+    "fullName": null,
+    "lat": -25.58395,
+    "lng": -55.80308,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840104,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "San Joaquin",
+    "fullName": null,
+    "lat": -25.04491,
+    "lng": -56.05025,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840011,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "San Jose De Los Arroyos",
+    "fullName": null,
+    "lat": -25.53943,
+    "lng": -56.69861,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839981,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Santa Rosa Del Mbutuy",
+    "fullName": null,
+    "lat": -24.93261,
+    "lng": -56.25358,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839947,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Simon Bolivar",
+    "fullName": null,
+    "lat": -25.03319,
+    "lng": -56.34959,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840130,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Tembiapora",
+    "fullName": null,
+    "lat": -25.25878,
+    "lng": -55.39049,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840173,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Vaqueria",
+    "fullName": null,
+    "lat": -24.97494,
+    "lng": -55.76291,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840165,
+    "parentId": 3439312,
+    "country": "PY",
+    "name": "Yhu",
+    "fullName": null,
+    "lat": -25.05949,
+    "lng": -55.90861,
+    "tz": "America/Asuncion"
+  }
+]

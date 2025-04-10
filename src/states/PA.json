@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3713954,
+    "parentId": null,
+    "country": "PA",
+    "name": "Bocas del Toro",
+    "fullName": "Provincia de Bocas del Toro",
+    "lat": 9.25,
+    "lng": -82.65,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712410,
+    "parentId": null,
+    "country": "PA",
+    "name": "Chiriquí",
+    "fullName": "Provincia de Chiriquí",
+    "lat": 8.5,
+    "lng": -82.41667,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712162,
+    "parentId": null,
+    "country": "PA",
+    "name": "Coclé",
+    "fullName": "Provincia de Coclé",
+    "lat": 8.56667,
+    "lng": -80.41667,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712073,
+    "parentId": null,
+    "country": "PA",
+    "name": "Colón",
+    "fullName": "Provincia de Colón",
+    "lat": 9.16667,
+    "lng": -80,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3711671,
+    "parentId": null,
+    "country": "PA",
+    "name": "Darién",
+    "fullName": "Provincia del Darién",
+    "lat": 8.08333,
+    "lng": -77.88333,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 7303686,
+    "parentId": null,
+    "country": "PA",
+    "name": "Emberá-Wounaan",
+    "fullName": null,
+    "lat": 8.15236,
+    "lng": -77.52502,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701537,
+    "parentId": null,
+    "country": "PA",
+    "name": "Guna Yala",
+    "fullName": null,
+    "lat": 9.25,
+    "lng": -78.25,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3708710,
+    "parentId": null,
+    "country": "PA",
+    "name": "Herrera",
+    "fullName": "Provincia de Herrera",
+    "lat": 7.83333,
+    "lng": -80.75,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3704961,
+    "parentId": null,
+    "country": "PA",
+    "name": "Los Santos",
+    "fullName": "Provincia de Los Santos",
+    "lat": 7.58333,
+    "lng": -80.33333,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 7303688,
+    "parentId": null,
+    "country": "PA",
+    "name": "Ngöbe-Buglé",
+    "fullName": null,
+    "lat": 8.48621,
+    "lng": -81.73081,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703433,
+    "parentId": null,
+    "country": "PA",
+    "name": "Panamá",
+    "fullName": "Provincia de Panamá",
+    "lat": 9.08333,
+    "lng": -78.9,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 11353126,
+    "parentId": null,
+    "country": "PA",
+    "name": "Panamá Oeste",
+    "fullName": null,
+    "lat": 8.8,
+    "lng": -79.9,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3700159,
+    "parentId": null,
+    "country": "PA",
+    "name": "Veraguas",
+    "fullName": "Provincia de Veraguas",
+    "lat": 8.25,
+    "lng": -81.13333,
+    "tz": "America/Panama"
+  }
+]

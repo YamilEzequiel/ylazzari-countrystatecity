@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3860153,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Corpen Aike",
+    "fullName": "Departamento de Corpen Aike",
+    "lat": -50,
+    "lng": -69.25,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3859455,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Deseado",
+    "fullName": "Departamento de Deseado",
+    "lat": -47.33333,
+    "lng": -67.83333,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3854444,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Güer Aike",
+    "fullName": "Departamento de Güer Aike",
+    "lat": -51.33333,
+    "lng": -70.33333,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3851122,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Lago Argentino",
+    "fullName": "Departamento de Lago Argentino",
+    "lat": -49.75,
+    "lng": -72,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3851119,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Lago Buenos Aires",
+    "fullName": "Departamento de Lago Buenos Aires",
+    "lat": -47,
+    "lng": -70.91667,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3845272,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Magallanes",
+    "fullName": "Departamento de Magallanes",
+    "lat": -48.75,
+    "lng": -68.5,
+    "tz": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "id": 3838892,
+    "parentId": 3836350,
+    "country": "AR",
+    "name": "Río Chico",
+    "fullName": "Departamento de Río Chico",
+    "lat": -48.25,
+    "lng": -71,
+    "tz": "America/Argentina/Rio_Gallegos"
+  }
+]

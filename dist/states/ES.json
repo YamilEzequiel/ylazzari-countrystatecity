@@ -1,0 +1,192 @@
+[
+    {
+        "id": 2593109,
+        "parentId": null,
+        "country": "ES",
+        "name": "Andalucía",
+        "fullName": null,
+        "lat": 37.5,
+        "lng": -4.58333,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336899,
+        "parentId": null,
+        "country": "ES",
+        "name": "Aragon",
+        "fullName": null,
+        "lat": 41.5,
+        "lng": -0.66667,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3114710,
+        "parentId": null,
+        "country": "ES",
+        "name": "Asturias",
+        "fullName": null,
+        "lat": 43.33333,
+        "lng": -6,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2593110,
+        "parentId": null,
+        "country": "ES",
+        "name": "Canarias",
+        "fullName": null,
+        "lat": 28,
+        "lng": -15.5,
+        "tz": "Atlantic/Canary"
+    },
+    {
+        "id": 3336898,
+        "parentId": null,
+        "country": "ES",
+        "name": "Cantabria",
+        "fullName": null,
+        "lat": 43.2,
+        "lng": -4.03333,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336900,
+        "parentId": null,
+        "country": "ES",
+        "name": "Castilla y León",
+        "fullName": null,
+        "lat": 41.66667,
+        "lng": -4.25,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2593111,
+        "parentId": null,
+        "country": "ES",
+        "name": "Castilla-La Mancha",
+        "fullName": null,
+        "lat": 39.5,
+        "lng": -3,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336901,
+        "parentId": null,
+        "country": "ES",
+        "name": "Catalunya",
+        "fullName": null,
+        "lat": 41.82046,
+        "lng": 1.86768,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2519582,
+        "parentId": null,
+        "country": "ES",
+        "name": "Ceuta",
+        "fullName": null,
+        "lat": 35.89028,
+        "lng": -5.3075,
+        "tz": "Africa/Ceuta"
+    },
+    {
+        "id": 3117732,
+        "parentId": null,
+        "country": "ES",
+        "name": "Comunidad de Madrid",
+        "fullName": null,
+        "lat": 40.42526,
+        "lng": -3.69063,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2521383,
+        "parentId": null,
+        "country": "ES",
+        "name": "Comunitat Autònoma de les Illes Balears",
+        "fullName": null,
+        "lat": 39.58876,
+        "lng": 2.90314,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2593113,
+        "parentId": null,
+        "country": "ES",
+        "name": "Comunitat Valenciana",
+        "fullName": null,
+        "lat": 39.5,
+        "lng": -0.75,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336903,
+        "parentId": null,
+        "country": "ES",
+        "name": "Euskal Autonomia Erkidegoa",
+        "fullName": null,
+        "lat": 43,
+        "lng": -2.75,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 2593112,
+        "parentId": null,
+        "country": "ES",
+        "name": "Extremadura",
+        "fullName": null,
+        "lat": 39.16667,
+        "lng": -6.16667,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336902,
+        "parentId": null,
+        "country": "ES",
+        "name": "Galicia",
+        "fullName": null,
+        "lat": 42.75508,
+        "lng": -7.86621,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3336897,
+        "parentId": null,
+        "country": "ES",
+        "name": "La Rioja",
+        "fullName": null,
+        "lat": 42.3,
+        "lng": -2.5,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 6362988,
+        "parentId": null,
+        "country": "ES",
+        "name": "Melilla",
+        "fullName": null,
+        "lat": 35.29215,
+        "lng": -2.94434,
+        "tz": "Africa/Ceuta"
+    },
+    {
+        "id": 2513413,
+        "parentId": null,
+        "country": "ES",
+        "name": "Murcia",
+        "fullName": "Región de Murcia",
+        "lat": 38,
+        "lng": -1.5,
+        "tz": "Europe/Madrid"
+    },
+    {
+        "id": 3115609,
+        "parentId": null,
+        "country": "ES",
+        "name": "Navarra",
+        "fullName": null,
+        "lat": 42.75,
+        "lng": -1.66667,
+        "tz": "Europe/Madrid"
+    }
+]

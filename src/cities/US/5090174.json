@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5083273,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Belknap County",
+    "fullName": null,
+    "lat": 43.51869,
+    "lng": -71.42336,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5084247,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Carroll County",
+    "fullName": null,
+    "lat": 43.87391,
+    "lng": -71.20277,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5084505,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Cheshire County",
+    "fullName": null,
+    "lat": 42.91932,
+    "lng": -72.25118,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5084973,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Coos County",
+    "fullName": null,
+    "lat": 44.6896,
+    "lng": -71.30542,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5086767,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Grafton County",
+    "fullName": null,
+    "lat": 43.94074,
+    "lng": -71.82055,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5087463,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Hillsborough County",
+    "fullName": null,
+    "lat": 42.91531,
+    "lng": -71.71601,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5089480,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Merrimack County",
+    "fullName": null,
+    "lat": 43.29765,
+    "lng": -71.68019,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5091860,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Rockingham County",
+    "fullName": null,
+    "lat": 42.98454,
+    "lng": -71.08897,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5093237,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Strafford County",
+    "fullName": null,
+    "lat": 43.29743,
+    "lng": -71.0294,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5093334,
+    "parentId": 5090174,
+    "country": "US",
+    "name": "Sullivan County",
+    "fullName": null,
+    "lat": 43.36122,
+    "lng": -72.2224,
+    "tz": "America/New_York"
+  }
+]

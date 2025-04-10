@@ -1,0 +1,392 @@
+[
+  {
+    "id": 8581856,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Canatlán",
+    "fullName": null,
+    "lat": 24.51759,
+    "lng": -104.80283,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581857,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Canelas",
+    "fullName": null,
+    "lat": 25.08546,
+    "lng": -106.50499,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581858,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Coneto de Comonfort",
+    "fullName": null,
+    "lat": 25.03118,
+    "lng": -104.73402,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581859,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Cuencamé",
+    "fullName": null,
+    "lat": 24.64123,
+    "lng": -103.73772,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581860,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Durango",
+    "fullName": null,
+    "lat": 24.02983,
+    "lng": -104.67984,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581873,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "El Oro",
+    "fullName": null,
+    "lat": 25.6922,
+    "lng": -105.26725,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581861,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "General Simón Bolívar",
+    "fullName": null,
+    "lat": 24.90204,
+    "lng": -103.26387,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581862,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Gómez Palacio",
+    "fullName": null,
+    "lat": 25.70685,
+    "lng": -103.4766,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581863,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Guadalupe Victoria",
+    "fullName": null,
+    "lat": 24.43403,
+    "lng": -104.08911,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581864,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Guanaceví",
+    "fullName": null,
+    "lat": 25.9961,
+    "lng": -106.10898,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581865,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Hidalgo",
+    "fullName": null,
+    "lat": 26.02409,
+    "lng": -104.82823,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581866,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Indé",
+    "fullName": null,
+    "lat": 25.76777,
+    "lng": -105.03631,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581867,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Lerdo",
+    "fullName": null,
+    "lat": 25.4848,
+    "lng": -103.60272,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581868,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Mapimí",
+    "fullName": null,
+    "lat": 26.19095,
+    "lng": -104.05463,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581869,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Mezquital",
+    "fullName": null,
+    "lat": 22.88401,
+    "lng": -104.5535,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581870,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Nazas",
+    "fullName": null,
+    "lat": 25.24105,
+    "lng": -104.08925,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581871,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Nombre de Dios",
+    "fullName": null,
+    "lat": 23.83142,
+    "lng": -104.16663,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581893,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Nuevo Ideal",
+    "fullName": null,
+    "lat": 24.87924,
+    "lng": -105.02105,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581872,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Ocampo",
+    "fullName": null,
+    "lat": 26.55251,
+    "lng": -105.75999,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581874,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Otáez",
+    "fullName": null,
+    "lat": 24.70422,
+    "lng": -106.00968,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581875,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Pánuco de Coronado",
+    "fullName": null,
+    "lat": 24.42727,
+    "lng": -104.33402,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581876,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Peñón Blanco",
+    "fullName": null,
+    "lat": 24.757,
+    "lng": -104.02031,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581877,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Poanas",
+    "fullName": null,
+    "lat": 23.98833,
+    "lng": -104.05242,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581878,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Pueblo Nuevo",
+    "fullName": null,
+    "lat": 23.41405,
+    "lng": -105.34021,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581879,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Rodeo",
+    "fullName": null,
+    "lat": 25.17484,
+    "lng": -104.5656,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581880,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Bernardo",
+    "fullName": null,
+    "lat": 26.16986,
+    "lng": -105.66251,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 7778824,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Dimas",
+    "fullName": null,
+    "lat": 24.2,
+    "lng": -105.75,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581881,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Juan de Guadalupe",
+    "fullName": null,
+    "lat": 24.59504,
+    "lng": -102.69914,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581882,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Juan del Río",
+    "fullName": null,
+    "lat": 24.77387,
+    "lng": -104.49893,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581883,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Luis del Cordero",
+    "fullName": null,
+    "lat": 25.38359,
+    "lng": -104.27883,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581884,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "San Pedro del Gallo",
+    "fullName": null,
+    "lat": 25.59888,
+    "lng": -104.3882,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581885,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Santa Clara",
+    "fullName": null,
+    "lat": 24.49847,
+    "lng": -103.40702,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581886,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Santiago Papasquiaro",
+    "fullName": null,
+    "lat": 24.97069,
+    "lng": -105.70752,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581887,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Súchil",
+    "fullName": null,
+    "lat": 23.44259,
+    "lng": -104.13859,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581888,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Tamazula",
+    "fullName": null,
+    "lat": 25.05586,
+    "lng": -106.76728,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581889,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Tepehuanes",
+    "fullName": null,
+    "lat": 25.47838,
+    "lng": -106.20884,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581890,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Tlahualilo",
+    "fullName": null,
+    "lat": 26.0533,
+    "lng": -103.5246,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581891,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Topia",
+    "fullName": null,
+    "lat": 25.22958,
+    "lng": -106.66616,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581892,
+    "parentId": 4011741,
+    "country": "MX",
+    "name": "Vicente Guerrero",
+    "fullName": null,
+    "lat": 23.72173,
+    "lng": -103.97796,
+    "tz": "America/Monterrey"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3945791,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Cangallo",
+    "fullName": "Provincia de Cangallo",
+    "lat": -13.573,
+    "lng": -74.389,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939740,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Huamanga",
+    "fullName": "Provincia de Huamanga",
+    "lat": -13.2,
+    "lng": -74.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7778815,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Huanca Sancos",
+    "fullName": "Provincia de Huanca Sancos",
+    "lat": -14.076,
+    "lng": -74.428,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939385,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Huanta",
+    "fullName": "Provincia de Huanta",
+    "lat": -12.5,
+    "lng": -74.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3937045,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "La Mar",
+    "fullName": "Provincia de La Mar",
+    "lat": -12.91667,
+    "lng": -73.83333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3935835,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Lucanas",
+    "fullName": "Provincia de Lucanas",
+    "lat": -14.5,
+    "lng": -74.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3932906,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Parinacochas",
+    "fullName": "Provincia de Parinacochas",
+    "lat": -15.02965,
+    "lng": -73.63487,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349551,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Paucar Del Sara Sara",
+    "fullName": null,
+    "lat": -15.12275,
+    "lng": -73.26177,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7778814,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Sucre",
+    "fullName": "Provincia de Sucre",
+    "lat": -14.103,
+    "lng": -73.786,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3926224,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Víctor Fajardo",
+    "fullName": "Provincia de Víctor Fajardo",
+    "lat": -13.75,
+    "lng": -74.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7778816,
+    "parentId": 3947018,
+    "country": "PE",
+    "name": "Vilcas Huamán",
+    "fullName": "Provincia de Vilcas Huamán",
+    "lat": -13.632,
+    "lng": -73.888,
+    "tz": "America/Lima"
+  }
+]

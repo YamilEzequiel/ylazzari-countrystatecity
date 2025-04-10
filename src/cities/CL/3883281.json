@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3897525,
+    "parentId": 3883281,
+    "country": "CL",
+    "name": "Cachapoal",
+    "fullName": "Provincia de Cachapoal",
+    "lat": -34.29987,
+    "lng": -70.72061,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181712,
+    "parentId": 3883281,
+    "country": "CL",
+    "name": "Cardenal Caro",
+    "fullName": "Provincia de Cardenal Caro",
+    "lat": -34.38651,
+    "lng": -71.945,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3894310,
+    "parentId": 3883281,
+    "country": "CL",
+    "name": "Colchagua",
+    "fullName": "Provincia de Colchagua",
+    "lat": -34.69485,
+    "lng": -71.07606,
+    "tz": "America/Santiago"
+  }
+]

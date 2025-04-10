@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820790,
+    "parentId": 3442007,
+    "country": "UY",
+    "name": "Jose Batlle Y Ordoñez",
+    "fullName": null,
+    "lat": -33.52753,
+    "lng": -55.06213,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820832,
+    "parentId": 3442007,
+    "country": "UY",
+    "name": "Jose Pedro Varela",
+    "fullName": null,
+    "lat": -33.48716,
+    "lng": -54.49845,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820833,
+    "parentId": 3442007,
+    "country": "UY",
+    "name": "Solis De Mataojo",
+    "fullName": null,
+    "lat": -34.59378,
+    "lng": -55.41355,
+    "tz": "America/Montevideo"
+  }
+]

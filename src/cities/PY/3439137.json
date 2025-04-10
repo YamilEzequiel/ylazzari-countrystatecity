@@ -1,0 +1,192 @@
+[
+  {
+    "id": 11839988,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Aregua",
+    "fullName": null,
+    "lat": -25.29391,
+    "lng": -57.38634,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839945,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Capiata",
+    "fullName": null,
+    "lat": -25.37722,
+    "lng": -57.4519,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840034,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Fernando De La Mora",
+    "fullName": null,
+    "lat": -25.32782,
+    "lng": -57.55071,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840038,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Guarambare",
+    "fullName": null,
+    "lat": -25.48865,
+    "lng": -57.45182,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840147,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Ita",
+    "fullName": null,
+    "lat": -25.52973,
+    "lng": -57.37439,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840177,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Itaugua",
+    "fullName": null,
+    "lat": -25.3936,
+    "lng": -57.35327,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840074,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "J Augusto Saldivar",
+    "fullName": null,
+    "lat": -25.43268,
+    "lng": -57.43389,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840075,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Lambare",
+    "fullName": null,
+    "lat": -25.35362,
+    "lng": -57.61576,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840155,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Limpio",
+    "fullName": null,
+    "lat": -25.15747,
+    "lng": -57.47505,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840058,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Luque",
+    "fullName": null,
+    "lat": -25.25053,
+    "lng": -57.45708,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840101,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Mariano Roque Alonso",
+    "fullName": null,
+    "lat": -25.20126,
+    "lng": -57.53121,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839987,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Ñemby",
+    "fullName": null,
+    "lat": -25.39696,
+    "lng": -57.53774,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840141,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Nueva Italia",
+    "fullName": null,
+    "lat": -25.77312,
+    "lng": -57.4769,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839939,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": -25.41834,
+    "lng": -57.56195,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840117,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "San Lorenzo",
+    "fullName": null,
+    "lat": -25.35072,
+    "lng": -57.51094,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840048,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Villa Elisa",
+    "fullName": null,
+    "lat": -25.37376,
+    "lng": -57.58744,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840152,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Villeta",
+    "fullName": null,
+    "lat": -25.71155,
+    "lng": -57.60714,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840166,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Ypacarai",
+    "fullName": null,
+    "lat": -25.39331,
+    "lng": -57.26419,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840046,
+    "parentId": 3439137,
+    "country": "PY",
+    "name": "Ypane",
+    "fullName": null,
+    "lat": -25.4604,
+    "lng": -57.50929,
+    "tz": "America/Asuncion"
+  }
+]

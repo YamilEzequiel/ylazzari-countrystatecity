@@ -1,0 +1,292 @@
+[
+  {
+    "id": 5879166,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Aleutians East Borough",
+    "fullName": null,
+    "lat": 54.85,
+    "lng": -163.41667,
+    "tz": "America/Nome"
+  },
+  {
+    "id": 5879164,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Aleutians West Census Area",
+    "fullName": null,
+    "lat": 52.16298,
+    "lng": -174.28505,
+    "tz": "America/Adak"
+  },
+  {
+    "id": 5879348,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Anchorage Municipality",
+    "fullName": null,
+    "lat": 61.16667,
+    "lng": -149.25056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5880573,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Bethel Census Area",
+    "fullName": null,
+    "lat": 60.75056,
+    "lng": -160.50056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5858042,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Bristol Bay Borough",
+    "fullName": null,
+    "lat": 58.75056,
+    "lng": -156.83333,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 7117591,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "City and Borough of Wrangell",
+    "fullName": null,
+    "lat": 56.41331,
+    "lng": -132.32009,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 5860541,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Denali Borough",
+    "fullName": null,
+    "lat": 63.78889,
+    "lng": -150.19167,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5860696,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Dillingham Census Area",
+    "fullName": null,
+    "lat": 59.76193,
+    "lng": -158.31848,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5861900,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Fairbanks North Star Borough",
+    "fullName": null,
+    "lat": 64.83333,
+    "lng": -146.41667,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5846893,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Haines Borough",
+    "fullName": null,
+    "lat": 59.25056,
+    "lng": -135.50056,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 7117568,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Hoonah-Angoon Census Area",
+    "fullName": null,
+    "lat": 57.94807,
+    "lng": -134.94153,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 5554074,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Juneau City and Borough",
+    "fullName": null,
+    "lat": 58.41667,
+    "lng": -134.33333,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 5866071,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Kenai Peninsula Borough",
+    "fullName": null,
+    "lat": 60.41667,
+    "lng": -151.25056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5554432,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Ketchikan Gateway Borough",
+    "fullName": null,
+    "lat": 55.50056,
+    "lng": -131.41667,
+    "tz": "America/Sitka"
+  },
+  {
+    "id": 5866574,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Kodiak Island Borough",
+    "fullName": null,
+    "lat": 57.33333,
+    "lng": -153.33333,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 11550056,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Kusilvak Census Area",
+    "fullName": null,
+    "lat": 61.99059,
+    "lng": -164.55322,
+    "tz": "America/Nome"
+  },
+  {
+    "id": 5867113,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Lake and Peninsula Borough",
+    "fullName": null,
+    "lat": 57.00056,
+    "lng": -158.00056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5868437,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Matanuska-Susitna Borough",
+    "fullName": null,
+    "lat": 62.50056,
+    "lng": -150.00556,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5870134,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Nome Census Area",
+    "fullName": null,
+    "lat": 64.83333,
+    "lng": -163.75056,
+    "tz": "America/Nome"
+  },
+  {
+    "id": 5870308,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "North Slope Borough",
+    "fullName": null,
+    "lat": 69.25056,
+    "lng": -152.00056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5870351,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Northwest Arctic Borough",
+    "fullName": null,
+    "lat": 66.83333,
+    "lng": -161.00056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 7117732,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Petersburg Borough",
+    "fullName": null,
+    "lat": 56.76529,
+    "lng": -133.19313,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 11550055,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Prince of Wales-Hyder Census Area",
+    "fullName": null,
+    "lat": 55.59697,
+    "lng": -132.80273,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 5557295,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Sitka City and Borough",
+    "fullName": null,
+    "lat": 57.08255,
+    "lng": -135.26917,
+    "tz": "America/Sitka"
+  },
+  {
+    "id": 7117565,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Skagway Municipality",
+    "fullName": null,
+    "lat": 59.46852,
+    "lng": -135.30596,
+    "tz": "America/Juneau"
+  },
+  {
+    "id": 5874863,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Southeast Fairbanks Census Area",
+    "fullName": null,
+    "lat": 63.75056,
+    "lng": -143.25056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5877395,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Valdez-Cordova Census Area",
+    "fullName": null,
+    "lat": 61.50056,
+    "lng": -144.50056,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5558618,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Yakutat City and Borough",
+    "fullName": null,
+    "lat": 59.66667,
+    "lng": -139.13333,
+    "tz": "America/Yakutat"
+  },
+  {
+    "id": 5878558,
+    "parentId": 5879092,
+    "country": "US",
+    "name": "Yukon-Koyukuk Census Area",
+    "fullName": null,
+    "lat": 65.7,
+    "lng": -152.71667,
+    "tz": "America/Anchorage"
+  }
+]

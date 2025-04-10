@@ -1,0 +1,672 @@
+[
+  {
+    "id": 4145709,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Alachua County",
+    "fullName": null,
+    "lat": 29.67476,
+    "lng": -82.3577,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4146548,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Baker County",
+    "fullName": null,
+    "lat": 30.33107,
+    "lng": -82.28459,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4146810,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Bay County",
+    "fullName": null,
+    "lat": 30.23765,
+    "lng": -85.63262,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4148735,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Bradford County",
+    "fullName": null,
+    "lat": 29.94996,
+    "lng": -82.16878,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4148826,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Brevard County",
+    "fullName": null,
+    "lat": 28.30031,
+    "lng": -80.70121,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4149007,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Broward County",
+    "fullName": null,
+    "lat": 26.15186,
+    "lng": -80.45589,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4149608,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Calhoun County",
+    "fullName": null,
+    "lat": 30.40603,
+    "lng": -85.19721,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4150627,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Charlotte County",
+    "fullName": null,
+    "lat": 26.89985,
+    "lng": -81.95031,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4151140,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Citrus County",
+    "fullName": null,
+    "lat": 28.84757,
+    "lng": -82.52011,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4151245,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Clay County",
+    "fullName": null,
+    "lat": 29.98307,
+    "lng": -81.85789,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4151550,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Collier County",
+    "fullName": null,
+    "lat": 26.09924,
+    "lng": -81.38097,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4151595,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Columbia County",
+    "fullName": null,
+    "lat": 30.22424,
+    "lng": -82.62154,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4152927,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "DeSoto County",
+    "fullName": null,
+    "lat": 27.18632,
+    "lng": -81.8093,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4153352,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Dixie County",
+    "fullName": null,
+    "lat": 29.58124,
+    "lng": -83.18703,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4153840,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Duval County",
+    "fullName": null,
+    "lat": 30.33544,
+    "lng": -81.64801,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4154550,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Escambia County",
+    "fullName": null,
+    "lat": 30.6144,
+    "lng": -87.34136,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4155535,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Flagler County",
+    "fullName": null,
+    "lat": 29.47115,
+    "lng": -81.29299,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4156210,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 29.81168,
+    "lng": -84.80046,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4156394,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Gadsden County",
+    "fullName": null,
+    "lat": 30.57947,
+    "lng": -84.6136,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4156770,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Gilchrist County",
+    "fullName": null,
+    "lat": 29.72582,
+    "lng": -82.80037,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4156815,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Glades County",
+    "fullName": null,
+    "lat": 26.95648,
+    "lng": -81.18898,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4157652,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Gulf County",
+    "fullName": null,
+    "lat": 29.90862,
+    "lng": -85.26101,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4157924,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Hamilton County",
+    "fullName": null,
+    "lat": 30.49643,
+    "lng": -82.94796,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158068,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Hardee County",
+    "fullName": null,
+    "lat": 27.4927,
+    "lng": -81.80993,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158392,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Hendry County",
+    "fullName": null,
+    "lat": 26.55349,
+    "lng": -81.1659,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158449,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Hernando County",
+    "fullName": null,
+    "lat": 28.55617,
+    "lng": -82.46849,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158643,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Highlands County",
+    "fullName": null,
+    "lat": 27.3434,
+    "lng": -81.34097,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158712,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Hillsborough County",
+    "fullName": null,
+    "lat": 27.90623,
+    "lng": -82.34692,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4158961,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Holmes County",
+    "fullName": null,
+    "lat": 30.86789,
+    "lng": -85.8141,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4159657,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Indian River County",
+    "fullName": null,
+    "lat": 27.69639,
+    "lng": -80.57409,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4159990,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Jackson County",
+    "fullName": null,
+    "lat": 30.79539,
+    "lng": -85.21546,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4160118,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 30.42346,
+    "lng": -83.90047,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161127,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Lafayette County",
+    "fullName": null,
+    "lat": 29.98552,
+    "lng": -83.18107,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161204,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Lake County",
+    "fullName": null,
+    "lat": 28.76147,
+    "lng": -81.7113,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161743,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Lee County",
+    "fullName": null,
+    "lat": 26.62536,
+    "lng": -81.84952,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161831,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Leon County",
+    "fullName": null,
+    "lat": 30.45804,
+    "lng": -84.27788,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161891,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Levy County",
+    "fullName": null,
+    "lat": 29.28221,
+    "lng": -82.78861,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4161925,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Liberty County",
+    "fullName": null,
+    "lat": 30.24136,
+    "lng": -84.88291,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4163142,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Madison County",
+    "fullName": null,
+    "lat": 30.44414,
+    "lng": -83.47012,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4163277,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Manatee County",
+    "fullName": null,
+    "lat": 27.47752,
+    "lng": -82.35754,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4163456,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Marion County",
+    "fullName": null,
+    "lat": 29.2102,
+    "lng": -82.05668,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4163566,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Martin County",
+    "fullName": null,
+    "lat": 27.08157,
+    "lng": -80.39851,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4164238,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Miami-Dade County",
+    "fullName": null,
+    "lat": 25.60897,
+    "lng": -80.49867,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4164762,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Monroe County",
+    "fullName": null,
+    "lat": 25.55731,
+    "lng": -80.91705,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4165603,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Nassau County",
+    "fullName": null,
+    "lat": 30.61058,
+    "lng": -81.77142,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4166818,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Okaloosa County",
+    "fullName": null,
+    "lat": 30.66503,
+    "lng": -86.59218,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4166825,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Okeechobee County",
+    "fullName": null,
+    "lat": 27.38629,
+    "lng": -80.88858,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4167060,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Orange County",
+    "fullName": null,
+    "lat": 28.51442,
+    "lng": -81.32348,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4167218,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Osceola County",
+    "fullName": null,
+    "lat": 28.06266,
+    "lng": -81.14948,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4167510,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Palm Beach County",
+    "fullName": null,
+    "lat": 26.64757,
+    "lng": -80.43651,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4167895,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Pasco County",
+    "fullName": null,
+    "lat": 28.30674,
+    "lng": -82.43887,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4168618,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Pinellas County",
+    "fullName": null,
+    "lat": 27.90268,
+    "lng": -82.73955,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4168988,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Polk County",
+    "fullName": null,
+    "lat": 27.94888,
+    "lng": -81.69767,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4169471,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Putnam County",
+    "fullName": null,
+    "lat": 29.60863,
+    "lng": -81.7443,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4171153,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Saint Johns County",
+    "fullName": null,
+    "lat": 29.91218,
+    "lng": -81.40989,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4171260,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Saint Lucie County",
+    "fullName": null,
+    "lat": 27.38081,
+    "lng": -80.44554,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4172096,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Santa Rosa County",
+    "fullName": null,
+    "lat": 30.6929,
+    "lng": -87.01845,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4172139,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Sarasota County",
+    "fullName": null,
+    "lat": 27.18248,
+    "lng": -82.36498,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4172445,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Seminole County",
+    "fullName": null,
+    "lat": 28.71698,
+    "lng": -81.2363,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4174301,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Sumter County",
+    "fullName": null,
+    "lat": 28.70482,
+    "lng": -82.081,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4174543,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Suwannee County",
+    "fullName": null,
+    "lat": 30.19561,
+    "lng": -82.99149,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4174886,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Taylor County",
+    "fullName": null,
+    "lat": 30.01957,
+    "lng": -83.61897,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4176099,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 30.04384,
+    "lng": -82.37144,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4176559,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Volusia County",
+    "fullName": null,
+    "lat": 29.06345,
+    "lng": -81.14857,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4177321,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Wakulla County",
+    "fullName": null,
+    "lat": 30.14777,
+    "lng": -84.37561,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4177409,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Walton County",
+    "fullName": null,
+    "lat": 30.61847,
+    "lng": -86.17152,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4177485,
+    "parentId": 4155751,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 30.61059,
+    "lng": -85.66533,
+    "tz": "America/Chicago"
+  }
+]

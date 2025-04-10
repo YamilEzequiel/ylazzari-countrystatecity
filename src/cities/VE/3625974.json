@@ -1,0 +1,202 @@
+[
+  {
+    "id": 8129224,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Andrés Bello",
+    "fullName": "Municipio Andrés Bello",
+    "lat": 9.63217,
+    "lng": -70.80759,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648130,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Boconó",
+    "fullName": "Municipio Boconó",
+    "lat": 9.25,
+    "lng": -70.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131492,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 9.40131,
+    "lng": -70.79916,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131493,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Candelaria",
+    "fullName": "Municipio Candelaria",
+    "lat": 9.61818,
+    "lng": -70.35713,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646730,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Carache",
+    "fullName": "Municipio Carache",
+    "lat": 9.66667,
+    "lng": -70.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640955,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Escuque",
+    "fullName": "Municipio Escuque",
+    "lat": 9.25,
+    "lng": -70.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131494,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "José Felipe Márquez Cañizales",
+    "fullName": "Municipio José Felipe Márquez Cañizales",
+    "lat": 9.77115,
+    "lng": -70.61445,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129173,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Juan Vicente Campo Elías",
+    "fullName": "Municipio Juan Vicente Campo Elías",
+    "lat": 9.39347,
+    "lng": -70.06035,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129264,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "La Ceiba",
+    "fullName": "Municipio La Ceiba",
+    "lat": 9.47139,
+    "lng": -71.01419,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129194,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": "Municipio Miranda",
+    "lat": 9.47447,
+    "lng": -70.73385,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129239,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Monte Carmelo",
+    "fullName": "Municipio Monte Carmelo",
+    "lat": 9.18583,
+    "lng": -70.81561,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129168,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Motatán",
+    "fullName": "Municipio Motatán",
+    "lat": 9.39002,
+    "lng": -70.59119,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129164,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Pampán",
+    "fullName": "Municipio Pampán",
+    "lat": 9.44475,
+    "lng": -70.47759,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131505,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Pampanito",
+    "fullName": "Municipio Pampanito",
+    "lat": 9.41147,
+    "lng": -70.49592,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129253,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Rafael Rangel",
+    "fullName": "Municipio Rafael Rangel",
+    "lat": 9.37568,
+    "lng": -70.73131,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131506,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "San Rafael de Carvajal",
+    "fullName": "Municipio San Rafael de Carvajal",
+    "lat": 9.30756,
+    "lng": -70.58965,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129195,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 9.43399,
+    "lng": -70.77341,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625975,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Trujillo",
+    "fullName": "Municipio Trujillo",
+    "lat": 9.5,
+    "lng": -70.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625661,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Urdaneta",
+    "fullName": "Municipio Urdaneta",
+    "lat": 9.08333,
+    "lng": -70.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625541,
+    "parentId": 3625974,
+    "country": "VE",
+    "name": "Valera",
+    "fullName": "Municipio Valera",
+    "lat": 9.3206,
+    "lng": -70.60776,
+    "tz": "America/Caracas"
+  }
+]

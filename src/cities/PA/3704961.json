@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3708907,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Guararé",
+    "fullName": null,
+    "lat": 7.77021,
+    "lng": -80.37515,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3706205,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Las Tablas",
+    "fullName": null,
+    "lat": 7.64843,
+    "lng": -80.29933,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3704962,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Los Santos",
+    "fullName": null,
+    "lat": 7.88333,
+    "lng": -80.45,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3704872,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Macaracas",
+    "fullName": null,
+    "lat": 7.65817,
+    "lng": -80.53526,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703237,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Pedasí",
+    "fullName": null,
+    "lat": 7.48528,
+    "lng": -80.12747,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3702627,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Pocrí",
+    "fullName": null,
+    "lat": 7.63721,
+    "lng": -80.1647,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3700535,
+    "parentId": 3704961,
+    "country": "PA",
+    "name": "Distrito de Tonosí",
+    "fullName": null,
+    "lat": 7.43597,
+    "lng": -80.45828,
+    "tz": "America/Panama"
+  }
+]

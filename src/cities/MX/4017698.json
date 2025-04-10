@@ -1,0 +1,52 @@
+[
+  {
+    "id": 6942829,
+    "parentId": 4017698,
+    "country": "MX",
+    "name": "Comondú",
+    "fullName": null,
+    "lat": 26.06667,
+    "lng": -111.81666,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 6942826,
+    "parentId": 4017698,
+    "country": "MX",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": 24.13333,
+    "lng": -110.3,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 6942825,
+    "parentId": 4017698,
+    "country": "MX",
+    "name": "Loreto",
+    "fullName": null,
+    "lat": 25.95496,
+    "lng": -111.45042,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 6941773,
+    "parentId": 4017698,
+    "country": "MX",
+    "name": "Los Cabos",
+    "fullName": null,
+    "lat": 23.27663,
+    "lng": -109.75322,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 6942828,
+    "parentId": 4017698,
+    "country": "MX",
+    "name": "Mulegé",
+    "fullName": null,
+    "lat": 26.6,
+    "lng": -112.33333,
+    "tz": "America/Mazatlan"
+  }
+]

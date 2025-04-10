@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3865906,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Ambato",
+    "fullName": "Departamento de Ambato",
+    "lat": -28,
+    "lng": -65.91667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3865829,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Ancasti",
+    "fullName": "Departamento de Ancasti",
+    "lat": -29,
+    "lng": -65.5,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3865801,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Andalgalá",
+    "fullName": "Departamento de Andalgalá",
+    "lat": -27.58333,
+    "lng": -66.46667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3865661,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Antofagasta de la Sierra",
+    "fullName": "Departamento de Antofagasta de la Sierra",
+    "lat": -26,
+    "lng": -67.58333,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3864427,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Belén",
+    "fullName": "Departamento de Belén",
+    "lat": -27.08333,
+    "lng": -66.91667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3862771,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Capayán",
+    "fullName": "Departamento de Capayán",
+    "lat": -28.83333,
+    "lng": -66,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3862746,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -28.41667,
+    "lng": -65.8,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3858933,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "El Alto",
+    "fullName": "Departamento de El Alto",
+    "lat": -28.41667,
+    "lng": -65.41667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3855367,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Fray Mamerto Esquiú",
+    "fullName": "Departamento de Fray Mamerto Esquiú",
+    "lat": -28.3,
+    "lng": -65.75,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3849514,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "La Paz",
+    "fullName": "Departamento de La Paz",
+    "lat": -29.25,
+    "lng": -65.25,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3842418,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Paclín",
+    "fullName": "Departamento de Paclín",
+    "lat": -28.08333,
+    "lng": -65.66667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3840808,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Pomán",
+    "fullName": "Departamento de Pomán",
+    "lat": -28.25,
+    "lng": -66.41667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3836129,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Santa María",
+    "fullName": "Departamento de Santa María",
+    "lat": -26.66667,
+    "lng": -66.41667,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3835985,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Santa Rosa",
+    "fullName": "Departamento de Santa Rosa",
+    "lat": -28.08333,
+    "lng": -65.25,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3834360,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Tinogasta",
+    "fullName": "Departamento de Tinogasta",
+    "lat": -27.5,
+    "lng": -68,
+    "tz": "America/Argentina/Catamarca"
+  },
+  {
+    "id": 3833198,
+    "parentId": 3862286,
+    "country": "AR",
+    "name": "Valle Viejo",
+    "fullName": "Departamento de Valle Viejo",
+    "lat": -28.58333,
+    "lng": -65.75,
+    "tz": "America/Argentina/Catamarca"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 6942830,
+    "parentId": 4017700,
+    "country": "MX",
+    "name": "Ensenada",
+    "fullName": null,
+    "lat": 31.86667,
+    "lng": -116.61666,
+    "tz": "America/Tijuana"
+  },
+  {
+    "id": 6942831,
+    "parentId": 4017700,
+    "country": "MX",
+    "name": "Mexicali",
+    "fullName": null,
+    "lat": 32.50513,
+    "lng": -115.14771,
+    "tz": "America/Tijuana"
+  },
+  {
+    "id": 6942834,
+    "parentId": 4017700,
+    "country": "MX",
+    "name": "Playas de Rosarito",
+    "fullName": null,
+    "lat": 32.34342,
+    "lng": -117.03186,
+    "tz": "America/Tijuana"
+  },
+  {
+    "id": 6942832,
+    "parentId": 4017700,
+    "country": "MX",
+    "name": "Tecate",
+    "fullName": null,
+    "lat": 32.55029,
+    "lng": -116.63223,
+    "tz": "America/Tijuana"
+  },
+  {
+    "id": 6942833,
+    "parentId": 4017700,
+    "country": "MX",
+    "name": "Tijuana",
+    "fullName": null,
+    "lat": 32.50223,
+    "lng": -116.97212,
+    "tz": "America/Tijuana"
+  }
+]

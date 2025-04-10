@@ -1,0 +1,242 @@
+[
+    {
+        "id": 3435907,
+        "parentId": null,
+        "country": "AR",
+        "name": "Buenos Aires",
+        "fullName": null,
+        "lat": -36,
+        "lng": -60,
+        "tz": "America/Argentina/Buenos_Aires"
+    },
+    {
+        "id": 3862286,
+        "parentId": null,
+        "country": "AR",
+        "name": "Catamarca",
+        "fullName": "Catamarca Province",
+        "lat": -27,
+        "lng": -67,
+        "tz": "America/Argentina/Catamarca"
+    },
+    {
+        "id": 3861887,
+        "parentId": null,
+        "country": "AR",
+        "name": "Chaco",
+        "fullName": "Chaco Province",
+        "lat": -26.33333,
+        "lng": -60.5,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3861244,
+        "parentId": null,
+        "country": "AR",
+        "name": "Chubut",
+        "fullName": "Chubut Province",
+        "lat": -44,
+        "lng": -69,
+        "tz": "America/Argentina/Catamarca"
+    },
+    {
+        "id": 3433955,
+        "parentId": null,
+        "country": "AR",
+        "name": "Ciudad Autónoma de Buenos Aires",
+        "fullName": null,
+        "lat": -34.6,
+        "lng": -58.45,
+        "tz": "America/Argentina/Buenos_Aires"
+    },
+    {
+        "id": 3860255,
+        "parentId": null,
+        "country": "AR",
+        "name": "Córdoba",
+        "fullName": "Córdoba Province",
+        "lat": -32,
+        "lng": -64,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3435214,
+        "parentId": null,
+        "country": "AR",
+        "name": "Corrientes",
+        "fullName": "Corrientes Province",
+        "lat": -29,
+        "lng": -58,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3434137,
+        "parentId": null,
+        "country": "AR",
+        "name": "Entre Ríos",
+        "fullName": "Entre Ríos Province",
+        "lat": -32,
+        "lng": -59,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3433896,
+        "parentId": null,
+        "country": "AR",
+        "name": "Formosa",
+        "fullName": "Formosa Province",
+        "lat": -25,
+        "lng": -60,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3853404,
+        "parentId": null,
+        "country": "AR",
+        "name": "Jujuy",
+        "fullName": "Jujuy Province",
+        "lat": -23,
+        "lng": -66,
+        "tz": "America/Argentina/Jujuy"
+    },
+    {
+        "id": 3849574,
+        "parentId": null,
+        "country": "AR",
+        "name": "La Pampa",
+        "fullName": "La Pampa Province",
+        "lat": -37,
+        "lng": -66,
+        "tz": "America/Argentina/Salta"
+    },
+    {
+        "id": 3848949,
+        "parentId": null,
+        "country": "AR",
+        "name": "La Rioja",
+        "fullName": "La Rioja Province",
+        "lat": -29.58333,
+        "lng": -67,
+        "tz": "America/Argentina/La_Rioja"
+    },
+    {
+        "id": 3844419,
+        "parentId": null,
+        "country": "AR",
+        "name": "Mendoza",
+        "fullName": "Mendoza Province",
+        "lat": -34.5,
+        "lng": -68.5,
+        "tz": "America/Argentina/Mendoza"
+    },
+    {
+        "id": 3430657,
+        "parentId": null,
+        "country": "AR",
+        "name": "Misiones",
+        "fullName": "Misiones Province",
+        "lat": -26.81427,
+        "lng": -54.34387,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3843122,
+        "parentId": null,
+        "country": "AR",
+        "name": "Neuquén",
+        "fullName": "Neuquén Province",
+        "lat": -39,
+        "lng": -70,
+        "tz": "America/Argentina/Salta"
+    },
+    {
+        "id": 3838830,
+        "parentId": null,
+        "country": "AR",
+        "name": "Río Negro",
+        "fullName": "Río Negro Province",
+        "lat": -40,
+        "lng": -67,
+        "tz": "America/Argentina/Salta"
+    },
+    {
+        "id": 3838231,
+        "parentId": null,
+        "country": "AR",
+        "name": "Salta",
+        "fullName": "Salta Province",
+        "lat": -24.75806,
+        "lng": -65.43457,
+        "tz": "America/Argentina/Salta"
+    },
+    {
+        "id": 3837152,
+        "parentId": null,
+        "country": "AR",
+        "name": "San Juan",
+        "fullName": "San Juan Province",
+        "lat": -31,
+        "lng": -69,
+        "tz": "America/Argentina/San_Juan"
+    },
+    {
+        "id": 3837029,
+        "parentId": null,
+        "country": "AR",
+        "name": "San Luis",
+        "fullName": "San Luis Province",
+        "lat": -34,
+        "lng": -66,
+        "tz": "America/Argentina/San_Luis"
+    },
+    {
+        "id": 3836350,
+        "parentId": null,
+        "country": "AR",
+        "name": "Santa Cruz",
+        "fullName": "Santa Cruz Province",
+        "lat": -49,
+        "lng": -70,
+        "tz": "America/Argentina/Rio_Gallegos"
+    },
+    {
+        "id": 3836276,
+        "parentId": null,
+        "country": "AR",
+        "name": "Santa Fe",
+        "fullName": "Santa Fe Province",
+        "lat": -31,
+        "lng": -61,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3835868,
+        "parentId": null,
+        "country": "AR",
+        "name": "Santiago del Estero",
+        "fullName": "Santiago del Estero Province",
+        "lat": -28,
+        "lng": -63.5,
+        "tz": "America/Argentina/Cordoba"
+    },
+    {
+        "id": 3834450,
+        "parentId": null,
+        "country": "AR",
+        "name": "Tierra del Fuego",
+        "fullName": "Tierra del Fuego Province",
+        "lat": -54.5,
+        "lng": -67,
+        "tz": "America/Argentina/Ushuaia"
+    },
+    {
+        "id": 3833578,
+        "parentId": null,
+        "country": "AR",
+        "name": "Tucumán",
+        "fullName": "Tucumán Province",
+        "lat": -27,
+        "lng": -65.5,
+        "tz": "America/Argentina/Tucuman"
+    }
+]

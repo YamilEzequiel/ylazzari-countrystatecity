@@ -1,0 +1,152 @@
+[
+  {
+    "id": 6324249,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Alto Alegre",
+    "fullName": null,
+    "lat": 3.03093,
+    "lng": -62.76798,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319351,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Amajari",
+    "fullName": null,
+    "lat": 3.78089,
+    "lng": -62.52764,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319352,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Boa Vista",
+    "fullName": null,
+    "lat": 3.18861,
+    "lng": -60.61212,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319353,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Bonfim",
+    "fullName": null,
+    "lat": 2.69748,
+    "lng": -60.07479,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319354,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Cantá",
+    "fullName": null,
+    "lat": 2.22083,
+    "lng": -60.4366,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6324180,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Caracaraí",
+    "fullName": null,
+    "lat": 0.99087,
+    "lng": -61.4721,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319355,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Caroebe",
+    "fullName": null,
+    "lat": 1.21841,
+    "lng": -59.5129,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6324251,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Iracema",
+    "fullName": null,
+    "lat": 2.17885,
+    "lng": -61.66986,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319356,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Mucajaí",
+    "fullName": null,
+    "lat": 2.52958,
+    "lng": -62.0634,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319357,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Normandia",
+    "fullName": null,
+    "lat": 3.87847,
+    "lng": -60.04239,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319358,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Pacaraima",
+    "fullName": null,
+    "lat": 4.19782,
+    "lng": -60.86867,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6324181,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Rorainópolis",
+    "fullName": null,
+    "lat": 0.15636,
+    "lng": -60.89493,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319359,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "São João da Baliza",
+    "fullName": null,
+    "lat": 0.68182,
+    "lng": -59.84886,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319360,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "São Luiz",
+    "fullName": null,
+    "lat": 0.82963,
+    "lng": -60.12845,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319361,
+    "parentId": 3662560,
+    "country": "BR",
+    "name": "Uiramutã",
+    "fullName": null,
+    "lat": 4.65265,
+    "lng": -60.25188,
+    "tz": "America/Boa_Vista"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 9609529,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Colón",
+    "fullName": null,
+    "lat": 1.23137,
+    "lng": -76.96534,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609530,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Leguízamo",
+    "fullName": null,
+    "lat": 0.05683,
+    "lng": -75.05832,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674655,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Mocoa",
+    "fullName": null,
+    "lat": 1.2124,
+    "lng": -76.65437,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172321,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Orito",
+    "fullName": null,
+    "lat": 0.66822,
+    "lng": -76.93474,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172318,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Puerto Asís",
+    "fullName": null,
+    "lat": 0.46155,
+    "lng": -76.34227,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172316,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Puerto Caicedo",
+    "fullName": null,
+    "lat": 0.67635,
+    "lng": -76.41348,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6791991,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Puerto Guzmán",
+    "fullName": null,
+    "lat": 0.73047,
+    "lng": -75.90611,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172255,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 1.11155,
+    "lng": -76.83987,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179558,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "San Miguel",
+    "fullName": null,
+    "lat": 0.343,
+    "lng": -76.91,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172313,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 1.05363,
+    "lng": -77.03893,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172310,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Sibundoy",
+    "fullName": null,
+    "lat": 1.22956,
+    "lng": -76.90236,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172308,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Valle del Guamuez",
+    "fullName": null,
+    "lat": 0.3558,
+    "lng": -76.86734,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172306,
+    "parentId": 3671178,
+    "country": "CO",
+    "name": "Villagarzón",
+    "fullName": null,
+    "lat": 0.89663,
+    "lng": -76.72794,
+    "tz": "America/Bogota"
+  }
+]

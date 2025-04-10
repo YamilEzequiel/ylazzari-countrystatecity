@@ -1,0 +1,152 @@
+[
+  {
+    "id": 5551519,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Apache County",
+    "fullName": null,
+    "lat": 35.3956,
+    "lng": -109.48884,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5290270,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Cochise County",
+    "fullName": null,
+    "lat": 31.87957,
+    "lng": -109.75114,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5290307,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Coconino County",
+    "fullName": null,
+    "lat": 35.83873,
+    "lng": -111.7705,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5295877,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Gila County",
+    "fullName": null,
+    "lat": 33.79975,
+    "lng": -110.81174,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5296368,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Graham County",
+    "fullName": null,
+    "lat": 32.93272,
+    "lng": -109.88744,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5296837,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Greenlee County",
+    "fullName": null,
+    "lat": 33.21536,
+    "lng": -109.2401,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5301323,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "La Paz County",
+    "fullName": null,
+    "lat": 33.72926,
+    "lng": -113.98134,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5303754,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Maricopa County",
+    "fullName": null,
+    "lat": 33.34883,
+    "lng": -112.49123,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5305206,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Mohave County",
+    "fullName": null,
+    "lat": 35.70404,
+    "lng": -113.75791,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5306233,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Navajo County",
+    "fullName": null,
+    "lat": 35.39963,
+    "lng": -110.3214,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5308878,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Pima County",
+    "fullName": null,
+    "lat": 32.09738,
+    "lng": -111.78995,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5308916,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Pinal County",
+    "fullName": null,
+    "lat": 32.90431,
+    "lng": -111.34471,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5313135,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Santa Cruz County",
+    "fullName": null,
+    "lat": 31.526,
+    "lng": -110.84657,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5321860,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Yavapai County",
+    "fullName": null,
+    "lat": 34.59988,
+    "lng": -112.55387,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5322057,
+    "parentId": 5551752,
+    "country": "US",
+    "name": "Yuma County",
+    "fullName": null,
+    "lat": 32.7694,
+    "lng": -113.90556,
+    "tz": "America/Phoenix"
+  }
+]

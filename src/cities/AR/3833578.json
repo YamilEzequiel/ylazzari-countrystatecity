@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3863700,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Burruyacú",
+    "fullName": "Departamento de Burruyacú",
+    "lat": -26.5,
+    "lng": -64.91667,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3862748,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -26.82825,
+    "lng": -65.21126,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3861525,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Chicligasta",
+    "fullName": "Departamento de Chicligasta",
+    "lat": -27.33333,
+    "lng": -65.58333,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3859838,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Cruz Alta",
+    "fullName": "Departamento de Cruz Alta",
+    "lat": -26.91667,
+    "lng": -64.91667,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3855665,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Famaillá",
+    "fullName": "Departamento de Famaillá",
+    "lat": -26.91667,
+    "lng": -65.5,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3854723,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Graneros",
+    "fullName": "Departamento de Graneros",
+    "lat": -27.75,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715331,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Juan B. Alberdi",
+    "fullName": "Departamento de Juan B. Alberdi",
+    "lat": -27.59476,
+    "lng": -65.8278,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715302,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "La Cocha",
+    "fullName": "Departamento de La Cocha",
+    "lat": -27.77784,
+    "lng": -65.57109,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3847102,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Leales",
+    "fullName": "Departamento de Leales",
+    "lat": -27.2,
+    "lng": -65.08333,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715306,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Lules",
+    "fullName": "Departamento de Lules",
+    "lat": -26.92886,
+    "lng": -65.33848,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3843802,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Monteros",
+    "fullName": "Departamento de Monteros",
+    "lat": -27.16667,
+    "lng": -65.58333,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3838893,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Río Chico",
+    "fullName": "Departamento de Río Chico",
+    "lat": -27.43368,
+    "lng": -65.76671,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715303,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Simoca",
+    "fullName": "Departamento de Simoca",
+    "lat": -27.2636,
+    "lng": -65.35612,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715301,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Tafí del Valle",
+    "fullName": "Departamento de Tafí del Valle",
+    "lat": -26.85288,
+    "lng": -65.70951,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715304,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Tafí Viejo",
+    "fullName": "Departamento de Tafí Viejo",
+    "lat": -26.73241,
+    "lng": -65.25836,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 3833945,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Trancas",
+    "fullName": "Departamento de Trancas",
+    "lat": -26.41667,
+    "lng": -65.5,
+    "tz": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 8715305,
+    "parentId": 3833578,
+    "country": "AR",
+    "name": "Yerba Buena",
+    "fullName": "Departamento de Yerba Buena",
+    "lat": -26.81826,
+    "lng": -65.31733,
+    "tz": "America/Argentina/Tucuman"
+  }
+]

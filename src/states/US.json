@@ -1,0 +1,512 @@
+[
+  {
+    "id": 4829764,
+    "parentId": null,
+    "country": "US",
+    "name": "Alabama",
+    "fullName": null,
+    "lat": 32.75041,
+    "lng": -86.75026,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5879092,
+    "parentId": null,
+    "country": "US",
+    "name": "Alaska",
+    "fullName": null,
+    "lat": 64.00028,
+    "lng": -150.00028,
+    "tz": "America/Anchorage"
+  },
+  {
+    "id": 5551752,
+    "parentId": null,
+    "country": "US",
+    "name": "Arizona",
+    "fullName": null,
+    "lat": 34.5003,
+    "lng": -111.50098,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 4099753,
+    "parentId": null,
+    "country": "US",
+    "name": "Arkansas",
+    "fullName": null,
+    "lat": 34.75037,
+    "lng": -92.50044,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5332921,
+    "parentId": null,
+    "country": "US",
+    "name": "California",
+    "fullName": null,
+    "lat": 37.25022,
+    "lng": -119.75126,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5417618,
+    "parentId": null,
+    "country": "US",
+    "name": "Colorado",
+    "fullName": null,
+    "lat": 39.00027,
+    "lng": -105.50083,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 4831725,
+    "parentId": null,
+    "country": "US",
+    "name": "Connecticut",
+    "fullName": null,
+    "lat": 41.66704,
+    "lng": -72.66648,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4142224,
+    "parentId": null,
+    "country": "US",
+    "name": "Delaware",
+    "fullName": null,
+    "lat": 39.00039,
+    "lng": -75.49992,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4138106,
+    "parentId": null,
+    "country": "US",
+    "name": "District of Columbia",
+    "fullName": null,
+    "lat": 38.91706,
+    "lng": -77.00025,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4155751,
+    "parentId": null,
+    "country": "US",
+    "name": "Florida",
+    "fullName": null,
+    "lat": 28.75054,
+    "lng": -82.5001,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4197000,
+    "parentId": null,
+    "country": "US",
+    "name": "Georgia",
+    "fullName": null,
+    "lat": 32.75042,
+    "lng": -83.50018,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5855797,
+    "parentId": null,
+    "country": "US",
+    "name": "Hawaii",
+    "fullName": null,
+    "lat": 20.78785,
+    "lng": -156.38612,
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "id": 5596512,
+    "parentId": null,
+    "country": "US",
+    "name": "Idaho",
+    "fullName": null,
+    "lat": 44.5002,
+    "lng": -114.25118,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 4896861,
+    "parentId": null,
+    "country": "US",
+    "name": "Illinois",
+    "fullName": null,
+    "lat": 40.00032,
+    "lng": -89.25037,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4921868,
+    "parentId": null,
+    "country": "US",
+    "name": "Indiana",
+    "fullName": null,
+    "lat": 40.00032,
+    "lng": -86.25027,
+    "tz": "America/Indiana/Indianapolis"
+  },
+  {
+    "id": 4862182,
+    "parentId": null,
+    "country": "US",
+    "name": "Iowa",
+    "fullName": null,
+    "lat": 42.00027,
+    "lng": -93.50049,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4273857,
+    "parentId": null,
+    "country": "US",
+    "name": "Kansas",
+    "fullName": null,
+    "lat": 38.50029,
+    "lng": -98.50063,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 6254925,
+    "parentId": null,
+    "country": "US",
+    "name": "Kentucky",
+    "fullName": null,
+    "lat": 38.20042,
+    "lng": -84.87762,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4331987,
+    "parentId": null,
+    "country": "US",
+    "name": "Louisiana",
+    "fullName": null,
+    "lat": 31.00047,
+    "lng": -92.0004,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4971068,
+    "parentId": null,
+    "country": "US",
+    "name": "Maine",
+    "fullName": null,
+    "lat": 45.50032,
+    "lng": -69.24977,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4361885,
+    "parentId": null,
+    "country": "US",
+    "name": "Maryland",
+    "fullName": null,
+    "lat": 39.00039,
+    "lng": -76.74997,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 6254926,
+    "parentId": null,
+    "country": "US",
+    "name": "Massachusetts",
+    "fullName": null,
+    "lat": 42.36565,
+    "lng": -71.10832,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5001836,
+    "parentId": null,
+    "country": "US",
+    "name": "Michigan",
+    "fullName": null,
+    "lat": 44.25029,
+    "lng": -85.50033,
+    "tz": "America/Detroit"
+  },
+  {
+    "id": 5037779,
+    "parentId": null,
+    "country": "US",
+    "name": "Minnesota",
+    "fullName": null,
+    "lat": 46.25024,
+    "lng": -94.25055,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4436296,
+    "parentId": null,
+    "country": "US",
+    "name": "Mississippi",
+    "fullName": null,
+    "lat": 32.75041,
+    "lng": -89.75036,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4398678,
+    "parentId": null,
+    "country": "US",
+    "name": "Missouri",
+    "fullName": null,
+    "lat": 38.25031,
+    "lng": -92.50046,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5667009,
+    "parentId": null,
+    "country": "US",
+    "name": "Montana",
+    "fullName": null,
+    "lat": 47.00025,
+    "lng": -109.75102,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5073708,
+    "parentId": null,
+    "country": "US",
+    "name": "Nebraska",
+    "fullName": null,
+    "lat": 41.50028,
+    "lng": -99.75067,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5509151,
+    "parentId": null,
+    "country": "US",
+    "name": "Nevada",
+    "fullName": null,
+    "lat": 39.25021,
+    "lng": -116.75119,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5090174,
+    "parentId": null,
+    "country": "US",
+    "name": "New Hampshire",
+    "fullName": null,
+    "lat": 43.66702,
+    "lng": -71.4998,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5101760,
+    "parentId": null,
+    "country": "US",
+    "name": "New Jersey",
+    "fullName": null,
+    "lat": 40.16706,
+    "lng": -74.49987,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5481136,
+    "parentId": null,
+    "country": "US",
+    "name": "New Mexico",
+    "fullName": null,
+    "lat": 34.50034,
+    "lng": -106.00085,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5128638,
+    "parentId": null,
+    "country": "US",
+    "name": "New York",
+    "fullName": null,
+    "lat": 43.00035,
+    "lng": -75.4999,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4482348,
+    "parentId": null,
+    "country": "US",
+    "name": "North Carolina",
+    "fullName": null,
+    "lat": 35.50069,
+    "lng": -80.00032,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5690763,
+    "parentId": null,
+    "country": "US",
+    "name": "North Dakota",
+    "fullName": null,
+    "lat": 47.50027,
+    "lng": -100.00068,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5165418,
+    "parentId": null,
+    "country": "US",
+    "name": "Ohio",
+    "fullName": null,
+    "lat": 40.25034,
+    "lng": -83.00018,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4544379,
+    "parentId": null,
+    "country": "US",
+    "name": "Oklahoma",
+    "fullName": null,
+    "lat": 35.49209,
+    "lng": -97.50328,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5744337,
+    "parentId": null,
+    "country": "US",
+    "name": "Oregon",
+    "fullName": null,
+    "lat": 44.00013,
+    "lng": -120.50139,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 6254927,
+    "parentId": null,
+    "country": "US",
+    "name": "Pennsylvania",
+    "fullName": null,
+    "lat": 40.8,
+    "lng": -77.7,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5224323,
+    "parentId": null,
+    "country": "US",
+    "name": "Rhode Island",
+    "fullName": null,
+    "lat": 41.75038,
+    "lng": -71.49978,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4597040,
+    "parentId": null,
+    "country": "US",
+    "name": "South Carolina",
+    "fullName": null,
+    "lat": 34.00043,
+    "lng": -81.00009,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5769223,
+    "parentId": null,
+    "country": "US",
+    "name": "South Dakota",
+    "fullName": null,
+    "lat": 44.50026,
+    "lng": -100.25069,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4662168,
+    "parentId": null,
+    "country": "US",
+    "name": "Tennessee",
+    "fullName": null,
+    "lat": 35.75035,
+    "lng": -86.25027,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4736286,
+    "parentId": null,
+    "country": "US",
+    "name": "Texas",
+    "fullName": null,
+    "lat": 31.25044,
+    "lng": -99.25061,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5549030,
+    "parentId": null,
+    "country": "US",
+    "name": "Utah",
+    "fullName": null,
+    "lat": 39.25024,
+    "lng": -111.75103,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5242283,
+    "parentId": null,
+    "country": "US",
+    "name": "Vermont",
+    "fullName": null,
+    "lat": 44.00034,
+    "lng": -72.74983,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 6254928,
+    "parentId": null,
+    "country": "US",
+    "name": "Virginia",
+    "fullName": null,
+    "lat": 37.54812,
+    "lng": -77.44675,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5815135,
+    "parentId": null,
+    "country": "US",
+    "name": "Washington",
+    "fullName": null,
+    "lat": 47.50012,
+    "lng": -120.50147,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 4826850,
+    "parentId": null,
+    "country": "US",
+    "name": "West Virginia",
+    "fullName": null,
+    "lat": 38.50038,
+    "lng": -80.50009,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5279468,
+    "parentId": null,
+    "country": "US",
+    "name": "Wisconsin",
+    "fullName": null,
+    "lat": 44.50024,
+    "lng": -90.00041,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5843591,
+    "parentId": null,
+    "country": "US",
+    "name": "Wyoming",
+    "fullName": null,
+    "lat": 43.00024,
+    "lng": -107.5009,
+    "tz": "America/Denver"
+  }
+]

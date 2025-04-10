@@ -1,0 +1,752 @@
+[
+  {
+    "id": 3472306,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Amparo de São Francisco",
+    "fullName": null,
+    "lat": -10.13736,
+    "lng": -36.92219,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3471899,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Aquidabã",
+    "fullName": null,
+    "lat": -10.31619,
+    "lng": -37.10451,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320682,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Aracaju",
+    "fullName": null,
+    "lat": -10.98232,
+    "lng": -37.10333,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320683,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Arauá",
+    "fullName": null,
+    "lat": -11.24377,
+    "lng": -37.56948,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320684,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Areia Branca",
+    "fullName": null,
+    "lat": -10.74259,
+    "lng": -37.30123,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320685,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Barra dos Coqueiros",
+    "fullName": null,
+    "lat": -10.82766,
+    "lng": -36.9609,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320686,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Boquim",
+    "fullName": null,
+    "lat": -11.1311,
+    "lng": -37.60944,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320687,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Brejo Grande",
+    "fullName": null,
+    "lat": -10.49241,
+    "lng": -36.45883,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3467779,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Campo do Brito",
+    "fullName": null,
+    "lat": -10.77217,
+    "lng": -37.50532,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3467499,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Canhoba",
+    "fullName": null,
+    "lat": -10.14847,
+    "lng": -37.00031,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6319169,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Canindé de São Francisco",
+    "fullName": null,
+    "lat": -9.71078,
+    "lng": -37.94572,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320688,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Capela",
+    "fullName": null,
+    "lat": -10.4283,
+    "lng": -37.05673,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3466940,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Carira",
+    "fullName": null,
+    "lat": -10.36555,
+    "lng": -37.7499,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320689,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Carmópolis",
+    "fullName": null,
+    "lat": -10.6671,
+    "lng": -36.95751,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3466498,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Cedro de São João",
+    "fullName": null,
+    "lat": -10.28046,
+    "lng": -36.8883,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320690,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Cristinápolis",
+    "fullName": null,
+    "lat": -11.49511,
+    "lng": -37.71949,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3465015,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Cumbe",
+    "fullName": null,
+    "lat": -10.34959,
+    "lng": -37.17665,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320691,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Divina Pastora",
+    "fullName": null,
+    "lat": -10.67935,
+    "lng": -37.16817,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320692,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Estância",
+    "fullName": null,
+    "lat": -11.23831,
+    "lng": -37.42046,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324315,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Feira Nova",
+    "fullName": null,
+    "lat": -10.31724,
+    "lng": -37.3385,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3462943,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Frei Paulo",
+    "fullName": null,
+    "lat": -10.52224,
+    "lng": -37.58028,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3462581,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Gararu",
+    "fullName": null,
+    "lat": -10.05731,
+    "lng": -37.25272,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320693,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "General Maynard",
+    "fullName": null,
+    "lat": -10.69412,
+    "lng": -36.98304,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324316,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Gracho Cardoso",
+    "fullName": null,
+    "lat": -10.235,
+    "lng": -37.20389,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320694,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Ilha das Flores",
+    "fullName": null,
+    "lat": -10.44455,
+    "lng": -36.56429,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320695,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Indiaroba",
+    "fullName": null,
+    "lat": -11.48154,
+    "lng": -37.52838,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320696,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Itabaiana",
+    "fullName": null,
+    "lat": -10.68652,
+    "lng": -37.42769,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3460970,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Itabaianinha",
+    "fullName": null,
+    "lat": -11.26994,
+    "lng": -37.79205,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3460961,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Itabi",
+    "fullName": null,
+    "lat": -10.10882,
+    "lng": -37.20004,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320697,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Itaporanga d'Ajuda",
+    "fullName": null,
+    "lat": -11.07087,
+    "lng": -37.33296,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320698,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Japaratuba",
+    "fullName": null,
+    "lat": -10.52889,
+    "lng": -36.88014,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324317,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Japoatã",
+    "fullName": null,
+    "lat": -10.42246,
+    "lng": -36.82299,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3459337,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Lagarto",
+    "fullName": null,
+    "lat": -10.89844,
+    "lng": -37.67993,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320699,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Laranjeiras",
+    "fullName": null,
+    "lat": -10.807,
+    "lng": -37.16896,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3458255,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Macambira",
+    "fullName": null,
+    "lat": -10.68545,
+    "lng": -37.60003,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320700,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Malhada dos Bois",
+    "fullName": null,
+    "lat": -10.32806,
+    "lng": -36.93573,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320701,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Malhador",
+    "fullName": null,
+    "lat": -10.69202,
+    "lng": -37.26914,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320702,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Maruim",
+    "fullName": null,
+    "lat": -10.72692,
+    "lng": -37.11022,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320703,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Moita Bonita",
+    "fullName": null,
+    "lat": -10.59078,
+    "lng": -37.33633,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3456878,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Monte Alegre de Sergipe",
+    "fullName": null,
+    "lat": -10.07263,
+    "lng": -37.6047,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320704,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Muribeca",
+    "fullName": null,
+    "lat": -10.38925,
+    "lng": -36.97628,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3393936,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Neópolis",
+    "fullName": null,
+    "lat": -10.35698,
+    "lng": -36.6687,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320705,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Nossa Senhora Aparecida",
+    "fullName": null,
+    "lat": -10.29846,
+    "lng": -37.48812,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3456239,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Nossa Senhora da Glória",
+    "fullName": null,
+    "lat": -10.19293,
+    "lng": -37.53292,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3456233,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Nossa Senhora das Dores",
+    "fullName": null,
+    "lat": -10.45356,
+    "lng": -37.24677,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320706,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Nossa Senhora de Lourdes",
+    "fullName": null,
+    "lat": -10.10241,
+    "lng": -37.02768,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320707,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Nossa Senhora do Socorro",
+    "fullName": null,
+    "lat": -10.86439,
+    "lng": -37.17333,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324258,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Pacatuba",
+    "fullName": null,
+    "lat": -10.49466,
+    "lng": -36.60382,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324318,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Pedra Mole",
+    "fullName": null,
+    "lat": -10.6649,
+    "lng": -37.68505,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320708,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Pedrinhas",
+    "fullName": null,
+    "lat": -11.21666,
+    "lng": -37.65664,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3453776,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Pinhão",
+    "fullName": null,
+    "lat": -10.57105,
+    "lng": -37.78582,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320709,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Pirambu",
+    "fullName": null,
+    "lat": -10.69075,
+    "lng": -36.84859,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3391608,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Poço Redondo",
+    "fullName": null,
+    "lat": -9.88033,
+    "lng": -37.77612,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3453298,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Poço Verde",
+    "fullName": null,
+    "lat": -10.81636,
+    "lng": -38.15053,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3391393,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Porto da Folha",
+    "fullName": null,
+    "lat": -9.98927,
+    "lng": -37.48059,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3452231,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Propriá",
+    "fullName": null,
+    "lat": -10.25379,
+    "lng": -36.78579,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3451475,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Riachão do Dantas",
+    "fullName": null,
+    "lat": -11.01281,
+    "lng": -37.78679,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320710,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Riachuelo",
+    "fullName": null,
+    "lat": -10.71605,
+    "lng": -37.22502,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3451304,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Ribeirópolis",
+    "fullName": null,
+    "lat": -10.52176,
+    "lng": -37.37833,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320711,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Rosário do Catete",
+    "fullName": null,
+    "lat": -10.68551,
+    "lng": -37.03447,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320712,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Salgado",
+    "fullName": null,
+    "lat": -11.07448,
+    "lng": -37.46783,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320713,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Santa Luzia do Itanhy",
+    "fullName": null,
+    "lat": -11.36149,
+    "lng": -37.47848,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320715,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Santa Rosa de Lima",
+    "fullName": null,
+    "lat": -10.63139,
+    "lng": -37.22866,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320714,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Santana do São Francisco",
+    "fullName": null,
+    "lat": -10.27648,
+    "lng": -36.63314,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320716,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Santo Amaro das Brotas",
+    "fullName": null,
+    "lat": -10.7773,
+    "lng": -36.95834,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320717,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "São Cristóvão",
+    "fullName": null,
+    "lat": -10.94452,
+    "lng": -37.24115,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324319,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "São Domingos",
+    "fullName": null,
+    "lat": -10.78191,
+    "lng": -37.56218,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324371,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "São Francisco",
+    "fullName": null,
+    "lat": -10.33062,
+    "lng": -36.8639,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6324320,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "São Miguel do Aleixo",
+    "fullName": null,
+    "lat": -10.36859,
+    "lng": -37.35856,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3447561,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Simão Dias",
+    "fullName": null,
+    "lat": -10.71163,
+    "lng": -37.77142,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320718,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Siriri",
+    "fullName": null,
+    "lat": -10.58724,
+    "lng": -37.12123,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320719,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Telha",
+    "fullName": null,
+    "lat": -10.17943,
+    "lng": -36.86754,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3446399,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Tobias Barreto",
+    "fullName": null,
+    "lat": -11.07792,
+    "lng": -38.02178,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3446362,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Tomar do Geru",
+    "fullName": null,
+    "lat": -11.37415,
+    "lng": -37.87537,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320720,
+    "parentId": 3447799,
+    "country": "BR",
+    "name": "Umbaúba",
+    "fullName": null,
+    "lat": -11.40045,
+    "lng": -37.6627,
+    "tz": "America/Bahia"
+  }
+]

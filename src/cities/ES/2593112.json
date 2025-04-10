@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2521419,
+    "parentId": 2593112,
+    "country": "ES",
+    "name": "Badajoz",
+    "fullName": "Provincia de Badajoz",
+    "lat": 38.66667,
+    "lng": -6.16667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2520610,
+    "parentId": 2593112,
+    "country": "ES",
+    "name": "Cáceres",
+    "fullName": "Provincia de Cáceres",
+    "lat": 39.52205,
+    "lng": -6.37482,
+    "tz": "Europe/Madrid"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9862218,
+    "parentId": 7303686,
+    "country": "PA",
+    "name": "Cémaco",
+    "fullName": null,
+    "lat": 8.08285,
+    "lng": -77.5421,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9857626,
+    "parentId": 7303686,
+    "country": "PA",
+    "name": "Sambú",
+    "fullName": null,
+    "lat": 7.82013,
+    "lng": -78.11005,
+    "tz": "America/Panama"
+  }
+]

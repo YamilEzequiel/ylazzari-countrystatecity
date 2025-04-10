@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3899358,
+    "parentId": 6693562,
+    "country": "CL",
+    "name": "Arica",
+    "fullName": "Provincia de Arica",
+    "lat": -18.70643,
+    "lng": -69.85607,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181709,
+    "parentId": 6693562,
+    "country": "CL",
+    "name": "Parinacota",
+    "fullName": "Provincia de Parinacota",
+    "lat": -18.19804,
+    "lng": -69.57161,
+    "tz": "America/Santiago"
+  }
+]

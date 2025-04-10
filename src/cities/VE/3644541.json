@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3649210,
+    "parentId": 3644541,
+    "country": "VE",
+    "name": "Antonio Díaz",
+    "fullName": "Municipio Antonio Díaz",
+    "lat": 8.5,
+    "lng": -60.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131431,
+    "parentId": 3644541,
+    "country": "VE",
+    "name": "Casacoima",
+    "fullName": "Municipio Casacoima",
+    "lat": 8.44011,
+    "lng": -62.45968,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129232,
+    "parentId": 3644541,
+    "country": "VE",
+    "name": "Pedernales",
+    "fullName": "Municipio Pedernales",
+    "lat": 9.96982,
+    "lng": -62.25408,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625927,
+    "parentId": 3644541,
+    "country": "VE",
+    "name": "Tucupita",
+    "fullName": "Municipio Tucupita",
+    "lat": 9.30889,
+    "lng": -61.7134,
+    "tz": "America/Caracas"
+  }
+]

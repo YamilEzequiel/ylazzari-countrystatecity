@@ -1,0 +1,142 @@
+[
+  {
+    "id": 5233146,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Addison County",
+    "fullName": null,
+    "lat": 44.03091,
+    "lng": -73.14094,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5233748,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Bennington County",
+    "fullName": null,
+    "lat": 43.03546,
+    "lng": -73.09295,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5234484,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Caledonia County",
+    "fullName": null,
+    "lat": 44.46472,
+    "lng": -72.10219,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5234861,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Chittenden County",
+    "fullName": null,
+    "lat": 44.46098,
+    "lng": -73.08092,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5235945,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Essex County",
+    "fullName": null,
+    "lat": 44.72779,
+    "lng": -71.73605,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5236279,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 44.85748,
+    "lng": -72.912,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5236542,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Grand Isle County",
+    "fullName": null,
+    "lat": 44.79683,
+    "lng": -73.29483,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5237839,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Lamoille County",
+    "fullName": null,
+    "lat": 44.60576,
+    "lng": -72.64145,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5239504,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Orange County",
+    "fullName": null,
+    "lat": 44.0056,
+    "lng": -72.37661,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5239520,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Orleans County",
+    "fullName": null,
+    "lat": 44.82881,
+    "lng": -72.24381,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5240516,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Rutland County",
+    "fullName": null,
+    "lat": 43.58009,
+    "lng": -73.03661,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5242529,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 44.27342,
+    "lng": -72.6149,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5243051,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Windham County",
+    "fullName": null,
+    "lat": 42.99059,
+    "lng": -72.71384,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5243062,
+    "parentId": 5242283,
+    "country": "US",
+    "name": "Windsor County",
+    "fullName": null,
+    "lat": 43.58,
+    "lng": -72.58624,
+    "tz": "America/New_York"
+  }
+]

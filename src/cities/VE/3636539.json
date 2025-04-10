@@ -1,0 +1,92 @@
+[
+  {
+    "id": 8129228,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Andrés Eloy Blanco",
+    "fullName": "Municipio Andrés Eloy Blanco",
+    "lat": 9.75145,
+    "lng": -69.65318,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3644947,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Crespo",
+    "fullName": "Municipio Crespo",
+    "lat": 10.3,
+    "lng": -69.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639346,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Iribarren",
+    "fullName": "Municipio Iribarren",
+    "lat": 10.08333,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639197,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Jiménez",
+    "fullName": "Municipio Jiménez",
+    "lat": 9.8,
+    "lng": -69.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631972,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Morán",
+    "fullName": "Municipio Morán",
+    "lat": 9.66667,
+    "lng": -69.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631101,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Palavecino",
+    "fullName": "Municipio Palavecino",
+    "lat": 9.83333,
+    "lng": -69.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129183,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Simón Planas",
+    "fullName": "Municipio Simón Planas",
+    "lat": 9.78129,
+    "lng": -69.1633,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626083,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Torres",
+    "fullName": "Municipio Torres",
+    "lat": 10.16667,
+    "lng": -70.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625657,
+    "parentId": 3636539,
+    "country": "VE",
+    "name": "Urdaneta",
+    "fullName": "Municipio Urdaneta",
+    "lat": 10.5,
+    "lng": -69.66667,
+    "tz": "America/Caracas"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3865174,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Ayacucho",
+    "fullName": "Departamento de Ayacucho",
+    "lat": -32.16667,
+    "lng": -66.58333,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3864411,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Belgrano",
+    "fullName": "Departamento de Belgrano",
+    "lat": -32.75,
+    "lng": -66.75,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3861949,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Chacabuco",
+    "fullName": "Departamento de Chacabuco",
+    "lat": -32.75,
+    "lng": -65.25,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3840260,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Coronel Pringles",
+    "fullName": null,
+    "lat": -33.08333,
+    "lng": -65.83333,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3855076,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "General Pedernera",
+    "fullName": "Departamento de General Pedernera",
+    "lat": -33.83333,
+    "lng": -65.58333,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3854968,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Gobernador Vicente Dupuy",
+    "fullName": "Departamento de Gobernador Vicente Dupuy",
+    "lat": -35.33333,
+    "lng": -65.83333,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 10231161,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Juan Martín de Pueyrredón",
+    "fullName": null,
+    "lat": -33.27544,
+    "lng": -66.32017,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3853353,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Junín",
+    "fullName": "Departamento de Junín",
+    "lat": -32.25,
+    "lng": -65.33333,
+    "tz": "America/Argentina/San_Luis"
+  },
+  {
+    "id": 3836983,
+    "parentId": 3837029,
+    "country": "AR",
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento de Libertador General San Martín",
+    "lat": -32.66667,
+    "lng": -65.66667,
+    "tz": "America/Argentina/San_Luis"
+  }
+]

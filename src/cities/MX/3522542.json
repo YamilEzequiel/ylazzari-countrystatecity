@@ -1,0 +1,512 @@
+[
+  {
+    "id": 8582422,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Abasolo",
+    "fullName": null,
+    "lat": 25.94782,
+    "lng": -100.40521,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582423,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Agualeguas",
+    "fullName": null,
+    "lat": 26.30559,
+    "lng": -99.64489,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582425,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Allende",
+    "fullName": null,
+    "lat": 25.30539,
+    "lng": -100.00649,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582426,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Anáhuac",
+    "fullName": null,
+    "lat": 27.29545,
+    "lng": -100.12292,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8582427,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Apodaca",
+    "fullName": null,
+    "lat": 25.79002,
+    "lng": -100.18639,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582428,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Aramberri",
+    "fullName": null,
+    "lat": 24.22304,
+    "lng": -99.82752,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582429,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Bustamante",
+    "fullName": null,
+    "lat": 26.55567,
+    "lng": -100.50603,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582430,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Cadereyta Jiménez",
+    "fullName": null,
+    "lat": 25.48866,
+    "lng": -99.96078,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582432,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Cerralvo",
+    "fullName": null,
+    "lat": 26.09766,
+    "lng": -99.6534,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582434,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "China",
+    "fullName": null,
+    "lat": 25.51224,
+    "lng": -99.00457,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582433,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Ciénega de Flores",
+    "fullName": null,
+    "lat": 25.96341,
+    "lng": -100.17319,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582435,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Doctor Arroyo",
+    "fullName": null,
+    "lat": 23.79735,
+    "lng": -100.28746,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582436,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Doctor Coss",
+    "fullName": null,
+    "lat": 25.96633,
+    "lng": -99.04869,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582437,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Doctor González",
+    "fullName": null,
+    "lat": 25.84081,
+    "lng": -99.83125,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582431,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "El Carmen",
+    "fullName": null,
+    "lat": 25.8913,
+    "lng": -100.35101,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582438,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Galeana",
+    "fullName": null,
+    "lat": 24.8504,
+    "lng": -100.3695,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582439,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "García",
+    "fullName": null,
+    "lat": 25.80693,
+    "lng": -100.61982,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582441,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Bravo",
+    "fullName": null,
+    "lat": 25.8077,
+    "lng": -98.89722,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582442,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Escobedo",
+    "fullName": null,
+    "lat": 25.82493,
+    "lng": -100.35796,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582443,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Terán",
+    "fullName": null,
+    "lat": 25.27271,
+    "lng": -99.48436,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582444,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Treviño",
+    "fullName": null,
+    "lat": 26.20425,
+    "lng": -99.46229,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582445,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Zaragoza",
+    "fullName": null,
+    "lat": 23.93525,
+    "lng": -99.72236,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582446,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "General Zuazua",
+    "fullName": null,
+    "lat": 25.88958,
+    "lng": -100.1365,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582447,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Guadalupe",
+    "fullName": null,
+    "lat": 25.68466,
+    "lng": -100.16095,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582467,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Hidalgo",
+    "fullName": null,
+    "lat": 25.98581,
+    "lng": -100.45219,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582290,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Higueras",
+    "fullName": null,
+    "lat": 25.9885,
+    "lng": -100.00301,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582449,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Hualahuises",
+    "fullName": null,
+    "lat": 24.88316,
+    "lng": -99.66981,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582450,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Iturbide",
+    "fullName": null,
+    "lat": 24.63158,
+    "lng": -99.8535,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582451,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Juárez",
+    "fullName": null,
+    "lat": 25.60368,
+    "lng": -100.11647,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582452,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Lampazos de Naranjo",
+    "fullName": null,
+    "lat": 27.01824,
+    "lng": -100.40405,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582453,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Linares",
+    "fullName": null,
+    "lat": 24.86323,
+    "lng": -99.56411,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582424,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Los Aldamas",
+    "fullName": null,
+    "lat": 26.11408,
+    "lng": -99.24107,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582448,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Los Herreras",
+    "fullName": null,
+    "lat": 25.91014,
+    "lng": -99.42046,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582462,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Los Ramones",
+    "fullName": null,
+    "lat": 25.6566,
+    "lng": -99.6024,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582454,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Marín",
+    "fullName": null,
+    "lat": 25.86051,
+    "lng": -100.01387,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581713,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Melchor Ocampo",
+    "fullName": null,
+    "lat": 26.05546,
+    "lng": -99.52153,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582456,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Mier y Noriega",
+    "fullName": null,
+    "lat": 23.42671,
+    "lng": -100.17282,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582457,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Mina",
+    "fullName": null,
+    "lat": 26.21706,
+    "lng": -100.76482,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582458,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Montemorelos",
+    "fullName": null,
+    "lat": 25.16697,
+    "lng": -99.8443,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582459,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Monterrey",
+    "fullName": null,
+    "lat": 25.57681,
+    "lng": -100.28394,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582460,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Parás",
+    "fullName": null,
+    "lat": 26.52531,
+    "lng": -99.58213,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582461,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Pesquería",
+    "fullName": null,
+    "lat": 25.75286,
+    "lng": -100.02212,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582463,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Rayones",
+    "fullName": null,
+    "lat": 25.09493,
+    "lng": -100.12951,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582464,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Sabinas Hidalgo",
+    "fullName": null,
+    "lat": 26.50192,
+    "lng": -100.11268,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582465,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Salinas Victoria",
+    "fullName": null,
+    "lat": 26.06895,
+    "lng": -100.27742,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582466,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "San Nicolás de los Garza",
+    "fullName": null,
+    "lat": 25.74167,
+    "lng": -100.30222,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582440,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "San Pedro Garza García",
+    "fullName": null,
+    "lat": 25.63105,
+    "lng": -100.38448,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582468,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Santa Catarina",
+    "fullName": null,
+    "lat": 25.60077,
+    "lng": -100.48196,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582469,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 25.41159,
+    "lng": -100.18593,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582470,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Vallecillo",
+    "fullName": null,
+    "lat": 26.55927,
+    "lng": -99.88109,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582471,
+    "parentId": 3522542,
+    "country": "MX",
+    "name": "Villaldama",
+    "fullName": null,
+    "lat": 26.47039,
+    "lng": -100.38726,
+    "tz": "America/Monterrey"
+  }
+]

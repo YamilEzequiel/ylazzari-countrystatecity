@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3649302,
+    "parentId": null,
+    "country": "VE",
+    "name": "Amazonas",
+    "fullName": "Estado Amazonas",
+    "lat": 3.5,
+    "lng": -66,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649198,
+    "parentId": null,
+    "country": "VE",
+    "name": "Anzoátegui",
+    "fullName": "Estado Anzoátegui",
+    "lat": 9,
+    "lng": -64.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649151,
+    "parentId": null,
+    "country": "VE",
+    "name": "Apure",
+    "fullName": "Estado Apure",
+    "lat": 7.16667,
+    "lng": -68.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649110,
+    "parentId": null,
+    "country": "VE",
+    "name": "Aragua",
+    "fullName": "Estado Aragua",
+    "lat": 10,
+    "lng": -67.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648544,
+    "parentId": null,
+    "country": "VE",
+    "name": "Barinas",
+    "fullName": "Estado Barinas",
+    "lat": 8.16667,
+    "lng": -69.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648106,
+    "parentId": null,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Estado Bolívar",
+    "lat": 6.33333,
+    "lng": -63.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646751,
+    "parentId": null,
+    "country": "VE",
+    "name": "Carabobo",
+    "fullName": "Estado Carabobo",
+    "lat": 10.16667,
+    "lng": -68.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3645386,
+    "parentId": null,
+    "country": "VE",
+    "name": "Cojedes",
+    "fullName": "Estado Cojedes",
+    "lat": 9.33333,
+    "lng": -68.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3644541,
+    "parentId": null,
+    "country": "VE",
+    "name": "Delta Amacuro",
+    "fullName": null,
+    "lat": 8.75,
+    "lng": -61.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640846,
+    "parentId": null,
+    "country": "VE",
+    "name": "Dependencias Federales",
+    "fullName": null,
+    "lat": 10.92346,
+    "lng": -65.30889,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640847,
+    "parentId": null,
+    "country": "VE",
+    "name": "Distrito Capital",
+    "fullName": null,
+    "lat": 10.47639,
+    "lng": -66.98333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640873,
+    "parentId": null,
+    "country": "VE",
+    "name": "Falcón",
+    "fullName": "Estado Falcón",
+    "lat": 11,
+    "lng": -69.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640017,
+    "parentId": null,
+    "country": "VE",
+    "name": "Guárico",
+    "fullName": "Estado Guárico",
+    "lat": 8.66667,
+    "lng": -66.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3636539,
+    "parentId": null,
+    "country": "VE",
+    "name": "Lara",
+    "fullName": "Estado Lara",
+    "lat": 10.16667,
+    "lng": -69.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632306,
+    "parentId": null,
+    "country": "VE",
+    "name": "Mérida",
+    "fullName": "Estado Mérida",
+    "lat": 8.5,
+    "lng": -71.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632191,
+    "parentId": null,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": null,
+    "lat": 10.25,
+    "lng": -66.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632100,
+    "parentId": null,
+    "country": "VE",
+    "name": "Monagas",
+    "fullName": "Estado Monagas",
+    "lat": 9.33333,
+    "lng": -63,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631462,
+    "parentId": null,
+    "country": "VE",
+    "name": "Nueva Esparta",
+    "fullName": "Estado Nueva Esparta",
+    "lat": 11,
+    "lng": -64,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629941,
+    "parentId": null,
+    "country": "VE",
+    "name": "Portuguesa",
+    "fullName": "Estado Portuguesa",
+    "lat": 9.16667,
+    "lng": -69.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626655,
+    "parentId": null,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Estado Sucre",
+    "lat": 10.41667,
+    "lng": -63.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626553,
+    "parentId": null,
+    "country": "VE",
+    "name": "Táchira",
+    "fullName": "Estado Táchira",
+    "lat": 7.83333,
+    "lng": -72.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625974,
+    "parentId": null,
+    "country": "VE",
+    "name": "Trujillo",
+    "fullName": "Estado Trujillo",
+    "lat": 9.43856,
+    "lng": -70.50888,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3830309,
+    "parentId": null,
+    "country": "VE",
+    "name": "Vargas",
+    "fullName": "Estado Vargas",
+    "lat": 10.56667,
+    "lng": -66.9,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625210,
+    "parentId": null,
+    "country": "VE",
+    "name": "Yaracuy",
+    "fullName": "Estado Yaracuy",
+    "lat": 10.33974,
+    "lng": -68.73734,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625035,
+    "parentId": null,
+    "country": "VE",
+    "name": "Zulia",
+    "fullName": "Estado Zulia",
+    "lat": 10,
+    "lng": -72.16667,
+    "tz": "America/Caracas"
+  }
+]

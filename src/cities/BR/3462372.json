@@ -1,0 +1,2462 @@
+[
+  {
+    "id": 6323890,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Abadia de Goiás",
+    "fullName": null,
+    "lat": -16.77762,
+    "lng": -49.46841,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323891,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Abadiânia",
+    "fullName": null,
+    "lat": -16.22632,
+    "lng": -48.62681,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323892,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Acreúna",
+    "fullName": null,
+    "lat": -17.43605,
+    "lng": -50.26696,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323893,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Adelândia",
+    "fullName": null,
+    "lat": -16.38577,
+    "lng": -50.18846,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319148,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Água Fria de Goiás",
+    "fullName": null,
+    "lat": -14.96056,
+    "lng": -47.84963,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323894,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Água Limpa",
+    "fullName": null,
+    "lat": -18.07999,
+    "lng": -48.79951,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323895,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Águas Lindas de Goiás",
+    "fullName": null,
+    "lat": -15.76613,
+    "lng": -48.28611,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323896,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Alexânia",
+    "fullName": null,
+    "lat": -16.14926,
+    "lng": -48.45973,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323897,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aloândia",
+    "fullName": null,
+    "lat": -17.69411,
+    "lng": -49.44985,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323898,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Alto Horizonte",
+    "fullName": null,
+    "lat": -14.20236,
+    "lng": -49.435,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319149,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Alto Paraíso de Goiás",
+    "fullName": null,
+    "lat": -14.18198,
+    "lng": -47.45902,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323899,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Alvorada do Norte",
+    "fullName": null,
+    "lat": -14.52424,
+    "lng": -46.64133,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323900,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Amaralina",
+    "fullName": null,
+    "lat": -13.8139,
+    "lng": -49.63205,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323901,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Americano do Brasil",
+    "fullName": null,
+    "lat": -16.26498,
+    "lng": -49.99408,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323902,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Amorinópolis",
+    "fullName": null,
+    "lat": -16.6342,
+    "lng": -51.09852,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324158,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Anápolis",
+    "fullName": null,
+    "lat": -16.28859,
+    "lng": -49.01638,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323903,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Anhanguera",
+    "fullName": null,
+    "lat": -18.31505,
+    "lng": -48.2219,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323904,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Anicuns",
+    "fullName": null,
+    "lat": -16.38582,
+    "lng": -49.97942,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323905,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aparecida de Goiânia",
+    "fullName": null,
+    "lat": -16.83994,
+    "lng": -49.24836,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323906,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aparecida do Rio Doce",
+    "fullName": null,
+    "lat": -18.22963,
+    "lng": -51.2414,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323907,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aporé",
+    "fullName": null,
+    "lat": -18.74325,
+    "lng": -52.06942,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323908,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Araçu",
+    "fullName": null,
+    "lat": -16.38304,
+    "lng": -49.70782,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323909,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aragarças",
+    "fullName": null,
+    "lat": -15.94743,
+    "lng": -52.08069,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323910,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aragoiânia",
+    "fullName": null,
+    "lat": -16.95418,
+    "lng": -49.40598,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323911,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Araguapaz",
+    "fullName": null,
+    "lat": -15.12986,
+    "lng": -50.4984,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323912,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Arenópolis",
+    "fullName": null,
+    "lat": -16.36096,
+    "lng": -51.60464,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323913,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aruanã",
+    "fullName": null,
+    "lat": -14.8102,
+    "lng": -50.94501,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319150,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Aurilândia",
+    "fullName": null,
+    "lat": -16.67681,
+    "lng": -50.52582,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323914,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Avelinópolis",
+    "fullName": null,
+    "lat": -16.49121,
+    "lng": -49.76368,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319151,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Baliza",
+    "fullName": null,
+    "lat": -16.36672,
+    "lng": -52.43611,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323915,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Barro Alto",
+    "fullName": null,
+    "lat": -14.91276,
+    "lng": -48.87739,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323916,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Bela Vista de Goiás",
+    "fullName": null,
+    "lat": -16.97413,
+    "lng": -48.91556,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323917,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Bom Jardim de Goiás",
+    "fullName": null,
+    "lat": -16.27033,
+    "lng": -52.05682,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323918,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Bom Jesus de Goiás",
+    "fullName": null,
+    "lat": -18.19213,
+    "lng": -49.89536,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323919,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Bonfinópolis",
+    "fullName": null,
+    "lat": -16.59726,
+    "lng": -49.01486,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323920,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Bonópolis",
+    "fullName": null,
+    "lat": -13.57725,
+    "lng": -49.89702,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323921,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Brazabrantes",
+    "fullName": null,
+    "lat": -16.37909,
+    "lng": -49.38445,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323922,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Britânia",
+    "fullName": null,
+    "lat": -15.21115,
+    "lng": -51.14785,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323923,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Buriti Alegre",
+    "fullName": null,
+    "lat": -18.13106,
+    "lng": -49.01342,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323924,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Buriti de Goiás",
+    "fullName": null,
+    "lat": -16.16439,
+    "lng": -50.42918,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323925,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Buritinópolis",
+    "fullName": null,
+    "lat": -14.40974,
+    "lng": -46.31759,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323926,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cabeceiras",
+    "fullName": null,
+    "lat": -15.73747,
+    "lng": -47.03428,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323927,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cachoeira Alta",
+    "fullName": null,
+    "lat": -18.54284,
+    "lng": -50.98208,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323928,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cachoeira de Goiás",
+    "fullName": null,
+    "lat": -16.72507,
+    "lng": -50.68613,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323929,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cachoeira Dourada",
+    "fullName": null,
+    "lat": -18.49516,
+    "lng": -49.65104,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323930,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Caçu",
+    "fullName": null,
+    "lat": -18.55774,
+    "lng": -51.13037,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323931,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Caiapônia",
+    "fullName": null,
+    "lat": -16.95987,
+    "lng": -51.79148,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323932,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Caldas Novas",
+    "fullName": null,
+    "lat": -17.73126,
+    "lng": -48.65479,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323933,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Caldazinha",
+    "fullName": null,
+    "lat": -16.74858,
+    "lng": -49.00064,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323934,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campestre de Goiás",
+    "fullName": null,
+    "lat": -16.78337,
+    "lng": -49.70958,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323935,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campinaçu",
+    "fullName": null,
+    "lat": -13.86371,
+    "lng": -48.56754,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323936,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campinorte",
+    "fullName": null,
+    "lat": -14.045,
+    "lng": -48.97524,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323937,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campo Alegre de Goiás",
+    "fullName": null,
+    "lat": -17.67336,
+    "lng": -47.77801,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324160,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campo Limpo de Goiás",
+    "fullName": null,
+    "lat": -16.30048,
+    "lng": -49.09041,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323938,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campos Belos",
+    "fullName": null,
+    "lat": -12.9964,
+    "lng": -46.48779,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323939,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Campos Verdes",
+    "fullName": null,
+    "lat": -14.19022,
+    "lng": -49.65835,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323940,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Carmo do Rio Verde",
+    "fullName": null,
+    "lat": -15.41646,
+    "lng": -49.72371,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323941,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Castelândia",
+    "fullName": null,
+    "lat": -18.15581,
+    "lng": -50.34,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323942,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Catalão",
+    "fullName": null,
+    "lat": -17.97715,
+    "lng": -47.70192,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323943,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Caturaí",
+    "fullName": null,
+    "lat": -16.46981,
+    "lng": -49.59556,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323944,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cavalcante",
+    "fullName": null,
+    "lat": -13.59533,
+    "lng": -47.76062,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324155,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ceres",
+    "fullName": null,
+    "lat": -15.2735,
+    "lng": -49.64455,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323945,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cezarina",
+    "fullName": null,
+    "lat": -17.11818,
+    "lng": -49.72995,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319152,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Chapadão do Céu",
+    "fullName": null,
+    "lat": -18.37043,
+    "lng": -52.5656,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323946,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cidade Ocidental",
+    "fullName": null,
+    "lat": -16.16178,
+    "lng": -47.79998,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323947,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cocalzinho de Goiás",
+    "fullName": null,
+    "lat": -15.659,
+    "lng": -48.57595,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323948,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Colinas do Sul",
+    "fullName": null,
+    "lat": -14.01221,
+    "lng": -48.05124,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323949,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Córrego do Ouro",
+    "fullName": null,
+    "lat": -16.39566,
+    "lng": -50.5732,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323950,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Corumbá de Goiás",
+    "fullName": null,
+    "lat": -15.9219,
+    "lng": -48.62979,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323951,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Corumbaíba",
+    "fullName": null,
+    "lat": -18.16664,
+    "lng": -48.53205,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323952,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cristalina",
+    "fullName": null,
+    "lat": -16.75371,
+    "lng": -47.49756,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323953,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cristianópolis",
+    "fullName": null,
+    "lat": -17.19669,
+    "lng": -48.68114,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323954,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Crixás",
+    "fullName": null,
+    "lat": -14.66163,
+    "lng": -50.04241,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323955,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cromínia",
+    "fullName": null,
+    "lat": -17.24762,
+    "lng": -49.32979,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323956,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Cumari",
+    "fullName": null,
+    "lat": -18.31597,
+    "lng": -48.16375,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323957,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Damianópolis",
+    "fullName": null,
+    "lat": -14.54949,
+    "lng": -46.19367,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323958,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Damolândia",
+    "fullName": null,
+    "lat": -16.25109,
+    "lng": -49.34505,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323959,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Davinópolis",
+    "fullName": null,
+    "lat": -18.13603,
+    "lng": -47.5775,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323960,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Diorama",
+    "fullName": null,
+    "lat": -16.22318,
+    "lng": -51.34971,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319153,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Divinópolis de Goiás",
+    "fullName": null,
+    "lat": -13.22378,
+    "lng": -46.52704,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323961,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Doverlândia",
+    "fullName": null,
+    "lat": -16.87767,
+    "lng": -52.49917,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323962,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Edealina",
+    "fullName": null,
+    "lat": -17.4399,
+    "lng": -49.73319,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323963,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Edéia",
+    "fullName": null,
+    "lat": -17.55112,
+    "lng": -50.00955,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323964,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Estrela do Norte",
+    "fullName": null,
+    "lat": -13.78262,
+    "lng": -49.10026,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323965,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Faina",
+    "fullName": null,
+    "lat": -15.43697,
+    "lng": -50.39151,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323966,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Fazenda Nova",
+    "fullName": null,
+    "lat": -16.12866,
+    "lng": -50.92604,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323967,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Firminópolis",
+    "fullName": null,
+    "lat": -16.63738,
+    "lng": -50.32144,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323968,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Flores de Goiás",
+    "fullName": null,
+    "lat": -14.59003,
+    "lng": -46.87853,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323969,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Formosa",
+    "fullName": null,
+    "lat": -15.34529,
+    "lng": -47.19067,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323970,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Formoso",
+    "fullName": null,
+    "lat": -13.70339,
+    "lng": -48.87538,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319162,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Gameleira de Goiás",
+    "fullName": null,
+    "lat": -16.43131,
+    "lng": -48.67456,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323971,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goianápolis",
+    "fullName": null,
+    "lat": -16.53041,
+    "lng": -49.08769,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323972,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goiandira",
+    "fullName": null,
+    "lat": -18.10979,
+    "lng": -48.14934,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323973,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goianésia",
+    "fullName": null,
+    "lat": -15.31104,
+    "lng": -49.17408,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323974,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goiânia",
+    "fullName": null,
+    "lat": -16.64019,
+    "lng": -49.25993,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323975,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goianira",
+    "fullName": null,
+    "lat": -16.5023,
+    "lng": -49.43602,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323976,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goiás",
+    "fullName": null,
+    "lat": -15.80277,
+    "lng": -50.24132,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323977,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Goiatuba",
+    "fullName": null,
+    "lat": -18.03201,
+    "lng": -49.70718,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323978,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Gouvelândia",
+    "fullName": null,
+    "lat": -18.50777,
+    "lng": -50.17554,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323979,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Guapó",
+    "fullName": null,
+    "lat": -16.91168,
+    "lng": -49.60593,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323980,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Guaraíta",
+    "fullName": null,
+    "lat": -15.65961,
+    "lng": -50.06663,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323981,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Guarani de Goiás",
+    "fullName": null,
+    "lat": -13.88485,
+    "lng": -46.50711,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323982,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Guarinos",
+    "fullName": null,
+    "lat": -14.69976,
+    "lng": -49.731,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323983,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Heitoraí",
+    "fullName": null,
+    "lat": -15.73416,
+    "lng": -49.83108,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323984,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Hidrolândia",
+    "fullName": null,
+    "lat": -17.01618,
+    "lng": -49.25465,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323985,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Hidrolina",
+    "fullName": null,
+    "lat": -14.75739,
+    "lng": -49.35965,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323986,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Iaciara",
+    "fullName": null,
+    "lat": -14.08186,
+    "lng": -46.72107,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323987,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Inaciolândia",
+    "fullName": null,
+    "lat": -18.49889,
+    "lng": -49.90164,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323988,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Indiara",
+    "fullName": null,
+    "lat": -17.18504,
+    "lng": -49.96826,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323989,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Inhumas",
+    "fullName": null,
+    "lat": -16.33026,
+    "lng": -49.51302,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323990,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ipameri",
+    "fullName": null,
+    "lat": -17.46974,
+    "lng": -47.97755,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324154,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ipiranga de Goiás",
+    "fullName": null,
+    "lat": -15.16876,
+    "lng": -49.65047,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323991,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Iporá",
+    "fullName": null,
+    "lat": -16.45543,
+    "lng": -51.15977,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323992,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Israelândia",
+    "fullName": null,
+    "lat": -16.35776,
+    "lng": -50.89499,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323993,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itaberaí",
+    "fullName": null,
+    "lat": -16.11222,
+    "lng": -49.83864,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323994,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itaguari",
+    "fullName": null,
+    "lat": -15.91179,
+    "lng": -49.61834,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323995,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itaguaru",
+    "fullName": null,
+    "lat": -15.76944,
+    "lng": -49.60042,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324156,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itajá",
+    "fullName": null,
+    "lat": -19.11554,
+    "lng": -51.24473,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323996,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itapaci",
+    "fullName": null,
+    "lat": -14.92091,
+    "lng": -49.70234,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323997,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itapirapuã",
+    "fullName": null,
+    "lat": -15.67388,
+    "lng": -50.80021,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6323998,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itapuranga",
+    "fullName": null,
+    "lat": -15.56944,
+    "lng": -49.93481,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6323999,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itarumã",
+    "fullName": null,
+    "lat": -18.87992,
+    "lng": -51.32023,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324000,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itauçu",
+    "fullName": null,
+    "lat": -16.21434,
+    "lng": -49.60066,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324001,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Itumbiara",
+    "fullName": null,
+    "lat": -18.32952,
+    "lng": -49.44178,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324002,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ivolândia",
+    "fullName": null,
+    "lat": -16.6883,
+    "lng": -50.9266,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324003,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jandaia",
+    "fullName": null,
+    "lat": -17.129,
+    "lng": -50.19476,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324004,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jaraguá",
+    "fullName": null,
+    "lat": -15.65294,
+    "lng": -49.43169,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324005,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jataí",
+    "fullName": null,
+    "lat": -17.85829,
+    "lng": -51.70531,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324006,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jaupaci",
+    "fullName": null,
+    "lat": -16.16749,
+    "lng": -51.10168,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324007,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jesúpolis",
+    "fullName": null,
+    "lat": -15.96458,
+    "lng": -49.39461,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324008,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Joviânia",
+    "fullName": null,
+    "lat": -17.78422,
+    "lng": -49.5844,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324009,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Jussara",
+    "fullName": null,
+    "lat": -15.58295,
+    "lng": -51.3297,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324157,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Lagoa Santa",
+    "fullName": null,
+    "lat": -19.21207,
+    "lng": -51.25891,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324010,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Leopoldo de Bulhões",
+    "fullName": null,
+    "lat": -16.58142,
+    "lng": -48.90604,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324011,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Luziânia",
+    "fullName": null,
+    "lat": -16.49511,
+    "lng": -47.93548,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324012,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mairipotaba",
+    "fullName": null,
+    "lat": -17.32688,
+    "lng": -49.50788,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324013,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mambaí",
+    "fullName": null,
+    "lat": -14.4422,
+    "lng": -46.05807,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6324014,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mara Rosa",
+    "fullName": null,
+    "lat": -14.01285,
+    "lng": -49.39507,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324015,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Marzagão",
+    "fullName": null,
+    "lat": -17.99103,
+    "lng": -48.68316,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324016,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Matrinchã",
+    "fullName": null,
+    "lat": -15.33819,
+    "lng": -50.82655,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324017,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Maurilândia",
+    "fullName": null,
+    "lat": -18.05037,
+    "lng": -50.32935,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324018,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mimoso de Goiás",
+    "fullName": null,
+    "lat": -15.04832,
+    "lng": -48.34448,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324019,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Minaçu",
+    "fullName": null,
+    "lat": -13.42682,
+    "lng": -48.3878,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324020,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mineiros",
+    "fullName": null,
+    "lat": -17.56944,
+    "lng": -52.55111,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324021,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Moiporá",
+    "fullName": null,
+    "lat": -16.50172,
+    "lng": -50.76811,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324022,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Monte Alegre de Goiás",
+    "fullName": null,
+    "lat": -13.2615,
+    "lng": -46.84266,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324023,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Montes Claros de Goiás",
+    "fullName": null,
+    "lat": -15.96248,
+    "lng": -51.50601,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324024,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Montividiu",
+    "fullName": null,
+    "lat": -17.25815,
+    "lng": -51.15739,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324025,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Montividiu do Norte",
+    "fullName": null,
+    "lat": -13.09232,
+    "lng": -48.74161,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324026,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Morrinhos",
+    "fullName": null,
+    "lat": -17.79922,
+    "lng": -49.09225,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324027,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Morro Agudo de Goiás",
+    "fullName": null,
+    "lat": -15.3231,
+    "lng": -50.01578,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324028,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mossâmedes",
+    "fullName": null,
+    "lat": -16.16495,
+    "lng": -50.17004,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324029,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mozarlândia",
+    "fullName": null,
+    "lat": -14.76495,
+    "lng": -50.62962,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324030,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mundo Novo",
+    "fullName": null,
+    "lat": -13.71649,
+    "lng": -50.23715,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324031,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Mutunópolis",
+    "fullName": null,
+    "lat": -13.70257,
+    "lng": -49.29995,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324032,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nazário",
+    "fullName": null,
+    "lat": -16.5801,
+    "lng": -49.86543,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324033,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nerópolis",
+    "fullName": null,
+    "lat": -16.43883,
+    "lng": -49.18117,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324034,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Niquelândia",
+    "fullName": null,
+    "lat": -14.50367,
+    "lng": -48.39199,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324035,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova América",
+    "fullName": null,
+    "lat": -15.05098,
+    "lng": -49.92499,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324036,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Aurora",
+    "fullName": null,
+    "lat": -18.10107,
+    "lng": -48.27661,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324037,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Crixás",
+    "fullName": null,
+    "lat": -14.27678,
+    "lng": -50.57649,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324038,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Glória",
+    "fullName": null,
+    "lat": -15.0636,
+    "lng": -49.48353,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324039,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Iguaçu de Goiás",
+    "fullName": null,
+    "lat": -14.29731,
+    "lng": -49.31188,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324040,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Roma",
+    "fullName": null,
+    "lat": -13.84078,
+    "lng": -47.00832,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324041,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Nova Veneza",
+    "fullName": null,
+    "lat": -16.35456,
+    "lng": -49.30001,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324042,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Novo Brasil",
+    "fullName": null,
+    "lat": -16.04806,
+    "lng": -50.63638,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324043,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Novo Gama",
+    "fullName": null,
+    "lat": -16.12535,
+    "lng": -48.07041,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324044,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Novo Planalto",
+    "fullName": null,
+    "lat": -13.38362,
+    "lng": -49.76104,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324045,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Orizona",
+    "fullName": null,
+    "lat": -16.99232,
+    "lng": -48.15274,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324046,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ouro Verde de Goiás",
+    "fullName": null,
+    "lat": -16.23604,
+    "lng": -49.22771,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324047,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Ouvidor",
+    "fullName": null,
+    "lat": -18.20107,
+    "lng": -47.71513,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324048,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Padre Bernardo",
+    "fullName": null,
+    "lat": -15.34115,
+    "lng": -48.31371,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324049,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Palestina de Goiás",
+    "fullName": null,
+    "lat": -16.72854,
+    "lng": -51.45851,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324050,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Palmeiras de Goiás",
+    "fullName": null,
+    "lat": -16.86824,
+    "lng": -49.89823,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324051,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Palmelo",
+    "fullName": null,
+    "lat": -17.31937,
+    "lng": -48.39429,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324052,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Palminópolis",
+    "fullName": null,
+    "lat": -16.83157,
+    "lng": -50.24267,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324053,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Panamá",
+    "fullName": null,
+    "lat": -18.20132,
+    "lng": -49.3889,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324054,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Paranaiguara",
+    "fullName": null,
+    "lat": -18.77492,
+    "lng": -50.61841,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324055,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Paraúna",
+    "fullName": null,
+    "lat": -17.0865,
+    "lng": -50.61288,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324056,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Perolândia",
+    "fullName": null,
+    "lat": -17.52861,
+    "lng": -52.06417,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324057,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Petrolina de Goiás",
+    "fullName": null,
+    "lat": -16.11122,
+    "lng": -49.28748,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324058,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Pilar de Goiás",
+    "fullName": null,
+    "lat": -14.52999,
+    "lng": -49.51094,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324059,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Piracanjuba",
+    "fullName": null,
+    "lat": -17.32257,
+    "lng": -49.02423,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324264,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Piranhas",
+    "fullName": null,
+    "lat": -16.39466,
+    "lng": -51.82479,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324060,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Pirenópolis",
+    "fullName": null,
+    "lat": -15.79765,
+    "lng": -49.00669,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324061,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Pires do Rio",
+    "fullName": null,
+    "lat": -17.34916,
+    "lng": -48.3939,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324062,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Planaltina",
+    "fullName": null,
+    "lat": -15.21463,
+    "lng": -47.88678,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324063,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Pontalina",
+    "fullName": null,
+    "lat": -17.50873,
+    "lng": -49.59943,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324064,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Porangatu",
+    "fullName": null,
+    "lat": -13.37008,
+    "lng": -49.25423,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324065,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Porteirão",
+    "fullName": null,
+    "lat": -17.90236,
+    "lng": -50.15667,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324066,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Portelândia",
+    "fullName": null,
+    "lat": -17.3561,
+    "lng": -52.67861,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324067,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Posse",
+    "fullName": null,
+    "lat": -14.24515,
+    "lng": -46.46964,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324068,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Professor Jamil",
+    "fullName": null,
+    "lat": -17.29408,
+    "lng": -49.25572,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324069,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Quirinópolis",
+    "fullName": null,
+    "lat": -18.4571,
+    "lng": -50.57146,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324070,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Rialma",
+    "fullName": null,
+    "lat": -15.32886,
+    "lng": -49.53633,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324071,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Rianápolis",
+    "fullName": null,
+    "lat": -15.47467,
+    "lng": -49.44786,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324072,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Rio Quente",
+    "fullName": null,
+    "lat": -17.81769,
+    "lng": -48.80202,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324073,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Rio Verde",
+    "fullName": null,
+    "lat": -17.71888,
+    "lng": -51.04215,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324074,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Rubiataba",
+    "fullName": null,
+    "lat": -15.16817,
+    "lng": -49.89792,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324075,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Sanclerlândia",
+    "fullName": null,
+    "lat": -16.28223,
+    "lng": -50.3721,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319154,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Bárbara de Goiás",
+    "fullName": null,
+    "lat": -16.60228,
+    "lng": -49.68624,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324076,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Cruz de Goiás",
+    "fullName": null,
+    "lat": -17.45147,
+    "lng": -48.57101,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324077,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Fé de Goiás",
+    "fullName": null,
+    "lat": -15.62304,
+    "lng": -51.1385,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324078,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Helena de Goiás",
+    "fullName": null,
+    "lat": -17.80542,
+    "lng": -50.53885,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324079,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Isabel",
+    "fullName": null,
+    "lat": -15.26996,
+    "lng": -49.37797,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324080,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Rita do Araguaia",
+    "fullName": null,
+    "lat": -17.23294,
+    "lng": -53.07676,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324081,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Rita do Novo Destino",
+    "fullName": null,
+    "lat": -14.82658,
+    "lng": -49.05935,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324082,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Rosa de Goiás",
+    "fullName": null,
+    "lat": -16.06989,
+    "lng": -49.48147,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324083,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Tereza de Goiás",
+    "fullName": null,
+    "lat": -13.55111,
+    "lng": -48.99503,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324084,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santa Terezinha de Goiás",
+    "fullName": null,
+    "lat": -14.31049,
+    "lng": -49.71445,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324085,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santo Antônio da Barra",
+    "fullName": null,
+    "lat": -17.51225,
+    "lng": -50.63068,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324086,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santo Antônio de Goiás",
+    "fullName": null,
+    "lat": -16.50007,
+    "lng": -49.31097,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319155,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Santo Antônio do Descoberto",
+    "fullName": null,
+    "lat": -16.08073,
+    "lng": -48.29596,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319156,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Domingos",
+    "fullName": null,
+    "lat": -13.53444,
+    "lng": -46.51094,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319157,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Francisco de Goiás",
+    "fullName": null,
+    "lat": -15.95223,
+    "lng": -49.24888,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324087,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São João d'Aliança",
+    "fullName": null,
+    "lat": -14.42907,
+    "lng": -47.41407,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324088,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São João da Paraúna",
+    "fullName": null,
+    "lat": -16.82392,
+    "lng": -50.35316,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324089,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Luís de Montes Belos",
+    "fullName": null,
+    "lat": -16.45418,
+    "lng": -50.3881,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324090,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Luiz do Norte",
+    "fullName": null,
+    "lat": -14.89284,
+    "lng": -49.28212,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324091,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Miguel do Araguaia",
+    "fullName": null,
+    "lat": -12.98632,
+    "lng": -50.26497,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324092,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Miguel do Passa Quatro",
+    "fullName": null,
+    "lat": -16.99955,
+    "lng": -48.66188,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324093,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Patrício",
+    "fullName": null,
+    "lat": -15.34426,
+    "lng": -49.83291,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324094,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "São Simão",
+    "fullName": null,
+    "lat": -19.0108,
+    "lng": -50.60612,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319158,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Senador Canedo",
+    "fullName": null,
+    "lat": -16.72322,
+    "lng": -49.10745,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319159,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Serranópolis",
+    "fullName": null,
+    "lat": -18.27044,
+    "lng": -52.24749,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324159,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Silvânia",
+    "fullName": null,
+    "lat": -16.55293,
+    "lng": -48.56141,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319160,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Simolândia",
+    "fullName": null,
+    "lat": -14.43819,
+    "lng": -46.59232,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324095,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Sítio d'Abadia",
+    "fullName": null,
+    "lat": -14.75201,
+    "lng": -46.27003,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324096,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Taquaral de Goiás",
+    "fullName": null,
+    "lat": -16.0582,
+    "lng": -49.5904,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324097,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Teresina de Goiás",
+    "fullName": null,
+    "lat": -13.73244,
+    "lng": -47.25266,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324098,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Terezópolis de Goiás",
+    "fullName": null,
+    "lat": -16.42797,
+    "lng": -49.07425,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324099,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Três Ranchos",
+    "fullName": null,
+    "lat": -18.36835,
+    "lng": -47.7985,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324100,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Trindade",
+    "fullName": null,
+    "lat": -16.65364,
+    "lng": -49.56768,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324101,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Trombas",
+    "fullName": null,
+    "lat": -13.40409,
+    "lng": -48.77287,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324102,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Turvânia",
+    "fullName": null,
+    "lat": -16.55807,
+    "lng": -50.16909,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324103,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Turvelândia",
+    "fullName": null,
+    "lat": -17.79588,
+    "lng": -50.29695,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324104,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Uirapuru",
+    "fullName": null,
+    "lat": -14.14128,
+    "lng": -49.93396,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324105,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Uruaçu",
+    "fullName": null,
+    "lat": -14.42245,
+    "lng": -49.06374,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324106,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Uruana",
+    "fullName": null,
+    "lat": -15.56368,
+    "lng": -49.64028,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324107,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Urutaí",
+    "fullName": null,
+    "lat": -17.41664,
+    "lng": -48.19794,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324108,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Valparaíso de Goiás",
+    "fullName": null,
+    "lat": -16.09899,
+    "lng": -47.98813,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324109,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Varjão",
+    "fullName": null,
+    "lat": -17.07758,
+    "lng": -49.62111,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324110,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Vianópolis",
+    "fullName": null,
+    "lat": -16.85286,
+    "lng": -48.45647,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324111,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Vicentinópolis",
+    "fullName": null,
+    "lat": -17.70714,
+    "lng": -49.90768,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324112,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Vila Boa",
+    "fullName": null,
+    "lat": -14.97912,
+    "lng": -47.09259,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324113,
+    "parentId": 3462372,
+    "country": "BR",
+    "name": "Vila Propício",
+    "fullName": null,
+    "lat": -15.20221,
+    "lng": -48.77569,
+    "tz": "America/Araguaina"
+  }
+]

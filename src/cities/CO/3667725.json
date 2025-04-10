@@ -1,0 +1,262 @@
+[
+  {
+    "id": 9609532,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Buenavista",
+    "fullName": null,
+    "lat": 9.33243,
+    "lng": -74.9483,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688031,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Caimito",
+    "fullName": null,
+    "lat": 8.78834,
+    "lng": -75.13583,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670818,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Chalán",
+    "fullName": null,
+    "lat": 9.57013,
+    "lng": -75.31806,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172286,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Coloso",
+    "fullName": null,
+    "lat": 9.51176,
+    "lng": -75.36233,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685831,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Corozal",
+    "fullName": null,
+    "lat": 9.20001,
+    "lng": -75.27916,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609533,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Coveñas",
+    "fullName": null,
+    "lat": 9.39413,
+    "lng": -75.6572,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609534,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "El Roble",
+    "fullName": null,
+    "lat": 9.06997,
+    "lng": -75.13679,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172402,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Galeras",
+    "fullName": null,
+    "lat": 9.1332,
+    "lng": -74.9777,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172283,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Guaranda",
+    "fullName": null,
+    "lat": 8.39479,
+    "lng": -74.79862,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172282,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 8.79627,
+    "lng": -75.29584,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172280,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Los Palmitos",
+    "fullName": null,
+    "lat": 9.4249,
+    "lng": -75.20653,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675640,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Majagual",
+    "fullName": null,
+    "lat": 8.535,
+    "lng": -74.71499,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674338,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Morroa",
+    "fullName": null,
+    "lat": 9.39607,
+    "lng": -75.33029,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673457,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Ovejas",
+    "fullName": null,
+    "lat": 9.54083,
+    "lng": -75.18333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673144,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Palmito",
+    "fullName": null,
+    "lat": 9.33667,
+    "lng": -75.56333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670282,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Sampués",
+    "fullName": null,
+    "lat": 9.15417,
+    "lng": -75.34583,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670039,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Benito Abad",
+    "fullName": null,
+    "lat": 8.78833,
+    "lng": -74.95666,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172277,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Juan de Betulia",
+    "fullName": null,
+    "lat": 9.28486,
+    "lng": -75.1941,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609535,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Luis de Sincé",
+    "fullName": null,
+    "lat": 9.25523,
+    "lng": -75.08535,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669350,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 8.58333,
+    "lng": -75.16667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669219,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Onofre",
+    "fullName": null,
+    "lat": 9.73714,
+    "lng": -75.52483,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669167,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": 9.39917,
+    "lng": -75.035,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609536,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Santiago de Tolú",
+    "fullName": null,
+    "lat": 9.53221,
+    "lng": -75.53584,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667985,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Sincelejo",
+    "fullName": null,
+    "lat": 9.31667,
+    "lng": -75.435,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667734,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Sucre",
+    "fullName": null,
+    "lat": 8.83333,
+    "lng": -74.75,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666941,
+    "parentId": 3667725,
+    "country": "CO",
+    "name": "Tolú Viejo",
+    "fullName": null,
+    "lat": 9.45448,
+    "lng": -75.43762,
+    "tz": "America/Bogota"
+  }
+]

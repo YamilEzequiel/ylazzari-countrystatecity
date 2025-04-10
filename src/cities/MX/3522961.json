@@ -1,0 +1,332 @@
+[
+  {
+    "id": 8582370,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Amacuzac",
+    "fullName": null,
+    "lat": 18.60056,
+    "lng": -99.37252,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582371,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Atlatlahucan",
+    "fullName": null,
+    "lat": 18.93554,
+    "lng": -98.89496,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582372,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Axochiapan",
+    "fullName": null,
+    "lat": 18.51633,
+    "lng": -98.74698,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582373,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Ayala",
+    "fullName": null,
+    "lat": 18.72604,
+    "lng": -98.95106,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582374,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Coatlán del Río",
+    "fullName": null,
+    "lat": 18.73438,
+    "lng": -99.44875,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582375,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Cuautla",
+    "fullName": null,
+    "lat": 18.82507,
+    "lng": -98.95286,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582376,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Cuernavaca",
+    "fullName": null,
+    "lat": 18.95532,
+    "lng": -99.24002,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582377,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Emiliano Zapata",
+    "fullName": null,
+    "lat": 18.81062,
+    "lng": -99.18711,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582378,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Huitzilac",
+    "fullName": null,
+    "lat": 19.02878,
+    "lng": -99.24847,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582379,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Jantetelco",
+    "fullName": null,
+    "lat": 18.70126,
+    "lng": -98.78023,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582380,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Jiutepec",
+    "fullName": null,
+    "lat": 18.8783,
+    "lng": -99.1503,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582381,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Jojutla",
+    "fullName": null,
+    "lat": 18.58999,
+    "lng": -99.22129,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582382,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Jonacatepec",
+    "fullName": null,
+    "lat": 18.66475,
+    "lng": -98.80565,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582383,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Mazatepec",
+    "fullName": null,
+    "lat": 18.71126,
+    "lng": -99.36517,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582384,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Miacatlán",
+    "fullName": null,
+    "lat": 18.78101,
+    "lng": -99.35386,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582385,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Ocuituco",
+    "fullName": null,
+    "lat": 18.88252,
+    "lng": -98.78043,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 6951543,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Puente de Ixtla",
+    "fullName": null,
+    "lat": 18.61472,
+    "lng": -99.31806,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582386,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Temixco",
+    "fullName": null,
+    "lat": 18.85274,
+    "lng": -99.25538,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582401,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Temoac",
+    "fullName": null,
+    "lat": 18.76067,
+    "lng": -98.77855,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582387,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tepalcingo",
+    "fullName": null,
+    "lat": 18.60151,
+    "lng": -98.86942,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582388,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tepoztlán",
+    "fullName": null,
+    "lat": 18.96424,
+    "lng": -99.09972,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582389,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tetecala",
+    "fullName": null,
+    "lat": 18.71103,
+    "lng": -99.40453,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582390,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tetela del Volcán",
+    "fullName": null,
+    "lat": 18.87504,
+    "lng": -98.71427,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582391,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tlalnepantla",
+    "fullName": null,
+    "lat": 19.02052,
+    "lng": -98.96875,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582392,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tlaltizapán de Zapata",
+    "fullName": null,
+    "lat": 18.70815,
+    "lng": -99.12618,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582393,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tlaquiltenango",
+    "fullName": null,
+    "lat": 18.55041,
+    "lng": -99.12255,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582394,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Tlayacapan",
+    "fullName": null,
+    "lat": 18.95069,
+    "lng": -98.97599,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582395,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Totolapan",
+    "fullName": null,
+    "lat": 18.99277,
+    "lng": -98.92078,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582396,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Xochitepec",
+    "fullName": null,
+    "lat": 18.77045,
+    "lng": -99.23266,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582397,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Yautepec",
+    "fullName": null,
+    "lat": 18.88465,
+    "lng": -99.04341,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582398,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Yecapixtla",
+    "fullName": null,
+    "lat": 18.85913,
+    "lng": -98.87216,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582399,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Zacatepec",
+    "fullName": null,
+    "lat": 18.65225,
+    "lng": -99.20767,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582400,
+    "parentId": 3522961,
+    "country": "MX",
+    "name": "Zacualpan",
+    "fullName": null,
+    "lat": 18.80856,
+    "lng": -98.75274,
+    "tz": "America/Mexico_City"
+  }
+]

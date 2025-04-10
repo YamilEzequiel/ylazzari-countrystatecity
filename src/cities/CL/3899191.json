@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3895547,
+    "parentId": 3899191,
+    "country": "CL",
+    "name": "Chañaral",
+    "fullName": "Provincia de Chañaral",
+    "lat": -26.32515,
+    "lng": -69.48751,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3893653,
+    "parentId": 3899191,
+    "country": "CL",
+    "name": "Copiapó",
+    "fullName": "Provincia de Copiapó",
+    "lat": -27.56347,
+    "lng": -70.00063,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3887756,
+    "parentId": 3899191,
+    "country": "CL",
+    "name": "Huasco",
+    "fullName": "Provincia de Huasco",
+    "lat": -28.68428,
+    "lng": -70.51474,
+    "tz": "America/Santiago"
+  }
+]

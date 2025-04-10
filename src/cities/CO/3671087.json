@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3689563,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Armenia",
+    "fullName": null,
+    "lat": 4.53307,
+    "lng": -75.70438,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172320,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Buenavista",
+    "fullName": null,
+    "lat": 4.36646,
+    "lng": -75.74375,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687965,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Calarca",
+    "fullName": null,
+    "lat": 4.5,
+    "lng": -75.63333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686234,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Circasia",
+    "fullName": null,
+    "lat": 4.5994,
+    "lng": -75.68536,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172302,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Córdoba",
+    "fullName": null,
+    "lat": 4.38055,
+    "lng": -75.66685,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682475,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Filandia",
+    "fullName": null,
+    "lat": 4.67525,
+    "lng": -75.67142,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682071,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Génova",
+    "fullName": null,
+    "lat": 4.22743,
+    "lng": -75.7548,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3677011,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "La Tebaida",
+    "fullName": null,
+    "lat": 4.43353,
+    "lng": -75.81476,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674464,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Montenegro",
+    "fullName": null,
+    "lat": 4.52676,
+    "lng": -75.82265,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672256,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Pijao",
+    "fullName": null,
+    "lat": 4.30588,
+    "lng": -75.68176,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671099,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Quimbaya",
+    "fullName": null,
+    "lat": 4.59342,
+    "lng": -75.83758,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670353,
+    "parentId": 3671087,
+    "country": "CO",
+    "name": "Salento",
+    "fullName": null,
+    "lat": 4.63643,
+    "lng": -75.5674,
+    "tz": "America/Bogota"
+  }
+]

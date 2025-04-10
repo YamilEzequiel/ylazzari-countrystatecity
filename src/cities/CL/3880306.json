@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8181713,
+    "parentId": 3880306,
+    "country": "CL",
+    "name": "Cauquenes",
+    "fullName": "Provincia de Cauquenes",
+    "lat": -35.96828,
+    "lng": -72.32918,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3892868,
+    "parentId": 3880306,
+    "country": "CL",
+    "name": "Curicó",
+    "fullName": "Provincia de Curicó",
+    "lat": -35.04932,
+    "lng": -71.09148,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3883166,
+    "parentId": 3880306,
+    "country": "CL",
+    "name": "Linares",
+    "fullName": "Provincia de Linares",
+    "lat": -36.02955,
+    "lng": -71.43099,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3870289,
+    "parentId": 3880306,
+    "country": "CL",
+    "name": "Talca",
+    "fullName": "Provincia de Talca",
+    "lat": -35.4378,
+    "lng": -71.35326,
+    "tz": "America/Santiago"
+  }
+]

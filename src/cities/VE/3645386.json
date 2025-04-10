@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3649199,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Anzoátegui",
+    "fullName": "Municipio Anzoátegui",
+    "lat": 9.58333,
+    "lng": -68.86667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640872,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Falcón",
+    "fullName": "Municipio Falcón",
+    "lat": 9.91667,
+    "lng": -68.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640596,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Girardot",
+    "fullName": "Municipio Girardot",
+    "lat": 8.9,
+    "lng": -68.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129267,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Lima Blanco",
+    "fullName": "Municipio Lima Blanco",
+    "lat": 9.82602,
+    "lng": -68.43899,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129190,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Pao de San Juan Bautista",
+    "fullName": "Municipio Pao de San Juan Bautista",
+    "lat": 9.63752,
+    "lng": -68.12884,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629179,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Ricaurte",
+    "fullName": "Municipio Ricaurte",
+    "lat": 9.33333,
+    "lng": -68.66667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129242,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Rómulo Gallegos",
+    "fullName": "Municipio Rómulo Gallegos",
+    "lat": 9.53727,
+    "lng": -68.6296,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628494,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "San Carlos",
+    "fullName": "Municipio San Carlos",
+    "lat": 9.58333,
+    "lng": -68.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626234,
+    "parentId": 3645386,
+    "country": "VE",
+    "name": "Tinaco",
+    "fullName": "Municipio Tinaco",
+    "lat": 9.66667,
+    "lng": -68.33333,
+    "tz": "America/Caracas"
+  }
+]

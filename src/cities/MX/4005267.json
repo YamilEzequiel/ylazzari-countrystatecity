@@ -1,0 +1,462 @@
+[
+  {
+    "id": 8581894,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Abasolo",
+    "fullName": null,
+    "lat": 20.5058,
+    "lng": -101.53802,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581895,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Acámbaro",
+    "fullName": null,
+    "lat": 20.05832,
+    "lng": -100.74141,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581897,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Apaseo el Alto",
+    "fullName": null,
+    "lat": 20.42678,
+    "lng": -100.56761,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581898,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Apaseo el Grande",
+    "fullName": null,
+    "lat": 20.55315,
+    "lng": -100.63472,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581899,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Atarjea",
+    "fullName": null,
+    "lat": 21.24263,
+    "lng": -99.80847,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581900,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Celaya",
+    "fullName": null,
+    "lat": 20.53681,
+    "lng": -100.80678,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581902,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Comonfort",
+    "fullName": null,
+    "lat": 20.72811,
+    "lng": -100.78585,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581903,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Coroneo",
+    "fullName": null,
+    "lat": 20.20993,
+    "lng": -100.37631,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581904,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Cortazar",
+    "fullName": null,
+    "lat": 20.46885,
+    "lng": -100.96409,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581906,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Cuerámaro",
+    "fullName": null,
+    "lat": 20.61902,
+    "lng": -101.66106,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581907,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Doctor Mora",
+    "fullName": null,
+    "lat": 21.13849,
+    "lng": -100.35952,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581908,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "fullName": null,
+    "lat": 21.16234,
+    "lng": -100.89688,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581909,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Guanajuato",
+    "fullName": null,
+    "lat": 21.00481,
+    "lng": -101.26484,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581910,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Huanímaro",
+    "fullName": null,
+    "lat": 20.35828,
+    "lng": -101.50127,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581911,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Irapuato",
+    "fullName": null,
+    "lat": 20.67594,
+    "lng": -101.37183,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581912,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Jaral del Progreso",
+    "fullName": null,
+    "lat": 20.3552,
+    "lng": -101.05224,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581913,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Jerécuaro",
+    "fullName": null,
+    "lat": 20.19929,
+    "lng": -100.50688,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581914,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "León",
+    "fullName": null,
+    "lat": 21.09309,
+    "lng": -101.64501,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581901,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Manuel Doblado",
+    "fullName": null,
+    "lat": 20.72085,
+    "lng": -101.856,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581915,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Moroleón",
+    "fullName": null,
+    "lat": 20.09634,
+    "lng": -101.23084,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581916,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Ocampo",
+    "fullName": null,
+    "lat": 21.60049,
+    "lng": -101.4681,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581917,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Pénjamo",
+    "fullName": null,
+    "lat": 20.40418,
+    "lng": -101.80696,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581918,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Pueblo Nuevo",
+    "fullName": null,
+    "lat": 20.54589,
+    "lng": -101.3642,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581919,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Purísima del Rincón",
+    "fullName": null,
+    "lat": 20.94704,
+    "lng": -101.90939,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581920,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Romita",
+    "fullName": null,
+    "lat": 20.84151,
+    "lng": -101.56049,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581921,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Salamanca",
+    "fullName": null,
+    "lat": 20.58539,
+    "lng": -101.17307,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581922,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Salvatierra",
+    "fullName": null,
+    "lat": 20.21094,
+    "lng": -100.9124,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581923,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San Diego de la Unión",
+    "fullName": null,
+    "lat": 21.39973,
+    "lng": -100.80779,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581924,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San Felipe",
+    "fullName": null,
+    "lat": 21.45976,
+    "lng": -101.24397,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581925,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San Francisco del Rincón",
+    "fullName": null,
+    "lat": 20.93547,
+    "lng": -101.79061,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581926,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San José Iturbide",
+    "fullName": null,
+    "lat": 21.03386,
+    "lng": -100.41152,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581927,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San Luis de la Paz",
+    "fullName": null,
+    "lat": 21.36295,
+    "lng": -100.49726,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581896,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "San Miguel de Allende",
+    "fullName": null,
+    "lat": 20.94214,
+    "lng": -100.71072,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581928,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Santa Catarina",
+    "fullName": null,
+    "lat": 21.15134,
+    "lng": -100.06954,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581929,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Santa Cruz de Juventino Rosas",
+    "fullName": null,
+    "lat": 20.63658,
+    "lng": -100.97956,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581930,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Santiago Maravatío",
+    "fullName": null,
+    "lat": 20.16328,
+    "lng": -101.00091,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581931,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Silao de la Victoria",
+    "fullName": null,
+    "lat": 20.93718,
+    "lng": -101.44987,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581932,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Tarandacuao",
+    "fullName": null,
+    "lat": 20.00361,
+    "lng": -100.53195,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581933,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Tarimoro",
+    "fullName": null,
+    "lat": 20.29924,
+    "lng": -100.75753,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581934,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Tierra Blanca",
+    "fullName": null,
+    "lat": 21.03067,
+    "lng": -100.15716,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581935,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Uriangato",
+    "fullName": null,
+    "lat": 20.11311,
+    "lng": -101.16036,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581936,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Valle de Santiago",
+    "fullName": null,
+    "lat": 20.40994,
+    "lng": -101.25288,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581937,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Victoria",
+    "fullName": null,
+    "lat": 21.35448,
+    "lng": -100.22294,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581938,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Villagrán",
+    "fullName": null,
+    "lat": 20.53815,
+    "lng": -100.98278,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581939,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Xichú",
+    "fullName": null,
+    "lat": 21.34418,
+    "lng": -99.9997,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581940,
+    "parentId": 4005267,
+    "country": "MX",
+    "name": "Yuriria",
+    "fullName": null,
+    "lat": 20.18317,
+    "lng": -101.22573,
+    "tz": "America/Mexico_City"
+  }
+]

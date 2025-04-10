@@ -1,0 +1,422 @@
+[
+  {
+    "id": 3690238,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Alcalá",
+    "fullName": null,
+    "lat": 4.67458,
+    "lng": -75.77188,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689907,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Andalucía",
+    "fullName": null,
+    "lat": 4.14035,
+    "lng": -76.14739,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689832,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Ansermanuevo",
+    "fullName": null,
+    "lat": 4.80214,
+    "lng": -76.03445,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689618,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Argelia",
+    "fullName": null,
+    "lat": 4.72904,
+    "lng": -76.11637,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688668,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Bolívar",
+    "fullName": null,
+    "lat": 4.3771,
+    "lng": -76.3487,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172370,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Buenaventura",
+    "fullName": null,
+    "lat": 3.86425,
+    "lng": -77.03545,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688255,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Bugalagrande",
+    "fullName": null,
+    "lat": 4.16667,
+    "lng": -76.08333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686294,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Caicedonia",
+    "fullName": null,
+    "lat": 4.33366,
+    "lng": -75.83425,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687926,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Cali",
+    "fullName": null,
+    "lat": 3.41033,
+    "lng": -76.58097,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687908,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Calima",
+    "fullName": null,
+    "lat": 3.92511,
+    "lng": -76.62654,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687647,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Candelaria",
+    "fullName": null,
+    "lat": 3.38367,
+    "lng": -76.42466,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687232,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Cartago",
+    "fullName": null,
+    "lat": 4.7,
+    "lng": -75.91667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685293,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Dagua",
+    "fullName": null,
+    "lat": 3.61642,
+    "lng": -76.73213,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685028,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "El Águila",
+    "fullName": null,
+    "lat": 4.91946,
+    "lng": -76.0568,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684790,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "El Cairo",
+    "fullName": null,
+    "lat": 4.74889,
+    "lng": -76.24443,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684616,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "El Cerrito",
+    "fullName": null,
+    "lat": 3.64273,
+    "lng": -76.2096,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684267,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "El Dovio",
+    "fullName": null,
+    "lat": 4.54376,
+    "lng": -76.28538,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682394,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Florida",
+    "fullName": null,
+    "lat": 3.3094,
+    "lng": -76.18989,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682040,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Ginebra",
+    "fullName": null,
+    "lat": 3.74296,
+    "lng": -76.19412,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681798,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Guacarí",
+    "fullName": null,
+    "lat": 3.77501,
+    "lng": -76.30813,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609538,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Guadalajara de Buga",
+    "fullName": null,
+    "lat": 3.85594,
+    "lng": -76.10131,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680388,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Jamundí",
+    "fullName": null,
+    "lat": 3.26083,
+    "lng": -76.53694,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3679319,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "La Cumbre",
+    "fullName": null,
+    "lat": 3.69623,
+    "lng": -76.58615,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676937,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 4.53836,
+    "lng": -76.10661,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172372,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "La Victoria",
+    "fullName": null,
+    "lat": 4.47621,
+    "lng": -75.98118,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673678,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Obando",
+    "fullName": null,
+    "lat": 4.5959,
+    "lng": -75.94879,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673165,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Palmira",
+    "fullName": null,
+    "lat": 3.53969,
+    "lng": -76.22607,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671773,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Pradera",
+    "fullName": null,
+    "lat": 3.42793,
+    "lng": -76.17159,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670860,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Restrepo",
+    "fullName": null,
+    "lat": 3.79593,
+    "lng": -76.56736,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670755,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Riofrío",
+    "fullName": null,
+    "lat": 4.10279,
+    "lng": -76.41593,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670645,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Roldanillo",
+    "fullName": null,
+    "lat": 4.446,
+    "lng": -76.16387,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669169,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": 3.99936,
+    "lng": -76.26123,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668134,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Sevilla",
+    "fullName": null,
+    "lat": 4.19345,
+    "lng": -75.88829,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666882,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Toro",
+    "fullName": null,
+    "lat": 4.62707,
+    "lng": -76.07964,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666682,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Trujillo",
+    "fullName": null,
+    "lat": 4.23696,
+    "lng": -76.3473,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666646,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Tuluá",
+    "fullName": null,
+    "lat": 4.00892,
+    "lng": -76.05016,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666504,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Ulloa",
+    "fullName": null,
+    "lat": 4.70745,
+    "lng": -75.77781,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666103,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Versalles",
+    "fullName": null,
+    "lat": 4.66335,
+    "lng": -76.24649,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666026,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Vijes",
+    "fullName": null,
+    "lat": 3.73283,
+    "lng": -76.49363,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665679,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Yotoco",
+    "fullName": null,
+    "lat": 3.93169,
+    "lng": -76.42494,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172377,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Yumbo",
+    "fullName": null,
+    "lat": 3.56989,
+    "lng": -76.54378,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665560,
+    "parentId": 3666313,
+    "country": "CO",
+    "name": "Zarzal",
+    "fullName": null,
+    "lat": 4.3608,
+    "lng": -76.04842,
+    "tz": "America/Bogota"
+  }
+]

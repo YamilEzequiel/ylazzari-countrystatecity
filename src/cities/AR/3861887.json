@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3866226,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Almirante Brown",
+    "fullName": "Departamento de Almirante Brown",
+    "lat": -25.81662,
+    "lng": -61.45576,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3436037,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Bermejo",
+    "fullName": "Departamento de Bermejo",
+    "lat": -27,
+    "lng": -58.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3861945,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Chacabuco",
+    "fullName": null,
+    "lat": -27.14102,
+    "lng": -61.31382,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3860469,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Comandante Fernández",
+    "fullName": "Departamento de Comandante Fernández",
+    "lat": -26.83333,
+    "lng": -60.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3859289,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Doce de Octubre",
+    "fullName": "Departamento de Doce de Octubre",
+    "lat": -27.41667,
+    "lng": -61.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 8715307,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Dos de Abril",
+    "fullName": "Departamento de Dos de Abril",
+    "lat": -27.60932,
+    "lng": -61.34473,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855371,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Fray Justo Santa María de Oro",
+    "fullName": null,
+    "lat": -27.83333,
+    "lng": -61.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855125,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "General Belgrano",
+    "fullName": "Departamento de General Belgrano",
+    "lat": -26.91667,
+    "lng": -61,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433811,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "General Donovan",
+    "fullName": "Departamento de General Donovan",
+    "lat": -27.16667,
+    "lng": -59.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855108,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "General Güemes",
+    "fullName": "Departamento de General Güemes",
+    "lat": -25.16667,
+    "lng": -61.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3853853,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Independencia",
+    "fullName": "Departamento de Independencia",
+    "lat": -26.66667,
+    "lng": -60.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3431359,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Libertad",
+    "fullName": "Departamento de Libertad",
+    "lat": -27.33333,
+    "lng": -59.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3431356,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento de Libertador General San Martín",
+    "lat": -26.33333,
+    "lng": -59.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3845238,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Maipú",
+    "fullName": "Departamento de Maipú",
+    "lat": -26.33333,
+    "lng": -60.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844638,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Mayor Luis J. Fontana",
+    "fullName": "Departamento de Mayor Luis J. Fontana",
+    "lat": -27.75,
+    "lng": -60.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3842872,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Nueve de Julio",
+    "fullName": "Departamento de Nueve de Julio",
+    "lat": -26.95331,
+    "lng": -61.27627,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3842751,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "O’Higgins",
+    "fullName": "Departamento de O’Higgins",
+    "lat": -27.25,
+    "lng": -60.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429865,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Presidencia de la Plaza",
+    "fullName": "Departamento de Presidencia de la Plaza",
+    "lat": -27,
+    "lng": -59.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429850,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Primero de Mayo",
+    "fullName": "Departamento del Primero de Mayo",
+    "lat": -27.25,
+    "lng": -58.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3839489,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Quitilipi",
+    "fullName": "Departamento de Quitilipi",
+    "lat": -26.66667,
+    "lng": -60.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429089,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "San Fernando",
+    "fullName": "Departamento de San Fernando",
+    "lat": -27.66667,
+    "lng": -59.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837081,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "San Lorenzo",
+    "fullName": "Departamento de San Lorenzo",
+    "lat": -27.33333,
+    "lng": -60.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428032,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Sargento Cabral",
+    "fullName": "Departamento de Sargento Cabral",
+    "lat": -26.83333,
+    "lng": -59.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427822,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Tapenagá",
+    "fullName": "Departamento de Tapenagá",
+    "lat": -27.5,
+    "lng": -59.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427532,
+    "parentId": 3861887,
+    "country": "AR",
+    "name": "Veinticinco de Mayo",
+    "fullName": null,
+    "lat": -26.78646,
+    "lng": -59.97482,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

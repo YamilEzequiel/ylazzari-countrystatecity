@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11979370,
+    "parentId": 11979367,
+    "country": "CL",
+    "name": "Diguillín",
+    "fullName": "Provincia de Diguillín",
+    "lat": -36.72204,
+    "lng": -72.29608,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 11979369,
+    "parentId": 11979367,
+    "country": "CL",
+    "name": "Itata",
+    "fullName": "Provincia de Itata",
+    "lat": -36.33139,
+    "lng": -72.50207,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 11979368,
+    "parentId": 11979367,
+    "country": "CL",
+    "name": "Punilla",
+    "fullName": "Provincia de Punilla",
+    "lat": -36.44636,
+    "lng": -71.90057,
+    "tz": "America/Santiago"
+  }
+]

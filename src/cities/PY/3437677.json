@@ -1,0 +1,162 @@
+[
+  {
+    "id": 11839933,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Alberdi",
+    "fullName": null,
+    "lat": -26.18992,
+    "lng": -58.0709,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840108,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Cerrito",
+    "fullName": null,
+    "lat": -27.32128,
+    "lng": -57.54116,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839959,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Desmochados",
+    "fullName": null,
+    "lat": -27.08796,
+    "lng": -58.12406,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839958,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "General Diaz",
+    "fullName": null,
+    "lat": -27.1679,
+    "lng": -58.34399,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840153,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Guazu Cua",
+    "fullName": null,
+    "lat": -26.92643,
+    "lng": -57.99032,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840018,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Humaita",
+    "fullName": null,
+    "lat": -27.10975,
+    "lng": -58.50556,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839973,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Isla Umbu",
+    "fullName": null,
+    "lat": -26.97827,
+    "lng": -58.31763,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840045,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Los Laureles",
+    "fullName": null,
+    "lat": -27.17636,
+    "lng": -57.58299,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840063,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Mayor Martinez",
+    "fullName": null,
+    "lat": -27.20089,
+    "lng": -58.14559,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839932,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Paso De Patria",
+    "fullName": null,
+    "lat": -27.22734,
+    "lng": -58.51454,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840145,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Pilar",
+    "fullName": null,
+    "lat": -26.90314,
+    "lng": -58.2168,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840044,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "San Juan Bautista De Ñeembucu",
+    "fullName": null,
+    "lat": -26.61016,
+    "lng": -57.85772,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839954,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Tacuaras",
+    "fullName": null,
+    "lat": -26.90378,
+    "lng": -57.7497,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840088,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Villa Franca",
+    "fullName": null,
+    "lat": -26.34735,
+    "lng": -57.96024,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840095,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Villa Oliva",
+    "fullName": null,
+    "lat": -26.04415,
+    "lng": -57.72756,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840128,
+    "parentId": 3437677,
+    "country": "PY",
+    "name": "Villalbin",
+    "fullName": null,
+    "lat": -27.17859,
+    "lng": -57.91511,
+    "tz": "America/Asuncion"
+  }
+]

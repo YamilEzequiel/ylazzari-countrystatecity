@@ -1,0 +1,302 @@
+[
+  {
+    "id": 3690173,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Algarrobo",
+    "fullName": null,
+    "lat": 10.18553,
+    "lng": -74.06158,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689761,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Aracataca",
+    "fullName": null,
+    "lat": 10.64485,
+    "lng": -73.87265,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 8128837,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Ariguaní",
+    "fullName": null,
+    "lat": 9.89383,
+    "lng": -74.13583,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686895,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Cerro San Antonio",
+    "fullName": null,
+    "lat": 10.29063,
+    "lng": -74.82173,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172393,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Chibolo",
+    "fullName": null,
+    "lat": 10.0825,
+    "lng": -74.50696,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686276,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Ciénaga",
+    "fullName": null,
+    "lat": 10.83333,
+    "lng": -74.08333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609550,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Concordia",
+    "fullName": null,
+    "lat": 10.23276,
+    "lng": -74.77855,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684928,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "El Banco",
+    "fullName": null,
+    "lat": 9.12411,
+    "lng": -73.97626,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3683465,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "El Piñon",
+    "fullName": null,
+    "lat": 10.33333,
+    "lng": -74.66667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609551,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "El Retén",
+    "fullName": null,
+    "lat": 10.66114,
+    "lng": -74.32549,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682289,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Fundación",
+    "fullName": null,
+    "lat": 10.41667,
+    "lng": -73.91667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681606,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Guamal",
+    "fullName": null,
+    "lat": 9.26079,
+    "lng": -74.13105,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609552,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Nueva Granada",
+    "fullName": null,
+    "lat": 9.73588,
+    "lng": -74.32892,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672634,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Pedraza",
+    "fullName": null,
+    "lat": 10.1494,
+    "lng": -74.83634,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609553,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Pijiño del Carmen",
+    "fullName": null,
+    "lat": 9.53528,
+    "lng": -74.11992,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672094,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Pivijay",
+    "fullName": null,
+    "lat": 10.43178,
+    "lng": -74.41536,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672032,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Plato",
+    "fullName": null,
+    "lat": 9.77267,
+    "lng": -74.74548,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671628,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Puebloviejo",
+    "fullName": null,
+    "lat": 10.84239,
+    "lng": -74.38538,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670898,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Remolino",
+    "fullName": null,
+    "lat": 10.65048,
+    "lng": -74.58442,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609554,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Sabanas de San Angel",
+    "fullName": null,
+    "lat": 10.11072,
+    "lng": -74.26007,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670371,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Salamina",
+    "fullName": null,
+    "lat": 10.51727,
+    "lng": -74.71942,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668979,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "San Sebastián de Buenavista",
+    "fullName": null,
+    "lat": 9.33242,
+    "lng": -74.2152,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668287,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "San Zenón",
+    "fullName": null,
+    "lat": 9.32686,
+    "lng": -74.32914,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668928,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 9.51484,
+    "lng": -74.3433,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609555,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Santa Bárbara de Pinto",
+    "fullName": null,
+    "lat": 9.52107,
+    "lng": -74.64912,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668614,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Santa Marta",
+    "fullName": null,
+    "lat": 11.24348,
+    "lng": -74.20835,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667924,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Sitionuevo",
+    "fullName": null,
+    "lat": 10.88969,
+    "lng": -74.63082,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667302,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Tenerife",
+    "fullName": null,
+    "lat": 9.93201,
+    "lng": -74.73465,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609556,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Zapayán",
+    "fullName": null,
+    "lat": 10.11846,
+    "lng": -74.69143,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179913,
+    "parentId": 3675686,
+    "country": "CO",
+    "name": "Zona Bananera",
+    "fullName": null,
+    "lat": 10.76417,
+    "lng": -74.15722,
+    "tz": "America/Bogota"
+  }
+]

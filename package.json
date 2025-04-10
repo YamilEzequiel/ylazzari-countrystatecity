@@ -1,0 +1,81 @@
+{
+  "name": "ylazzari-countrystatecity",
+  "version": "1.0.0",
+  "description": "List of countries, states and cities",
+  "main": "dist/index.js",
+  "types": "dist/shared/index.d.ts",
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "build:cjs": "tsc",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "prepare": "npm run build",
+    "clean": "rimraf dist",
+    "start": "npx ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamilEzequiel/ylazzari-countrystatecity.git"
+  },
+  "keywords": [
+    "list",
+    "country",
+    "countries",
+    "city",
+    "states",
+    "cities"
+  ],
+  "type": "commonjs",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "module": "./dist/src/index.js",
+  "author": "Yamil Lazzari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamilEzequiel/ylazzari-countrystatecity/issues"
+  },
+  "homepage": "https://github.com/YamilEzequiel/ylazzari-countrystatecity#readme",
+  "devDependencies": {
+    "rimraf": "^5.0.10",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.8.3"
+  },
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "target": "ESNext",
+    "esModuleInterop": true
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./country": {
+      "import": "./dist/country/index.js",
+      "types": "./dist/country/index.d.ts"
+    },
+    "./shared": {
+      "import": "./dist/shared/index.js",
+      "types": "./dist/shared/index.d.ts"
+    },
+    "./states": {
+      "import": "./dist/states/index.js",
+      "types": "./dist/states/index.d.ts"
+    }
+  },
+  "typeVersion": {
+    "*": {
+      "enums": [
+        "./dist/src/shared/enum/index-enum.d.ts"
+      ],
+      "interfaces": [
+        "./dist/src/shared/interface/index.d.ts"
+      ],
+      "* ": [
+        "./dist/src/shared/index.d.ts"
+      ]
+    }
+  }
+}

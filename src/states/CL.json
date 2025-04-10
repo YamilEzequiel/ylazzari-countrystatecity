@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3899537,
+    "parentId": null,
+    "country": "CL",
+    "name": "Antofagasta",
+    "fullName": "Región de Antofagasta",
+    "lat": -23.5,
+    "lng": -69,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 6693562,
+    "parentId": null,
+    "country": "CL",
+    "name": "Arica y Parinacota",
+    "fullName": "Región de Arica y Parinacota",
+    "lat": -18.57336,
+    "lng": -69.46106,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3899191,
+    "parentId": null,
+    "country": "CL",
+    "name": "Atacama",
+    "fullName": "Región de Atacama",
+    "lat": -27.5,
+    "lng": -70,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3898380,
+    "parentId": null,
+    "country": "CL",
+    "name": "Biobío",
+    "fullName": "Región del Biobío",
+    "lat": -37.375,
+    "lng": -72.45,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3893623,
+    "parentId": null,
+    "country": "CL",
+    "name": "Coquimbo",
+    "fullName": "Región de Coquimbo",
+    "lat": -30.75,
+    "lng": -71,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3899463,
+    "parentId": null,
+    "country": "CL",
+    "name": "la Araucanía",
+    "fullName": "Región de la Araucanía",
+    "lat": -38.5,
+    "lng": -72,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3883281,
+    "parentId": null,
+    "country": "CL",
+    "name": "Libertador General Bernardo O’Higgins",
+    "fullName": "Región del Libertador General Bernardo O’Higgins",
+    "lat": -34.5,
+    "lng": -71,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3881974,
+    "parentId": null,
+    "country": "CL",
+    "name": "los Lagos",
+    "fullName": "Región de los Lagos",
+    "lat": -42.59889,
+    "lng": -73.96048,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 6693563,
+    "parentId": null,
+    "country": "CL",
+    "name": "los Ríos",
+    "fullName": "Región de los Ríos",
+    "lat": -40.01499,
+    "lng": -72.51526,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 4036650,
+    "parentId": null,
+    "country": "CL",
+    "name": "Magallanes y Antártica Chilena",
+    "fullName": "Región de Magallanes y Antártica Chilena",
+    "lat": -52.50026,
+    "lng": -73.00067,
+    "tz": "America/Punta_Arenas"
+  },
+  {
+    "id": 3880306,
+    "parentId": null,
+    "country": "CL",
+    "name": "Maule",
+    "fullName": "Región del Maule",
+    "lat": -35.5,
+    "lng": -71.5,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 11979367,
+    "parentId": null,
+    "country": "CL",
+    "name": "Ñuble",
+    "fullName": "Región de Ñuble",
+    "lat": -36.62291,
+    "lng": -72.21643,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3900333,
+    "parentId": null,
+    "country": "CL",
+    "name": "Región Aysén",
+    "fullName": null,
+    "lat": -46.5,
+    "lng": -73.5,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3873544,
+    "parentId": null,
+    "country": "CL",
+    "name": "Región Metropolitana",
+    "fullName": null,
+    "lat": -33.47269,
+    "lng": -70.64724,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3870116,
+    "parentId": null,
+    "country": "CL",
+    "name": "Tarapacá",
+    "fullName": "Región de Tarapacá",
+    "lat": -20,
+    "lng": -69.33333,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3868621,
+    "parentId": null,
+    "country": "CL",
+    "name": "Valparaíso",
+    "fullName": "Región de Valparaíso",
+    "lat": -32.75,
+    "lng": -71.33333,
+    "tz": "America/Santiago"
+  }
+]

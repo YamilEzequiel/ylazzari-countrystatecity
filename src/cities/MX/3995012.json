@@ -1,0 +1,202 @@
+[
+  {
+    "id": 8582402,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Acaponeta",
+    "fullName": null,
+    "lat": 22.48146,
+    "lng": -105.33054,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582403,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Ahuacatlán",
+    "fullName": null,
+    "lat": 21.04517,
+    "lng": -104.54126,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582404,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Amatlán de Cañas",
+    "fullName": null,
+    "lat": 20.84228,
+    "lng": -104.42505,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582421,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Bahía de Banderas",
+    "fullName": null,
+    "lat": 20.80426,
+    "lng": -105.30913,
+    "tz": "America/Bahia_Banderas"
+  },
+  {
+    "id": 8582405,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Compostela",
+    "fullName": null,
+    "lat": 21.14787,
+    "lng": -105.08989,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582410,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Del Nayar",
+    "fullName": null,
+    "lat": 22.11856,
+    "lng": -104.65044,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582406,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Huajicori",
+    "fullName": null,
+    "lat": 22.77029,
+    "lng": -105.22216,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582407,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Ixtlán del Río",
+    "fullName": null,
+    "lat": 21.04444,
+    "lng": -104.32443,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582408,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Jala",
+    "fullName": null,
+    "lat": 21.1806,
+    "lng": -104.39716,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582420,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "La Yesca",
+    "fullName": null,
+    "lat": 21.54915,
+    "lng": -104.13395,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582411,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Rosamorada",
+    "fullName": null,
+    "lat": 22.07727,
+    "lng": -105.19189,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582412,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Ruíz",
+    "fullName": null,
+    "lat": 22.01863,
+    "lng": -104.87825,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582413,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "San Blas",
+    "fullName": null,
+    "lat": 21.57629,
+    "lng": -105.3233,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582414,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "San Pedro Lagunillas",
+    "fullName": null,
+    "lat": 21.19036,
+    "lng": -104.74031,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582415,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Santa María del Oro",
+    "fullName": null,
+    "lat": 21.3567,
+    "lng": -104.58604,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582416,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Santiago Ixcuintla",
+    "fullName": null,
+    "lat": 21.80967,
+    "lng": -105.23187,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582417,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Tecuala",
+    "fullName": null,
+    "lat": 22.37323,
+    "lng": -105.51686,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582418,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Tepic",
+    "fullName": null,
+    "lat": 21.56234,
+    "lng": -104.87194,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582419,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Tuxpan",
+    "fullName": null,
+    "lat": 21.96149,
+    "lng": -105.37436,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582409,
+    "parentId": 3995012,
+    "country": "MX",
+    "name": "Xalisco",
+    "fullName": null,
+    "lat": 21.39832,
+    "lng": -104.92389,
+    "tz": "America/Mazatlan"
+  }
+]

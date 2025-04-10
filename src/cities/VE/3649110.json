@@ -1,0 +1,182 @@
+[
+  {
+    "id": 8129206,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 10.21302,
+    "lng": -67.42365,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129250,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Camatagua",
+    "fullName": "Municipio Camatagua",
+    "lat": 9.78762,
+    "lng": -66.90619,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131395,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Francisco Linares Alcántara",
+    "fullName": "Municipio Francisco Linares Alcántara",
+    "lat": 10.20028,
+    "lng": -67.55139,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640595,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Girardot",
+    "fullName": "Municipio Girardot",
+    "lat": 10.41667,
+    "lng": -67.66667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129226,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "José Angel Lamas",
+    "fullName": "Municipio José Angel Lamas",
+    "lat": 10.18,
+    "lng": -67.51184,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129202,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "José Félix Ribas",
+    "fullName": "Municipio José Félix Ribas",
+    "lat": 10.21844,
+    "lng": -67.33017,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129176,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "José Rafael Revenga",
+    "fullName": "Municipio José Rafael Revenga",
+    "lat": 10.23717,
+    "lng": -67.27141,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129237,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 10.17389,
+    "lng": -67.54194,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131393,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Mario Briceño Iragorry",
+    "fullName": "Municipio Mario Briceño Iragorry",
+    "lat": 10.30314,
+    "lng": -67.6172,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129235,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Ocumare de La Costa de Oro",
+    "fullName": "Municipio Ocumare de La Costa de Oro",
+    "lat": 10.46127,
+    "lng": -67.76872,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628486,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "San Casimiro",
+    "fullName": "Municipio San Casimiro",
+    "lat": 10,
+    "lng": -66.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3627638,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "San Sebastián",
+    "fullName": "Municipio San Sebastián",
+    "lat": 10,
+    "lng": -67.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129205,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Santiago Mariño",
+    "fullName": "Municipio Santiago Mariño",
+    "lat": 10.22388,
+    "lng": -67.47288,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129149,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Santos Michelena",
+    "fullName": "Municipio Santos Michelena",
+    "lat": 10.25237,
+    "lng": -67.18472,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626659,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 10.16667,
+    "lng": -67.45,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131394,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Tovar",
+    "fullName": "Municipio Tovar",
+    "lat": 10.40353,
+    "lng": -67.2916,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625660,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Urdaneta",
+    "fullName": "Municipio Urdaneta",
+    "lat": 9.71667,
+    "lng": -66.8,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625123,
+    "parentId": 3649110,
+    "country": "VE",
+    "name": "Zamora",
+    "fullName": "Municipio Zamora",
+    "lat": 10.06667,
+    "lng": -67.5,
+    "tz": "America/Caracas"
+  }
+]

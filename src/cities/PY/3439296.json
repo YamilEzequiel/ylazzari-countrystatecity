@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11840160,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "3 De Mayo",
+    "fullName": null,
+    "lat": -26.40549,
+    "lng": -56.06766,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839943,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Abai",
+    "fullName": null,
+    "lat": -25.88262,
+    "lng": -55.70886,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840015,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Buena Vista",
+    "fullName": null,
+    "lat": -26.22098,
+    "lng": -56.08279,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840162,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Caazapa",
+    "fullName": null,
+    "lat": -26.17881,
+    "lng": -56.28831,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840100,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Fulgencio Yegros",
+    "fullName": null,
+    "lat": -26.54205,
+    "lng": -56.56201,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840057,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "General Higinio Morinigo",
+    "fullName": null,
+    "lat": -26.04084,
+    "lng": -56.08235,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840115,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Maciel",
+    "fullName": null,
+    "lat": -26.22056,
+    "lng": -56.51332,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840005,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Moises Bertoni",
+    "fullName": null,
+    "lat": -26.38182,
+    "lng": -56.59458,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840016,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "San Juan Nepomuceno",
+    "fullName": null,
+    "lat": -26.23146,
+    "lng": -55.90066,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840035,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Tavai",
+    "fullName": null,
+    "lat": -26.18824,
+    "lng": -55.52995,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840093,
+    "parentId": 3439296,
+    "country": "PY",
+    "name": "Yuty",
+    "fullName": null,
+    "lat": -26.60724,
+    "lng": -56.33523,
+    "tz": "America/Asuncion"
+  }
+]

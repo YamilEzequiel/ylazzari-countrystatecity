@@ -1,0 +1,402 @@
+[
+  {
+    "id": 3690586,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Abrego",
+    "fullName": null,
+    "lat": 8,
+    "lng": -73.2,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689698,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Arboledas",
+    "fullName": null,
+    "lat": 7.63494,
+    "lng": -72.8605,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688707,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Bochalema",
+    "fullName": null,
+    "lat": 7.60217,
+    "lng": -72.68839,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688463,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Bucarasica",
+    "fullName": null,
+    "lat": 8.08065,
+    "lng": -72.92905,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688108,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Cachirá",
+    "fullName": null,
+    "lat": 7.75,
+    "lng": -73.16667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688088,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Cácota",
+    "fullName": null,
+    "lat": 7.25046,
+    "lng": -72.6783,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686575,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Chinácota",
+    "fullName": null,
+    "lat": 7.55543,
+    "lng": -72.60413,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686461,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Chitagá",
+    "fullName": null,
+    "lat": 7.03202,
+    "lng": -72.55073,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685957,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Convención",
+    "fullName": null,
+    "lat": 8.82242,
+    "lng": -73.2285,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685534,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Cúcuta",
+    "fullName": null,
+    "lat": 8.08413,
+    "lng": -72.50517,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685530,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Cucutilla",
+    "fullName": null,
+    "lat": 7.49891,
+    "lng": -72.79705,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685071,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Durania",
+    "fullName": null,
+    "lat": 7.71915,
+    "lng": -72.70029,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684711,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "El Carmen",
+    "fullName": null,
+    "lat": 8.85175,
+    "lng": -73.35303,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172401,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "El Tarra",
+    "fullName": null,
+    "lat": 8.65445,
+    "lng": -73.0531,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682683,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "El Zulia",
+    "fullName": null,
+    "lat": 8.06543,
+    "lng": -72.65986,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681968,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Gramalote",
+    "fullName": null,
+    "lat": 7.87847,
+    "lng": -72.82202,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681169,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Hacarí",
+    "fullName": null,
+    "lat": 8.34389,
+    "lng": -73.09632,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680887,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Herrán",
+    "fullName": null,
+    "lat": 7.4807,
+    "lng": -72.50059,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172325,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "La Esperanza",
+    "fullName": null,
+    "lat": 7.68603,
+    "lng": -73.40726,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678089,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "La Playa",
+    "fullName": null,
+    "lat": 8.25833,
+    "lng": -73.19222,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3679781,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Labateca",
+    "fullName": null,
+    "lat": 7.24558,
+    "lng": -72.55286,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172406,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Los Patios",
+    "fullName": null,
+    "lat": 7.7054,
+    "lng": -72.5692,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675858,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Lourdes",
+    "fullName": null,
+    "lat": 7.96774,
+    "lng": -72.84519,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674126,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Mutiscua",
+    "fullName": null,
+    "lat": 7.2981,
+    "lng": -72.79879,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673663,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Ocaña",
+    "fullName": null,
+    "lat": 8.21644,
+    "lng": -73.34917,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673046,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Pamplona",
+    "fullName": null,
+    "lat": 7.3494,
+    "lng": -72.69952,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673042,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Pamplonita",
+    "fullName": null,
+    "lat": 7.45814,
+    "lng": -72.65965,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172324,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Puerto Santander",
+    "fullName": null,
+    "lat": 8.32876,
+    "lng": -72.4114,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671019,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Ragonvalia",
+    "fullName": null,
+    "lat": 7.59756,
+    "lng": -72.50985,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670361,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Salazar",
+    "fullName": null,
+    "lat": 7.78249,
+    "lng": -72.85741,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670012,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "San Calixto",
+    "fullName": null,
+    "lat": 8.44179,
+    "lng": -73.16598,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669985,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "San Cayetano",
+    "fullName": null,
+    "lat": 7.84771,
+    "lng": -72.61014,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668401,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 7.8693,
+    "lng": -72.73753,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668246,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Sardinata",
+    "fullName": null,
+    "lat": 8.23424,
+    "lng": -72.82039,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668034,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Silos",
+    "fullName": null,
+    "lat": 7.18687,
+    "lng": -72.78501,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667287,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Teorama",
+    "fullName": null,
+    "lat": 8.75219,
+    "lng": -73.1601,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172035,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Tibú",
+    "fullName": null,
+    "lat": 8.6954,
+    "lng": -72.81268,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666961,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Toledo",
+    "fullName": null,
+    "lat": 7.23217,
+    "lng": -72.31127,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666017,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Villa Caro",
+    "fullName": null,
+    "lat": 7.91667,
+    "lng": -73,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665914,
+    "parentId": 3673798,
+    "country": "CO",
+    "name": "Villa del Rosario",
+    "fullName": null,
+    "lat": 7.75816,
+    "lng": -72.48182,
+    "tz": "America/Bogota"
+  }
+]

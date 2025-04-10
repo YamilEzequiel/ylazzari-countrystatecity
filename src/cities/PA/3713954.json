@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3712399,
+    "parentId": 3713954,
+    "country": "PA",
+    "name": "Distrito Chiriquí Grande",
+    "fullName": null,
+    "lat": 8.94748,
+    "lng": -82.12418,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713955,
+    "parentId": 3713954,
+    "country": "PA",
+    "name": "Distrito de Bocas del Toro",
+    "fullName": null,
+    "lat": 9.36235,
+    "lng": -82.26288,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712558,
+    "parentId": 3713954,
+    "country": "PA",
+    "name": "Distrito de Changuinola",
+    "fullName": null,
+    "lat": 9.25,
+    "lng": -82.63333,
+    "tz": "America/Panama"
+  }
+]

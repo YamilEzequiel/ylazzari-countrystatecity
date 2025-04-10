@@ -1,0 +1,432 @@
+[
+  {
+    "id": 8583451,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Abasolo",
+    "fullName": null,
+    "lat": 24.10458,
+    "lng": -98.30689,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8581710,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Aldama",
+    "fullName": null,
+    "lat": 23.00048,
+    "lng": -98.0312,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583452,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Altamira",
+    "fullName": null,
+    "lat": 22.5251,
+    "lng": -98.06952,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583453,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Antiguo Morelos",
+    "fullName": null,
+    "lat": 22.5949,
+    "lng": -99.09853,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583454,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Burgos",
+    "fullName": null,
+    "lat": 24.94938,
+    "lng": -98.80472,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583455,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Bustamante",
+    "fullName": null,
+    "lat": 23.3298,
+    "lng": -99.9114,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583456,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Camargo",
+    "fullName": null,
+    "lat": 26.2313,
+    "lng": -98.85019,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583457,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Casas",
+    "fullName": null,
+    "lat": 23.58092,
+    "lng": -98.66703,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583458,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Ciudad Madero",
+    "fullName": null,
+    "lat": 22.27639,
+    "lng": -97.83139,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583459,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Cruillas",
+    "fullName": null,
+    "lat": 24.64123,
+    "lng": -98.39984,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583468,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "El Mante",
+    "fullName": null,
+    "lat": 22.67241,
+    "lng": -98.9382,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583460,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Gómez Farías",
+    "fullName": null,
+    "lat": 22.96143,
+    "lng": -99.07734,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583461,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "González",
+    "fullName": null,
+    "lat": 22.75541,
+    "lng": -98.53254,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583462,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Güémez",
+    "fullName": null,
+    "lat": 23.90693,
+    "lng": -99.06872,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583463,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Guerrero",
+    "fullName": null,
+    "lat": 26.90952,
+    "lng": -99.45995,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583464,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Gustavo Díaz Ordaz",
+    "fullName": null,
+    "lat": 26.1613,
+    "lng": -98.64045,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583465,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Hidalgo",
+    "fullName": null,
+    "lat": 24.21534,
+    "lng": -99.35608,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8582846,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Jaumave",
+    "fullName": null,
+    "lat": 23.45148,
+    "lng": -99.40285,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583147,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Jiménez",
+    "fullName": null,
+    "lat": 24.26262,
+    "lng": -98.49656,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583466,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Llera",
+    "fullName": null,
+    "lat": 23.26609,
+    "lng": -98.91836,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583467,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Mainero",
+    "fullName": null,
+    "lat": 24.58503,
+    "lng": -99.56313,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583469,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Matamoros",
+    "fullName": null,
+    "lat": 25.72171,
+    "lng": -97.60135,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8583470,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Méndez",
+    "fullName": null,
+    "lat": 25.23503,
+    "lng": -98.44781,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583471,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Mier",
+    "fullName": null,
+    "lat": 26.43128,
+    "lng": -99.23256,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583472,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Miguel Alemán",
+    "fullName": null,
+    "lat": 26.26713,
+    "lng": -99.06203,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583473,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Miquihuana",
+    "fullName": null,
+    "lat": 23.60254,
+    "lng": -99.77922,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583474,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Nuevo Laredo",
+    "fullName": null,
+    "lat": 27.4545,
+    "lng": -99.62697,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8583475,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Nuevo Morelos",
+    "fullName": null,
+    "lat": 22.50112,
+    "lng": -99.20159,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583476,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Ocampo",
+    "fullName": null,
+    "lat": 22.83612,
+    "lng": -99.28281,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583477,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Padilla",
+    "fullName": null,
+    "lat": 24.05571,
+    "lng": -98.89671,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583478,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Palmillas",
+    "fullName": null,
+    "lat": 23.24434,
+    "lng": -99.55698,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 7733376,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Reynosa",
+    "fullName": null,
+    "lat": 26.07517,
+    "lng": -98.30832,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8583479,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Río Bravo",
+    "fullName": null,
+    "lat": 25.83854,
+    "lng": -98.03879,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583480,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": 24.40291,
+    "lng": -98.98898,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583481,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "San Fernando",
+    "fullName": null,
+    "lat": 24.91613,
+    "lng": -98.03549,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583482,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "San Nicolás",
+    "fullName": null,
+    "lat": 24.64676,
+    "lng": -98.80515,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583483,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Soto la Marina",
+    "fullName": null,
+    "lat": 23.72796,
+    "lng": -98.03044,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583484,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Tampico",
+    "fullName": null,
+    "lat": 22.29508,
+    "lng": -97.93595,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583485,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Tula",
+    "fullName": null,
+    "lat": 22.97028,
+    "lng": -99.70257,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583486,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Valle Hermoso",
+    "fullName": null,
+    "lat": 25.69636,
+    "lng": -97.83819,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583487,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Victoria",
+    "fullName": null,
+    "lat": 23.75836,
+    "lng": -99.13489,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583488,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Villagrán",
+    "fullName": null,
+    "lat": 24.51731,
+    "lng": -99.41872,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583489,
+    "parentId": 3516391,
+    "country": "MX",
+    "name": "Xicoténcatl",
+    "fullName": null,
+    "lat": 23.00986,
+    "lng": -98.98315,
+    "tz": "America/Monterrey"
+  }
+]

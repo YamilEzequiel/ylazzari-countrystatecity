@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 3690430,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Agua de Dios",
+    "fullName": null,
+    "lat": 4.35842,
+    "lng": -74.69002,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3690267,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Albán",
+    "fullName": null,
+    "lat": 4.89432,
+    "lng": -74.44388,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689942,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Anapoima",
+    "fullName": null,
+    "lat": 4.54363,
+    "lng": -74.54686,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689842,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Anolaima",
+    "fullName": null,
+    "lat": 4.77621,
+    "lng": -74.48412,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671021,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Apulo",
+    "fullName": null,
+    "lat": 4.50902,
+    "lng": -74.59774,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689710,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Arbeláez",
+    "fullName": null,
+    "lat": 4.21251,
+    "lng": -74.41464,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688919,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Beltrán",
+    "fullName": null,
+    "lat": 4.71947,
+    "lng": -74.7566,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688812,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Bituima",
+    "fullName": null,
+    "lat": 4.82896,
+    "lng": -74.55203,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688674,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Bojacá",
+    "fullName": null,
+    "lat": 4.68719,
+    "lng": -74.33706,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9178694,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cabrera",
+    "fullName": null,
+    "lat": 3.87443,
+    "lng": -74.4719,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172349,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cachipay",
+    "fullName": null,
+    "lat": 4.70422,
+    "lng": -74.48706,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688007,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cajicá",
+    "fullName": null,
+    "lat": 4.91284,
+    "lng": -74.05261,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687506,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Caparrapí",
+    "fullName": null,
+    "lat": 5.37852,
+    "lng": -74.52276,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687477,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Caqueza",
+    "fullName": null,
+    "lat": 4.38708,
+    "lng": -73.95722,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687322,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Carmen de Carupa",
+    "fullName": null,
+    "lat": 5.33258,
+    "lng": -73.92788,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686852,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Chaguaní",
+    "fullName": null,
+    "lat": 4.94554,
+    "lng": -74.65954,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686677,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Chía",
+    "fullName": null,
+    "lat": 4.84452,
+    "lng": -74.05848,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686533,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Chipaque",
+    "fullName": null,
+    "lat": 4.41481,
+    "lng": -74.07541,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686442,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Choachí",
+    "fullName": null,
+    "lat": 4.5606,
+    "lng": -73.91851,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686423,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Chocontá",
+    "fullName": null,
+    "lat": 5.12329,
+    "lng": -73.68686,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686135,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cogua",
+    "fullName": null,
+    "lat": 5.08474,
+    "lng": -73.9949,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685734,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cota",
+    "fullName": null,
+    "lat": 4.77601,
+    "lng": -74.14335,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685541,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Cucunubá",
+    "fullName": null,
+    "lat": 5.21626,
+    "lng": -73.80756,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684506,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "El Colegio",
+    "fullName": null,
+    "lat": 4.56047,
+    "lng": -74.42614,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3683506,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "El Peñón",
+    "fullName": null,
+    "lat": 5.26,
+    "lng": -74.33333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179884,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "El Rosal",
+    "fullName": null,
+    "lat": 4.85,
+    "lng": -74.2667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682517,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Facatativá",
+    "fullName": null,
+    "lat": 4.81962,
+    "lng": -74.35893,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682381,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Fomeque",
+    "fullName": null,
+    "lat": 4.52806,
+    "lng": -73.78879,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682359,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Fosca",
+    "fullName": null,
+    "lat": 4.3018,
+    "lng": -73.97404,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682282,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Funza",
+    "fullName": null,
+    "lat": 4.73058,
+    "lng": -74.21787,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682280,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Fúquene",
+    "fullName": null,
+    "lat": 5.41988,
+    "lng": -73.76997,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682275,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Fusagasugá",
+    "fullName": null,
+    "lat": 4.2924,
+    "lng": -74.38332,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682267,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Gachala",
+    "fullName": null,
+    "lat": 4.66667,
+    "lng": -73.5,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682263,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Gachancipá",
+    "fullName": null,
+    "lat": 5.01024,
+    "lng": -73.87796,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682259,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Gachetá",
+    "fullName": null,
+    "lat": 4.87104,
+    "lng": -73.6173,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682186,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Gama",
+    "fullName": null,
+    "lat": 4.70984,
+    "lng": -73.62002,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682029,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Girardot",
+    "fullName": null,
+    "lat": 4.31802,
+    "lng": -74.83504,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179702,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Granada",
+    "fullName": null,
+    "lat": 4.51861,
+    "lng": -74.35139,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681768,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guachetá",
+    "fullName": null,
+    "lat": 5.389,
+    "lng": -73.69701,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681703,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guaduas",
+    "fullName": null,
+    "lat": 5.0743,
+    "lng": -74.59854,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681405,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guasca",
+    "fullName": null,
+    "lat": 4.80699,
+    "lng": -73.85173,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681365,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guataquí",
+    "fullName": null,
+    "lat": 4.51623,
+    "lng": -74.77217,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681361,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guatavita",
+    "fullName": null,
+    "lat": 4.91121,
+    "lng": -73.83988,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681307,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guayabal de Siquima",
+    "fullName": null,
+    "lat": 4.87881,
+    "lng": -74.48306,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172353,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Guayabetal",
+    "fullName": null,
+    "lat": 4.17508,
+    "lng": -73.88117,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681177,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Gutiérrez",
+    "fullName": null,
+    "lat": 4.18486,
+    "lng": -74.01168,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680310,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Jerusalén",
+    "fullName": null,
+    "lat": 4.55678,
+    "lng": -74.70941,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680116,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Junín",
+    "fullName": null,
+    "lat": 4.70725,
+    "lng": -73.69549,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3679663,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "La Calera",
+    "fullName": null,
+    "lat": 4.68678,
+    "lng": -73.9359,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678411,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "La Mesa",
+    "fullName": null,
+    "lat": 4.65374,
+    "lng": -74.47316,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678287,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "La Palma",
+    "fullName": null,
+    "lat": 5.31732,
+    "lng": -74.43003,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3678169,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "La Peña",
+    "fullName": null,
+    "lat": 5.19839,
+    "lng": -74.41143,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676870,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "La Vega",
+    "fullName": null,
+    "lat": 4.97382,
+    "lng": -74.34476,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676645,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Lenguazaque",
+    "fullName": null,
+    "lat": 5.28533,
+    "lng": -73.7102,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675758,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Macheta",
+    "fullName": null,
+    "lat": 5.08333,
+    "lng": -73.61667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675708,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Madrid",
+    "fullName": null,
+    "lat": 4.75564,
+    "lng": -74.27708,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675433,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Manta",
+    "fullName": null,
+    "lat": 4.9572,
+    "lng": -73.58583,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674933,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Medina",
+    "fullName": null,
+    "lat": 4.50099,
+    "lng": -73.40491,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674295,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Mosquera",
+    "fullName": null,
+    "lat": 4.68935,
+    "lng": -74.23599,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674033,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Nariño",
+    "fullName": null,
+    "lat": 4.39913,
+    "lng": -74.82239,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673888,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Nemocón",
+    "fullName": null,
+    "lat": 5.06966,
+    "lng": -73.90606,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673850,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Nilo",
+    "fullName": null,
+    "lat": 4.31345,
+    "lng": -74.6057,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673846,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Nimaima",
+    "fullName": null,
+    "lat": 5.11741,
+    "lng": -74.4034,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673827,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Nocaima",
+    "fullName": null,
+    "lat": 5.04767,
+    "lng": -74.40465,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673425,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Pacho",
+    "fullName": null,
+    "lat": 5.14994,
+    "lng": -74.18067,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673373,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Paime",
+    "fullName": null,
+    "lat": 5.389,
+    "lng": -74.16666,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672998,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Pandi",
+    "fullName": null,
+    "lat": 4.18032,
+    "lng": -74.47099,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9073272,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Paratebueno",
+    "fullName": null,
+    "lat": 4.41691,
+    "lng": -73.18559,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672814,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Pasca",
+    "fullName": null,
+    "lat": 4.30227,
+    "lng": -74.27513,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671331,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Puerto Salgar",
+    "fullName": null,
+    "lat": 5.61892,
+    "lng": -74.58483,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671280,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Pulí",
+    "fullName": null,
+    "lat": 4.67855,
+    "lng": -74.69526,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671164,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Quebradanegra",
+    "fullName": null,
+    "lat": 5.08262,
+    "lng": -74.52117,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671120,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Quetame",
+    "fullName": null,
+    "lat": 4.33236,
+    "lng": -73.84015,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671073,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Quipile",
+    "fullName": null,
+    "lat": 4.72366,
+    "lng": -74.55103,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172260,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Ricaurte",
+    "fullName": null,
+    "lat": 4.29127,
+    "lng": -74.75432,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179893,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "San Antonio del Tequendama",
+    "fullName": null,
+    "lat": 4.61667,
+    "lng": -74.35,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670036,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "San Bernardo",
+    "fullName": null,
+    "lat": 4.12956,
+    "lng": -74.35903,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669986,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "San Cayetano",
+    "fullName": null,
+    "lat": 5.31693,
+    "lng": -74.07141,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669885,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 4.96335,
+    "lng": -74.26613,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669465,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "San Juan de Río Seco",
+    "fullName": null,
+    "lat": 4.83077,
+    "lng": -74.68248,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668229,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Sasaima",
+    "fullName": null,
+    "lat": 4.92891,
+    "lng": -74.42797,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668139,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Sesquilé",
+    "fullName": null,
+    "lat": 4.98827,
+    "lng": -73.80045,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172375,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Sibaté",
+    "fullName": null,
+    "lat": 4.4491,
+    "lng": -74.28287,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668029,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Silvania",
+    "fullName": null,
+    "lat": 4.42513,
+    "lng": -74.38425,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668018,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Simijaca",
+    "fullName": null,
+    "lat": 5.50415,
+    "lng": -73.86944,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667906,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Soacha",
+    "fullName": null,
+    "lat": 4.54605,
+    "lng": -74.20626,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667808,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Sopó",
+    "fullName": null,
+    "lat": 4.87157,
+    "lng": -73.98616,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667761,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Subachoque",
+    "fullName": null,
+    "lat": 4.97813,
+    "lng": -74.1612,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667718,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Suesca",
+    "fullName": null,
+    "lat": 5.12612,
+    "lng": -73.8036,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667702,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Supatá",
+    "fullName": null,
+    "lat": 5.06146,
+    "lng": -74.22912,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667666,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Susa",
+    "fullName": null,
+    "lat": 5.427,
+    "lng": -73.84786,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667650,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Sutatausa",
+    "fullName": null,
+    "lat": 5.22898,
+    "lng": -73.87912,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667630,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tabio",
+    "fullName": null,
+    "lat": 4.93513,
+    "lng": -74.10211,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667352,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tausa",
+    "fullName": null,
+    "lat": 5.17637,
+    "lng": -73.9694,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667311,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tena",
+    "fullName": null,
+    "lat": 4.64863,
+    "lng": -74.39924,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667292,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tenjo",
+    "fullName": null,
+    "lat": 4.8232,
+    "lng": -74.16568,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667223,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tibacuy",
+    "fullName": null,
+    "lat": 4.30606,
+    "lng": -74.51639,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667206,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tibirita",
+    "fullName": null,
+    "lat": 5.08516,
+    "lng": -73.51369,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667004,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tocaima",
+    "fullName": null,
+    "lat": 4.46073,
+    "lng": -74.65722,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666998,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Tocancipá",
+    "fullName": null,
+    "lat": 4.9481,
+    "lng": -73.94826,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666904,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Topaipí",
+    "fullName": null,
+    "lat": 5.33885,
+    "lng": -74.31328,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666527,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Ubalá",
+    "fullName": null,
+    "lat": 4.80816,
+    "lng": -73.47699,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666523,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Ubaque",
+    "fullName": null,
+    "lat": 4.48436,
+    "lng": -73.99661,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666482,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Une",
+    "fullName": null,
+    "lat": 4.30691,
+    "lng": -74.07104,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666364,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Útica",
+    "fullName": null,
+    "lat": 5.16977,
+    "lng": -74.50134,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179699,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Venecia",
+    "fullName": null,
+    "lat": 4.08861,
+    "lng": -74.4775,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666112,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Vergara",
+    "fullName": null,
+    "lat": 5.136,
+    "lng": -74.31539,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666088,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Vianí",
+    "fullName": null,
+    "lat": 4.89579,
+    "lng": -74.55398,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609539,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Villa de San Diego de Ubate",
+    "fullName": null,
+    "lat": 5.31544,
+    "lng": -73.82045,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172376,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Villagómez",
+    "fullName": null,
+    "lat": 5.27104,
+    "lng": -74.191,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665925,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Villapinzón",
+    "fullName": null,
+    "lat": 5.20883,
+    "lng": -73.60536,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665896,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Villeta",
+    "fullName": null,
+    "lat": 5.00008,
+    "lng": -74.50498,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665882,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Viotá",
+    "fullName": null,
+    "lat": 4.42054,
+    "lng": -74.50811,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665814,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Yacopí",
+    "fullName": null,
+    "lat": 5.58215,
+    "lng": -74.37329,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665545,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Zipacón",
+    "fullName": null,
+    "lat": 4.75453,
+    "lng": -74.38765,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665543,
+    "parentId": 3685413,
+    "country": "CO",
+    "name": "Zipaquirá",
+    "fullName": null,
+    "lat": 5.02632,
+    "lng": -74.04206,
+    "tz": "America/Bogota"
+  }
+]

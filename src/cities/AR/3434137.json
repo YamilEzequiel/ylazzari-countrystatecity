@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3435351,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Colón",
+    "fullName": "Departamento de Colón",
+    "lat": -32.00382,
+    "lng": -58.36319,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435260,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Concordia",
+    "fullName": "Departamento de Concordia",
+    "lat": -31.21345,
+    "lng": -58.16274,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3859380,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Diamante",
+    "fullName": "Departamento de Diamante",
+    "lat": -32.16667,
+    "lng": -60.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433958,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Federación",
+    "fullName": "Departamento de Federación",
+    "lat": -30.66667,
+    "lng": -58.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 8715308,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Federal",
+    "fullName": "Departamento de Federal",
+    "lat": -30.95568,
+    "lng": -58.78329,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433947,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Feliciano",
+    "fullName": "Departamento de Feliciano",
+    "lat": -30.41667,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433661,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Gualeguay",
+    "fullName": "Departamento de Gualeguay",
+    "lat": -33,
+    "lng": -59.58333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433657,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Gualeguaychú",
+    "fullName": "Departamento de Gualeguaychú",
+    "lat": -33.25,
+    "lng": -59,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 8715309,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Islas del Ibicuy",
+    "fullName": "Departamento de Islas del Ibicuy",
+    "lat": -33.72401,
+    "lng": -58.65968,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3432077,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "La Paz",
+    "fullName": "Departamento de La Paz",
+    "lat": -30.83333,
+    "lng": -59.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430412,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Nogoyá",
+    "fullName": "Departamento de Nogoyá",
+    "lat": -32.16667,
+    "lng": -59.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430146,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Paraná",
+    "fullName": "Departamento de Paraná",
+    "lat": -31.66667,
+    "lng": -60,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 8715311,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "San Salvador",
+    "fullName": "Departamento de San Salvador",
+    "lat": -31.61608,
+    "lng": -58.52277,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427856,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Tala",
+    "fullName": "Departamento de Tala",
+    "lat": -32.33333,
+    "lng": -59.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427576,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Uruguay",
+    "fullName": "Departamento de Uruguay",
+    "lat": -32.44344,
+    "lng": -58.58278,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3832932,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Victoria",
+    "fullName": "Departamento de Victoria",
+    "lat": -32.66667,
+    "lng": -60.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427426,
+    "parentId": 3434137,
+    "country": "AR",
+    "name": "Villaguay",
+    "fullName": "Departamento de Villaguay",
+    "lat": -31.58333,
+    "lng": -59,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

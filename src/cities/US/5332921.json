@@ -1,0 +1,582 @@
+[
+  {
+    "id": 5322745,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Alameda County",
+    "fullName": null,
+    "lat": 37.65055,
+    "lng": -121.91789,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5323414,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Alpine County",
+    "fullName": null,
+    "lat": 38.59725,
+    "lng": -119.82065,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5323622,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Amador County",
+    "fullName": null,
+    "lat": 38.44639,
+    "lng": -120.65112,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5332191,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Butte County",
+    "fullName": null,
+    "lat": 39.66693,
+    "lng": -121.60067,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5332628,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Calaveras County",
+    "fullName": null,
+    "lat": 38.20461,
+    "lng": -120.55413,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5391997,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "City and County of San Francisco",
+    "fullName": null,
+    "lat": 37.77823,
+    "lng": -122.4425,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5338872,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Colusa County",
+    "fullName": null,
+    "lat": 39.17757,
+    "lng": -122.23703,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5339268,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Contra Costa County",
+    "fullName": null,
+    "lat": 37.92342,
+    "lng": -121.95121,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5562484,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Del Norte County",
+    "fullName": null,
+    "lat": 41.74496,
+    "lng": -123.95781,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5345659,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "El Dorado County",
+    "fullName": null,
+    "lat": 38.77874,
+    "lng": -120.52465,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5350964,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Fresno County",
+    "fullName": null,
+    "lat": 36.75818,
+    "lng": -119.64932,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5352462,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Glenn County",
+    "fullName": null,
+    "lat": 39.5984,
+    "lng": -122.39221,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5565500,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Humboldt County",
+    "fullName": null,
+    "lat": 40.70501,
+    "lng": -123.91582,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5359067,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Imperial County",
+    "fullName": null,
+    "lat": 33.03951,
+    "lng": -115.36532,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5359604,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Inyo County",
+    "fullName": null,
+    "lat": 36.51113,
+    "lng": -117.41079,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5362932,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Kern County",
+    "fullName": null,
+    "lat": 35.34285,
+    "lng": -118.7299,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5363385,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Kings County",
+    "fullName": null,
+    "lat": 36.07536,
+    "lng": -119.8155,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5364466,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Lake County",
+    "fullName": null,
+    "lat": 39.09965,
+    "lng": -122.75318,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5566544,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Lassen County",
+    "fullName": null,
+    "lat": 40.67359,
+    "lng": -120.59433,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5368381,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Los Angeles County",
+    "fullName": null,
+    "lat": 34.19801,
+    "lng": -118.26102,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5369578,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Madera County",
+    "fullName": null,
+    "lat": 37.21804,
+    "lng": -119.76265,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5370468,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Marin County",
+    "fullName": null,
+    "lat": 38.05518,
+    "lng": -122.74886,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5370594,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Mariposa County",
+    "fullName": null,
+    "lat": 37.58152,
+    "lng": -119.90552,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5372163,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Mendocino County",
+    "fullName": null,
+    "lat": 39.43362,
+    "lng": -123.43155,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5372259,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Merced County",
+    "fullName": null,
+    "lat": 37.19186,
+    "lng": -120.71767,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5568120,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Modoc County",
+    "fullName": null,
+    "lat": 41.58985,
+    "lng": -120.72497,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5374091,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Mono County",
+    "fullName": null,
+    "lat": 37.93899,
+    "lng": -118.88671,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5374376,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Monterey County",
+    "fullName": null,
+    "lat": 36.23977,
+    "lng": -121.3089,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5376101,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Napa County",
+    "fullName": null,
+    "lat": 38.50647,
+    "lng": -122.33053,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5376509,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Nevada County",
+    "fullName": null,
+    "lat": 39.30137,
+    "lng": -120.76875,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5379524,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Orange County",
+    "fullName": null,
+    "lat": 33.67691,
+    "lng": -117.77617,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5383537,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Placer County",
+    "fullName": null,
+    "lat": 39.06343,
+    "lng": -120.71766,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5383832,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Plumas County",
+    "fullName": null,
+    "lat": 40.00468,
+    "lng": -120.8386,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5387890,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Riverside County",
+    "fullName": null,
+    "lat": 33.74368,
+    "lng": -115.99386,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5389519,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Sacramento County",
+    "fullName": null,
+    "lat": 38.44932,
+    "lng": -121.34424,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5391692,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Benito County",
+    "fullName": null,
+    "lat": 36.60571,
+    "lng": -121.075,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5391726,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Bernardino County",
+    "fullName": null,
+    "lat": 34.84143,
+    "lng": -116.17846,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5391832,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Diego County",
+    "fullName": null,
+    "lat": 33.0282,
+    "lng": -116.77021,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5392126,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Joaquin County",
+    "fullName": null,
+    "lat": 37.93478,
+    "lng": -121.27145,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5392329,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Luis Obispo County",
+    "fullName": null,
+    "lat": 35.38742,
+    "lng": -120.4522,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5392427,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "San Mateo County",
+    "fullName": null,
+    "lat": 37.43621,
+    "lng": -122.35566,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5392967,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Santa Barbara County",
+    "fullName": null,
+    "lat": 34.53834,
+    "lng": -120.03078,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5393021,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Santa Clara County",
+    "fullName": null,
+    "lat": 37.23249,
+    "lng": -121.69627,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5393068,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Santa Cruz County",
+    "fullName": null,
+    "lat": 37.02161,
+    "lng": -122.00979,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5571096,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Shasta County",
+    "fullName": null,
+    "lat": 40.76377,
+    "lng": -122.04052,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5395582,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Sierra County",
+    "fullName": null,
+    "lat": 39.5804,
+    "lng": -120.516,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5571369,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Siskiyou County",
+    "fullName": null,
+    "lat": 41.59265,
+    "lng": -122.54037,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5396987,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Solano County",
+    "fullName": null,
+    "lat": 38.26692,
+    "lng": -121.94001,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5397100,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Sonoma County",
+    "fullName": null,
+    "lat": 38.52529,
+    "lng": -122.92254,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5398597,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Stanislaus County",
+    "fullName": null,
+    "lat": 37.55914,
+    "lng": -120.99769,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5400390,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Sutter County",
+    "fullName": null,
+    "lat": 39.03452,
+    "lng": -121.69484,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5572575,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Tehama County",
+    "fullName": null,
+    "lat": 40.12574,
+    "lng": -122.23388,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5553701,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Trinity County",
+    "fullName": null,
+    "lat": 40.65069,
+    "lng": -123.11263,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5403789,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Tulare County",
+    "fullName": null,
+    "lat": 36.22016,
+    "lng": -118.80047,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5403973,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Tuolumne County",
+    "fullName": null,
+    "lat": 38.0276,
+    "lng": -119.95475,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5405889,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Ventura County",
+    "fullName": null,
+    "lat": 34.35753,
+    "lng": -119.12603,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5410882,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Yolo County",
+    "fullName": null,
+    "lat": 38.68665,
+    "lng": -121.90162,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5411026,
+    "parentId": 5332921,
+    "country": "US",
+    "name": "Yuba County",
+    "fullName": null,
+    "lat": 39.26902,
+    "lng": -121.35126,
+    "tz": "America/Los_Angeles"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3899459,
+    "parentId": 3898380,
+    "country": "CL",
+    "name": "Arauco",
+    "fullName": "Provincia de Arauco",
+    "lat": -37.74174,
+    "lng": -73.35799,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3898381,
+    "parentId": 3898380,
+    "country": "CL",
+    "name": "Biobío",
+    "fullName": "Provincia de Biobío",
+    "lat": -37.59511,
+    "lng": -71.89553,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3893889,
+    "parentId": 3898380,
+    "country": "CL",
+    "name": "Concepción",
+    "fullName": "Provincia de Concepción",
+    "lat": -36.95773,
+    "lng": -72.89674,
+    "tz": "America/Santiago"
+  }
+]

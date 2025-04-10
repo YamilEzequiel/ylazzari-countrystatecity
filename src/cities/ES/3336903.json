@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3130717,
+    "parentId": 3336903,
+    "country": "ES",
+    "name": "Araba / Álava",
+    "fullName": null,
+    "lat": 42.83333,
+    "lng": -2.75,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3104469,
+    "parentId": 3336903,
+    "country": "ES",
+    "name": "Bizkaia",
+    "fullName": null,
+    "lat": 43.25,
+    "lng": -2.91667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3120935,
+    "parentId": 3336903,
+    "country": "ES",
+    "name": "Gipuzkoa",
+    "fullName": null,
+    "lat": 43.16667,
+    "lng": -2.16667,
+    "tz": "Europe/Madrid"
+  }
+]

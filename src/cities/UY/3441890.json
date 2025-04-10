@@ -1,0 +1,82 @@
+[
+  {
+    "id": 11820773,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Aiguá",
+    "fullName": null,
+    "lat": -34.25468,
+    "lng": -54.64348,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820774,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Garzón",
+    "fullName": null,
+    "lat": -34.62831,
+    "lng": -54.61227,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820867,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Maldonado",
+    "fullName": null,
+    "lat": -34.8439,
+    "lng": -54.98297,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820772,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Pan De Azucar",
+    "fullName": null,
+    "lat": -34.70241,
+    "lng": -55.20468,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820860,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Piriapolis",
+    "fullName": null,
+    "lat": -34.84794,
+    "lng": -55.22418,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820843,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Punta Del Este",
+    "fullName": null,
+    "lat": -34.93195,
+    "lng": -54.92141,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820778,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": -34.65095,
+    "lng": -54.9041,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820775,
+    "parentId": 3441890,
+    "country": "UY",
+    "name": "Solis Grande",
+    "fullName": null,
+    "lat": -34.7097,
+    "lng": -55.38662,
+    "tz": "America/Montevideo"
+  }
+]

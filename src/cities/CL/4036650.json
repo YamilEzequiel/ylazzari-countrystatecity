@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3881037,
+    "parentId": 4036650,
+    "country": "CL",
+    "name": "Magallanes",
+    "fullName": "Provincia de Magallanes",
+    "lat": -52.91667,
+    "lng": -71.08333,
+    "tz": "America/Punta_Arenas"
+  },
+  {
+    "id": 4036651,
+    "parentId": 4036650,
+    "country": "CL",
+    "name": "Provincia Antártica Chilena",
+    "fullName": null,
+    "lat": -55.0225,
+    "lng": -69.22781,
+    "tz": "America/Punta_Arenas"
+  },
+  {
+    "id": 3869875,
+    "parentId": 4036650,
+    "country": "CL",
+    "name": "Tierra del Fuego",
+    "fullName": "Provincia de Tierra del Fuego",
+    "lat": -53.66083,
+    "lng": -69.45173,
+    "tz": "America/Punta_Arenas"
+  },
+  {
+    "id": 3868829,
+    "parentId": 4036650,
+    "country": "CL",
+    "name": "Última Esperanza",
+    "fullName": "Provincia de Última Esperanza",
+    "lat": -50.75,
+    "lng": -74,
+    "tz": "America/Punta_Arenas"
+  }
+]

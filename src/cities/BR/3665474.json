@@ -1,0 +1,222 @@
+[
+  {
+    "id": 6319276,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Acrelândia",
+    "fullName": null,
+    "lat": -9.98045,
+    "lng": -66.84388,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319277,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Assis Brasil",
+    "fullName": null,
+    "lat": -10.88334,
+    "lng": -70.01314,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319278,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Brasiléia",
+    "fullName": null,
+    "lat": -10.76771,
+    "lng": -69.01141,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319279,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Bujari",
+    "fullName": null,
+    "lat": -9.57859,
+    "lng": -68.17197,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319280,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Capixaba",
+    "fullName": null,
+    "lat": -10.48782,
+    "lng": -67.84831,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319281,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Cruzeiro do Sul",
+    "fullName": null,
+    "lat": -8.01594,
+    "lng": -72.92977,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319282,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Epitaciolândia",
+    "fullName": null,
+    "lat": -10.93542,
+    "lng": -68.44411,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6324175,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Feijó",
+    "fullName": null,
+    "lat": -8.90496,
+    "lng": -70.91489,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319283,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Jordão",
+    "fullName": null,
+    "lat": -9.09166,
+    "lng": -71.84069,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319284,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Mâncio Lima",
+    "fullName": null,
+    "lat": -7.53963,
+    "lng": -73.45826,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6324176,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Manoel Urbano",
+    "fullName": null,
+    "lat": -9.48951,
+    "lng": -70.01242,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319285,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Marechal Thaumaturgo",
+    "fullName": null,
+    "lat": -9.18989,
+    "lng": -72.56853,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319286,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Plácido de Castro",
+    "fullName": null,
+    "lat": -10.29428,
+    "lng": -67.26817,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319293,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Porto Acre",
+    "fullName": null,
+    "lat": -9.65038,
+    "lng": -67.77733,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319287,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Porto Walter",
+    "fullName": null,
+    "lat": -8.52474,
+    "lng": -72.82065,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319288,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Rio Branco",
+    "fullName": null,
+    "lat": -10.06989,
+    "lng": -68.15532,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319289,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Rodrigues Alves",
+    "fullName": null,
+    "lat": -7.85286,
+    "lng": -73.23613,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6324177,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Santa Rosa do Purus",
+    "fullName": null,
+    "lat": -9.4773,
+    "lng": -70.39032,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6324178,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Sena Madureira",
+    "fullName": null,
+    "lat": -10.03565,
+    "lng": -69.54974,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319290,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Senador Guiomard",
+    "fullName": null,
+    "lat": -9.9408,
+    "lng": -67.39314,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 6319291,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Tarauacá",
+    "fullName": null,
+    "lat": -8.65516,
+    "lng": -71.42343,
+    "tz": "America/Eirunepe"
+  },
+  {
+    "id": 6319292,
+    "parentId": 3665474,
+    "country": "BR",
+    "name": "Xapuri",
+    "fullName": null,
+    "lat": -10.59663,
+    "lng": -68.64891,
+    "tz": "America/Rio_Branco"
+  }
+]

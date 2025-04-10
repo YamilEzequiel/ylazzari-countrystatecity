@@ -1,0 +1,302 @@
+[
+  {
+    "id": 3690573,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Acandí",
+    "fullName": null,
+    "lat": 8.42468,
+    "lng": -77.2928,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3690070,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Alto Baudo",
+    "fullName": null,
+    "lat": 5.60464,
+    "lng": -77.06975,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179541,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Atrato",
+    "fullName": null,
+    "lat": 5.57362,
+    "lng": -76.64063,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689337,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Bagadó",
+    "fullName": null,
+    "lat": 5.52072,
+    "lng": -76.18785,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667869,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Bahía Solano",
+    "fullName": null,
+    "lat": 6.2252,
+    "lng": -77.39147,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689318,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Bajo Baudó",
+    "fullName": null,
+    "lat": 4.90181,
+    "lng": -77.22771,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688672,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Bojaya",
+    "fullName": null,
+    "lat": 6.5,
+    "lng": -77.1,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179529,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Carmen del Darien",
+    "fullName": null,
+    "lat": 7.03639,
+    "lng": -76.95222,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179552,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Cértegui",
+    "fullName": null,
+    "lat": 5.4,
+    "lng": -76.6,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686003,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Condoto",
+    "fullName": null,
+    "lat": 5.10603,
+    "lng": -76.45161,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609519,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "El Cantón del San Pablo",
+    "fullName": null,
+    "lat": 5.35989,
+    "lng": -76.7728,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684712,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "El Carmen de Atrato",
+    "fullName": null,
+    "lat": 5.83333,
+    "lng": -76.25,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609520,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "El Litoral del San Juan",
+    "fullName": null,
+    "lat": 4.2507,
+    "lng": -76.96926,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680454,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Istmina",
+    "fullName": null,
+    "lat": 4.98772,
+    "lng": -76.80528,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680091,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Juradó",
+    "fullName": null,
+    "lat": 7.00425,
+    "lng": -77.65141,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676478,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Lloró",
+    "fullName": null,
+    "lat": 5.60109,
+    "lng": -76.37375,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179547,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Medio Atrato",
+    "fullName": null,
+    "lat": 5.995,
+    "lng": -76.7825,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179553,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Medio Baudó",
+    "fullName": null,
+    "lat": 5.05,
+    "lng": -77.05,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179528,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Medio San Juan",
+    "fullName": null,
+    "lat": 5.09278,
+    "lng": -76.69528,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673784,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Nóvita",
+    "fullName": null,
+    "lat": 4.8708,
+    "lng": -76.61885,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673691,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Nuquí",
+    "fullName": null,
+    "lat": 5.67014,
+    "lng": -77.28753,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671117,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Quibdó",
+    "fullName": null,
+    "lat": 5.76075,
+    "lng": -76.83701,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179554,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Río Iro",
+    "fullName": null,
+    "lat": 5.18333,
+    "lng": -76.4833,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179548,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Río Quito",
+    "fullName": null,
+    "lat": 5.51667,
+    "lng": -76.75,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670720,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Riosucio",
+    "fullName": null,
+    "lat": 7.41667,
+    "lng": -77.16667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669550,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "San José del Palmar",
+    "fullName": null,
+    "lat": 4.94657,
+    "lng": -76.22226,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667960,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Sipí",
+    "fullName": null,
+    "lat": 4.60257,
+    "lng": -76.51036,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667580,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Tadó",
+    "fullName": null,
+    "lat": 5.26345,
+    "lng": -76.5507,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172032,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Unguía",
+    "fullName": null,
+    "lat": 8.11118,
+    "lng": -77.10916,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179543,
+    "parentId": 3686431,
+    "country": "CO",
+    "name": "Unión Panamericana",
+    "fullName": null,
+    "lat": 5.28139,
+    "lng": -76.63,
+    "tz": "America/Bogota"
+  }
+]

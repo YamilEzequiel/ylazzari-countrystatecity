@@ -1,0 +1,62 @@
+[
+  {
+    "id": 9172379,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Caruru",
+    "fullName": null,
+    "lat": 1.02081,
+    "lng": -71.33788,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172385,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Mitú",
+    "fullName": null,
+    "lat": 0.97239,
+    "lng": -70.40635,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172389,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Pacoa",
+    "fullName": null,
+    "lat": 0.15636,
+    "lng": -70.89274,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172392,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Papunaua",
+    "fullName": null,
+    "lat": 1.68335,
+    "lng": -70.70968,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172394,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Taraira",
+    "fullName": null,
+    "lat": -0.74835,
+    "lng": -69.89662,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172397,
+    "parentId": 3666254,
+    "country": "CO",
+    "name": "Yavaraté",
+    "fullName": null,
+    "lat": 0.82828,
+    "lng": -69.62959,
+    "tz": "America/Bogota"
+  }
+]

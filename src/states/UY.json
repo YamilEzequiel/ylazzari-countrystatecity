@@ -1,0 +1,192 @@
+[
+  {
+    "id": 3443756,
+    "parentId": null,
+    "country": "UY",
+    "name": "Artigas",
+    "fullName": "Departamento de Artigas",
+    "lat": -30.58333,
+    "lng": -57,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3443411,
+    "parentId": null,
+    "country": "UY",
+    "name": "Canelones",
+    "fullName": "Departamento de Canelones",
+    "lat": -34.53333,
+    "lng": -55.91667,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3443173,
+    "parentId": null,
+    "country": "UY",
+    "name": "Cerro Largo",
+    "fullName": "Departamento de Cerro Largo",
+    "lat": -32.33333,
+    "lng": -54.33333,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3443025,
+    "parentId": null,
+    "country": "UY",
+    "name": "Colonia",
+    "fullName": "Departamento de Colonia",
+    "lat": -34.16667,
+    "lng": -57.66667,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3442720,
+    "parentId": null,
+    "country": "UY",
+    "name": "Durazno",
+    "fullName": "Departamento de Durazno",
+    "lat": -33.08333,
+    "lng": -56.08333,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3442587,
+    "parentId": null,
+    "country": "UY",
+    "name": "Flores",
+    "fullName": "Departamento de Flores",
+    "lat": -33.58333,
+    "lng": -56.83333,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3442584,
+    "parentId": null,
+    "country": "UY",
+    "name": "Florida",
+    "fullName": "Departamento de Florida",
+    "lat": -33.83333,
+    "lng": -55.91667,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3442007,
+    "parentId": null,
+    "country": "UY",
+    "name": "Lavalleja",
+    "fullName": "Departamento de Lavalleja",
+    "lat": -34,
+    "lng": -55,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3441890,
+    "parentId": null,
+    "country": "UY",
+    "name": "Maldonado",
+    "fullName": "Departamento de Maldonado",
+    "lat": -34.58333,
+    "lng": -54.83333,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3441572,
+    "parentId": null,
+    "country": "UY",
+    "name": "Montevideo",
+    "fullName": "Departamento de Montevideo",
+    "lat": -34.825,
+    "lng": -56.2,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3441242,
+    "parentId": null,
+    "country": "UY",
+    "name": "Paysandú",
+    "fullName": "Departamento de Paysandú",
+    "lat": -32.08333,
+    "lng": -57.25,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440789,
+    "parentId": null,
+    "country": "UY",
+    "name": "Río Negro",
+    "fullName": "Departamento de Río Negro",
+    "lat": -32.75,
+    "lng": -57.33333,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440780,
+    "parentId": null,
+    "country": "UY",
+    "name": "Rivera",
+    "fullName": "Departamento de Rivera",
+    "lat": -31.5,
+    "lng": -55.25,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440771,
+    "parentId": null,
+    "country": "UY",
+    "name": "Rocha",
+    "fullName": "Departamento de Rocha",
+    "lat": -34,
+    "lng": -54,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440711,
+    "parentId": null,
+    "country": "UY",
+    "name": "Salto",
+    "fullName": "Departamento de Salto",
+    "lat": -31.41667,
+    "lng": -57,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440645,
+    "parentId": null,
+    "country": "UY",
+    "name": "San José",
+    "fullName": "Departamento de San José",
+    "lat": -34.25,
+    "lng": -56.75,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440054,
+    "parentId": null,
+    "country": "UY",
+    "name": "Soriano",
+    "fullName": "Departamento de Soriano",
+    "lat": -33.5,
+    "lng": -57.75,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3440033,
+    "parentId": null,
+    "country": "UY",
+    "name": "Tacuarembó",
+    "fullName": "Departamento de Tacuarembó",
+    "lat": -32.08333,
+    "lng": -55.75,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 3439780,
+    "parentId": null,
+    "country": "UY",
+    "name": "Treinta y Tres",
+    "fullName": "Departamento de Treinta y Tres",
+    "lat": -33,
+    "lng": -54.25,
+    "tz": "America/Montevideo"
+  }
+]

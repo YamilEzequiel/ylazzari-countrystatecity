@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9172398,
+    "parentId": 3666082,
+    "country": "CO",
+    "name": "Cumaribo",
+    "fullName": null,
+    "lat": 4.57565,
+    "lng": -69.59554,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172399,
+    "parentId": 3666082,
+    "country": "CO",
+    "name": "La Primavera",
+    "fullName": null,
+    "lat": 5.51465,
+    "lng": -69.49786,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172403,
+    "parentId": 3666082,
+    "country": "CO",
+    "name": "Puerto Carreño",
+    "fullName": null,
+    "lat": 5.83767,
+    "lng": -68.03675,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172410,
+    "parentId": 3666082,
+    "country": "CO",
+    "name": "Santa Rosalía",
+    "fullName": null,
+    "lat": 5.02169,
+    "lng": -70.65985,
+    "tz": "America/Bogota"
+  }
+]

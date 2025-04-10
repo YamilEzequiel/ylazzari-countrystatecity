@@ -1,0 +1,292 @@
+[
+  {
+    "id": 5534886,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Beaver County",
+    "fullName": null,
+    "lat": 38.35771,
+    "lng": -113.23576,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5771875,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Box Elder County",
+    "fullName": null,
+    "lat": 41.52097,
+    "lng": -113.08209,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5772317,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Cache County",
+    "fullName": null,
+    "lat": 41.72237,
+    "lng": -111.74356,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5536454,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Carbon County",
+    "fullName": null,
+    "lat": 39.64817,
+    "lng": -110.58898,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5773608,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Daggett County",
+    "fullName": null,
+    "lat": 40.88727,
+    "lng": -109.50765,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5773664,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Davis County",
+    "fullName": null,
+    "lat": 40.99061,
+    "lng": -112.11124,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5774137,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Duchesne County",
+    "fullName": null,
+    "lat": 40.29751,
+    "lng": -110.42476,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5538893,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Emery County",
+    "fullName": null,
+    "lat": 38.99677,
+    "lng": -110.70067,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5539525,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Garfield County",
+    "fullName": null,
+    "lat": 37.85492,
+    "lng": -111.44313,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5539784,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Grand County",
+    "fullName": null,
+    "lat": 38.98174,
+    "lng": -109.56971,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5541004,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Iron County",
+    "fullName": null,
+    "lat": 37.85917,
+    "lng": -113.28927,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5541372,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Juab County",
+    "fullName": null,
+    "lat": 39.70262,
+    "lng": -112.78477,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5541473,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Kane County",
+    "fullName": null,
+    "lat": 37.28507,
+    "lng": -111.88785,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5543199,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Millard County",
+    "fullName": null,
+    "lat": 39.07381,
+    "lng": -113.10046,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5778525,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Morgan County",
+    "fullName": null,
+    "lat": 41.08932,
+    "lng": -111.57312,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5545027,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Piute County",
+    "fullName": null,
+    "lat": 38.33645,
+    "lng": -112.12695,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5780377,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Rich County",
+    "fullName": null,
+    "lat": 41.63232,
+    "lng": -111.24445,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5781004,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Salt Lake County",
+    "fullName": null,
+    "lat": 40.66758,
+    "lng": -111.92403,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5546337,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "San Juan County",
+    "fullName": null,
+    "lat": 37.62601,
+    "lng": -109.80457,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5546434,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Sanpete County",
+    "fullName": null,
+    "lat": 39.37396,
+    "lng": -111.57634,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5546669,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Sevier County",
+    "fullName": null,
+    "lat": 38.74764,
+    "lng": -111.80464,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5782267,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Summit County",
+    "fullName": null,
+    "lat": 40.86815,
+    "lng": -110.95567,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5783699,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Tooele County",
+    "fullName": null,
+    "lat": 40.44875,
+    "lng": -113.13106,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5783919,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Uintah County",
+    "fullName": null,
+    "lat": 40.12495,
+    "lng": -109.51839,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5784025,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Utah County",
+    "fullName": null,
+    "lat": 40.11995,
+    "lng": -111.67031,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5784339,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Wasatch County",
+    "fullName": null,
+    "lat": 40.33035,
+    "lng": -111.16847,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5549225,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 37.28036,
+    "lng": -113.50494,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5549318,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Wayne County",
+    "fullName": null,
+    "lat": 38.32436,
+    "lng": -110.90367,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5784440,
+    "parentId": 5549030,
+    "country": "US",
+    "name": "Weber County",
+    "fullName": null,
+    "lat": 41.26988,
+    "lng": -111.91327,
+    "tz": "America/Denver"
+  }
+]

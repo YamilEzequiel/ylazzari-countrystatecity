@@ -1,0 +1,322 @@
+[
+  {
+    "id": 4019231,
+    "parentId": null,
+    "country": "MX",
+    "name": "Aguascalientes",
+    "fullName": "Estado de Aguascalientes",
+    "lat": 22,
+    "lng": -102.36667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 4017700,
+    "parentId": null,
+    "country": "MX",
+    "name": "Baja California",
+    "fullName": "Estado de Baja California",
+    "lat": 30,
+    "lng": -115,
+    "tz": "America/Tijuana"
+  },
+  {
+    "id": 4017698,
+    "parentId": null,
+    "country": "MX",
+    "name": "Baja California Sur",
+    "fullName": "Estado de Baja California Sur",
+    "lat": 25.83333,
+    "lng": -111.83333,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 3531730,
+    "parentId": null,
+    "country": "MX",
+    "name": "Campeche",
+    "fullName": "Estado de Campeche",
+    "lat": 18.83333,
+    "lng": -90.25,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 3531011,
+    "parentId": null,
+    "country": "MX",
+    "name": "Chiapas",
+    "fullName": "Estado de Chiapas",
+    "lat": 16.5,
+    "lng": -92.5,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 4014336,
+    "parentId": null,
+    "country": "MX",
+    "name": "Chihuahua",
+    "fullName": "Estado de Chihuahua",
+    "lat": 28.75,
+    "lng": -106.25,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 3527646,
+    "parentId": null,
+    "country": "MX",
+    "name": "Ciudad de México",
+    "fullName": null,
+    "lat": 19.28333,
+    "lng": -99.13333,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 4013674,
+    "parentId": null,
+    "country": "MX",
+    "name": "Coahuila de Zaragoza",
+    "fullName": "Estado de Coahuila de Zaragoza",
+    "lat": 27.33333,
+    "lng": -102,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 4013513,
+    "parentId": null,
+    "country": "MX",
+    "name": "Colima",
+    "fullName": "Estado de Colima",
+    "lat": 19.13333,
+    "lng": -103.9,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 4011741,
+    "parentId": null,
+    "country": "MX",
+    "name": "Durango",
+    "fullName": "Estado de Durango",
+    "lat": 24.83333,
+    "lng": -104.83333,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 4005267,
+    "parentId": null,
+    "country": "MX",
+    "name": "Guanajuato",
+    "fullName": "Estado de Guanajuato",
+    "lat": 21,
+    "lng": -101,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3527213,
+    "parentId": null,
+    "country": "MX",
+    "name": "Guerrero",
+    "fullName": "Estado de Guerrero",
+    "lat": 17.66667,
+    "lng": -100,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3527115,
+    "parentId": null,
+    "country": "MX",
+    "name": "Hidalgo",
+    "fullName": "Estado de Hidalgo",
+    "lat": 20.5,
+    "lng": -99,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 4004156,
+    "parentId": null,
+    "country": "MX",
+    "name": "Jalisco",
+    "fullName": "Estado de Jalisco",
+    "lat": 20.33333,
+    "lng": -103.66667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3523272,
+    "parentId": null,
+    "country": "MX",
+    "name": "México",
+    "fullName": "Estado de México",
+    "lat": 19.36667,
+    "lng": -99.66667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3995955,
+    "parentId": null,
+    "country": "MX",
+    "name": "Michoacán de Ocampo",
+    "fullName": "Estado de Michoacán de Ocampo",
+    "lat": 19.16667,
+    "lng": -101.83333,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3522961,
+    "parentId": null,
+    "country": "MX",
+    "name": "Morelos",
+    "fullName": "Estado de Morelos",
+    "lat": 18.75,
+    "lng": -99.06667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3995012,
+    "parentId": null,
+    "country": "MX",
+    "name": "Nayarit",
+    "fullName": "Estado de Nayarit",
+    "lat": 21.83333,
+    "lng": -104.83333,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 3522542,
+    "parentId": null,
+    "country": "MX",
+    "name": "Nuevo León",
+    "fullName": "Estado de Nuevo León",
+    "lat": 25.58333,
+    "lng": -99.75,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 3522509,
+    "parentId": null,
+    "country": "MX",
+    "name": "Oaxaca",
+    "fullName": "Estado de Oaxaca",
+    "lat": 17,
+    "lng": -96.5,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3521082,
+    "parentId": null,
+    "country": "MX",
+    "name": "Puebla",
+    "fullName": "Estado de Puebla",
+    "lat": 18.75,
+    "lng": -97.91667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3520914,
+    "parentId": null,
+    "country": "MX",
+    "name": "Querétaro",
+    "fullName": "Estado de Querétaro",
+    "lat": 20.85,
+    "lng": -99.85,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3520887,
+    "parentId": null,
+    "country": "MX",
+    "name": "Quintana Roo",
+    "fullName": "Estado de Quintana Roo",
+    "lat": 19.66667,
+    "lng": -88.25,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 3985605,
+    "parentId": null,
+    "country": "MX",
+    "name": "San Luis Potosí",
+    "fullName": "Estado de San Luis Potosí",
+    "lat": 22.5,
+    "lng": -100.5,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 3983035,
+    "parentId": null,
+    "country": "MX",
+    "name": "Sinaloa",
+    "fullName": "Estado de Sinaloa",
+    "lat": 25,
+    "lng": -107.5,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 3982846,
+    "parentId": null,
+    "country": "MX",
+    "name": "Sonora",
+    "fullName": "Estado de Sonora",
+    "lat": 29.66667,
+    "lng": -110.5,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 3516458,
+    "parentId": null,
+    "country": "MX",
+    "name": "Tabasco",
+    "fullName": "Estado de Tabasco",
+    "lat": 18,
+    "lng": -92.66667,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 3516391,
+    "parentId": null,
+    "country": "MX",
+    "name": "Tamaulipas",
+    "fullName": "Estado de Tamaulipas",
+    "lat": 24,
+    "lng": -98.75,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 3515359,
+    "parentId": null,
+    "country": "MX",
+    "name": "Tlaxcala",
+    "fullName": "Estado de Tlaxcala",
+    "lat": 19.41667,
+    "lng": -98.16667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3514780,
+    "parentId": null,
+    "country": "MX",
+    "name": "Veracruz-Llave",
+    "fullName": "Estado de Veracruz-Llave",
+    "lat": 19.33333,
+    "lng": -96.66667,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 3514211,
+    "parentId": null,
+    "country": "MX",
+    "name": "Yucatán",
+    "fullName": "Estado de Yucatán",
+    "lat": 20.75,
+    "lng": -88.83333,
+    "tz": "America/Merida"
+  },
+  {
+    "id": 3979840,
+    "parentId": null,
+    "country": "MX",
+    "name": "Zacatecas",
+    "fullName": "Estado de Zacatecas",
+    "lat": 23.25,
+    "lng": -103,
+    "tz": "America/Mexico_City"
+  }
+]

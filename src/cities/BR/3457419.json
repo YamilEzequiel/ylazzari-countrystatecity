@@ -1,0 +1,1412 @@
+[
+  {
+    "id": 6323792,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Acorizal",
+    "fullName": null,
+    "lat": -15.17336,
+    "lng": -56.30434,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319223,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Água Boa",
+    "fullName": null,
+    "lat": -14.13584,
+    "lng": -52.49093,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323793,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alta Floresta",
+    "fullName": null,
+    "lat": -10.01997,
+    "lng": -56.30288,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323794,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alto Araguaia",
+    "fullName": null,
+    "lat": -17.48438,
+    "lng": -53.40594,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6319222,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alto Boa Vista",
+    "fullName": null,
+    "lat": -11.82825,
+    "lng": -51.74596,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323795,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alto Garças",
+    "fullName": null,
+    "lat": -16.81961,
+    "lng": -53.62461,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323796,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alto Paraguai",
+    "fullName": null,
+    "lat": -14.76851,
+    "lng": -56.72113,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323797,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Alto Taquari",
+    "fullName": null,
+    "lat": -17.76618,
+    "lng": -53.2801,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323798,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Apiacás",
+    "fullName": null,
+    "lat": -9.03962,
+    "lng": -57.75949,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323799,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Araguaiana",
+    "fullName": null,
+    "lat": -14.99462,
+    "lng": -51.80047,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323800,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Araguainha",
+    "fullName": null,
+    "lat": -16.78427,
+    "lng": -53.07981,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323801,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Araputanga",
+    "fullName": null,
+    "lat": -15.17477,
+    "lng": -58.49729,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323802,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Arenápolis",
+    "fullName": null,
+    "lat": -14.48214,
+    "lng": -56.85823,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324143,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Aripuanã",
+    "fullName": null,
+    "lat": -10.22592,
+    "lng": -59.61177,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323803,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Barão de Melgaço",
+    "fullName": null,
+    "lat": -16.84513,
+    "lng": -56.21614,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323804,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Barra do Bugres",
+    "fullName": null,
+    "lat": -15.08579,
+    "lng": -57.52599,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323805,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Barra do Garças",
+    "fullName": null,
+    "lat": -15.3477,
+    "lng": -52.48365,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319218,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Bom Jesus do Araguaia",
+    "fullName": null,
+    "lat": -12.27879,
+    "lng": -51.75156,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323806,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Brasnorte",
+    "fullName": null,
+    "lat": -12.24899,
+    "lng": -58.00289,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319228,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Cáceres",
+    "fullName": null,
+    "lat": -16.42263,
+    "lng": -57.71082,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323807,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Campinápolis",
+    "fullName": null,
+    "lat": -14.30712,
+    "lng": -53.15586,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323808,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Campo Novo do Parecis",
+    "fullName": null,
+    "lat": -13.62657,
+    "lng": -58.02125,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323809,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Campo Verde",
+    "fullName": null,
+    "lat": -15.37926,
+    "lng": -54.9295,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323810,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Campos de Júlio",
+    "fullName": null,
+    "lat": -13.63297,
+    "lng": -59.17849,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323811,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "CanaBrava do Norte",
+    "fullName": null,
+    "lat": -11.18113,
+    "lng": -51.86378,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323812,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Canarana",
+    "fullName": null,
+    "lat": -13.17747,
+    "lng": -52.37104,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324366,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Carlinda",
+    "fullName": null,
+    "lat": -10.03792,
+    "lng": -55.85086,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323813,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Castanheira",
+    "fullName": null,
+    "lat": -10.87932,
+    "lng": -58.651,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323814,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Chapada dos Guimarães",
+    "fullName": null,
+    "lat": -15.02015,
+    "lng": -55.53735,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323815,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Cláudia",
+    "fullName": null,
+    "lat": -11.45086,
+    "lng": -54.99828,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319215,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Cocalinho",
+    "fullName": null,
+    "lat": -13.80273,
+    "lng": -51.15344,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323816,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Colíder",
+    "fullName": null,
+    "lat": -10.56333,
+    "lng": -55.44573,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324144,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Colniza",
+    "fullName": null,
+    "lat": -9.29188,
+    "lng": -60.30457,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323817,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Comodoro",
+    "fullName": null,
+    "lat": -13.32583,
+    "lng": -59.82145,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323818,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Confresa",
+    "fullName": null,
+    "lat": -10.30959,
+    "lng": -51.73651,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324147,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Conquista D'oeste",
+    "fullName": null,
+    "lat": -14.61506,
+    "lng": -59.26741,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323819,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Cotriguaçu",
+    "fullName": null,
+    "lat": -9.50334,
+    "lng": -58.79134,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323820,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Cuiabá",
+    "fullName": null,
+    "lat": -15.41924,
+    "lng": -55.89023,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319227,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Curvelândia",
+    "fullName": null,
+    "lat": -15.63715,
+    "lng": -57.84548,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323821,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Denise",
+    "fullName": null,
+    "lat": -14.75742,
+    "lng": -56.95115,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323822,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Diamantino",
+    "fullName": null,
+    "lat": -14.02239,
+    "lng": -56.77742,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323823,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Dom Aquino",
+    "fullName": null,
+    "lat": -15.72098,
+    "lng": -54.83043,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323824,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Feliz Natal",
+    "fullName": null,
+    "lat": -11.93599,
+    "lng": -54.23925,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323825,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Figueirópolis d'Oeste",
+    "fullName": null,
+    "lat": -15.487,
+    "lng": -58.69723,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323826,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Gaúcha do Norte",
+    "fullName": null,
+    "lat": -12.99365,
+    "lng": -53.52264,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323827,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "General Carneiro",
+    "fullName": null,
+    "lat": -15.51539,
+    "lng": -53.2979,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323828,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Glória d'Oeste",
+    "fullName": null,
+    "lat": -15.91309,
+    "lng": -58.30449,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324216,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Guarantã do Norte",
+    "fullName": null,
+    "lat": -9.75597,
+    "lng": -54.7289,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323829,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Guiratinga",
+    "fullName": null,
+    "lat": -16.36977,
+    "lng": -53.57475,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323830,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Indiavaí",
+    "fullName": null,
+    "lat": -15.31484,
+    "lng": -58.6296,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 7932387,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Ipiranga do Norte",
+    "fullName": null,
+    "lat": -12.24,
+    "lng": -56.14,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 7932508,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Itanhangá",
+    "fullName": null,
+    "lat": -12.17,
+    "lng": -56.68,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324166,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Itaúba",
+    "fullName": null,
+    "lat": -11.09537,
+    "lng": -55.58848,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323831,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Itiquira",
+    "fullName": null,
+    "lat": -17.39441,
+    "lng": -54.76988,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323832,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Jaciara",
+    "fullName": null,
+    "lat": -15.8956,
+    "lng": -55.0224,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323833,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Jangada",
+    "fullName": null,
+    "lat": -15.33758,
+    "lng": -56.54282,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323834,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Jauru",
+    "fullName": null,
+    "lat": -15.32452,
+    "lng": -58.8458,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323835,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Juara",
+    "fullName": null,
+    "lat": -11.09828,
+    "lng": -57.49159,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323836,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Juína",
+    "fullName": null,
+    "lat": -11.40329,
+    "lng": -59.5081,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323837,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Juruena",
+    "fullName": null,
+    "lat": -10.28992,
+    "lng": -58.65303,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323838,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Juscimeira",
+    "fullName": null,
+    "lat": -16.20525,
+    "lng": -54.88029,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319226,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Lambari d'Oeste",
+    "fullName": null,
+    "lat": -15.65457,
+    "lng": -57.78813,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324217,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Lucas do Rio Verde",
+    "fullName": null,
+    "lat": -13.04098,
+    "lng": -56.15577,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 3458382,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Luciara",
+    "fullName": null,
+    "lat": -11.01415,
+    "lng": -50.94299,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324164,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Marcelândia",
+    "fullName": null,
+    "lat": -11.00372,
+    "lng": -54.13318,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324218,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Matupá",
+    "fullName": null,
+    "lat": -10.01532,
+    "lng": -54.35496,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319225,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Mirassol d'Oeste",
+    "fullName": null,
+    "lat": -15.63523,
+    "lng": -58.00508,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324162,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nobres",
+    "fullName": null,
+    "lat": -14.38578,
+    "lng": -55.77501,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323840,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nortelândia",
+    "fullName": null,
+    "lat": -14.42793,
+    "lng": -56.74152,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323841,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nossa Senhora do Livramento",
+    "fullName": null,
+    "lat": -15.93447,
+    "lng": -56.5459,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323842,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Bandeirantes",
+    "fullName": null,
+    "lat": -9.68571,
+    "lng": -58.0184,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323844,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Brasilândia",
+    "fullName": null,
+    "lat": -14.75742,
+    "lng": -55.10534,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323845,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Canaã do Norte",
+    "fullName": null,
+    "lat": -10.71987,
+    "lng": -56.03436,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323888,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Guarita",
+    "fullName": null,
+    "lat": -10.28525,
+    "lng": -55.3373,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323843,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Lacerda",
+    "fullName": null,
+    "lat": -14.26732,
+    "lng": -59.7928,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319146,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Marilândia",
+    "fullName": null,
+    "lat": -14.31258,
+    "lng": -57.26088,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319147,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Maringá",
+    "fullName": null,
+    "lat": -12.98384,
+    "lng": -57.19167,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323889,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Monte Verde",
+    "fullName": null,
+    "lat": -9.99743,
+    "lng": -57.29768,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324219,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Mutum",
+    "fullName": null,
+    "lat": -13.58906,
+    "lng": -56.15193,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319197,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Nazaré",
+    "fullName": null,
+    "lat": -14.14648,
+    "lng": -51.79821,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323846,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Olímpia",
+    "fullName": null,
+    "lat": -14.79889,
+    "lng": -57.42886,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324165,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Santa Helena",
+    "fullName": null,
+    "lat": -10.92036,
+    "lng": -54.90636,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323847,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Ubiratã",
+    "fullName": null,
+    "lat": -12.68233,
+    "lng": -54.47729,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323848,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Nova Xavantina",
+    "fullName": null,
+    "lat": -14.58752,
+    "lng": -52.3258,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323849,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Novo Horizonte do Norte",
+    "fullName": null,
+    "lat": -11.37917,
+    "lng": -57.28359,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324367,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Novo Mundo",
+    "fullName": null,
+    "lat": -9.83661,
+    "lng": -55.31349,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319196,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Novo Santo Antônio",
+    "fullName": null,
+    "lat": -12.32606,
+    "lng": -50.91431,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324149,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Novo São Joaquim",
+    "fullName": null,
+    "lat": -15.0957,
+    "lng": -53.29575,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323850,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Paranaíta",
+    "fullName": null,
+    "lat": -9.56371,
+    "lng": -56.76536,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323851,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Paranatinga",
+    "fullName": null,
+    "lat": -13.34326,
+    "lng": -54.01552,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323852,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Pedra Preta",
+    "fullName": null,
+    "lat": -16.76381,
+    "lng": -54.16343,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324220,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Peixoto de Azevedo",
+    "fullName": null,
+    "lat": -10.14722,
+    "lng": -53.58639,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323853,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Planalto da Serra",
+    "fullName": null,
+    "lat": -14.56524,
+    "lng": -54.67771,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323854,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Poconé",
+    "fullName": null,
+    "lat": -16.24896,
+    "lng": -56.65649,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323855,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Pontal do Araguaia",
+    "fullName": null,
+    "lat": -15.96755,
+    "lng": -52.75421,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323856,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Ponte Branca",
+    "fullName": null,
+    "lat": -16.6505,
+    "lng": -52.90238,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324145,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Pontes e Lacerda",
+    "fullName": null,
+    "lat": -15.36141,
+    "lng": -59.33403,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323857,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Porto Alegre do Norte",
+    "fullName": null,
+    "lat": -10.85081,
+    "lng": -51.76934,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323858,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Porto dos Gaúchos",
+    "fullName": null,
+    "lat": -11.76043,
+    "lng": -56.85721,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323859,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Porto Esperidião",
+    "fullName": null,
+    "lat": -15.88622,
+    "lng": -58.97107,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323860,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Porto Estrela",
+    "fullName": null,
+    "lat": -15.51966,
+    "lng": -57.22942,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323861,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Poxoréu",
+    "fullName": null,
+    "lat": -15.75635,
+    "lng": -54.11866,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323862,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Primavera do Leste",
+    "fullName": null,
+    "lat": -15.14064,
+    "lng": -54.19501,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323863,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Querência",
+    "fullName": null,
+    "lat": -12.3212,
+    "lng": -52.5476,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323865,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Reserva do Cabaçal",
+    "fullName": null,
+    "lat": -14.92946,
+    "lng": -58.45849,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319187,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Ribeirão Cascalheira",
+    "fullName": null,
+    "lat": -12.73516,
+    "lng": -51.71456,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323866,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Ribeirãozinho",
+    "fullName": null,
+    "lat": -16.50143,
+    "lng": -52.7591,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323867,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Rio Branco",
+    "fullName": null,
+    "lat": -15.31117,
+    "lng": -58.1245,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324142,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Rondolândia",
+    "fullName": null,
+    "lat": -10.27573,
+    "lng": -61.06224,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6323872,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Rondonópolis",
+    "fullName": null,
+    "lat": -16.43317,
+    "lng": -54.63724,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323873,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Rosário Oeste",
+    "fullName": null,
+    "lat": -14.57981,
+    "lng": -55.71482,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323874,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Salto do Céu",
+    "fullName": null,
+    "lat": -15.13439,
+    "lng": -57.95902,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323868,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santa Carmem",
+    "fullName": null,
+    "lat": -11.90602,
+    "lng": -54.80769,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324150,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santa Cruz do Xingu",
+    "fullName": null,
+    "lat": -10.15595,
+    "lng": -52.49799,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324163,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santa Rita do Trivelato",
+    "fullName": null,
+    "lat": -13.71416,
+    "lng": -55.40171,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324368,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santa Terezinha",
+    "fullName": null,
+    "lat": -10.39138,
+    "lng": -50.83261,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323869,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santo Afonso",
+    "fullName": null,
+    "lat": -14.46134,
+    "lng": -57.38575,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324148,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santo Antônio do Leste",
+    "fullName": null,
+    "lat": -14.82454,
+    "lng": -53.74136,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323875,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Santo Antônio do Leverger",
+    "fullName": null,
+    "lat": -16.78576,
+    "lng": -55.31327,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319182,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São Félix do Araguaia",
+    "fullName": null,
+    "lat": -11.4423,
+    "lng": -52.13916,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319145,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São José do Povo",
+    "fullName": null,
+    "lat": -16.44547,
+    "lng": -54.28499,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323870,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São José do Rio Claro",
+    "fullName": null,
+    "lat": -13.52704,
+    "lng": -56.85065,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319161,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São José do Xingu",
+    "fullName": null,
+    "lat": -10.72794,
+    "lng": -52.62112,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323864,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São José dos Quatro Marcos",
+    "fullName": null,
+    "lat": -15.56664,
+    "lng": -58.29717,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323871,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "São Pedro da Cipa",
+    "fullName": null,
+    "lat": -15.95162,
+    "lng": -54.77958,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323876,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Sapezal",
+    "fullName": null,
+    "lat": -13.16448,
+    "lng": -58.68788,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319179,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Serra Nova Dourada",
+    "fullName": null,
+    "lat": -12.02901,
+    "lng": -51.33412,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323877,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Sinop",
+    "fullName": null,
+    "lat": -11.76411,
+    "lng": -55.44017,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324221,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Sorriso",
+    "fullName": null,
+    "lat": -12.68167,
+    "lng": -55.69953,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323878,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Tabaporã",
+    "fullName": null,
+    "lat": -11.05295,
+    "lng": -56.64189,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323879,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Tangará da Serra",
+    "fullName": null,
+    "lat": -14.52323,
+    "lng": -58.09862,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323880,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Tapurah",
+    "fullName": null,
+    "lat": -12.7426,
+    "lng": -56.46149,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323881,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Terra Nova do Norte",
+    "fullName": null,
+    "lat": -10.49541,
+    "lng": -54.95547,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323882,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Tesouro",
+    "fullName": null,
+    "lat": -15.94904,
+    "lng": -53.43342,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323883,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Torixoréu",
+    "fullName": null,
+    "lat": -16.27591,
+    "lng": -52.88117,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323884,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "União do Sul",
+    "fullName": null,
+    "lat": -11.47198,
+    "lng": -54.18806,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6324146,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Vale de São Domingos",
+    "fullName": null,
+    "lat": -14.9759,
+    "lng": -58.96377,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323885,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Várzea Grande",
+    "fullName": null,
+    "lat": -15.56582,
+    "lng": -56.24391,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323886,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Vera",
+    "fullName": null,
+    "lat": -12.46612,
+    "lng": -55.3481,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323839,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Vila Bela da Santíssima Trindade",
+    "fullName": null,
+    "lat": -14.89148,
+    "lng": -60.05777,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323887,
+    "parentId": 3457419,
+    "country": "BR",
+    "name": "Vila Rica",
+    "fullName": null,
+    "lat": -10.13413,
+    "lng": -51.41369,
+    "tz": "America/Cuiaba"
+  }
+]

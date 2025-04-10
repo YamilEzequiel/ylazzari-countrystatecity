@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11820825,
+    "parentId": 3440054,
+    "country": "UY",
+    "name": "Cardona",
+    "fullName": null,
+    "lat": -33.8589,
+    "lng": -57.23823,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820822,
+    "parentId": 3440054,
+    "country": "UY",
+    "name": "Dolores",
+    "fullName": null,
+    "lat": -33.56992,
+    "lng": -58.2931,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820823,
+    "parentId": 3440054,
+    "country": "UY",
+    "name": "Jose Enrique Rodo",
+    "fullName": null,
+    "lat": -33.6435,
+    "lng": -57.5279,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820877,
+    "parentId": 3440054,
+    "country": "UY",
+    "name": "Palmitas",
+    "fullName": null,
+    "lat": -33.46994,
+    "lng": -57.79919,
+    "tz": "America/Montevideo"
+  }
+]

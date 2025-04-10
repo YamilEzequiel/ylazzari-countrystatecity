@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820878,
+    "parentId": 3443756,
+    "country": "UY",
+    "name": "Baltasar Brum",
+    "fullName": null,
+    "lat": -30.76028,
+    "lng": -57.39963,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820820,
+    "parentId": 3443756,
+    "country": "UY",
+    "name": "Bella Union",
+    "fullName": null,
+    "lat": -30.37613,
+    "lng": -57.57803,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820819,
+    "parentId": 3443756,
+    "country": "UY",
+    "name": "Tomas Gomensoro",
+    "fullName": null,
+    "lat": -30.50686,
+    "lng": -57.37916,
+    "tz": "America/Montevideo"
+  }
+]

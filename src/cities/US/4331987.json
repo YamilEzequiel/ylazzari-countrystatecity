@@ -1,0 +1,642 @@
+[
+  {
+    "id": 4314344,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Acadia Parish",
+    "fullName": null,
+    "lat": 30.29053,
+    "lng": -92.41198,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4314607,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Allen Parish",
+    "fullName": null,
+    "lat": 30.65287,
+    "lng": -92.82788,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4315067,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Ascension Parish",
+    "fullName": null,
+    "lat": 30.20354,
+    "lng": -90.91129,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4315120,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Assumption Parish",
+    "fullName": null,
+    "lat": 29.90077,
+    "lng": -91.06259,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4315243,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Avoyelles Parish",
+    "fullName": null,
+    "lat": 31.07624,
+    "lng": -92.00138,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4316112,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Beauregard Parish",
+    "fullName": null,
+    "lat": 30.64847,
+    "lng": -93.34334,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4316721,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Bienville Parish",
+    "fullName": null,
+    "lat": 32.34722,
+    "lng": -93.05595,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4317649,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Bossier Parish",
+    "fullName": null,
+    "lat": 32.67899,
+    "lng": -93.605,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4318532,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Caddo Parish",
+    "fullName": null,
+    "lat": 32.58017,
+    "lng": -93.88235,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4318583,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Calcasieu Parish",
+    "fullName": null,
+    "lat": 30.22922,
+    "lng": -93.35795,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4318597,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Caldwell Parish",
+    "fullName": null,
+    "lat": 32.09227,
+    "lng": -92.11661,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4318690,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Cameron Parish",
+    "fullName": null,
+    "lat": 29.84687,
+    "lng": -93.1989,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4319276,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Catahoula Parish",
+    "fullName": null,
+    "lat": 31.66617,
+    "lng": -91.84707,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4320117,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Claiborne Parish",
+    "fullName": null,
+    "lat": 32.82269,
+    "lng": -92.99573,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4320594,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Concordia Parish",
+    "fullName": null,
+    "lat": 31.44584,
+    "lng": -91.64006,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4321759,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "De Soto Parish",
+    "fullName": null,
+    "lat": 32.05545,
+    "lng": -93.73728,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4323288,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "East Baton Rouge Parish",
+    "fullName": null,
+    "lat": 30.53824,
+    "lng": -91.09562,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4323316,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "East Carroll Parish",
+    "fullName": null,
+    "lat": 32.73255,
+    "lng": -91.23507,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4323332,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "East Feliciana Parish",
+    "fullName": null,
+    "lat": 30.84507,
+    "lng": -91.04554,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4323933,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Evangeline Parish",
+    "fullName": null,
+    "lat": 30.72894,
+    "lng": -92.4059,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4325158,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Franklin Parish",
+    "fullName": null,
+    "lat": 32.13322,
+    "lng": -91.67377,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4326254,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Grant Parish",
+    "fullName": null,
+    "lat": 31.5997,
+    "lng": -92.55952,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4328254,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Iberia Parish",
+    "fullName": null,
+    "lat": 29.51353,
+    "lng": -91.83964,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4328261,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Iberville Parish",
+    "fullName": null,
+    "lat": 30.2585,
+    "lng": -91.34936,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4328854,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Jackson Parish",
+    "fullName": null,
+    "lat": 32.30203,
+    "lng": -92.55774,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4328965,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Jefferson Davis Parish",
+    "fullName": null,
+    "lat": 30.26772,
+    "lng": -92.81412,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4328978,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Jefferson Parish",
+    "fullName": null,
+    "lat": 29.68097,
+    "lng": -90.09798,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4330078,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "La Salle Parish",
+    "fullName": null,
+    "lat": 31.67673,
+    "lng": -92.16044,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4330160,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Lafayette Parish",
+    "fullName": null,
+    "lat": 30.20677,
+    "lng": -92.06388,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4330185,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Lafourche Parish",
+    "fullName": null,
+    "lat": 29.50033,
+    "lng": -90.40259,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4330983,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Lincoln Parish",
+    "fullName": null,
+    "lat": 32.60164,
+    "lng": -92.66482,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4331488,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Livingston Parish",
+    "fullName": null,
+    "lat": 30.44014,
+    "lng": -90.72791,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4332258,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Madison Parish",
+    "fullName": null,
+    "lat": 32.3644,
+    "lng": -91.24258,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4333789,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Morehouse Parish",
+    "fullName": null,
+    "lat": 32.82022,
+    "lng": -91.8018,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4334734,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Natchitoches Parish",
+    "fullName": null,
+    "lat": 31.72354,
+    "lng": -93.09624,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4336191,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Orleans Parish",
+    "fullName": null,
+    "lat": 30.06864,
+    "lng": -89.92813,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4336232,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Ouachita Parish",
+    "fullName": null,
+    "lat": 32.47831,
+    "lng": -92.15487,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4337452,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Plaquemines Parish",
+    "fullName": null,
+    "lat": 29.54421,
+    "lng": -89.82047,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4337708,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Pointe Coupee Parish",
+    "fullName": null,
+    "lat": 30.7094,
+    "lng": -91.60079,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4338356,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Rapides Parish",
+    "fullName": null,
+    "lat": 31.19862,
+    "lng": -92.5332,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4338489,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Red River Parish",
+    "fullName": null,
+    "lat": 32.09315,
+    "lng": -93.33988,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4338711,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Richland Parish",
+    "fullName": null,
+    "lat": 32.41779,
+    "lng": -91.76349,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339354,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Sabine Parish",
+    "fullName": null,
+    "lat": 31.56401,
+    "lng": -93.5547,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339526,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Bernard Parish",
+    "fullName": null,
+    "lat": 29.87399,
+    "lng": -89.82422,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339583,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Charles Parish",
+    "fullName": null,
+    "lat": 29.90553,
+    "lng": -90.35822,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339724,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Helena Parish",
+    "fullName": null,
+    "lat": 30.82198,
+    "lng": -90.71032,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339793,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint James Parish",
+    "fullName": null,
+    "lat": 30.0263,
+    "lng": -90.79632,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4339881,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint John the Baptist Parish",
+    "fullName": null,
+    "lat": 30.12646,
+    "lng": -90.47088,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4340045,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Landry Parish",
+    "fullName": null,
+    "lat": 30.59885,
+    "lng": -92.00586,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4340186,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Martin Parish",
+    "fullName": null,
+    "lat": 30.12907,
+    "lng": -91.6083,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4340232,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Mary Parish",
+    "fullName": null,
+    "lat": 29.63462,
+    "lng": -91.47293,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4340579,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Saint Tammany Parish",
+    "fullName": null,
+    "lat": 30.40875,
+    "lng": -89.95393,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4343122,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Tangipahoa Parish",
+    "fullName": null,
+    "lat": 30.62665,
+    "lng": -90.40568,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4343280,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Tensas Parish",
+    "fullName": null,
+    "lat": 32.00166,
+    "lng": -91.34007,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4343313,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Terrebonne Parish",
+    "fullName": null,
+    "lat": 29.33744,
+    "lng": -90.83764,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4344274,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Union Parish",
+    "fullName": null,
+    "lat": 32.8319,
+    "lng": -92.37482,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4344530,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Vermilion Parish",
+    "fullName": null,
+    "lat": 29.80939,
+    "lng": -92.30428,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4344544,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Vernon Parish",
+    "fullName": null,
+    "lat": 31.10829,
+    "lng": -93.18415,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4345509,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Washington Parish",
+    "fullName": null,
+    "lat": 30.85334,
+    "lng": -90.04052,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4345618,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Webster Parish",
+    "fullName": null,
+    "lat": 32.71345,
+    "lng": -93.33498,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4345713,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "West Baton Rouge Parish",
+    "fullName": null,
+    "lat": 30.46341,
+    "lng": -91.31275,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4345740,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "West Carroll Parish",
+    "fullName": null,
+    "lat": 32.78856,
+    "lng": -91.45674,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4345778,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "West Feliciana Parish",
+    "fullName": null,
+    "lat": 30.87977,
+    "lng": -91.42003,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4346451,
+    "parentId": 4331987,
+    "country": "US",
+    "name": "Winn Parish",
+    "fullName": null,
+    "lat": 31.94425,
+    "lng": -92.63677,
+    "tz": "America/Chicago"
+  }
+]

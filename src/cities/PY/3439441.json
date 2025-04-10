@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11840080,
+    "parentId": 3439441,
+    "country": "PY",
+    "name": "Bahia Negra",
+    "fullName": null,
+    "lat": -19.89315,
+    "lng": -59.96512,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840019,
+    "parentId": 3439441,
+    "country": "PY",
+    "name": "Carmelo Peralta",
+    "fullName": null,
+    "lat": -21.64999,
+    "lng": -58.28077,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840156,
+    "parentId": 3439441,
+    "country": "PY",
+    "name": "Fuerte Olimpo",
+    "fullName": null,
+    "lat": -20.70205,
+    "lng": -58.96212,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840136,
+    "parentId": 3439441,
+    "country": "PY",
+    "name": "Puerto Casado",
+    "fullName": null,
+    "lat": -21.66691,
+    "lng": -58.97986,
+    "tz": "America/Asuncion"
+  }
+]

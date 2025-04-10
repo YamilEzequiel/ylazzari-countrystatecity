@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3947318,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Arequipa",
+    "fullName": "Provincia de Arequipa",
+    "lat": -16.33333,
+    "lng": -71.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945982,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Camaná",
+    "fullName": "Provincia de Camaná",
+    "lat": -16.41667,
+    "lng": -72.83333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945539,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Caravelí",
+    "fullName": "Provincia de Caravelí",
+    "lat": -15.58333,
+    "lng": -74,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945239,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Castilla",
+    "fullName": "Provincia de Castilla",
+    "lat": -15.58333,
+    "lng": -72.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945135,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Caylloma",
+    "fullName": "Provincia de Caylloma",
+    "lat": -15.66667,
+    "lng": -71.58333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3942520,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Condesuyos",
+    "fullName": "Provincia de Condesuyos",
+    "lat": -15.58333,
+    "lng": -72.83333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3938145,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "Islay",
+    "fullName": "Provincia de Islay",
+    "lat": -17,
+    "lng": -71.83333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3936625,
+    "parentId": 3947319,
+    "country": "PE",
+    "name": "La Unión",
+    "fullName": "Provincia de La Unión",
+    "lat": -15,
+    "lng": -72.83333,
+    "tz": "America/Lima"
+  }
+]

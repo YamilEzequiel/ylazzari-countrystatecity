@@ -1,0 +1,122 @@
+[
+  {
+    "id": 8129229,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Alberto Arvelo Torrealba",
+    "fullName": "Municipio Alberto Arvelo Torrealba",
+    "lat": 8.75326,
+    "lng": -69.93516,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129150,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Andrés Eloy Blanco",
+    "fullName": "Municipio Andrés Eloy Blanco",
+    "lat": 7.47729,
+    "lng": -71.2956,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129159,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Antonio José de Sucre",
+    "fullName": "Municipio Antonio José de Sucre",
+    "lat": 8.23062,
+    "lng": -70.82198,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648883,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Arismendi",
+    "fullName": "Municipio Arismendi",
+    "lat": 8.47594,
+    "lng": -68.36895,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648545,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Barinas",
+    "fullName": "Municipio Barinas",
+    "lat": 8.61497,
+    "lng": -70.19852,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648112,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 8.75988,
+    "lng": -70.41447,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129254,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Cruz Paredes",
+    "fullName": "Municipio Cruz Paredes",
+    "lat": 8.76868,
+    "lng": -70.1122,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640879,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Ezequiel Zamora",
+    "fullName": "Municipio Ezequiel Zamora",
+    "lat": 7.81287,
+    "lng": -71.1763,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631430,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Obispos",
+    "fullName": "Municipio Obispos",
+    "lat": 8.60614,
+    "lng": -70.10445,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630482,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Pedraza",
+    "fullName": "Municipio Pedraza",
+    "lat": 8.35325,
+    "lng": -70.56982,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628998,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Rojas",
+    "fullName": "Municipio Rojas",
+    "lat": 8.32463,
+    "lng": -69.63006,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626698,
+    "parentId": 3648544,
+    "country": "VE",
+    "name": "Sosa",
+    "fullName": "Municipio Sosa",
+    "lat": 8.09475,
+    "lng": -69.30828,
+    "tz": "America/Caracas"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 3665474,
+    "parentId": null,
+    "country": "BR",
+    "name": "Acre",
+    "fullName": null,
+    "lat": -9,
+    "lng": -70,
+    "tz": "America/Rio_Branco"
+  },
+  {
+    "id": 3408096,
+    "parentId": null,
+    "country": "BR",
+    "name": "Alagoas",
+    "fullName": null,
+    "lat": -9.58333,
+    "lng": -36.41667,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3407762,
+    "parentId": null,
+    "country": "BR",
+    "name": "Amapá",
+    "fullName": null,
+    "lat": 1,
+    "lng": -52,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 3665361,
+    "parentId": null,
+    "country": "BR",
+    "name": "Amazonas",
+    "fullName": null,
+    "lat": -3.75,
+    "lng": -64.5,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 3471168,
+    "parentId": null,
+    "country": "BR",
+    "name": "Bahia",
+    "fullName": null,
+    "lat": -12,
+    "lng": -42,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 3402362,
+    "parentId": null,
+    "country": "BR",
+    "name": "Ceará",
+    "fullName": null,
+    "lat": -5,
+    "lng": -39.5,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 3463930,
+    "parentId": null,
+    "country": "BR",
+    "name": "Espírito Santo",
+    "fullName": null,
+    "lat": -20,
+    "lng": -40.75,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3463504,
+    "parentId": null,
+    "country": "BR",
+    "name": "Federal District",
+    "fullName": null,
+    "lat": -15.75,
+    "lng": -47.75,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3462372,
+    "parentId": null,
+    "country": "BR",
+    "name": "Goiás",
+    "fullName": null,
+    "lat": -15.58071,
+    "lng": -49.63623,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 3395443,
+    "parentId": null,
+    "country": "BR",
+    "name": "Maranhão",
+    "fullName": null,
+    "lat": -5,
+    "lng": -45,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 3457419,
+    "parentId": null,
+    "country": "BR",
+    "name": "Mato Grosso",
+    "fullName": null,
+    "lat": -13,
+    "lng": -56,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 3457415,
+    "parentId": null,
+    "country": "BR",
+    "name": "Mato Grosso do Sul",
+    "fullName": null,
+    "lat": -20.5,
+    "lng": -55,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 3457153,
+    "parentId": null,
+    "country": "BR",
+    "name": "Minas Gerais",
+    "fullName": null,
+    "lat": -18,
+    "lng": -44,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3393129,
+    "parentId": null,
+    "country": "BR",
+    "name": "Pará",
+    "fullName": null,
+    "lat": -4,
+    "lng": -53,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 3393098,
+    "parentId": null,
+    "country": "BR",
+    "name": "Paraíba",
+    "fullName": null,
+    "lat": -7.25,
+    "lng": -36.5,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 3455077,
+    "parentId": null,
+    "country": "BR",
+    "name": "Paraná",
+    "fullName": null,
+    "lat": -24.5,
+    "lng": -51.33333,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3392268,
+    "parentId": null,
+    "country": "BR",
+    "name": "Pernambuco",
+    "fullName": null,
+    "lat": -8.33333,
+    "lng": -37.75,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 3392213,
+    "parentId": null,
+    "country": "BR",
+    "name": "Piauí",
+    "fullName": null,
+    "lat": -7.25,
+    "lng": -42.33333,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 3451189,
+    "parentId": null,
+    "country": "BR",
+    "name": "Rio de Janeiro",
+    "fullName": null,
+    "lat": -22.25,
+    "lng": -42.5,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3390290,
+    "parentId": null,
+    "country": "BR",
+    "name": "Rio Grande do Norte",
+    "fullName": null,
+    "lat": -5.75,
+    "lng": -36.5,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 3451133,
+    "parentId": null,
+    "country": "BR",
+    "name": "Rio Grande do Sul",
+    "fullName": null,
+    "lat": -30,
+    "lng": -53.5,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3924825,
+    "parentId": null,
+    "country": "BR",
+    "name": "Rondônia",
+    "fullName": null,
+    "lat": -11,
+    "lng": -63,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 3662560,
+    "parentId": null,
+    "country": "BR",
+    "name": "Roraima",
+    "fullName": null,
+    "lat": 2.25,
+    "lng": -61.25,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 3450387,
+    "parentId": null,
+    "country": "BR",
+    "name": "Santa Catarina",
+    "fullName": null,
+    "lat": -27,
+    "lng": -50,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3448433,
+    "parentId": null,
+    "country": "BR",
+    "name": "São Paulo",
+    "fullName": null,
+    "lat": -22,
+    "lng": -49,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3447799,
+    "parentId": null,
+    "country": "BR",
+    "name": "Sergipe",
+    "fullName": null,
+    "lat": -10.5,
+    "lng": -37.33333,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 3474575,
+    "parentId": null,
+    "country": "BR",
+    "name": "Tocantins",
+    "fullName": null,
+    "lat": -10.5,
+    "lng": -48,
+    "tz": "America/Araguaina"
+  }
+]

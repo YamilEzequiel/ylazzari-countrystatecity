@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3649248,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Andrés Eloy Blanco",
+    "fullName": "Municipio Andrés Eloy Blanco",
+    "lat": 10.55,
+    "lng": -63.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131450,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Andrés Mata",
+    "fullName": "Municipio Andrés Mata",
+    "lat": 10.59877,
+    "lng": -63.32949,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648882,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Arismendi",
+    "fullName": "Municipio Arismendi",
+    "lat": 10.7,
+    "lng": -62.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648316,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Benítez",
+    "fullName": "Municipio Benítez",
+    "lat": 10.27,
+    "lng": -62.875,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648300,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Bermúdez",
+    "fullName": "Municipio Bermúdez",
+    "lat": 10.66667,
+    "lng": -63.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129155,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 10.44716,
+    "lng": -63.90449,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129221,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Cajigal",
+    "fullName": "Municipio Cajigal",
+    "lat": 10.56916,
+    "lng": -62.82693,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129192,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Cruz Salmerón Acosta",
+    "fullName": "Municipio Cruz Salmerón Acosta",
+    "lat": 10.57973,
+    "lng": -64.25826,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3634754,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 10.56667,
+    "lng": -63,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632895,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Mariño",
+    "fullName": "Municipio Mariño",
+    "lat": 10.61667,
+    "lng": -62.53333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632428,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Mejía",
+    "fullName": "Municipio Mejía",
+    "lat": 10.37777,
+    "lng": -63.77381,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632008,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Montes",
+    "fullName": "Municipio Montes",
+    "lat": 10.25,
+    "lng": -63.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629182,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Ribero",
+    "fullName": "Municipio Ribero",
+    "lat": 10.43887,
+    "lng": -63.54764,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626657,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 10.41667,
+    "lng": -64.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131484,
+    "parentId": 3626655,
+    "country": "VE",
+    "name": "Valdez",
+    "fullName": "Municipio Valdez",
+    "lat": 10.57945,
+    "lng": -62.30029,
+    "tz": "America/Caracas"
+  }
+]

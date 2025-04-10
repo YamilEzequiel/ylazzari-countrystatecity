@@ -1,0 +1,172 @@
+[
+  {
+    "id": 11839986,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Acahay",
+    "fullName": null,
+    "lat": -25.88932,
+    "lng": -57.07659,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840056,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Caapucu",
+    "fullName": null,
+    "lat": -26.33745,
+    "lng": -57.3845,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839955,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Carapegua",
+    "fullName": null,
+    "lat": -25.75907,
+    "lng": -57.32885,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840131,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Escobar",
+    "fullName": null,
+    "lat": -25.66867,
+    "lng": -57.02575,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840027,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "General Bernardino Caballero",
+    "fullName": null,
+    "lat": -25.76005,
+    "lng": -56.88613,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840071,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "La Colmena",
+    "fullName": null,
+    "lat": -25.90225,
+    "lng": -56.82312,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839971,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Mbuyapey",
+    "fullName": null,
+    "lat": -26.28711,
+    "lng": -56.81099,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840022,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Paraguari",
+    "fullName": null,
+    "lat": -25.67994,
+    "lng": -57.1421,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840014,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Pirayu",
+    "fullName": null,
+    "lat": -25.47717,
+    "lng": -57.21446,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840103,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Quiindy",
+    "fullName": null,
+    "lat": -26.01315,
+    "lng": -57.31466,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839934,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Quyquyho",
+    "fullName": null,
+    "lat": -26.25274,
+    "lng": -57.01044,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839985,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "San Roque Gonzalez",
+    "fullName": null,
+    "lat": -25.87559,
+    "lng": -57.29751,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840132,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Sapucai",
+    "fullName": null,
+    "lat": -25.67277,
+    "lng": -56.95827,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840055,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Tebicuary-Mi",
+    "fullName": null,
+    "lat": -25.91802,
+    "lng": -56.67478,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840040,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Yaguaron",
+    "fullName": null,
+    "lat": -25.59869,
+    "lng": -57.27476,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839983,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Yvycui",
+    "fullName": null,
+    "lat": -26.03839,
+    "lng": -56.93766,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840140,
+    "parentId": 3437599,
+    "country": "PY",
+    "name": "Yvytimi",
+    "fullName": null,
+    "lat": -25.78094,
+    "lng": -56.76705,
+    "tz": "America/Asuncion"
+  }
+]

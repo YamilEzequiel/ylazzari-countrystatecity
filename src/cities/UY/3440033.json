@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820864,
+    "parentId": 3440033,
+    "country": "UY",
+    "name": "Ansina",
+    "fullName": null,
+    "lat": -31.96085,
+    "lng": -55.40577,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820787,
+    "parentId": 3440033,
+    "country": "UY",
+    "name": "Paso De Los Toros",
+    "fullName": null,
+    "lat": -32.71634,
+    "lng": -56.51185,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820800,
+    "parentId": 3440033,
+    "country": "UY",
+    "name": "San Gregorio De Polanco",
+    "fullName": null,
+    "lat": -32.48207,
+    "lng": -55.83641,
+    "tz": "America/Montevideo"
+  }
+]

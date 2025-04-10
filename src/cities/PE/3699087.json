@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3699094,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Cajabamba",
+    "fullName": "Provincia de Cajabamba",
+    "lat": -7.5,
+    "lng": -78.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3699086,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Cajamarca",
+    "fullName": "Provincia de Cajamarca",
+    "lat": -7.33333,
+    "lng": -78.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3698607,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Celendín",
+    "fullName": "Provincia de Celendín",
+    "lat": -6.83333,
+    "lng": -78.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3698139,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Chota",
+    "fullName": "Provincia de Chota",
+    "lat": -6.38332,
+    "lng": -79.18055,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3697832,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Contumazá",
+    "fullName": "Provincia de Contumazá",
+    "lat": -7.33333,
+    "lng": -78.91667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3697539,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Cutervo",
+    "fullName": "Provincia de Cutervo",
+    "lat": -6.36667,
+    "lng": -78.85,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696537,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Hualgayoc",
+    "fullName": "Provincia de Hualgayoc",
+    "lat": -6.68,
+    "lng": -78.53,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696149,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Jaén",
+    "fullName": "Provincia de Jaén",
+    "lat": -5.71074,
+    "lng": -79.00438,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692526,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "San Ignacio",
+    "fullName": "Provincia de San Ignacio",
+    "lat": -5.08333,
+    "lng": -79,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349552,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": -7.28278,
+    "lng": -78.06054,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692365,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "San Miguel",
+    "fullName": "Provincia de San Miguel",
+    "lat": -7,
+    "lng": -79,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349553,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "San Pablo",
+    "fullName": null,
+    "lat": -7.0751,
+    "lng": -78.74922,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692215,
+    "parentId": 3699087,
+    "country": "PE",
+    "name": "Santa Cruz",
+    "fullName": "Provincia de Santa Cruz",
+    "lat": -6.83333,
+    "lng": -79,
+    "tz": "America/Lima"
+  }
+]

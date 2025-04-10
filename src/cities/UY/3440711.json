@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11820784,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "Lavalleja",
+    "fullName": null,
+    "lat": -31.08196,
+    "lng": -57.00585,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820786,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "Mataojo",
+    "fullName": null,
+    "lat": -31.16385,
+    "lng": -56.32533,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820806,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "Pueblo Belen",
+    "fullName": null,
+    "lat": -30.85231,
+    "lng": -57.74092,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820873,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "Rincon De Valentin",
+    "fullName": null,
+    "lat": -31.35558,
+    "lng": -57.17893,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820785,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": -31.38503,
+    "lng": -57.75688,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820805,
+    "parentId": 3440711,
+    "country": "UY",
+    "name": "Villa Constitucion",
+    "fullName": null,
+    "lat": -31.12125,
+    "lng": -57.56911,
+    "tz": "America/Montevideo"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8349574,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Bellavista",
+    "fullName": null,
+    "lat": -7.63825,
+    "lng": -76.31932,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349575,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "El Dorado",
+    "fullName": null,
+    "lat": -6.56298,
+    "lng": -76.7413,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696534,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Huallaga",
+    "fullName": "Provincia de Huallaga",
+    "lat": -6.75664,
+    "lng": -76.90143,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3695756,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Lamas",
+    "fullName": "Provincia de Lamas",
+    "lat": -6.33333,
+    "lng": -76.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694924,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Mariscal Cáceres",
+    "fullName": "Provincia de Mariscal Cáceres",
+    "lat": -7.2739,
+    "lng": -77.18216,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694563,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Moyobamba",
+    "fullName": "Provincia de Moyobamba",
+    "lat": -5.75,
+    "lng": -77.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349576,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Picota",
+    "fullName": null,
+    "lat": -6.90221,
+    "lng": -76.25573,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692862,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Rioja",
+    "fullName": "Provincia de Rioja",
+    "lat": -6,
+    "lng": -77.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692383,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "San Martín",
+    "fullName": "Provincia de San Martín",
+    "lat": -6.58333,
+    "lng": -76.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349577,
+    "parentId": 3692385,
+    "country": "PE",
+    "name": "Tocache",
+    "fullName": null,
+    "lat": -8.2493,
+    "lng": -76.63451,
+    "tz": "America/Lima"
+  }
+]
