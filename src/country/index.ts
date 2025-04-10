@@ -20,22 +20,11 @@ export default class CountryService {
   public getCountryByKey = (key: string): Country | undefined => {
     return LIST_COUNTRY[key.toUpperCase()];
   };
-
-  /**
-   * @method getAllCountries
-   * @description Method to get all countries
-   * @returns The list of countries
-   */
+  
   public getAllCountries = (): Country[] => {
     return Object.values(LIST_COUNTRY);
   };
 
-  /**
-   * @method getCountriesByLanguage
-   * @description Method to get the countries by language
-   * @param lang - The language of the countries
-   * @returns The list of countries by language
-   */
   public getCountriesByLanguage = (lang: Language): { [key: string]: string } => {
     const countries: { [key: string]: string } = {};
     Object.entries(LIST_COUNTRY).forEach(([key, country]) => {
@@ -44,3 +33,6 @@ export default class CountryService {
     return countries;
   };
 }
+
+
+export { CountryService };

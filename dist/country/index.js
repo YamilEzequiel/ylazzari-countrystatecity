@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.LIST_COUNTRY = void 0;
+exports.CountryService = exports.LIST_COUNTRY = void 0;
 const country_list_1 = require("./country-list");
 var country_list_2 = require("./country-list");
 Object.defineProperty(exports, "LIST_COUNTRY", { enumerable: true, get: function () { return country_list_2.LIST_COUNTRY; } });
@@ -19,20 +19,9 @@ class CountryService {
         this.getCountryByKey = (key) => {
             return country_list_1.LIST_COUNTRY[key.toUpperCase()];
         };
-        /**
-         * @method getAllCountries
-         * @description Method to get all countries
-         * @returns The list of countries
-         */
         this.getAllCountries = () => {
             return Object.values(country_list_1.LIST_COUNTRY);
         };
-        /**
-         * @method getCountriesByLanguage
-         * @description Method to get the countries by language
-         * @param lang - The language of the countries
-         * @returns The list of countries by language
-         */
         this.getCountriesByLanguage = (lang) => {
             const countries = {};
             Object.entries(country_list_1.LIST_COUNTRY).forEach(([key, country]) => {
@@ -43,3 +32,4 @@ class CountryService {
     }
 }
 exports.default = CountryService;
+exports.CountryService = CountryService;

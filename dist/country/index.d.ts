@@ -14,19 +14,9 @@ export default class CountryService {
      * @returns The country object
      */
     getCountryByKey: (key: string) => Country | undefined;
-    /**
-     * @method getAllCountries
-     * @description Method to get all countries
-     * @returns The list of countries
-     */
     getAllCountries: () => Country[];
-    /**
-     * @method getCountriesByLanguage
-     * @description Method to get the countries by language
-     * @param lang - The language of the countries
-     * @returns The list of countries by language
-     */
     getCountriesByLanguage: (lang: Language) => {
         [key: string]: string;
     };
 }
+export { CountryService };

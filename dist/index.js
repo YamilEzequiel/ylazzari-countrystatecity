@@ -13,25 +13,7 @@ var __createBinding = (this && this.__createBinding) || (Object.create ? (functi
 var __exportStar = (this && this.__exportStar) || function(m, exports) {
     for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
 };
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./country"), exports);
 __exportStar(require("./shared"), exports);
 __exportStar(require("./states"), exports);
-const country_1 = __importDefault(require("./country"));
-const shared_1 = require("@/shared");
-const states_1 = __importDefault(require("./states"));
-/**
- * @constant country
- * @description Instance of the country service
- */
-const country = new country_1.default();
-console.log(country.getAllCountries());
-/**
- * @constant state
- * @description Instance of the state service
- */
-const state = new states_1.default();
-console.log(state.getStatesByCountry(shared_1.StateEnum.AR));

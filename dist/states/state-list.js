@@ -16,7 +16,7 @@ const PY_json_1 = __importDefault(require("./PY.json"));
 const US_json_1 = __importDefault(require("./US.json"));
 const UY_json_1 = __importDefault(require("./UY.json"));
 const VE_json_1 = __importDefault(require("./VE.json"));
-const enum_1 = require("@/shared/enum");
+const enum_1 = require("../shared/enum");
 exports.LIST_STATE = {
     [enum_1.StateEnum.AR]: AR_json_1.default,
     [enum_1.StateEnum.BR]: BR_json_1.default,
