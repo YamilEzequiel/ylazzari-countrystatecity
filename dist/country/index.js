@@ -19,9 +19,20 @@ class CountryService {
         this.getCountryByKey = (key) => {
             return country_list_1.LIST_COUNTRY[key.toUpperCase()];
         };
+        /**
+         * @method getAllCountries
+         * @description Method to get all the countries
+         * @returns The countries array
+         */
         this.getAllCountries = () => {
             return Object.values(country_list_1.LIST_COUNTRY);
         };
+        /**
+         * @method getCountriesByLanguage
+         * @description Method to get the countries by language
+         * @param lang - The language of the countries
+         * @returns The countries array
+         */
         this.getCountriesByLanguage = (lang) => {
             const countries = {};
             Object.entries(country_list_1.LIST_COUNTRY).forEach(([key, country]) => {

@@ -1,9 +1,21 @@
 {
   "name": "ylazzari-countrystatecity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "List of countries, states and cities",
   "main": "dist/index.js",
-  "types": "dist/shared/index.d.ts",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./country": {
+      "import": "./dist/country/index.js",
+      "require": "./dist/country/index.js",
+      "types": "./dist/country/index.d.ts"
+    }
+  },
   "scripts": {
     "build": "rimraf dist && tsc",
     "build:cjs": "tsc",
@@ -46,24 +58,6 @@
     "module": "ESNext",
     "target": "ESNext",
     "esModuleInterop": true
-  },
-  "exports": {
-    ".": {
-      "import": "./dist/index.js",
-      "types": "./dist/index.d.ts"
-    },
-    "./country": {
-      "import": "./dist/country/index.js",
-      "types": "./dist/country/index.d.ts"
-    },
-    "./shared": {
-      "import": "./dist/shared/index.js",
-      "types": "./dist/shared/index.d.ts"
-    },
-    "./states": {
-      "import": "./dist/states/index.js",
-      "types": "./dist/states/index.d.ts"
-    }
   },
   "typeVersion": {
     "*": {

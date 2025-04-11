@@ -21,10 +21,21 @@ export class CountryService {
     return LIST_COUNTRY[key.toUpperCase()];
   };
 
+  /**
+   * @method getAllCountries
+   * @description Method to get all the countries
+   * @returns The countries array
+   */
   public getAllCountries = (): Country[] => {
     return Object.values(LIST_COUNTRY);
   };
 
+  /**
+   * @method getCountriesByLanguage
+   * @description Method to get the countries by language
+   * @param lang - The language of the countries
+   * @returns The countries array
+   */
   public getCountriesByLanguage = (lang: Language): { [key: string]: string } => {
     const countries: { [key: string]: string } = {};
     Object.entries(LIST_COUNTRY).forEach(([key, country]) => {
