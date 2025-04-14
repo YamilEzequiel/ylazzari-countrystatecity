@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820771,
+    "parentId": 3440789,
+    "country": "UY",
+    "name": "Nuevo Berlin",
+    "fullName": null,
+    "lat": -32.9746,
+    "lng": -57.98573,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820851,
+    "parentId": 3440789,
+    "country": "UY",
+    "name": "San Javier",
+    "fullName": null,
+    "lat": -32.65883,
+    "lng": -58.02023,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820776,
+    "parentId": 3440789,
+    "country": "UY",
+    "name": "Young",
+    "fullName": null,
+    "lat": -32.64068,
+    "lng": -57.61499,
+    "tz": "America/Montevideo"
+  }
+]

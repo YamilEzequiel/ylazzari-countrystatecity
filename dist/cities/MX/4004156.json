@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 8582103,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Acatic",
+    "fullName": null,
+    "lat": 20.7642,
+    "lng": -102.91522,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582104,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Acatlán de Juárez",
+    "fullName": null,
+    "lat": 20.42408,
+    "lng": -103.60142,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582105,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ahualulco de Mercado",
+    "fullName": null,
+    "lat": 20.69928,
+    "lng": -103.95564,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582106,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Amacueca",
+    "fullName": null,
+    "lat": 19.98784,
+    "lng": -103.61351,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582107,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Amatitán",
+    "fullName": null,
+    "lat": 20.85789,
+    "lng": -103.72437,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582108,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ameca",
+    "fullName": null,
+    "lat": 20.53572,
+    "lng": -104.05076,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582110,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Arandas",
+    "fullName": null,
+    "lat": 20.76204,
+    "lng": -102.30385,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582112,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Atemajac de Brizuela",
+    "fullName": null,
+    "lat": 20.14268,
+    "lng": -103.71175,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582113,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Atengo",
+    "fullName": null,
+    "lat": 20.29434,
+    "lng": -104.26222,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582114,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Atenguillo",
+    "fullName": null,
+    "lat": 20.3706,
+    "lng": -104.51252,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582115,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Atotonilco el Alto",
+    "fullName": null,
+    "lat": 20.54993,
+    "lng": -102.5367,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582116,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Atoyac",
+    "fullName": null,
+    "lat": 19.98456,
+    "lng": -103.46975,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582117,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Autlán de Navarro",
+    "fullName": null,
+    "lat": 19.75337,
+    "lng": -104.30272,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582118,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ayotlán",
+    "fullName": null,
+    "lat": 20.49393,
+    "lng": -102.35079,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583654,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ayutla",
+    "fullName": null,
+    "lat": 20.06523,
+    "lng": -104.40009,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 7778820,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Bolaños",
+    "fullName": null,
+    "lat": 21.84,
+    "lng": -103.93,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582120,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cabo Corrientes",
+    "fullName": null,
+    "lat": 20.34394,
+    "lng": -105.39322,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582216,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cañadas de Obregón",
+    "fullName": null,
+    "lat": 21.15018,
+    "lng": -102.69827,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582121,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Casimiro Castillo",
+    "fullName": null,
+    "lat": 19.59573,
+    "lng": -104.479,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582130,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Chapala",
+    "fullName": null,
+    "lat": 20.33026,
+    "lng": -103.1642,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582131,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Chimaltitán",
+    "fullName": null,
+    "lat": 21.74817,
+    "lng": -103.69461,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582132,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Chiquilistlán",
+    "fullName": null,
+    "lat": 20.08563,
+    "lng": -103.894,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582122,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cihuatlán",
+    "fullName": null,
+    "lat": 19.23828,
+    "lng": -104.64728,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582124,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cocula",
+    "fullName": null,
+    "lat": 20.38606,
+    "lng": -103.82602,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582125,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Colotlán",
+    "fullName": null,
+    "lat": 22.08651,
+    "lng": -103.28631,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582126,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Concepción de Buenos Aires",
+    "fullName": null,
+    "lat": 19.99064,
+    "lng": -103.22025,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582127,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cuautitlán de García Barragán",
+    "fullName": null,
+    "lat": 19.43254,
+    "lng": -104.29339,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582128,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cuautla",
+    "fullName": null,
+    "lat": 20.20476,
+    "lng": -104.47164,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582129,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Cuquío",
+    "fullName": null,
+    "lat": 20.96401,
+    "lng": -103.03733,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582133,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Degollado",
+    "fullName": null,
+    "lat": 20.45399,
+    "lng": -102.14994,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582134,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ejutla",
+    "fullName": null,
+    "lat": 19.91611,
+    "lng": -104.08422,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582111,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "El Arenal",
+    "fullName": null,
+    "lat": 20.75462,
+    "lng": -103.65901,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582137,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "El Grullo",
+    "fullName": null,
+    "lat": 19.79393,
+    "lng": -104.20162,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582154,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "El Limón",
+    "fullName": null,
+    "lat": 19.82954,
+    "lng": -104.11223,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582170,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "El Salto",
+    "fullName": null,
+    "lat": 20.52877,
+    "lng": -103.22784,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582135,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Encarnación de Díaz",
+    "fullName": null,
+    "lat": 21.58032,
+    "lng": -102.17733,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582136,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Etzatlán",
+    "fullName": null,
+    "lat": 20.76702,
+    "lng": -104.10794,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582179,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Gómez Farías",
+    "fullName": null,
+    "lat": 19.83103,
+    "lng": -103.4443,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582138,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Guachinango",
+    "fullName": null,
+    "lat": 20.67078,
+    "lng": -104.41341,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582140,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Guadalajara",
+    "fullName": null,
+    "lat": 20.71076,
+    "lng": -103.29785,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582141,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Hostotipaquillo",
+    "fullName": null,
+    "lat": 21.0616,
+    "lng": -104.09175,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582142,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Huejúcar",
+    "fullName": null,
+    "lat": 22.33409,
+    "lng": -103.25253,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582143,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Huejuquilla el Alto",
+    "fullName": null,
+    "lat": 22.58053,
+    "lng": -103.90353,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582145,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ixtlahuacán de los Membrillos",
+    "fullName": null,
+    "lat": 20.40211,
+    "lng": -103.20482,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582146,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ixtlahuacán del Río",
+    "fullName": null,
+    "lat": 20.88048,
+    "lng": -103.21472,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582147,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Jalostotitlán",
+    "fullName": null,
+    "lat": 21.18912,
+    "lng": -102.48234,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582148,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Jamay",
+    "fullName": null,
+    "lat": 20.2762,
+    "lng": -102.67298,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581718,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Jesús María",
+    "fullName": null,
+    "lat": 20.62517,
+    "lng": -102.13422,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582149,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Jilotlán de los Dolores",
+    "fullName": null,
+    "lat": 19.33122,
+    "lng": -102.91913,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582150,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Jocotepec",
+    "fullName": null,
+    "lat": 20.29063,
+    "lng": -103.41594,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582151,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Juanacatlán",
+    "fullName": null,
+    "lat": 20.49874,
+    "lng": -103.14939,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582152,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Juchitlán",
+    "fullName": null,
+    "lat": 20.0558,
+    "lng": -104.03536,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582119,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "La Barca",
+    "fullName": null,
+    "lat": 20.35193,
+    "lng": -102.5263,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582144,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "La Huerta",
+    "fullName": null,
+    "lat": 19.50269,
+    "lng": -104.85372,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582157,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "La Manzanilla de la Paz",
+    "fullName": null,
+    "lat": 20.02015,
+    "lng": -103.11429,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582153,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Lagos de Moreno",
+    "fullName": null,
+    "lat": 21.4573,
+    "lng": -101.90979,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582155,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Magdalena",
+    "fullName": null,
+    "lat": 20.91708,
+    "lng": -104.00834,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582158,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Mascota",
+    "fullName": null,
+    "lat": 20.54942,
+    "lng": -104.80525,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582159,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Mazamitla",
+    "fullName": null,
+    "lat": 19.88653,
+    "lng": -103.05118,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582160,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Mexticacán",
+    "fullName": null,
+    "lat": 21.26708,
+    "lng": -102.75511,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582161,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Mezquitic",
+    "fullName": null,
+    "lat": 22.20609,
+    "lng": -104.04531,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582162,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Mixtlán",
+    "fullName": null,
+    "lat": 20.48371,
+    "lng": -104.44443,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582163,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ocotlán",
+    "fullName": null,
+    "lat": 20.3906,
+    "lng": -102.73886,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582164,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Ojuelos de Jalisco",
+    "fullName": null,
+    "lat": 21.81374,
+    "lng": -101.68523,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582165,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Pihuamo",
+    "fullName": null,
+    "lat": 19.18926,
+    "lng": -103.37782,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582166,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Poncitlán",
+    "fullName": null,
+    "lat": 20.35819,
+    "lng": -102.92517,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582167,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Puerto Vallarta",
+    "fullName": null,
+    "lat": 20.69119,
+    "lng": -105.19443,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582169,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Quitupan",
+    "fullName": null,
+    "lat": 19.79371,
+    "lng": -102.88026,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582171,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Cristóbal de la Barranca",
+    "fullName": null,
+    "lat": 21.05599,
+    "lng": -103.45914,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582172,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Diego de Alejandría",
+    "fullName": null,
+    "lat": 20.97238,
+    "lng": -102.03342,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582212,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Gabriel",
+    "fullName": null,
+    "lat": 19.71224,
+    "lng": -103.75194,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583657,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Ignacio Cerro Gordo",
+    "fullName": null,
+    "lat": 20.7603,
+    "lng": -102.51103,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582173,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Juan de los Lagos",
+    "fullName": null,
+    "lat": 21.26847,
+    "lng": -102.29882,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582109,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Juanito de Escobedo",
+    "fullName": null,
+    "lat": 20.80157,
+    "lng": -104.02149,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582174,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Julián",
+    "fullName": null,
+    "lat": 20.99017,
+    "lng": -102.16181,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582175,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 20.80336,
+    "lng": -104.23562,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582176,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Martín de Bolaños",
+    "fullName": null,
+    "lat": 21.60686,
+    "lng": -103.80474,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582177,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Martín Hidalgo",
+    "fullName": null,
+    "lat": 20.43668,
+    "lng": -103.91842,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582178,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Miguel el Alto",
+    "fullName": null,
+    "lat": 20.99137,
+    "lng": -102.36449,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582198,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Pedro Tlaquepaque",
+    "fullName": null,
+    "lat": 20.57727,
+    "lng": -103.35428,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582180,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "San Sebastián del Oeste",
+    "fullName": null,
+    "lat": 20.8511,
+    "lng": -104.81903,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582181,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Santa María de los Ángeles",
+    "fullName": null,
+    "lat": 22.19245,
+    "lng": -103.18886,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582156,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Santa María del Oro",
+    "fullName": null,
+    "lat": 19.53918,
+    "lng": -102.84977,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582182,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Sayula",
+    "fullName": null,
+    "lat": 19.8772,
+    "lng": -103.57337,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582183,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tala",
+    "fullName": null,
+    "lat": 20.59824,
+    "lng": -103.69269,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582184,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Talpa de Allende",
+    "fullName": null,
+    "lat": 20.28616,
+    "lng": -104.91372,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582185,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tamazula de Gordiano",
+    "fullName": null,
+    "lat": 19.65695,
+    "lng": -103.16905,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582186,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tapalpa",
+    "fullName": null,
+    "lat": 19.95041,
+    "lng": -103.73757,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582187,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tecalitlán",
+    "fullName": null,
+    "lat": 19.26516,
+    "lng": -103.20892,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582189,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Techaluta de Montenegro",
+    "fullName": null,
+    "lat": 20.09161,
+    "lng": -103.56604,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582188,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tecolotlán",
+    "fullName": null,
+    "lat": 20.21832,
+    "lng": -104.01971,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582190,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tenamaxtlán",
+    "fullName": null,
+    "lat": 20.1645,
+    "lng": -104.17052,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582191,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Teocaltiche",
+    "fullName": null,
+    "lat": 21.47201,
+    "lng": -102.54431,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582192,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Teocuitatlán de Corona",
+    "fullName": null,
+    "lat": 20.10153,
+    "lng": -103.34996,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582193,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tepatitlán de Morelos",
+    "fullName": null,
+    "lat": 20.83309,
+    "lng": -102.72117,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582194,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tequila",
+    "fullName": null,
+    "lat": 21.0793,
+    "lng": -103.76528,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582195,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Teuchitlán",
+    "fullName": null,
+    "lat": 20.67407,
+    "lng": -103.83442,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582196,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tizapán el Alto",
+    "fullName": null,
+    "lat": 20.12641,
+    "lng": -103.07531,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582197,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tlajomulco de Zúñiga",
+    "fullName": null,
+    "lat": 20.49243,
+    "lng": -103.42939,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582199,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tolimán",
+    "fullName": null,
+    "lat": 19.57479,
+    "lng": -103.90727,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582200,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tomatlán",
+    "fullName": null,
+    "lat": 19.98213,
+    "lng": -105.1979,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582201,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tonalá",
+    "fullName": null,
+    "lat": 20.6099,
+    "lng": -103.2023,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582202,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tonaya",
+    "fullName": null,
+    "lat": 19.82417,
+    "lng": -103.96644,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582203,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tonila",
+    "fullName": null,
+    "lat": 19.42611,
+    "lng": -103.53185,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582204,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Totatiche",
+    "fullName": null,
+    "lat": 21.94047,
+    "lng": -103.47595,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582205,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tototlán",
+    "fullName": null,
+    "lat": 20.53946,
+    "lng": -102.73918,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582206,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tuxcacuesco",
+    "fullName": null,
+    "lat": 19.69625,
+    "lng": -104.01073,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582207,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tuxcueca",
+    "fullName": null,
+    "lat": 20.15438,
+    "lng": -103.22962,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582208,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Tuxpan",
+    "fullName": null,
+    "lat": 19.48815,
+    "lng": -103.42743,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581704,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Unión de San Antonio",
+    "fullName": null,
+    "lat": 21.16013,
+    "lng": -101.99321,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582209,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Unión de Tula",
+    "fullName": null,
+    "lat": 19.96841,
+    "lng": -104.26733,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582210,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Valle de Guadalupe",
+    "fullName": null,
+    "lat": 21.05228,
+    "lng": -102.63941,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582211,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Valle de Juárez",
+    "fullName": null,
+    "lat": 19.81623,
+    "lng": -102.98341,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582213,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Villa Corona",
+    "fullName": null,
+    "lat": 20.39885,
+    "lng": -103.68891,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582214,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Villa Guerrero",
+    "fullName": null,
+    "lat": 22.01014,
+    "lng": -103.6613,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582215,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Villa Hidalgo",
+    "fullName": null,
+    "lat": 21.66491,
+    "lng": -102.57521,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582168,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Villa Purificación",
+    "fullName": null,
+    "lat": 19.78597,
+    "lng": -104.70764,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582217,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Yahualica de González Gallo",
+    "fullName": null,
+    "lat": 21.13794,
+    "lng": -102.91915,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582218,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zacoalco de Torres",
+    "fullName": null,
+    "lat": 20.23294,
+    "lng": -103.57373,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582219,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapopan",
+    "fullName": null,
+    "lat": 20.79267,
+    "lng": -103.49714,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582220,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapotiltic",
+    "fullName": null,
+    "lat": 19.61669,
+    "lng": -103.34885,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582221,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapotitlán de Vadillo",
+    "fullName": null,
+    "lat": 19.51274,
+    "lng": -103.78881,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583655,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapotlán del Rey",
+    "fullName": null,
+    "lat": 20.45497,
+    "lng": -102.91431,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8582123,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapotlán el Grande",
+    "fullName": null,
+    "lat": 19.70301,
+    "lng": -103.49542,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583656,
+    "parentId": 4004156,
+    "country": "MX",
+    "name": "Zapotlanejo",
+    "fullName": null,
+    "lat": 20.6226,
+    "lng": -103.04516,
+    "tz": "America/Mexico_City"
+  }
+]

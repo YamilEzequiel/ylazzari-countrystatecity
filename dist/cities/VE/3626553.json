@@ -1,0 +1,292 @@
+[
+  {
+    "id": 8131485,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Andrés Bello",
+    "fullName": "Municipio Andrés Bello",
+    "lat": 7.85628,
+    "lng": -72.18249,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131486,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Antonio Rómulo Costa",
+    "fullName": "Municipio Antonio Rómulo Costa",
+    "lat": 8.17003,
+    "lng": -72.16541,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648740,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Ayacucho",
+    "fullName": "Municipio Ayacucho",
+    "lat": 8.08333,
+    "lng": -72.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648113,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 7.83333,
+    "lng": -72.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646610,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Cárdenas",
+    "fullName": "Municipio Cárdenas",
+    "lat": 7.83333,
+    "lng": -72.11667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3645220,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Córdoba",
+    "fullName": "Municipio Córdoba",
+    "lat": 7.56667,
+    "lng": -72.2,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131487,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Fernández Feo",
+    "fullName": "Municipio Fernández Feo",
+    "lat": 7.52877,
+    "lng": -71.96011,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129174,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Francisco de Miranda",
+    "fullName": "Municipio Francisco de Miranda",
+    "lat": 7.91139,
+    "lng": -71.97194,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640668,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "García de Hevia",
+    "fullName": "Municipio García de Hevia",
+    "lat": 8.33333,
+    "lng": -72.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129233,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Guásimos",
+    "fullName": "Municipio Guásimos",
+    "lat": 7.83607,
+    "lng": -72.22758,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131488,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Independencia",
+    "fullName": "Municipio Independencia",
+    "lat": 7.82665,
+    "lng": -72.30618,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639226,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Jáuregui",
+    "fullName": "Municipio Jáuregui",
+    "lat": 8.1,
+    "lng": -72,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131490,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "José María Vargas",
+    "fullName": "Municipio José María Vargas",
+    "lat": 8.03514,
+    "lng": -72.05675,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639063,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Junín",
+    "fullName": "Municipio Junín",
+    "lat": 7.58333,
+    "lng": -72.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131489,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Libertad",
+    "fullName": "Municipio Libertad",
+    "lat": 7.82716,
+    "lng": -72.32197,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3634756,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 7.58333,
+    "lng": -71.85,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3634695,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Lobatera",
+    "fullName": "Municipio Lobatera",
+    "lat": 7.91667,
+    "lng": -72.26667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632259,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Michelena",
+    "fullName": "Municipio Michelena",
+    "lat": 7.98333,
+    "lng": -72.18333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630887,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Panamericano",
+    "fullName": "Municipio Panamericano",
+    "lat": 8.41667,
+    "lng": -72,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630452,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Pedro María Ureña",
+    "fullName": "Municipio Pedro María Ureña",
+    "lat": 7.93333,
+    "lng": -72.4,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129257,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Rafael Urdaneta",
+    "fullName": "Municipio Rafael Urdaneta",
+    "lat": 7.56505,
+    "lng": -72.44754,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129258,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Samuel Darío Maldonado",
+    "fullName": "Municipio Samuel Darío Maldonado",
+    "lat": 8.50757,
+    "lng": -71.83166,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628468,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "San Cristóbal",
+    "fullName": "Municipio San Cristóbal",
+    "lat": 7.71667,
+    "lng": -72.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129263,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "San Judas Tadeo",
+    "fullName": "Municipio San Judas Tadeo",
+    "lat": 8.26588,
+    "lng": -72.06371,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129223,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Seboruco",
+    "fullName": "Municipio Seboruco",
+    "lat": 8.14712,
+    "lng": -72.06385,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129162,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Simón Rodríguez",
+    "fullName": "Municipio Simón Rodríguez",
+    "lat": 8.35078,
+    "lng": -71.85028,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626663,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 7.85,
+    "lng": -72,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131491,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Torbes",
+    "fullName": "Municipio Torbes",
+    "lat": 7.66149,
+    "lng": -72.21039,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625648,
+    "parentId": 3626553,
+    "country": "VE",
+    "name": "Uribante",
+    "fullName": "Municipio Uribante",
+    "lat": 7.66667,
+    "lng": -71.91667,
+    "tz": "America/Caracas"
+  }
+]

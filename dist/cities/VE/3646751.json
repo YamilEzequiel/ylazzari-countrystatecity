@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3648385,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Bejuma",
+    "fullName": "Municipio Bejuma",
+    "lat": 10.25,
+    "lng": -68.2,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646514,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Carlos Arvelo",
+    "fullName": "Municipio Carlos Arvelo",
+    "lat": 9.99525,
+    "lng": -67.73394,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129241,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Diego Ibarra",
+    "fullName": "Municipio Diego Ibarra",
+    "lat": 10.29644,
+    "lng": -67.71813,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640464,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Guacara",
+    "fullName": "Municipio Guacara",
+    "lat": 10.3,
+    "lng": -67.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129172,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Juan José Mora",
+    "fullName": "Municipio Juan José Mora",
+    "lat": 10.48889,
+    "lng": -68.20028,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131427,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 10.11444,
+    "lng": -68.06556,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131428,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Los Guayos",
+    "fullName": "Municipio Los Guayos",
+    "lat": 10.18341,
+    "lng": -67.93636,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129240,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": "Municipio Miranda",
+    "lat": 10.14987,
+    "lng": -68.39418,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632070,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Montalbán",
+    "fullName": "Municipio Montalbán",
+    "lat": 10.16667,
+    "lng": -68.35,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131429,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Naguanagua",
+    "fullName": "Municipio Naguanagua",
+    "lat": 10.25648,
+    "lng": -68.01893,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629705,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Puerto Cabello",
+    "fullName": "Municipio Puerto Cabello",
+    "lat": 10.41667,
+    "lng": -68.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131430,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "San Diego",
+    "fullName": "Municipio San Diego",
+    "lat": 10.25614,
+    "lng": -67.95413,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129152,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "San Joaquín",
+    "fullName": "Municipio San Joaquín",
+    "lat": 10.29139,
+    "lng": -67.78056,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625547,
+    "parentId": 3646751,
+    "country": "VE",
+    "name": "Valencia",
+    "fullName": "Municipio Valencia",
+    "lat": 10.08333,
+    "lng": -68.08333,
+    "tz": "America/Caracas"
+  }
+]

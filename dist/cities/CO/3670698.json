@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3689794,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Apía",
+    "fullName": null,
+    "lat": 5.13959,
+    "lng": -75.95756,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689293,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Balboa",
+    "fullName": null,
+    "lat": 4.92284,
+    "lng": -75.9403,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3688990,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Belén de Umbría",
+    "fullName": null,
+    "lat": 5.20899,
+    "lng": -75.87213,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179551,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Dosquebradas",
+    "fullName": null,
+    "lat": 4.83333,
+    "lng": -75.68333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681354,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Guática",
+    "fullName": null,
+    "lat": 5.32529,
+    "lng": -75.80982,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3679543,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "La Celia",
+    "fullName": null,
+    "lat": 4.99997,
+    "lng": -76.00479,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676723,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "La Virginia",
+    "fullName": null,
+    "lat": 4.9058,
+    "lng": -75.85103,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675214,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Marsella",
+    "fullName": null,
+    "lat": 4.95238,
+    "lng": -75.75265,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674679,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Mistrató",
+    "fullName": null,
+    "lat": 5.4182,
+    "lng": -75.94744,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672487,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Pereira",
+    "fullName": null,
+    "lat": 4.76896,
+    "lng": -75.72222,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671635,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Pueblo Rico",
+    "fullName": null,
+    "lat": 5.29453,
+    "lng": -76.06702,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671092,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Quinchía",
+    "fullName": null,
+    "lat": 5.31977,
+    "lng": -75.75778,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668455,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Santa Rosa de Cabal",
+    "fullName": null,
+    "lat": 4.84524,
+    "lng": -75.54498,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668329,
+    "parentId": 3670698,
+    "country": "CO",
+    "name": "Santuario",
+    "fullName": null,
+    "lat": 5.05321,
+    "lng": -75.9906,
+    "tz": "America/Bogota"
+  }
+]

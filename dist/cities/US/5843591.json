@@ -1,0 +1,232 @@
+[
+  {
+    "id": 5816904,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Albany County",
+    "fullName": null,
+    "lat": 41.65447,
+    "lng": -105.72391,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5818658,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Big Horn County",
+    "fullName": null,
+    "lat": 44.52682,
+    "lng": -107.99521,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5820441,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Campbell County",
+    "fullName": null,
+    "lat": 44.24839,
+    "lng": -105.54831,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5820552,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Carbon County",
+    "fullName": null,
+    "lat": 41.69459,
+    "lng": -106.93061,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5821791,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Converse County",
+    "fullName": null,
+    "lat": 42.97233,
+    "lng": -105.50706,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5822351,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Crook County",
+    "fullName": null,
+    "lat": 44.5886,
+    "lng": -104.56994,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5825643,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Fremont County",
+    "fullName": null,
+    "lat": 43.04053,
+    "lng": -108.63042,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5826220,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Goshen County",
+    "fullName": null,
+    "lat": 42.08794,
+    "lng": -104.35326,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5828054,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Hot Springs County",
+    "fullName": null,
+    "lat": 43.71893,
+    "lng": -108.4421,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5828957,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Johnson County",
+    "fullName": null,
+    "lat": 44.03877,
+    "lng": -106.58463,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5830051,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Laramie County",
+    "fullName": null,
+    "lat": 41.30707,
+    "lng": -104.68962,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5830383,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 42.26404,
+    "lng": -110.65597,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5833224,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Natrona County",
+    "fullName": null,
+    "lat": 42.96224,
+    "lng": -106.79849,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5833446,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Niobrara County",
+    "fullName": null,
+    "lat": 43.0565,
+    "lng": -104.47538,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5834587,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Park County",
+    "fullName": null,
+    "lat": 44.52057,
+    "lng": -109.58853,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5835308,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Platte County",
+    "fullName": null,
+    "lat": 42.13305,
+    "lng": -104.96582,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5838199,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Sheridan County",
+    "fullName": null,
+    "lat": 44.79004,
+    "lng": -106.87948,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5840177,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Sublette County",
+    "fullName": null,
+    "lat": 42.76691,
+    "lng": -109.91471,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5840426,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Sweetwater County",
+    "fullName": null,
+    "lat": 41.6595,
+    "lng": -108.87942,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5840786,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Teton County",
+    "fullName": null,
+    "lat": 43.93476,
+    "lng": -110.58974,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5841693,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Uinta County",
+    "fullName": null,
+    "lat": 41.28756,
+    "lng": -110.54759,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5842257,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Washakie County",
+    "fullName": null,
+    "lat": 43.905,
+    "lng": -107.68286,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5842707,
+    "parentId": 5843591,
+    "country": "US",
+    "name": "Weston County",
+    "fullName": null,
+    "lat": 43.84049,
+    "lng": -104.56783,
+    "tz": "America/Denver"
+  }
+]

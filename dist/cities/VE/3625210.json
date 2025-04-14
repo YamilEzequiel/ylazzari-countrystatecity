@@ -1,0 +1,142 @@
+[
+  {
+    "id": 8129227,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Arístides Bastidas",
+    "fullName": "Municipio Arístides Bastidas",
+    "lat": 10.24828,
+    "lng": -68.84451,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648108,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 10.5,
+    "lng": -68.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3647929,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Bruzual",
+    "fullName": "Municipio Bruzual",
+    "lat": 10.16667,
+    "lng": -68.88333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129247,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Cocorote",
+    "fullName": "Municipio Cocorote",
+    "lat": 10.31978,
+    "lng": -68.78386,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131510,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Independencia",
+    "fullName": "Municipio Independencia",
+    "lat": 10.33472,
+    "lng": -68.75555,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129230,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "José Antonio Páez",
+    "fullName": "Municipio José Antonio Páez",
+    "lat": 10.12111,
+    "lng": -69.03639,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129251,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "La Trinidad",
+    "fullName": "Municipio La Trinidad",
+    "lat": 10.24933,
+    "lng": -68.7695,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129219,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Manuel Monge",
+    "fullName": "Municipio Manuel Monge",
+    "lat": 10.59732,
+    "lng": -68.67245,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631506,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Nirgua",
+    "fullName": "Municipio Nirgua",
+    "lat": 10.08333,
+    "lng": -68.66667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129203,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Peña",
+    "fullName": "Municipio Peña",
+    "lat": 10.08,
+    "lng": -69.12611,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628416,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "San Felipe",
+    "fullName": "Municipio San Felipe",
+    "lat": 10.5,
+    "lng": -68.63333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626658,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 10.3,
+    "lng": -68.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625695,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Urachiche",
+    "fullName": "Municipio Urachiche",
+    "lat": 10.13333,
+    "lng": -69,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129244,
+    "parentId": 3625210,
+    "country": "VE",
+    "name": "Veroes",
+    "fullName": "Municipio Veroes",
+    "lat": 10.46967,
+    "lng": -68.55857,
+    "tz": "America/Caracas"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3699485,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Bagua",
+    "fullName": "Provincia de Bagua",
+    "lat": -5.09006,
+    "lng": -78.39972,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3699269,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Bongará",
+    "fullName": "Provincia de Bongará",
+    "lat": -5.68341,
+    "lng": -77.87308,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3698538,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Chachapoyas",
+    "fullName": "Provincia de Chachapoyas",
+    "lat": -6.2748,
+    "lng": -77.81067,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349545,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Condorcanqui",
+    "fullName": null,
+    "lat": -4.16515,
+    "lng": -78.0384,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3695112,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Luya",
+    "fullName": "Provincia de Luya",
+    "lat": -6.41667,
+    "lng": -78,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692841,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Rodríguez de Mendoza",
+    "fullName": "Provincia de Rodríguez de Mendoza",
+    "lat": -6.33333,
+    "lng": -77.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349546,
+    "parentId": 3699699,
+    "country": "PE",
+    "name": "Utcubamba",
+    "fullName": null,
+    "lat": -5.77031,
+    "lng": -78.3285,
+    "tz": "America/Lima"
+  }
+]

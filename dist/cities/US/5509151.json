@@ -1,0 +1,172 @@
+[
+  {
+    "id": 5501350,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Carson City",
+    "fullName": null,
+    "lat": 39.16462,
+    "lng": -119.7763,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5501785,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Churchill County",
+    "fullName": null,
+    "lat": 39.58088,
+    "lng": -118.33578,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5501879,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Clark County",
+    "fullName": null,
+    "lat": 36.2152,
+    "lng": -115.01356,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5503178,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Douglas County",
+    "fullName": null,
+    "lat": 38.91224,
+    "lng": -119.61637,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5703673,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Elko County",
+    "fullName": null,
+    "lat": 41.14583,
+    "lng": -115.35776,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5503780,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Esmeralda County",
+    "fullName": null,
+    "lat": 37.7847,
+    "lng": -117.63237,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5703766,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Eureka County",
+    "fullName": null,
+    "lat": 39.98389,
+    "lng": -116.26856,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5704974,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Humboldt County",
+    "fullName": null,
+    "lat": 41.40684,
+    "lng": -118.11197,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5506935,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Lander County",
+    "fullName": null,
+    "lat": 39.93381,
+    "lng": -117.03791,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5507189,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 37.64335,
+    "lng": -114.87755,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5507669,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Lyon County",
+    "fullName": null,
+    "lat": 39.0204,
+    "lng": -119.1892,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5508393,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Mineral County",
+    "fullName": null,
+    "lat": 38.53881,
+    "lng": -118.43521,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5509519,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Nye County",
+    "fullName": null,
+    "lat": 38.04238,
+    "lng": -116.47193,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5707263,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Pershing County",
+    "fullName": null,
+    "lat": 40.44036,
+    "lng": -118.40444,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5513171,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Storey County",
+    "fullName": null,
+    "lat": 39.44653,
+    "lng": -119.52917,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5709906,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "Washoe County",
+    "fullName": null,
+    "lat": 40.66542,
+    "lng": -119.6643,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5514990,
+    "parentId": 5509151,
+    "country": "US",
+    "name": "White Pine County",
+    "fullName": null,
+    "lat": 39.44216,
+    "lng": -114.90159,
+    "tz": "America/Los_Angeles"
+  }
+]

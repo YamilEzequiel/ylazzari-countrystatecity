@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3699735,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Alto Amazonas",
+    "fullName": "Provincia de Alto Amazonas",
+    "lat": -5.81276,
+    "lng": -76.10229,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349568,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Datem del Marañón",
+    "fullName": null,
+    "lat": -4.13614,
+    "lng": -76.97788,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3695237,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Loreto",
+    "fullName": "Provincia de Loreto",
+    "lat": -4,
+    "lng": -75.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349567,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Mariscal Ramon Castilla",
+    "fullName": null,
+    "lat": -3.92682,
+    "lng": -71.70057,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694873,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Maynas",
+    "fullName": "Provincia de Maynas",
+    "lat": -3,
+    "lng": -73.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 12077056,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Putumayo",
+    "fullName": null,
+    "lat": -2.45046,
+    "lng": -72.66729,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3692894,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Requena",
+    "fullName": "Provincia de Requena",
+    "lat": -6,
+    "lng": -74.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3691097,
+    "parentId": 3695238,
+    "country": "PE",
+    "name": "Ucayali",
+    "fullName": "Provincia de Ucayali",
+    "lat": -7.16667,
+    "lng": -75.25,
+    "tz": "America/Lima"
+  }
+]

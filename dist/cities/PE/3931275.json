@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3946936,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Azángaro",
+    "fullName": "Provincia de Azángaro",
+    "lat": -14.83333,
+    "lng": -70.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945614,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Carabaya",
+    "fullName": "Provincia de Carabaya",
+    "lat": -13.83333,
+    "lng": -70.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3943362,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Chucuito",
+    "fullName": "Provincia de Chucuito",
+    "lat": -16.60545,
+    "lng": -69.35761,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349570,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "El Collao",
+    "fullName": null,
+    "lat": -16.72641,
+    "lng": -69.75515,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939536,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Huancané",
+    "fullName": "Provincia de Huancané",
+    "lat": -15.16667,
+    "lng": -69.58333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3936995,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Lampa",
+    "fullName": "Provincia de Lampa",
+    "lat": -15.41667,
+    "lng": -70.58333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3935054,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Melgar",
+    "fullName": "Provincia de Melgar",
+    "lat": -14.75,
+    "lng": -70.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349571,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Moho",
+    "fullName": null,
+    "lat": -15.33508,
+    "lng": -69.3803,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3931274,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Puno",
+    "fullName": "Provincia de Puno",
+    "lat": -16,
+    "lng": -70,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349572,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "San Antonio De Putina",
+    "fullName": null,
+    "lat": -14.71175,
+    "lng": -69.61559,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3929310,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "San Roman",
+    "fullName": null,
+    "lat": -15.83333,
+    "lng": -70.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3929739,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Sandia",
+    "fullName": "Provincia de Sandia",
+    "lat": -13.83333,
+    "lng": -69.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349573,
+    "parentId": 3931275,
+    "country": "PE",
+    "name": "Yunguyo",
+    "fullName": null,
+    "lat": -16.30571,
+    "lng": -69.11787,
+    "tz": "America/Lima"
+  }
+]

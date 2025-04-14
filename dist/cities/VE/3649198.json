@@ -1,0 +1,212 @@
+[
+  {
+    "id": 3649281,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Anaco",
+    "fullName": "Municipio Anaco",
+    "lat": 9.33333,
+    "lng": -64.46667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649111,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Aragua",
+    "fullName": "Municipio Aragua",
+    "lat": 9.31667,
+    "lng": -64.9,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129165,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Fernando de Peñalver",
+    "fullName": "Municipio Fernando de Peñalver",
+    "lat": 10.0613,
+    "lng": -65.04207,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129167,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Francisco de Miranda",
+    "fullName": "Municipio Francisco de Miranda",
+    "lat": 8.84357,
+    "lng": -64.71053,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129180,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Francisco del Carmen Carvajal",
+    "fullName": "Municipio Francisco del Carmen Carvajal",
+    "lat": 9.90999,
+    "lng": -65.67405,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129262,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Guanta",
+    "fullName": "Municipio Guanta",
+    "lat": 10.23448,
+    "lng": -64.59552,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639386,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Independencia",
+    "fullName": "Municipio Independencia",
+    "lat": 8.46667,
+    "lng": -63.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129213,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "José Gregorio Monagas",
+    "fullName": "Municipio José Gregorio Monagas",
+    "lat": 7.73874,
+    "lng": -64.71876,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129187,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Juan Antonio Sotillo",
+    "fullName": "Municipio Juan Antonio Sotillo",
+    "lat": 10.21667,
+    "lng": -64.61667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129234,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Juan Manuel Cajigal",
+    "fullName": "Municipio Juan Manuel Cajigal",
+    "lat": 9.59714,
+    "lng": -65.1935,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3634759,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Libertad",
+    "fullName": "Municipio Libertad",
+    "lat": 9.75,
+    "lng": -64.58333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129248,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Manuel Ezequiel Bruzual",
+    "fullName": "Municipio Manuel Ezequiel Bruzual",
+    "lat": 9.93991,
+    "lng": -65.16517,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129266,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Pedro María Freites",
+    "fullName": "Municipio Pedro María Freites",
+    "lat": 9.30571,
+    "lng": -64.35841,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129166,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Píritu",
+    "fullName": "Municipio Píritu",
+    "lat": 10.03891,
+    "lng": -65.02975,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131389,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "San José de Guanipa",
+    "fullName": "Municipio San José de Guanipa",
+    "lat": 8.87998,
+    "lng": -64.16102,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129210,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "San Juan de Capistrano",
+    "fullName": "Municipio San Juan de Capistrano",
+    "lat": 10.13152,
+    "lng": -65.42115,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131390,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Santa Ana",
+    "fullName": "Municipio Santa Ana",
+    "lat": 9.30578,
+    "lng": -64.65398,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131391,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Simón Bolívar",
+    "fullName": "Municipio Simón Bolívar",
+    "lat": 10.14455,
+    "lng": -64.67241,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626815,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Simón Rodríguez",
+    "fullName": "Municipio Simón Rodríguez",
+    "lat": 8.75,
+    "lng": -64.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131392,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Sir Arthur Mc Gregor",
+    "fullName": "Municipio Sir Arthur Mc Gregor",
+    "lat": 9.15227,
+    "lng": -65.01537,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129171,
+    "parentId": 3649198,
+    "country": "VE",
+    "name": "Turistico Diego Bautista Urbaneja",
+    "fullName": "Municipio Turistico Diego Bautista Urbaneja",
+    "lat": 10.19769,
+    "lng": -64.69407,
+    "tz": "America/Caracas"
+  }
+]

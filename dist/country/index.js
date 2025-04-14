@@ -7,6 +7,7 @@ Object.defineProperty(exports, "LIST_COUNTRY", { enumerable: true, get: function
 /**
  * @class CountryService
  * @description Class for the country service
+ * @version 1.0.6
  */
 class CountryService {
     constructor() {
@@ -26,6 +27,18 @@ class CountryService {
          */
         this.getAllCountries = () => {
             return Object.values(country_list_1.LIST_COUNTRY);
+        };
+        /**
+         * @method getAllCountriesOnlyNames
+         * @description Method to get all the countries only with the name
+         * @returns The countries array
+         */
+        this.getAllCountriesOnlyNames = () => {
+            const countries = {};
+            Object.entries(country_list_1.LIST_COUNTRY).forEach(([key, country]) => {
+                countries[key] = country.en;
+            });
+            return countries;
         };
         /**
          * @method getCountriesByLanguage

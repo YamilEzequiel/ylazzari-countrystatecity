@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3649809,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Achaguas",
+    "fullName": "Municipio Achaguas",
+    "lat": 7.25,
+    "lng": -68.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129211,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Biruaca",
+    "fullName": "Municipio Biruaca",
+    "lat": 7.84483,
+    "lng": -67.51679,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631656,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Muñoz",
+    "fullName": "Municipio Muñoz",
+    "lat": 7.58333,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631171,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Páez",
+    "fullName": "Municipio Páez",
+    "lat": 7.25,
+    "lng": -71,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630456,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Pedro Camejo",
+    "fullName": "Municipio Pedro Camejo",
+    "lat": 6.5,
+    "lng": -67.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628986,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "Rómulo Gallegos",
+    "fullName": "Municipio Rómulo Gallegos",
+    "lat": 6.75,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3628397,
+    "parentId": 3649151,
+    "country": "VE",
+    "name": "San Fernando",
+    "fullName": "Municipio San Fernando",
+    "lat": 7.58333,
+    "lng": -67.16667,
+    "tz": "America/Caracas"
+  }
+]

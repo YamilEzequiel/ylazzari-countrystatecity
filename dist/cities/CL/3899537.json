@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3899538,
+    "parentId": 3899537,
+    "country": "CL",
+    "name": "Antofagasta",
+    "fullName": "Provincia de Antofagasta",
+    "lat": -24.31122,
+    "lng": -69.57084,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 99900002,
+    "parentId": 3899537,
+    "country": "CL",
+    "name": "Calama",
+    "fullName": null,
+    "lat": -22.349007698388487,
+    "lng": -68.93525695642124,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3891149,
+    "parentId": 3899537,
+    "country": "CL",
+    "name": "El Loa",
+    "fullName": "Provincia de El Loa",
+    "lat": -22.96764,
+    "lng": -68.18716,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3869715,
+    "parentId": 3899537,
+    "country": "CL",
+    "name": "Tocopilla",
+    "fullName": "Provincia de Tocopilla",
+    "lat": -22.02949,
+    "lng": -69.64006,
+    "tz": "America/Santiago"
+  }
+]

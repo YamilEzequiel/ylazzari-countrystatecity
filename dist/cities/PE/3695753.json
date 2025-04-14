@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3698348,
+    "parentId": 3695753,
+    "country": "PE",
+    "name": "Chiclayo",
+    "fullName": "Provincia de Chiclayo",
+    "lat": -6.76667,
+    "lng": -79.85,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3697032,
+    "parentId": 3695753,
+    "country": "PE",
+    "name": "Ferreñafe",
+    "fullName": "Provincia de Ferreñafe",
+    "lat": -6.33333,
+    "lng": -79.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3695752,
+    "parentId": 3695753,
+    "country": "PE",
+    "name": "Lambayeque",
+    "fullName": "Provincia de Lambayeque",
+    "lat": -6.08333,
+    "lng": -80.08333,
+    "tz": "America/Lima"
+  }
+]

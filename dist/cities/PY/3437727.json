@@ -1,0 +1,102 @@
+[
+  {
+    "id": 11840065,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Ayolas",
+    "fullName": null,
+    "lat": -27.37014,
+    "lng": -56.9749,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840017,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "San Ignacio",
+    "fullName": null,
+    "lat": -26.9589,
+    "lng": -57.14557,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840096,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "San Juan Bautista",
+    "fullName": null,
+    "lat": -26.7122,
+    "lng": -57.40589,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840006,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "San Miguel",
+    "fullName": null,
+    "lat": -26.58091,
+    "lng": -56.96765,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839930,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "San Patricio",
+    "fullName": null,
+    "lat": -26.99545,
+    "lng": -56.82939,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840028,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Santa Maria",
+    "fullName": null,
+    "lat": -26.73927,
+    "lng": -56.88897,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840161,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Santa Rosa",
+    "fullName": null,
+    "lat": -26.87136,
+    "lng": -56.79426,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840085,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": -27.12983,
+    "lng": -56.78376,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840043,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Villa Florida",
+    "fullName": null,
+    "lat": -26.46689,
+    "lng": -57.12291,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840087,
+    "parentId": 3437727,
+    "country": "PY",
+    "name": "Yabebyry",
+    "fullName": null,
+    "lat": -27.25628,
+    "lng": -57.14304,
+    "tz": "America/Asuncion"
+  }
+]

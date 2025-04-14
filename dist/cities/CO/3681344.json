@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6798554,
+    "parentId": 3681344,
+    "country": "CO",
+    "name": "Calamar",
+    "fullName": null,
+    "lat": 1.60178,
+    "lng": -72.98243,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172390,
+    "parentId": 3681344,
+    "country": "CO",
+    "name": "El Retorno",
+    "fullName": null,
+    "lat": 1.92608,
+    "lng": -71.57561,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6976870,
+    "parentId": 3681344,
+    "country": "CO",
+    "name": "Miraflores",
+    "fullName": null,
+    "lat": 1.3098,
+    "lng": -72.0419,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6851384,
+    "parentId": 3681344,
+    "country": "CO",
+    "name": "San José del Guaviare",
+    "fullName": null,
+    "lat": 2.55368,
+    "lng": -72.07462,
+    "tz": "America/Bogota"
+  }
+]

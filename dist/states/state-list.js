@@ -18,16 +18,16 @@ const UY_json_1 = __importDefault(require("./UY.json"));
 const VE_json_1 = __importDefault(require("./VE.json"));
 const enum_1 = require("../shared/enum");
 exports.LIST_STATE = {
-    [enum_1.StateEnum.AR]: AR_json_1.default,
-    [enum_1.StateEnum.BR]: BR_json_1.default,
-    [enum_1.StateEnum.CL]: CL_json_1.default,
-    [enum_1.StateEnum.CO]: CO_json_1.default,
-    [enum_1.StateEnum.ES]: ES_json_1.default,
-    [enum_1.StateEnum.MX]: MX_json_1.default,
-    [enum_1.StateEnum.PA]: PA_json_1.default,
-    [enum_1.StateEnum.PE]: PE_json_1.default,
-    [enum_1.StateEnum.PY]: PY_json_1.default,
-    [enum_1.StateEnum.US]: US_json_1.default,
-    [enum_1.StateEnum.UY]: UY_json_1.default,
-    [enum_1.StateEnum.VE]: VE_json_1.default,
+    [enum_1.CountryEnum.AR]: AR_json_1.default,
+    [enum_1.CountryEnum.BR]: BR_json_1.default,
+    [enum_1.CountryEnum.CL]: CL_json_1.default,
+    [enum_1.CountryEnum.CO]: CO_json_1.default,
+    [enum_1.CountryEnum.ES]: ES_json_1.default,
+    [enum_1.CountryEnum.MX]: MX_json_1.default,
+    [enum_1.CountryEnum.PA]: PA_json_1.default,
+    [enum_1.CountryEnum.PE]: PE_json_1.default,
+    [enum_1.CountryEnum.PY]: PY_json_1.default,
+    [enum_1.CountryEnum.US]: US_json_1.default,
+    [enum_1.CountryEnum.UY]: UY_json_1.default,
+    [enum_1.CountryEnum.VE]: VE_json_1.default,
 };

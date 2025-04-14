@@ -1,0 +1,672 @@
+[
+  {
+    "id": 8581800,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Ahumada",
+    "fullName": null,
+    "lat": 30.48174,
+    "lng": -106.48832,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581830,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Aldama",
+    "fullName": null,
+    "lat": 28.93636,
+    "lng": -105.71098,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581801,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Allende",
+    "fullName": null,
+    "lat": 27.07787,
+    "lng": -105.28789,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581802,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Aquiles Serdán",
+    "fullName": null,
+    "lat": 28.58454,
+    "lng": -105.88108,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581803,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Ascensión",
+    "fullName": null,
+    "lat": 31.27914,
+    "lng": -107.73149,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581804,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Bachíniva",
+    "fullName": null,
+    "lat": 28.85661,
+    "lng": -107.28856,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581805,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Balleza",
+    "fullName": null,
+    "lat": 26.73537,
+    "lng": -106.53591,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581806,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Batopilas",
+    "fullName": null,
+    "lat": 26.95272,
+    "lng": -107.71842,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581807,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Bocoyna",
+    "fullName": null,
+    "lat": 27.78937,
+    "lng": -107.61036,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581808,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Buenaventura",
+    "fullName": null,
+    "lat": 30.02116,
+    "lng": -107.19308,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581809,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Camargo",
+    "fullName": null,
+    "lat": 27.82905,
+    "lng": -104.78012,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581810,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Carichí",
+    "fullName": null,
+    "lat": 27.74601,
+    "lng": -107.07795,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581811,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Casas Grandes",
+    "fullName": null,
+    "lat": 30.33984,
+    "lng": -108.07035,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581816,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Chihuahua",
+    "fullName": null,
+    "lat": 28.82669,
+    "lng": -106.19876,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581817,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Chínipas",
+    "fullName": null,
+    "lat": 27.46852,
+    "lng": -108.49727,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581812,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Coronado",
+    "fullName": null,
+    "lat": 26.6624,
+    "lng": -105.12093,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581813,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Coyame del Sotol",
+    "fullName": null,
+    "lat": 29.68793,
+    "lng": -105.13855,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581829,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Cuauhtémoc",
+    "fullName": null,
+    "lat": 28.57033,
+    "lng": -106.89647,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581815,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Cusihuiriachi",
+    "fullName": null,
+    "lat": 28.23242,
+    "lng": -106.94148,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581818,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Delicias",
+    "fullName": null,
+    "lat": 28.16948,
+    "lng": -105.44913,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581819,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Dr. Belisario Domínguez",
+    "fullName": null,
+    "lat": 27.98462,
+    "lng": -106.45234,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581852,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "El Tule",
+    "fullName": null,
+    "lat": 27.07325,
+    "lng": -106.31735,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581820,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Galeana",
+    "fullName": null,
+    "lat": 30.10916,
+    "lng": -107.63167,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581822,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Gómez Farías",
+    "fullName": null,
+    "lat": 29.33836,
+    "lng": -107.71106,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581823,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Gran Morelos",
+    "fullName": null,
+    "lat": 28.24841,
+    "lng": -106.49357,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581824,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Guachochi",
+    "fullName": null,
+    "lat": 27.17004,
+    "lng": -107.29404,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581825,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Guadalupe",
+    "fullName": null,
+    "lat": 30.82737,
+    "lng": -105.64057,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581826,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Guadalupe y Calvo",
+    "fullName": null,
+    "lat": 26.17612,
+    "lng": -107.04507,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581827,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Guazapares",
+    "fullName": null,
+    "lat": 27.44005,
+    "lng": -108.23338,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581828,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Guerrero",
+    "fullName": null,
+    "lat": 28.42888,
+    "lng": -107.50377,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583642,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Hidalgo del Parral",
+    "fullName": null,
+    "lat": 27.07964,
+    "lng": -105.70722,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583643,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Huejotitán",
+    "fullName": null,
+    "lat": 27.02708,
+    "lng": -106.1057,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583644,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Ignacio Zaragoza",
+    "fullName": null,
+    "lat": 29.66564,
+    "lng": -107.7327,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583645,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Janos",
+    "fullName": null,
+    "lat": 30.80855,
+    "lng": -108.40447,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583646,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Jiménez",
+    "fullName": null,
+    "lat": 27.12734,
+    "lng": -104.72872,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583647,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Juárez",
+    "fullName": null,
+    "lat": 31.4977,
+    "lng": -106.51728,
+    "tz": "America/Ojinaga"
+  },
+  {
+    "id": 8583648,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Julimes",
+    "fullName": null,
+    "lat": 28.49192,
+    "lng": -105.21303,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581814,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "La Cruz",
+    "fullName": null,
+    "lat": 27.88634,
+    "lng": -105.13649,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583649,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "López",
+    "fullName": null,
+    "lat": 26.9831,
+    "lng": -105.04397,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583650,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Madera",
+    "fullName": null,
+    "lat": 29.25988,
+    "lng": -108.37845,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583651,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Maguarichi",
+    "fullName": null,
+    "lat": 27.81655,
+    "lng": -107.96866,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8583652,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Manuel Benavides",
+    "fullName": null,
+    "lat": 28.94431,
+    "lng": -103.91889,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581831,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Matachí",
+    "fullName": null,
+    "lat": 28.82058,
+    "lng": -107.71233,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581832,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Matamoros",
+    "fullName": null,
+    "lat": 26.74974,
+    "lng": -105.58923,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581833,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Meoqui",
+    "fullName": null,
+    "lat": 28.33926,
+    "lng": -105.52765,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581834,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Morelos",
+    "fullName": null,
+    "lat": 26.60027,
+    "lng": -107.71209,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581835,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Moris",
+    "fullName": null,
+    "lat": 28.13424,
+    "lng": -108.72721,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581836,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Namiquipa",
+    "fullName": null,
+    "lat": 29.15873,
+    "lng": -107.32285,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581837,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Nonoava",
+    "fullName": null,
+    "lat": 27.43854,
+    "lng": -106.73285,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581838,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Nuevo Casas Grandes",
+    "fullName": null,
+    "lat": 30.48953,
+    "lng": -107.84862,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581839,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Ocampo",
+    "fullName": null,
+    "lat": 28.15827,
+    "lng": -108.22155,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581840,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Ojinaga",
+    "fullName": null,
+    "lat": 29.31371,
+    "lng": -104.4484,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581841,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Praxedis G. Guerrero",
+    "fullName": null,
+    "lat": 31.30031,
+    "lng": -105.94361,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581843,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Riva Palacio",
+    "fullName": null,
+    "lat": 28.81462,
+    "lng": -106.6499,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581844,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Rosales",
+    "fullName": null,
+    "lat": 28.29782,
+    "lng": -105.58288,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581845,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Rosario",
+    "fullName": null,
+    "lat": 27.25616,
+    "lng": -106.29878,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581846,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "San Francisco de Borja",
+    "fullName": null,
+    "lat": 27.89427,
+    "lng": -106.72288,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581847,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "San Francisco de Conchos",
+    "fullName": null,
+    "lat": 27.57356,
+    "lng": -105.37779,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581848,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "San Francisco del Oro",
+    "fullName": null,
+    "lat": 26.89417,
+    "lng": -105.90594,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581849,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Santa Bárbara",
+    "fullName": null,
+    "lat": 26.82071,
+    "lng": -105.77151,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581821,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Santa Isabel",
+    "fullName": null,
+    "lat": 28.34445,
+    "lng": -106.34136,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581850,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Satevó",
+    "fullName": null,
+    "lat": 27.78583,
+    "lng": -106.19851,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581851,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Saucillo",
+    "fullName": null,
+    "lat": 28.05878,
+    "lng": -105.31508,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 7778819,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Temósachic",
+    "fullName": null,
+    "lat": 28.95,
+    "lng": -107.83333,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581853,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Urique",
+    "fullName": null,
+    "lat": 27.27037,
+    "lng": -107.95461,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581854,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Uruachi",
+    "fullName": null,
+    "lat": 27.84669,
+    "lng": -108.36712,
+    "tz": "America/Chihuahua"
+  },
+  {
+    "id": 8581855,
+    "parentId": 4014336,
+    "country": "MX",
+    "name": "Valle de Zaragoza",
+    "fullName": null,
+    "lat": 27.48944,
+    "lng": -105.84764,
+    "tz": "America/Chihuahua"
+  }
+]

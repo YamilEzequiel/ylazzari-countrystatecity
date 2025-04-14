@@ -1,0 +1,212 @@
+[
+  {
+    "id": 3649812,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Acevedo",
+    "fullName": "Municipio Acevedo",
+    "lat": 10.25,
+    "lng": -66.33333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131441,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Andrés Bello",
+    "fullName": "Municipio Andrés Bello",
+    "lat": 10.29735,
+    "lng": -65.99556,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131442,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Baruta",
+    "fullName": "Municipio Baruta",
+    "lat": 10.43346,
+    "lng": -66.87541,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3647945,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Brión",
+    "fullName": "Municipio Brión",
+    "lat": 10.41667,
+    "lng": -66.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129188,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Buroz",
+    "fullName": "Municipio Buroz",
+    "lat": 10.36461,
+    "lng": -66.13044,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131443,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Carrizal",
+    "fullName": "Municipio Carrizal",
+    "lat": 10.3514,
+    "lng": -66.9936,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129178,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Chacao",
+    "fullName": "Municipio Chacao",
+    "lat": 10.49598,
+    "lng": -66.85347,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3644938,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Cristóbal Rojas",
+    "fullName": "Municipio Cristóbal Rojas",
+    "lat": 10.26294,
+    "lng": -66.83745,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129201,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "El Hatillo",
+    "fullName": "Municipio El Hatillo",
+    "lat": 10.42994,
+    "lng": -66.8161,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640380,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Guaicaipuro",
+    "fullName": "Municipio Guaicaipuro",
+    "lat": 10.25,
+    "lng": -67,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3639385,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Independencia",
+    "fullName": "Municipio Independencia",
+    "lat": 10.2,
+    "lng": -66.6,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3637011,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Lander",
+    "fullName": "Municipio Lander",
+    "lat": 10.08333,
+    "lng": -66.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129204,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Los Salias",
+    "fullName": "Municipio Los Salias",
+    "lat": 10.38853,
+    "lng": -66.95179,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631169,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Páez",
+    "fullName": "Municipio Páez",
+    "lat": 10.16667,
+    "lng": -65.83333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630495,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Paz Castillo",
+    "fullName": "Municipio Paz Castillo",
+    "lat": 10.33333,
+    "lng": -66.66667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131444,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Pedro Gual",
+    "fullName": "Municipio Pedro Gual",
+    "lat": 10.16103,
+    "lng": -65.7009,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630003,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Plaza",
+    "fullName": "Municipio Plaza",
+    "lat": 10.5,
+    "lng": -66.66667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129186,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Simón Bolívar",
+    "fullName": "Municipio Simón Bolívar",
+    "lat": 10.17793,
+    "lng": -66.74649,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129175,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 10.47226,
+    "lng": -66.80155,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625659,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Urdaneta",
+    "fullName": "Municipio Urdaneta",
+    "lat": 10.16667,
+    "lng": -66.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625122,
+    "parentId": 3632191,
+    "country": "VE",
+    "name": "Zamora",
+    "fullName": "Municipio Zamora",
+    "lat": 10.5,
+    "lng": -66.5,
+    "tz": "America/Caracas"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3714595,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Atalaya",
+    "fullName": null,
+    "lat": 8.02899,
+    "lng": -80.91739,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713393,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Calobre",
+    "fullName": null,
+    "lat": 8.39684,
+    "lng": -80.85124,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713184,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Cañazas",
+    "fullName": null,
+    "lat": 8.35596,
+    "lng": -81.28633,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3707217,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de La Mesa",
+    "fullName": null,
+    "lat": 8.10976,
+    "lng": -81.17767,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3706289,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Las Palmas",
+    "fullName": null,
+    "lat": 8.14532,
+    "lng": -81.42849,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3704121,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Montijo",
+    "fullName": null,
+    "lat": 7.95316,
+    "lng": -81.05301,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701878,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Río de Jesús",
+    "fullName": null,
+    "lat": 7.91438,
+    "lng": -81.16133,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701474,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de San Francisco",
+    "fullName": null,
+    "lat": 8.26965,
+    "lng": -81.00108,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701191,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Santa Fé",
+    "fullName": null,
+    "lat": 8.72063,
+    "lng": -80.95858,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701113,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Santiago",
+    "fullName": null,
+    "lat": 8.12425,
+    "lng": -80.87827,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3700886,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Distrito de Soná",
+    "fullName": null,
+    "lat": 7.84378,
+    "lng": -81.36612,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9857610,
+    "parentId": 3700159,
+    "country": "PA",
+    "name": "Mariato District",
+    "fullName": null,
+    "lat": 7.6781,
+    "lng": -81.00409,
+    "tz": "America/Panama"
+  }
+]

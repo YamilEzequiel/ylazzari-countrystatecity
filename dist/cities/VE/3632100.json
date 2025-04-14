@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3649799,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Acosta",
+    "fullName": "Municipio Acosta",
+    "lat": 10.1,
+    "lng": -63.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129212,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Aguasay",
+    "fullName": "Municipio Aguasay",
+    "lat": 9.42489,
+    "lng": -63.73077,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648111,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 10.04932,
+    "lng": -63.13225,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646536,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Caripe",
+    "fullName": "Municipio Caripe",
+    "lat": 10.16667,
+    "lng": -63.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646104,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Cedeño",
+    "fullName": "Municipio Cedeño",
+    "lat": 9.83333,
+    "lng": -63.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129207,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Ezequiel Zamora",
+    "fullName": "Municipio Ezequiel Zamora",
+    "lat": 9.69131,
+    "lng": -63.60921,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131445,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Libertador",
+    "fullName": "Municipio Libertador",
+    "lat": 9.00716,
+    "lng": -62.64216,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632537,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Maturín",
+    "fullName": "Municipio Maturín",
+    "lat": 9.4,
+    "lng": -63.03333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630282,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Piar",
+    "fullName": "Municipio Piar",
+    "lat": 10,
+    "lng": -63.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131446,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Punceres",
+    "fullName": "Municipio Punceres",
+    "lat": 9.97798,
+    "lng": -63.21928,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131447,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Santa Bárbara",
+    "fullName": "Municipio Santa Bárbara",
+    "lat": 9.60617,
+    "lng": -63.60809,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626693,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Sotillo",
+    "fullName": "Municipio Sotillo",
+    "lat": 8.83333,
+    "lng": -62.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129222,
+    "parentId": 3632100,
+    "country": "VE",
+    "name": "Uracoa",
+    "fullName": "Municipio Uracoa",
+    "lat": 8.9996,
+    "lng": -62.35164,
+    "tz": "America/Caracas"
+  }
+]

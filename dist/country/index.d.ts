@@ -1,9 +1,10 @@
-import { Language } from "../shared/enum/index-enum";
+import { Language } from "../shared/enum/general-enum";
 import { Country } from "../shared/interface/country-interface";
 export { LIST_COUNTRY } from "./country-list";
 /**
  * @class CountryService
  * @description Class for the country service
+ * @version 1.0.6
  */
 export declare class CountryService {
     constructor();
@@ -20,6 +21,14 @@ export declare class CountryService {
      * @returns The countries array
      */
     getAllCountries: () => Country[];
+    /**
+     * @method getAllCountriesOnlyNames
+     * @description Method to get all the countries only with the name
+     * @returns The countries array
+     */
+    getAllCountriesOnlyNames: () => {
+        [key: string]: string;
+    };
     /**
      * @method getCountriesByLanguage
      * @description Method to get the countries by language

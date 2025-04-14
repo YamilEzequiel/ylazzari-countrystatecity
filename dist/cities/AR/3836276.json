@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3864412,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Belgrano",
+    "fullName": "Departamento de Belgrano",
+    "lat": -32.5,
+    "lng": -61.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3862359,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Caseros",
+    "fullName": "Departamento de Caseros",
+    "lat": -33.25,
+    "lng": -61.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3862325,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Castellanos",
+    "fullName": "Departamento de Castellanos",
+    "lat": -31.16667,
+    "lng": -61.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3860324,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Constitución",
+    "fullName": "Departamento de Constitución",
+    "lat": -33.5,
+    "lng": -60.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855221,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Garay",
+    "fullName": "Garay Department",
+    "lat": -31,
+    "lng": -60.08333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855095,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "General López",
+    "fullName": "General López Department",
+    "lat": -33.83333,
+    "lng": -61.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433788,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "General Obligado",
+    "fullName": "General Obligado Department",
+    "lat": -28.75,
+    "lng": -59.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3853705,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Iriondo",
+    "fullName": "Iriondo Department",
+    "lat": -32.63333,
+    "lng": -61.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3852292,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "La Capital",
+    "fullName": "Departamento de La Capital",
+    "lat": -31.5,
+    "lng": -60.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3848539,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Las Colonias",
+    "fullName": "Las Colonias Department",
+    "lat": -31.5,
+    "lng": -61.13333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3842877,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Nueve de Julio",
+    "fullName": "Departamento de Nueve de Julio",
+    "lat": -28.83333,
+    "lng": -61.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838574,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Rosario",
+    "fullName": "Rosario Department",
+    "lat": -33.16667,
+    "lng": -60.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838575,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Granadero Baigorria",
+    "fullName": "Granadero Baigorria",
+    "lat": -32.9500,
+    "lng": -60.7000,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837821,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Cristóbal",
+    "fullName": "Departamento de San Cristóbal",
+    "lat": -30.33333,
+    "lng": -61.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428973,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Javier",
+    "fullName": "Departamento de San Javier",
+    "lat": -30.33333,
+    "lng": -59.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837460,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Jerónimo",
+    "fullName": "San Jerónimo Department",
+    "lat": -32.16667,
+    "lng": -61.08333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837122,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Justo",
+    "fullName": "Departamento de San Justo",
+    "lat": -30.66667,
+    "lng": -60.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837090,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Lorenzo",
+    "fullName": "Departamento de San Lorenzo",
+    "lat": -33,
+    "lng": -61,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3836984,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "San Martín",
+    "fullName": "Departamento de San Martín",
+    "lat": -32,
+    "lng": -61.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3833025,
+    "parentId": 3836276,
+    "country": "AR",
+    "name": "Vera",
+    "fullName": "Departamento de Vera",
+    "lat": -29,
+    "lng": -60.5,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

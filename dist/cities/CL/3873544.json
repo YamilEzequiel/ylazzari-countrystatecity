@@ -1,0 +1,62 @@
+[
+  {
+    "id": 8181717,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Chacabuco",
+    "fullName": "Provincia de Chacabuco",
+    "lat": -33.1594,
+    "lng": -70.8165,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181716,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Cordillera",
+    "fullName": "Provincia de Cordillera",
+    "lat": -33.67921,
+    "lng": -70.54665,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3880987,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Maipo",
+    "fullName": "Provincia de Maipo",
+    "lat": -33.83333,
+    "lng": -70.75,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3880106,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Melipilla",
+    "fullName": "Provincia de Melipilla",
+    "lat": -33.75,
+    "lng": -71.16667,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3871332,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Santiago",
+    "fullName": "Provincia de Santiago",
+    "lat": -33.33333,
+    "lng": -70.66667,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3870304,
+    "parentId": 3873544,
+    "country": "CL",
+    "name": "Talagante",
+    "fullName": "Provincia de Talagante",
+    "lat": -33.66667,
+    "lng": -70.91667,
+    "tz": "America/Santiago"
+  }
+]

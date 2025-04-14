@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3887125,
+    "parentId": 3870116,
+    "country": "CL",
+    "name": "Iquique",
+    "fullName": "Provincia de Iquique",
+    "lat": -20.24158,
+    "lng": -70.08728,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181710,
+    "parentId": 3870116,
+    "country": "CL",
+    "name": "Tamarugal",
+    "fullName": "Provincia del Tamarugal",
+    "lat": -20.26445,
+    "lng": -69.81606,
+    "tz": "America/Santiago"
+  }
+]

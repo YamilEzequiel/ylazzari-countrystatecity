@@ -1,0 +1,302 @@
+[
+  {
+    "id": 3689382,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Ayapel",
+    "fullName": null,
+    "lat": 8.2722,
+    "lng": -75.03957,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172322,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Buenavista",
+    "fullName": null,
+    "lat": 8.17697,
+    "lng": -75.44481,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9165835,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Canalete",
+    "fullName": null,
+    "lat": 8.74873,
+    "lng": -76.25877,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686923,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Cereté",
+    "fullName": null,
+    "lat": 8.88208,
+    "lng": -75.82182,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686607,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Chimá",
+    "fullName": null,
+    "lat": 9.11466,
+    "lng": -75.65095,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686541,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Chinú",
+    "fullName": null,
+    "lat": 9.03869,
+    "lng": -75.34273,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686273,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Ciénaga de Oro",
+    "fullName": null,
+    "lat": 8.83581,
+    "lng": -75.60425,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9165867,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Cotorra",
+    "fullName": null,
+    "lat": 9.05717,
+    "lng": -75.77917,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179942,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "La Apartada",
+    "fullName": null,
+    "lat": 8.04787,
+    "lng": -75.30097,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3676400,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Lorica",
+    "fullName": null,
+    "lat": 9.17606,
+    "lng": -75.89717,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172340,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Los Córdobas",
+    "fullName": null,
+    "lat": 8.87172,
+    "lng": -76.29087,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172342,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Momil",
+    "fullName": null,
+    "lat": 9.23472,
+    "lng": -75.63566,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172344,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Moñitos",
+    "fullName": null,
+    "lat": 9.22615,
+    "lng": -76.13594,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674471,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Montelíbano",
+    "fullName": null,
+    "lat": 7.76126,
+    "lng": -75.92174,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674454,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Montería",
+    "fullName": null,
+    "lat": 8.63136,
+    "lng": -75.97209,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672069,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Planeta Rica",
+    "fullName": null,
+    "lat": 8.33333,
+    "lng": -75.58333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671664,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Pueblo Nuevo",
+    "fullName": null,
+    "lat": 8.5,
+    "lng": -75.41667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671471,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Puerto Escondido",
+    "fullName": null,
+    "lat": 8.99453,
+    "lng": -76.19351,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172419,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Puerto Libertador",
+    "fullName": null,
+    "lat": 7.68181,
+    "lng": -75.78312,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671204,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Purísima",
+    "fullName": null,
+    "lat": 9.24955,
+    "lng": -75.71181,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670420,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Sahagún",
+    "fullName": null,
+    "lat": 8.79717,
+    "lng": -75.44242,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670208,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Andrés Sotavento",
+    "fullName": null,
+    "lat": 9.12183,
+    "lng": -75.51627,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670200,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Antero",
+    "fullName": null,
+    "lat": 9.36136,
+    "lng": -75.78603,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670019,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Bernardo del Viento",
+    "fullName": null,
+    "lat": 9.33498,
+    "lng": -75.96945,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670009,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": 8.7104,
+    "lng": -75.68959,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609508,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Jose De Ure",
+    "fullName": null,
+    "lat": 7.75329,
+    "lng": -75.5659,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669085,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "San Pelayo",
+    "fullName": null,
+    "lat": 9,
+    "lng": -75.91667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667159,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Tierralta",
+    "fullName": null,
+    "lat": 7.87863,
+    "lng": -76.21307,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609509,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Tuchin",
+    "fullName": null,
+    "lat": 9.22339,
+    "lng": -75.54518,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666330,
+    "parentId": 3685889,
+    "country": "CO",
+    "name": "Valencia",
+    "fullName": null,
+    "lat": 8.2335,
+    "lng": -76.21428,
+    "tz": "America/Bogota"
+  }
+]

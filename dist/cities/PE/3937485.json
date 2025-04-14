@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3944390,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Chanchamayo",
+    "fullName": null,
+    "lat": -11.05,
+    "lng": -75.31667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7778812,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Chupaca",
+    "fullName": "Provincia de Chupaca",
+    "lat": -12.3,
+    "lng": -75.433,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3942545,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Concepción",
+    "fullName": "Provincia de Concepción",
+    "lat": -11.75,
+    "lng": -75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939456,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Huancayo",
+    "fullName": "Provincia de Huancayo",
+    "lat": -12.17319,
+    "lng": -75.16169,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3937732,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Jauja",
+    "fullName": "Provincia de Jauja",
+    "lat": -11.726,
+    "lng": -75.547,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3937483,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Junín",
+    "fullName": "Provincia de Junín",
+    "lat": -11.08333,
+    "lng": -76,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3928923,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Satipo",
+    "fullName": "Provincia de Satipo",
+    "lat": -11.5,
+    "lng": -74.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3927757,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Tarma",
+    "fullName": "Provincia de Tarma",
+    "lat": -11.40562,
+    "lng": -75.69129,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3925598,
+    "parentId": 3937485,
+    "country": "PE",
+    "name": "Yauli",
+    "fullName": "Provincia de Yauli",
+    "lat": -11.66667,
+    "lng": -76.16667,
+    "tz": "America/Lima"
+  }
+]

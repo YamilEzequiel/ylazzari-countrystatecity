@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3715037,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito de Aguadulce",
+    "fullName": null,
+    "lat": 8.2127,
+    "lng": -80.61441,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3714708,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito de Antón",
+    "fullName": null,
+    "lat": 8.45394,
+    "lng": -80.18361,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3706929,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito de La Pintada",
+    "fullName": null,
+    "lat": 8.71801,
+    "lng": -80.53946,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703935,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito de Natá",
+    "fullName": null,
+    "lat": 8.34416,
+    "lng": -80.60934,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703743,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito de Olá",
+    "fullName": null,
+    "lat": 8.48053,
+    "lng": -80.65324,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703066,
+    "parentId": 3712162,
+    "country": "PA",
+    "name": "Distrito Penonomé",
+    "fullName": null,
+    "lat": 8.63,
+    "lng": -80.28333,
+    "tz": "America/Panama"
+  }
+]

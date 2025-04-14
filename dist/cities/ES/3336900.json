@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3129138,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Ávila",
+    "fullName": "Provincia de Ávila",
+    "lat": 40.58333,
+    "lng": -5,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3127460,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Burgos",
+    "fullName": "Provincia de Burgos",
+    "lat": 42.33939,
+    "lng": -3.70789,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3118528,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "León",
+    "fullName": "Provincia de León",
+    "lat": 42.66667,
+    "lng": -6,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3114530,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Palencia",
+    "fullName": "Provincia de Palencia",
+    "lat": 42.41667,
+    "lng": -4.5,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3111107,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Salamanca",
+    "fullName": "Provincia de Salamanca",
+    "lat": 40.83333,
+    "lng": -6,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3109254,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Segovia",
+    "fullName": "Provincia de Segovia",
+    "lat": 41.16667,
+    "lng": -4,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3108680,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Soria",
+    "fullName": "Provincia de Soria",
+    "lat": 41.66667,
+    "lng": -2.66667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3106671,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Valladolid",
+    "fullName": "Provincia de Valladolid",
+    "lat": 41.58333,
+    "lng": -4.66667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3104341,
+    "parentId": 3336900,
+    "country": "ES",
+    "name": "Zamora",
+    "fullName": "Provincia de Zamora",
+    "lat": 41.75,
+    "lng": -6,
+    "tz": "Europe/Madrid"
+  }
+]

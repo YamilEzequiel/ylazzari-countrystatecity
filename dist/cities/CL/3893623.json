@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3894914,
+    "parentId": 3893623,
+    "country": "CL",
+    "name": "Choapa",
+    "fullName": "Provincia de Choapa",
+    "lat": -31.7109,
+    "lng": -70.99263,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3890620,
+    "parentId": 3893623,
+    "country": "CL",
+    "name": "Elqui",
+    "fullName": "Provincia de Elqui",
+    "lat": -29.73588,
+    "lng": -70.64455,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3883200,
+    "parentId": 3893623,
+    "country": "CL",
+    "name": "Limarí",
+    "fullName": "Provincia de Limarí",
+    "lat": -30.75,
+    "lng": -71,
+    "tz": "America/Santiago"
+  }
+]

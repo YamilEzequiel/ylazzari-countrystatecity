@@ -1,0 +1,212 @@
+[
+  {
+    "id": 4500561,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Atlantic County",
+    "fullName": null,
+    "lat": 39.46883,
+    "lng": -74.63373,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5095598,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Bergen County",
+    "fullName": null,
+    "lat": 40.95977,
+    "lng": -74.07441,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4500994,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Burlington County",
+    "fullName": null,
+    "lat": 39.87769,
+    "lng": -74.6682,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4501019,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Camden County",
+    "fullName": null,
+    "lat": 39.80353,
+    "lng": -74.95976,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4501053,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Cape May County",
+    "fullName": null,
+    "lat": 39.08513,
+    "lng": -74.84998,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4501427,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Cumberland County",
+    "fullName": null,
+    "lat": 39.32807,
+    "lng": -75.12934,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5097707,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Essex County",
+    "fullName": null,
+    "lat": 40.78707,
+    "lng": -74.24687,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4501944,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Gloucester County",
+    "fullName": null,
+    "lat": 39.71731,
+    "lng": -75.14167,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5099357,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Hudson County",
+    "fullName": null,
+    "lat": 40.73094,
+    "lng": -74.07594,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5099381,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Hunterdon County",
+    "fullName": null,
+    "lat": 40.56729,
+    "lng": -74.91222,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5101090,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Mercer County",
+    "fullName": null,
+    "lat": 40.2834,
+    "lng": -74.70169,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5101160,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Middlesex County",
+    "fullName": null,
+    "lat": 40.44004,
+    "lng": -74.40889,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5101305,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Monmouth County",
+    "fullName": null,
+    "lat": 40.28755,
+    "lng": -74.15815,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5101405,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Morris County",
+    "fullName": null,
+    "lat": 40.86203,
+    "lng": -74.54444,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4503355,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Ocean County",
+    "fullName": null,
+    "lat": 39.866,
+    "lng": -74.25003,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5102445,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Passaic County",
+    "fullName": null,
+    "lat": 41.0337,
+    "lng": -74.30032,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4503949,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Salem County",
+    "fullName": null,
+    "lat": 39.57658,
+    "lng": -75.35791,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5104759,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Somerset County",
+    "fullName": null,
+    "lat": 40.56351,
+    "lng": -74.61631,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5105168,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Sussex County",
+    "fullName": null,
+    "lat": 41.13946,
+    "lng": -74.69023,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5105640,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 40.6598,
+    "lng": -74.30859,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5106044,
+    "parentId": 5101760,
+    "country": "US",
+    "name": "Warren County",
+    "fullName": null,
+    "lat": 40.85725,
+    "lng": -74.99702,
+    "tz": "America/New_York"
+  }
+]

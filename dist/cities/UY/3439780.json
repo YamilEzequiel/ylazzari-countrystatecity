@@ -1,0 +1,22 @@
+[
+  {
+    "id": 11820798,
+    "parentId": 3439780,
+    "country": "UY",
+    "name": "Santa Clara De Olimar",
+    "fullName": null,
+    "lat": -33.00147,
+    "lng": -54.89286,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820799,
+    "parentId": 3439780,
+    "country": "UY",
+    "name": "Vergara",
+    "fullName": null,
+    "lat": -32.94131,
+    "lng": -54.06854,
+    "tz": "America/Montevideo"
+  }
+]

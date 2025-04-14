@@ -1,0 +1,152 @@
+[
+  {
+    "id": 8129169,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Camaguán",
+    "fullName": "Municipio Camaguán",
+    "lat": 8.10655,
+    "lng": -67.60724,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129191,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Chaguaramas",
+    "fullName": "Municipio Chaguaramas",
+    "lat": 9.33855,
+    "lng": -66.25255,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131434,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "El Socorro",
+    "fullName": "Municipio El Socorro",
+    "lat": 8.9936,
+    "lng": -65.74562,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129269,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Francisco de Miranda",
+    "fullName": "Municipio Francisco de Miranda",
+    "lat": 8.92416,
+    "lng": -67.42929,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131437,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "José Félix Ribas",
+    "fullName": "Municipio José Félix Ribas",
+    "lat": 9.27681,
+    "lng": -65.7712,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129200,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "José Tadeo Monagas",
+    "fullName": "Municipio José Tadeo Monagas",
+    "lat": 9.86005,
+    "lng": -66.38139,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129185,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Juan Germán Roscio",
+    "fullName": "Municipio Juan Germán Roscio",
+    "lat": 9.91152,
+    "lng": -67.35381,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129245,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Julián Mellado",
+    "fullName": "Municipio Julián Mellado",
+    "lat": 9.3863,
+    "lng": -67.05818,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131436,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Las Mercedes",
+    "fullName": "Municipio Las Mercedes",
+    "lat": 9.10193,
+    "lng": -66.39995,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129179,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Leonardo Infante",
+    "fullName": "Municipio Leonardo Infante",
+    "lat": 9.21554,
+    "lng": -66.00734,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129208,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Ortiz",
+    "fullName": "Municipio Ortiz",
+    "lat": 9.62168,
+    "lng": -67.29047,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129261,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Pedro Zaraza",
+    "fullName": "Municipio Pedro Zaraza",
+    "lat": 9.35029,
+    "lng": -65.32452,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131435,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "San Gerónimo de Guayabal",
+    "fullName": "Municipio San Gerónimo de Guayabal",
+    "lat": 8.00076,
+    "lng": -67.3994,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129170,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "San José de Guaribe",
+    "fullName": "Municipio San José de Guaribe",
+    "lat": 9.86025,
+    "lng": -65.81306,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129160,
+    "parentId": 3640017,
+    "country": "VE",
+    "name": "Santa María de Ipire",
+    "fullName": "Municipio Santa María de Ipire",
+    "lat": 8.81556,
+    "lng": -65.3225,
+    "tz": "America/Caracas"
+  }
+]

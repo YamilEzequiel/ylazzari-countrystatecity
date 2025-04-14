@@ -1,0 +1,222 @@
+[
+  {
+    "id": 11840124,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Ciudad Del Este",
+    "fullName": null,
+    "lat": -25.49796,
+    "lng": -54.67974,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839936,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Domingo Martinez De Irala",
+    "fullName": null,
+    "lat": -25.85822,
+    "lng": -54.69024,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840138,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Dr. Juan Leon Mallorquin",
+    "fullName": null,
+    "lat": -25.48375,
+    "lng": -55.25453,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840064,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Dr. Raul Peña",
+    "fullName": null,
+    "lat": -26.13495,
+    "lng": -55.22489,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840171,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Hernandarias",
+    "fullName": null,
+    "lat": -25.31506,
+    "lng": -54.77781,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840111,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Iruña",
+    "fullName": null,
+    "lat": -26.13283,
+    "lng": -55.03345,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840113,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Itakyry",
+    "fullName": null,
+    "lat": -24.81418,
+    "lng": -55.15267,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840121,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Juan E. O´Leary",
+    "fullName": null,
+    "lat": -25.48006,
+    "lng": -55.36511,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839944,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Los Cedrales",
+    "fullName": null,
+    "lat": -25.68602,
+    "lng": -54.75132,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839953,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Mbaracayu",
+    "fullName": null,
+    "lat": -25.01529,
+    "lng": -54.68915,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840129,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Minga Guazu",
+    "fullName": null,
+    "lat": -25.50339,
+    "lng": -54.84146,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 10293321,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Minga Pora District",
+    "fullName": null,
+    "lat": -24.86667,
+    "lng": -54.91667,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840159,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Ñacunday",
+    "fullName": null,
+    "lat": -26.06949,
+    "lng": -54.78158,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840079,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Naranjal",
+    "fullName": null,
+    "lat": -25.95662,
+    "lng": -55.2035,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840105,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Presidente Franco",
+    "fullName": null,
+    "lat": -25.59666,
+    "lng": -54.6415,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839952,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "San Alberto",
+    "fullName": null,
+    "lat": -24.97604,
+    "lng": -54.90623,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840106,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "San Cristobal",
+    "fullName": null,
+    "lat": -25.78346,
+    "lng": -55.38483,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839975,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Santa Fe Del Parana",
+    "fullName": null,
+    "lat": -25.18908,
+    "lng": -54.62833,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840010,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Santa Rita",
+    "fullName": null,
+    "lat": -25.77466,
+    "lng": -55.13601,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840146,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Santa Rosa Del Monday",
+    "fullName": null,
+    "lat": -25.84562,
+    "lng": -54.92318,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840083,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Tavapy",
+    "fullName": null,
+    "lat": -25.62452,
+    "lng": -55.07143,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840021,
+    "parentId": 3439440,
+    "country": "PY",
+    "name": "Yguazu",
+    "fullName": null,
+    "lat": -25.41779,
+    "lng": -55.10024,
+    "tz": "America/Asuncion"
+  }
+]

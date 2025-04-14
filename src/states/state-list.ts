@@ -12,19 +12,19 @@ import UY_STATES from "./UY.json";
 import VE_STATES from "./VE.json";
 
 import { State } from "../shared/interface/state-interface";
-import { StateEnum } from "../shared/enum";
+import { CountryEnum } from "../shared/enum";
 
-export const LIST_STATE: { [key in StateEnum]: State[] } = {
-  [StateEnum.AR]: AR_STATES,
-  [StateEnum.BR]: BR_STATES,
-  [StateEnum.CL]: CL_STATES,
-  [StateEnum.CO]: CO_STATES,
-  [StateEnum.ES]: ES_STATES,
-  [StateEnum.MX]: MX_STATES,
-  [StateEnum.PA]: PA_STATES,
-  [StateEnum.PE]: PE_STATES,
-  [StateEnum.PY]: PY_STATES,
-  [StateEnum.US]: US_STATES,
-  [StateEnum.UY]: UY_STATES,
-  [StateEnum.VE]: VE_STATES,
+export const LIST_STATE: { [key in CountryEnum]: State[] } = {
+  [CountryEnum.AR]: AR_STATES,
+  [CountryEnum.BR]: BR_STATES,
+  [CountryEnum.CL]: CL_STATES,
+  [CountryEnum.CO]: CO_STATES,
+  [CountryEnum.ES]: ES_STATES,
+  [CountryEnum.MX]: MX_STATES,
+  [CountryEnum.PA]: PA_STATES,
+  [CountryEnum.PE]: PE_STATES,
+  [CountryEnum.PY]: PY_STATES,
+  [CountryEnum.US]: US_STATES,
+  [CountryEnum.UY]: UY_STATES,
+  [CountryEnum.VE]: VE_STATES,
 };

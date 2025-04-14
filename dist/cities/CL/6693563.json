@@ -1,0 +1,22 @@
+[
+  {
+    "id": 6693564,
+    "parentId": 6693563,
+    "country": "CL",
+    "name": "Ranco",
+    "fullName": "Provincia del Ranco",
+    "lat": -40.13689,
+    "lng": -72.37793,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3868703,
+    "parentId": 6693563,
+    "country": "CL",
+    "name": "Valdivia",
+    "fullName": "Provincia de Valdivia",
+    "lat": -39.80273,
+    "lng": -72.5469,
+    "tz": "America/Santiago"
+  }
+]

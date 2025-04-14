@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3935423,
+    "parentId": 3935619,
+    "country": "PE",
+    "name": "Manú",
+    "fullName": "Provincia de Manú",
+    "lat": -12.25,
+    "lng": -71,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3928091,
+    "parentId": 3935619,
+    "country": "PE",
+    "name": "Tahuamanú",
+    "fullName": "Provincia de Tahuamanú",
+    "lat": -11.25,
+    "lng": -70.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3927937,
+    "parentId": 3935619,
+    "country": "PE",
+    "name": "Tambopata",
+    "fullName": "Provincia de Tambopata",
+    "lat": -12.19948,
+    "lng": -70.05006,
+    "tz": "America/Lima"
+  }
+]

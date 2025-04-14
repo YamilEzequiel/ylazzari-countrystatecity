@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8349580,
+    "parentId": 3691099,
+    "country": "PE",
+    "name": "Atalaya",
+    "fullName": null,
+    "lat": -10.3898,
+    "lng": -73.21977,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3697795,
+    "parentId": 3691099,
+    "country": "PE",
+    "name": "Coronel Portillo",
+    "fullName": "Provincia de Coronel Portillo",
+    "lat": -9.5,
+    "lng": -73.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349581,
+    "parentId": 3691099,
+    "country": "PE",
+    "name": "Padre Abad",
+    "fullName": null,
+    "lat": -8.7968,
+    "lng": -75.4285,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349582,
+    "parentId": 3691099,
+    "country": "PE",
+    "name": "Purus",
+    "fullName": null,
+    "lat": -10.37331,
+    "lng": -71.58231,
+    "tz": "America/Lima"
+  }
+]

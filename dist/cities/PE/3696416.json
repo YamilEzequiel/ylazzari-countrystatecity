@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3947955,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Ambo",
+    "fullName": "Provincia de Ambo",
+    "lat": -10.16667,
+    "lng": -76.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3697460,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Dos de Mayo",
+    "fullName": "Provincia de Dos de Mayo",
+    "lat": -9.91667,
+    "lng": -76.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349555,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Huacaybamba",
+    "fullName": null,
+    "lat": -8.9948,
+    "lng": -76.81027,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696505,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Huamalíes",
+    "fullName": "Provincia de Huamalíes",
+    "lat": -9.25,
+    "lng": -76.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696415,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Huánuco",
+    "fullName": "Provincia de Huánuco",
+    "lat": -9.66667,
+    "lng": -76.08333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349557,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Lauricocha",
+    "fullName": null,
+    "lat": -10.20055,
+    "lng": -76.70359,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3695414,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Leoncio Prado",
+    "fullName": "Provincia de Leoncio Prado",
+    "lat": -9.16667,
+    "lng": -76,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694961,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Marañón",
+    "fullName": "Provincia de Marañón",
+    "lat": -8.75,
+    "lng": -76.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694144,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Pachitea",
+    "fullName": "Provincia de Pachitea",
+    "lat": -9.95262,
+    "lng": -75.8139,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349556,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Puerto Inca",
+    "fullName": null,
+    "lat": -9.36696,
+    "lng": -75.08958,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349558,
+    "parentId": 3696416,
+    "country": "PE",
+    "name": "Yarowilca",
+    "fullName": null,
+    "lat": -9.80263,
+    "lng": -76.59516,
+    "tz": "America/Lima"
+  }
+]

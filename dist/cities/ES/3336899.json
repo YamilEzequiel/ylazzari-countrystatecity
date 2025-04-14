@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3120513,
+    "parentId": 3336899,
+    "country": "ES",
+    "name": "Huesca",
+    "fullName": "Provincia de Huesca",
+    "lat": 42.16667,
+    "lng": -0.16667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3108125,
+    "parentId": 3336899,
+    "country": "ES",
+    "name": "Teruel",
+    "fullName": "Provincia de Teruel",
+    "lat": 40.66667,
+    "lng": -0.66667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3104323,
+    "parentId": 3336899,
+    "country": "ES",
+    "name": "Zaragoza",
+    "fullName": "Provincia de Zaragoza",
+    "lat": 41.58333,
+    "lng": -1,
+    "tz": "Europe/Madrid"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": 8583365,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Aconchi",
+    "fullName": null,
+    "lat": 29.794,
+    "lng": -110.22034,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583366,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Agua Prieta Municipality",
+    "fullName": null,
+    "lat": 31.21356,
+    "lng": -109.42756,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583367,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Alamos",
+    "fullName": null,
+    "lat": 27.08162,
+    "lng": -108.9027,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583368,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Altar",
+    "fullName": null,
+    "lat": 30.98347,
+    "lng": -111.92142,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583369,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Arivechi",
+    "fullName": null,
+    "lat": 28.8701,
+    "lng": -109.05917,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583370,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Arizpe",
+    "fullName": null,
+    "lat": 30.39571,
+    "lng": -110.16911,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583371,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Atil",
+    "fullName": null,
+    "lat": 30.82893,
+    "lng": -111.56565,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583372,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bacadéhuachi",
+    "fullName": null,
+    "lat": 29.85446,
+    "lng": -109.09524,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583373,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bacanora",
+    "fullName": null,
+    "lat": 28.84911,
+    "lng": -109.36567,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583374,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bacerac",
+    "fullName": null,
+    "lat": 30.29756,
+    "lng": -108.81678,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583375,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bacoachi",
+    "fullName": null,
+    "lat": 30.65315,
+    "lng": -109.97898,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583376,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bácum",
+    "fullName": null,
+    "lat": 27.51111,
+    "lng": -110.10883,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583377,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Banámichi",
+    "fullName": null,
+    "lat": 30.04445,
+    "lng": -110.24143,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583378,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Baviácora",
+    "fullName": null,
+    "lat": 29.61848,
+    "lng": -110.14157,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583379,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Bavispe",
+    "fullName": null,
+    "lat": 30.57175,
+    "lng": -108.9674,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8581698,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Benito Juárez",
+    "fullName": null,
+    "lat": 27.11899,
+    "lng": -109.83786,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583380,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Benjamín Hill",
+    "fullName": null,
+    "lat": 30.1954,
+    "lng": -111.20532,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583381,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Caborca",
+    "fullName": null,
+    "lat": 30.78414,
+    "lng": -112.51801,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583382,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Cajeme",
+    "fullName": null,
+    "lat": 27.50999,
+    "lng": -109.92944,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583383,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Cananea",
+    "fullName": null,
+    "lat": 30.97651,
+    "lng": -110.25348,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583384,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Carbó",
+    "fullName": null,
+    "lat": 29.7184,
+    "lng": -111.01154,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583386,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Cucurpe",
+    "fullName": null,
+    "lat": 30.39456,
+    "lng": -110.67269,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583387,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Cumpas",
+    "fullName": null,
+    "lat": 30.06021,
+    "lng": -109.79032,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583388,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Divisaderos",
+    "fullName": null,
+    "lat": 29.61726,
+    "lng": -109.39215,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583389,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Empalme",
+    "fullName": null,
+    "lat": 28.02002,
+    "lng": -110.67722,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583390,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Etchojoa",
+    "fullName": null,
+    "lat": 27.0177,
+    "lng": -109.66541,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583391,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Fronteras",
+    "fullName": null,
+    "lat": 30.82154,
+    "lng": -109.6062,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583434,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "General Plutarco Elías Calles",
+    "fullName": null,
+    "lat": 31.74384,
+    "lng": -112.71216,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583392,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Granados",
+    "fullName": null,
+    "lat": 29.78772,
+    "lng": -109.31521,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583393,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Guaymas",
+    "fullName": null,
+    "lat": 28.14262,
+    "lng": -110.62601,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583394,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Hermosillo",
+    "fullName": null,
+    "lat": 28.98088,
+    "lng": -111.21066,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583395,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Huachinera",
+    "fullName": null,
+    "lat": 30.14261,
+    "lng": -108.93322,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583396,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Huásabas",
+    "fullName": null,
+    "lat": 29.95923,
+    "lng": -109.37255,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583397,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Huatabampo",
+    "fullName": null,
+    "lat": 26.72284,
+    "lng": -109.48564,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583398,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Huépac",
+    "fullName": null,
+    "lat": 29.93249,
+    "lng": -110.29542,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583399,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Imuris",
+    "fullName": null,
+    "lat": 30.82456,
+    "lng": -110.79223,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583385,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "La Colorada",
+    "fullName": null,
+    "lat": 28.75376,
+    "lng": -110.40213,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583400,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Magdalena",
+    "fullName": null,
+    "lat": 30.67996,
+    "lng": -111.01802,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583401,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Mazatán",
+    "fullName": null,
+    "lat": 28.98307,
+    "lng": -110.1517,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583402,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Moctezuma",
+    "fullName": null,
+    "lat": 29.75913,
+    "lng": -109.67529,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583403,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Naco",
+    "fullName": null,
+    "lat": 31.25922,
+    "lng": -109.97514,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583404,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Nácori Chico",
+    "fullName": null,
+    "lat": 29.67599,
+    "lng": -108.82447,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583405,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Nacozari de García",
+    "fullName": null,
+    "lat": 30.41551,
+    "lng": -109.6209,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583406,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Navojoa",
+    "fullName": null,
+    "lat": 27.08168,
+    "lng": -109.48183,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583407,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Nogales",
+    "fullName": null,
+    "lat": 31.20392,
+    "lng": -110.97435,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583408,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Onavas",
+    "fullName": null,
+    "lat": 28.45195,
+    "lng": -109.46573,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583409,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Opodepe",
+    "fullName": null,
+    "lat": 30.04792,
+    "lng": -110.76541,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583410,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Oquitoa",
+    "fullName": null,
+    "lat": 30.74943,
+    "lng": -111.71245,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583411,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Pitiquito",
+    "fullName": null,
+    "lat": 30.21503,
+    "lng": -111.95894,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583412,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Puerto Peñasco",
+    "fullName": null,
+    "lat": 31.40951,
+    "lng": -113.24865,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583413,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Quiriego",
+    "fullName": null,
+    "lat": 27.57759,
+    "lng": -109.3905,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583414,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Rayón",
+    "fullName": null,
+    "lat": 29.76208,
+    "lng": -110.56403,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583415,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Rosario",
+    "fullName": null,
+    "lat": 28.01764,
+    "lng": -109.30738,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583416,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Sahuaripa",
+    "fullName": null,
+    "lat": 29.01001,
+    "lng": -108.99414,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583417,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Felipe de Jesús",
+    "fullName": null,
+    "lat": 29.86429,
+    "lng": -110.32705,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583435,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Ignacio Río Muerto",
+    "fullName": null,
+    "lat": 27.37337,
+    "lng": -110.26149,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583418,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Javier",
+    "fullName": null,
+    "lat": 28.59324,
+    "lng": -109.76026,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583419,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Luis Río Colorado",
+    "fullName": null,
+    "lat": 32.32254,
+    "lng": -114.86434,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583420,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Miguel de Horcasitas",
+    "fullName": null,
+    "lat": 29.445,
+    "lng": -110.81867,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583421,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "San Pedro de la Cueva",
+    "fullName": null,
+    "lat": 29.28753,
+    "lng": -109.7249,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583422,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 30.51177,
+    "lng": -111.12337,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583423,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": 31.20846,
+    "lng": -110.57701,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583424,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Sáric",
+    "fullName": null,
+    "lat": 31.23261,
+    "lng": -111.42827,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583425,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Soyopa",
+    "fullName": null,
+    "lat": 28.79872,
+    "lng": -109.64669,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583426,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Suaqui Grande",
+    "fullName": null,
+    "lat": 28.38882,
+    "lng": -109.89696,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583427,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Tepache",
+    "fullName": null,
+    "lat": 29.47611,
+    "lng": -109.50996,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583428,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Trincheras",
+    "fullName": null,
+    "lat": 30.38893,
+    "lng": -111.51314,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583429,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Tubutama",
+    "fullName": null,
+    "lat": 30.85409,
+    "lng": -111.42221,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583430,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Ures",
+    "fullName": null,
+    "lat": 29.32366,
+    "lng": -110.34205,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583431,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Villa Hidalgo",
+    "fullName": null,
+    "lat": 30.22887,
+    "lng": -109.34395,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583432,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Villa Pesqueira",
+    "fullName": null,
+    "lat": 29.04827,
+    "lng": -110.00346,
+    "tz": "America/Hermosillo"
+  },
+  {
+    "id": 8583433,
+    "parentId": 3982846,
+    "country": "MX",
+    "name": "Yécora",
+    "fullName": null,
+    "lat": 28.40122,
+    "lng": -108.95562,
+    "tz": "America/Hermosillo"
+  }
+]

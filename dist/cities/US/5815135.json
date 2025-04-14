@@ -1,0 +1,392 @@
+[
+  {
+    "id": 5785282,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Adams County",
+    "fullName": null,
+    "lat": 46.98338,
+    "lng": -118.5605,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5785935,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Asotin County",
+    "fullName": null,
+    "lat": 46.19186,
+    "lng": -117.20307,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5786991,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Benton County",
+    "fullName": null,
+    "lat": 46.23978,
+    "lng": -119.5112,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5789829,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Chelan County",
+    "fullName": null,
+    "lat": 47.8691,
+    "lng": -120.61891,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5790164,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Clallam County",
+    "fullName": null,
+    "lat": 48.11044,
+    "lng": -123.93432,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5790179,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Clark County",
+    "fullName": null,
+    "lat": 45.77927,
+    "lng": -122.48259,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5790614,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Columbia County",
+    "fullName": null,
+    "lat": 46.29755,
+    "lng": -117.90788,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5791206,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Cowlitz County",
+    "fullName": null,
+    "lat": 46.19329,
+    "lng": -122.68078,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5792681,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Douglas County",
+    "fullName": null,
+    "lat": 47.73607,
+    "lng": -119.69172,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5794294,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Ferry County",
+    "fullName": null,
+    "lat": 48.47007,
+    "lng": -118.51649,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5794976,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 46.53477,
+    "lng": -118.89889,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5795265,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Garfield County",
+    "fullName": null,
+    "lat": 46.43156,
+    "lng": -117.54519,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5796034,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Grant County",
+    "fullName": null,
+    "lat": 47.20566,
+    "lng": -119.45177,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5796126,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Grays Harbor County",
+    "fullName": null,
+    "lat": 47.14445,
+    "lng": -123.82847,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5798453,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Island County",
+    "fullName": null,
+    "lat": 48.2082,
+    "lng": -122.66922,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5798663,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 47.77655,
+    "lng": -123.57431,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5799783,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "King County",
+    "fullName": null,
+    "lat": 47.49084,
+    "lng": -121.83583,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5799853,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Kitsap County",
+    "fullName": null,
+    "lat": 47.63983,
+    "lng": -122.649,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5799889,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Kittitas County",
+    "fullName": null,
+    "lat": 47.12417,
+    "lng": -120.67972,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5799909,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Klickitat County",
+    "fullName": null,
+    "lat": 45.87378,
+    "lng": -120.78926,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5800813,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Lewis County",
+    "fullName": null,
+    "lat": 46.57773,
+    "lng": -122.39241,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5800965,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 47.57619,
+    "lng": -118.41879,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5802584,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Mason County",
+    "fullName": null,
+    "lat": 47.35048,
+    "lng": -123.18309,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5805553,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Okanogan County",
+    "fullName": null,
+    "lat": 48.54885,
+    "lng": -119.74079,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5806002,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Pacific County",
+    "fullName": null,
+    "lat": 46.55128,
+    "lng": -123.77886,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5806491,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Pend Oreille County",
+    "fullName": null,
+    "lat": 48.5323,
+    "lng": -117.27397,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5806769,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Pierce County",
+    "fullName": null,
+    "lat": 47.03764,
+    "lng": -122.13735,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5809422,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "San Juan County",
+    "fullName": null,
+    "lat": 48.53116,
+    "lng": -123.0249,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5810608,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Skagit County",
+    "fullName": null,
+    "lat": 48.48215,
+    "lng": -121.80227,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5810628,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Skamania County",
+    "fullName": null,
+    "lat": 46.02276,
+    "lng": -121.9151,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5810982,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Snohomish County",
+    "fullName": null,
+    "lat": 48.04602,
+    "lng": -121.72218,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5811704,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Spokane County",
+    "fullName": null,
+    "lat": 47.62064,
+    "lng": -117.40401,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5812148,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Stevens County",
+    "fullName": null,
+    "lat": 48.39906,
+    "lng": -117.85514,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5813521,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Thurston County",
+    "fullName": null,
+    "lat": 46.9295,
+    "lng": -122.83208,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5814851,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Wahkiakum County",
+    "fullName": null,
+    "lat": 46.29125,
+    "lng": -123.43316,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5814921,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Walla Walla County",
+    "fullName": null,
+    "lat": 46.2298,
+    "lng": -118.47845,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5815675,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Whatcom County",
+    "fullName": null,
+    "lat": 48.82975,
+    "lng": -121.87283,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5815891,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Whitman County",
+    "fullName": null,
+    "lat": 46.90117,
+    "lng": -117.52299,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5816597,
+    "parentId": 5815135,
+    "country": "US",
+    "name": "Yakima County",
+    "fullName": null,
+    "lat": 46.45685,
+    "lng": -120.7387,
+    "tz": "America/Los_Angeles"
+  }
+]

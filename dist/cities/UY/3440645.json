@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11820770,
+    "parentId": 3440645,
+    "country": "UY",
+    "name": "Ciudad Del Plata",
+    "fullName": null,
+    "lat": -34.72811,
+    "lng": -56.44058,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820797,
+    "parentId": 3440645,
+    "country": "UY",
+    "name": "Ecilda Paullier",
+    "fullName": null,
+    "lat": -34.3839,
+    "lng": -56.9921,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820826,
+    "parentId": 3440645,
+    "country": "UY",
+    "name": "Libertad",
+    "fullName": null,
+    "lat": -34.64977,
+    "lng": -56.63898,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820813,
+    "parentId": 3440645,
+    "country": "UY",
+    "name": "Rodriguez",
+    "fullName": null,
+    "lat": -34.20067,
+    "lng": -56.53003,
+    "tz": "America/Montevideo"
+  }
+]

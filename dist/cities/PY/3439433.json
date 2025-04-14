@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11840172,
+    "parentId": 3439433,
+    "country": "PY",
+    "name": "Bella Vista",
+    "fullName": null,
+    "lat": -22.47083,
+    "lng": -56.45479,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839989,
+    "parentId": 3439433,
+    "country": "PY",
+    "name": "Capitan Bado",
+    "fullName": null,
+    "lat": -23.42418,
+    "lng": -55.81292,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840099,
+    "parentId": 3439433,
+    "country": "PY",
+    "name": "Pedro Juan Caballero",
+    "fullName": null,
+    "lat": -22.79291,
+    "lng": -55.98344,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840013,
+    "parentId": 3439433,
+    "country": "PY",
+    "name": "Zanja Pyta",
+    "fullName": null,
+    "lat": -22.7719,
+    "lng": -55.70878,
+    "tz": "America/Asuncion"
+  }
+]

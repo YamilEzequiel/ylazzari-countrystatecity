@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3860953,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Cochinoca",
+    "fullName": "Departamento de Cochinoca",
+    "lat": -23,
+    "lng": -65.83333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3862750,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Doctor Manuel Belgrano",
+    "fullName": "Departamento de Doctor Manuel Belgrano",
+    "lat": -24.16667,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3858584,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "El Carmen",
+    "fullName": "Departamento de El Carmen",
+    "lat": -24.41667,
+    "lng": -65.16667,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3853966,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Humahuaca",
+    "fullName": "Departamento de Humahuaca",
+    "lat": -23.08333,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3847087,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Ledesma",
+    "fullName": "Departamento de Ledesma",
+    "lat": -23.66667,
+    "lng": -64.83333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 8715321,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Palpalá",
+    "fullName": "Departamento de Palpalá",
+    "lat": -24.24602,
+    "lng": -65.1384,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3839021,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Rinconada",
+    "fullName": "Departamento de Rinconada",
+    "lat": -22.5,
+    "lng": -66.5,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3838029,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "San Antonio",
+    "fullName": "Departamento de San Antonio",
+    "lat": -24.33333,
+    "lng": -65.5,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3836752,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "San Pedro",
+    "fullName": "Departamento de San Pedro",
+    "lat": -24.33333,
+    "lng": -64.83333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3836473,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Santa Bárbara",
+    "fullName": "Departamento de Santa Bárbara",
+    "lat": -23.83333,
+    "lng": -64.4,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3836444,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Santa Catalina",
+    "fullName": "Departamento de Santa Catalina",
+    "lat": -22.08716,
+    "lng": -66.14497,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3834892,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Susques",
+    "fullName": "Departamento de Susques",
+    "lat": -23.5,
+    "lng": -66.66667,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3834402,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Tilcara",
+    "fullName": "Departamento de Tilcara",
+    "lat": -23.5,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3833548,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Tumbaya",
+    "fullName": "Departamento de Tumbaya",
+    "lat": -23.71667,
+    "lng": -65.66667,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3833218,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Valle Grande",
+    "fullName": "Departamento de Valle Grande",
+    "lat": -23.5,
+    "lng": -65,
+    "tz": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 3832287,
+    "parentId": 3853404,
+    "country": "AR",
+    "name": "Yaví",
+    "fullName": "Departamento de Yaví",
+    "lat": -22.3,
+    "lng": -65.6,
+    "tz": "America/Argentina/Jujuy"
+  }
+]

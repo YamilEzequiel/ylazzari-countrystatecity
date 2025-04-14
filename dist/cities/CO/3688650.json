@@ -1,0 +1,462 @@
+[
+  {
+    "id": 3690550,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Achí",
+    "fullName": null,
+    "lat": 8.62583,
+    "lng": -74.47764,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172415,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Altos del Rosario",
+    "fullName": null,
+    "lat": 8.73888,
+    "lng": -74.23005,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609541,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Arenal",
+    "fullName": null,
+    "lat": 8.34173,
+    "lng": -74.10584,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689572,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Arjona",
+    "fullName": null,
+    "lat": 10.17594,
+    "lng": -75.35884,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609542,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Arroyohondo",
+    "fullName": null,
+    "lat": 10.23583,
+    "lng": -75.04218,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689158,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Barranco de Loba",
+    "fullName": null,
+    "lat": 8.8829,
+    "lng": -74.18276,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687977,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Calamar",
+    "fullName": null,
+    "lat": 10.23377,
+    "lng": -74.9424,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172251,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Cantagallo",
+    "fullName": null,
+    "lat": 7.22919,
+    "lng": -74.12969,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687247,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Cartagena de Indias",
+    "fullName": "Municipio de Cartagena de Indias",
+    "lat": 10.50743,
+    "lng": -75.4543,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172253,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Cicuco",
+    "fullName": null,
+    "lat": 9.23226,
+    "lng": -74.69095,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9179894,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Clemencia",
+    "fullName": null,
+    "lat": 10.58333,
+    "lng": -75.33333,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3685904,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Córdoba",
+    "fullName": null,
+    "lat": 9.55149,
+    "lng": -74.898,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684667,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "El Carmen de Bolívar",
+    "fullName": null,
+    "lat": 9.7088,
+    "lng": -75.15958,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3684120,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "El Guamo",
+    "fullName": null,
+    "lat": 10.01753,
+    "lng": -74.93483,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609543,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "El Peñón",
+    "fullName": null,
+    "lat": 8.86545,
+    "lng": -73.91146,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172254,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Hatillo de Loba",
+    "fullName": null,
+    "lat": 8.96607,
+    "lng": -74.12454,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675695,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Magangué",
+    "fullName": null,
+    "lat": 9.12483,
+    "lng": -74.78025,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675666,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Mahates",
+    "fullName": null,
+    "lat": 10.16667,
+    "lng": -75.16667,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675307,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Margarita",
+    "fullName": null,
+    "lat": 9.06325,
+    "lng": -74.28134,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675288,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "María la Baja",
+    "fullName": "Municipio de María la Baja",
+    "lat": 9.99228,
+    "lng": -75.34364,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674600,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Mompós",
+    "fullName": null,
+    "lat": 9.1399,
+    "lng": -74.54513,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172409,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Montecristo",
+    "fullName": null,
+    "lat": 7.99565,
+    "lng": -74.45816,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674414,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Morales",
+    "fullName": null,
+    "lat": 8.2523,
+    "lng": -73.9731,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609510,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Norosi",
+    "fullName": null,
+    "lat": 8.50638,
+    "lng": -74.11562,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673097,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Pinillos",
+    "fullName": null,
+    "lat": 8.82373,
+    "lng": -74.3811,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609544,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Regidor",
+    "fullName": null,
+    "lat": 8.72229,
+    "lng": -73.84891,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172416,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Río Viejo",
+    "fullName": null,
+    "lat": 8.60411,
+    "lng": -73.81851,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609545,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Cristóbal",
+    "fullName": null,
+    "lat": 10.36958,
+    "lng": -75.07342,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669930,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Estanislao",
+    "fullName": null,
+    "lat": 10.37423,
+    "lng": -75.20781,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669903,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Fernando",
+    "fullName": null,
+    "lat": 9.07705,
+    "lng": -74.41177,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669739,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Jacinto",
+    "fullName": null,
+    "lat": 9.83906,
+    "lng": -75.11043,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609546,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Jacinto del Cauca",
+    "fullName": null,
+    "lat": 8.23729,
+    "lng": -74.66782,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669455,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Juan Nepomuceno",
+    "fullName": null,
+    "lat": 9.94976,
+    "lng": -75.07426,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669317,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Martín de Loba",
+    "fullName": null,
+    "lat": 8.88214,
+    "lng": -74.00353,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172256,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "San Pablo",
+    "fullName": null,
+    "lat": 7.31272,
+    "lng": -74.24468,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668858,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Santa Catalina",
+    "fullName": null,
+    "lat": 10.60448,
+    "lng": -75.29555,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668524,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Santa Rosa",
+    "fullName": null,
+    "lat": 10.47312,
+    "lng": -75.3616,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172162,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Santa Rosa del Sur",
+    "fullName": null,
+    "lat": 7.6976,
+    "lng": -74.27588,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668014,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Simití",
+    "fullName": null,
+    "lat": 7.81632,
+    "lng": -73.97922,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667813,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Soplaviento",
+    "fullName": null,
+    "lat": 10.33176,
+    "lng": -75.11853,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172257,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Talaigua Nuevo",
+    "fullName": null,
+    "lat": 9.32011,
+    "lng": -74.65587,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172259,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Tiquisio",
+    "fullName": null,
+    "lat": 8.47801,
+    "lng": -74.30626,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666579,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Turbaco",
+    "fullName": null,
+    "lat": 10.35707,
+    "lng": -75.38044,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666576,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Turbaná",
+    "fullName": null,
+    "lat": 10.23528,
+    "lng": -75.45612,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665961,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Villanueva",
+    "fullName": null,
+    "lat": 10.44759,
+    "lng": -75.26574,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665619,
+    "parentId": 3688650,
+    "country": "CO",
+    "name": "Zambrano",
+    "fullName": null,
+    "lat": 9.74823,
+    "lng": -74.88487,
+    "tz": "America/Bogota"
+  }
+]

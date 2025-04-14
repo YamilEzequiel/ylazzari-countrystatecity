@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3712512,
+    "parentId": 3711671,
+    "country": "PA",
+    "name": "Distrito de Chepigana",
+    "fullName": null,
+    "lat": 7.84374,
+    "lng": -77.8383,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3702816,
+    "parentId": 3711671,
+    "country": "PA",
+    "name": "Distrito de Pinogana",
+    "fullName": null,
+    "lat": 7.89343,
+    "lng": -77.52562,
+    "tz": "America/Panama"
+  }
+]

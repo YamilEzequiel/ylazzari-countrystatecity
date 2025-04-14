@@ -1,0 +1,182 @@
+[
+  {
+    "id": 11840067,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Borja",
+    "fullName": null,
+    "lat": -26.03433,
+    "lng": -56.61027,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840120,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Colonia Independencia",
+    "fullName": null,
+    "lat": -25.76195,
+    "lng": -56.16739,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840070,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Coronel Martinez",
+    "fullName": null,
+    "lat": -25.74215,
+    "lng": -56.60203,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840078,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Dr. Bottrell",
+    "fullName": null,
+    "lat": -25.60086,
+    "lng": -56.36379,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840150,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Felix Perez Cardozo",
+    "fullName": null,
+    "lat": -25.71215,
+    "lng": -56.53142,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840031,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "General Eugenio A. Garay",
+    "fullName": null,
+    "lat": -25.94156,
+    "lng": -56.1976,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840144,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Itape",
+    "fullName": null,
+    "lat": -25.85451,
+    "lng": -56.56678,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840175,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Iturbe",
+    "fullName": null,
+    "lat": -26.07228,
+    "lng": -56.47103,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840041,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Jose Fassardi",
+    "fullName": null,
+    "lat": -25.9285,
+    "lng": -56.09385,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839984,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Mauricio Jose Troche",
+    "fullName": null,
+    "lat": -25.62137,
+    "lng": -56.1542,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840135,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Mbocayaty",
+    "fullName": null,
+    "lat": -25.70773,
+    "lng": -56.36579,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839980,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Natalicio Talavera",
+    "fullName": null,
+    "lat": -25.66439,
+    "lng": -56.28446,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839998,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Ñumi",
+    "fullName": null,
+    "lat": -25.91664,
+    "lng": -56.31439,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840049,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Paso Yobai",
+    "fullName": null,
+    "lat": -25.73917,
+    "lng": -55.91326,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839937,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "San Salvador",
+    "fullName": null,
+    "lat": -25.95765,
+    "lng": -56.42684,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840033,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Tebicuary",
+    "fullName": null,
+    "lat": -25.79857,
+    "lng": -56.65414,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839935,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Villarrica",
+    "fullName": null,
+    "lat": -25.83098,
+    "lng": -56.40837,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840164,
+    "parentId": 3438049,
+    "country": "PY",
+    "name": "Yataity",
+    "fullName": null,
+    "lat": -25.66625,
+    "lng": -56.47535,
+    "tz": "America/Asuncion"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": 8583596,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Abasolo",
+    "fullName": null,
+    "lat": 27.14822,
+    "lng": -101.31286,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583597,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Acuña",
+    "fullName": null,
+    "lat": 29.34755,
+    "lng": -101.40505,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8583598,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Allende",
+    "fullName": null,
+    "lat": 28.32396,
+    "lng": -100.88372,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583599,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Arteaga",
+    "fullName": null,
+    "lat": 25.36617,
+    "lng": -100.65298,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583600,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Candela",
+    "fullName": null,
+    "lat": 26.85319,
+    "lng": -100.70426,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583601,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Castaños",
+    "fullName": null,
+    "lat": 26.66335,
+    "lng": -101.38002,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583602,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Cuatro Ciénegas",
+    "fullName": null,
+    "lat": 26.84649,
+    "lng": -102.10378,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583603,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Escobedo",
+    "fullName": null,
+    "lat": 27.3156,
+    "lng": -101.33173,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583604,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Francisco I. Madero",
+    "fullName": null,
+    "lat": 25.8977,
+    "lng": -103.258,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583605,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Frontera",
+    "fullName": null,
+    "lat": 26.96788,
+    "lng": -101.48007,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583606,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "General Cepeda",
+    "fullName": null,
+    "lat": 25.4511,
+    "lng": -101.50581,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583607,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Guerrero",
+    "fullName": null,
+    "lat": 28.2916,
+    "lng": -100.43946,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583608,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Hidalgo",
+    "fullName": null,
+    "lat": 27.84516,
+    "lng": -99.99408,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583609,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Jiménez",
+    "fullName": null,
+    "lat": 29.06285,
+    "lng": -100.88293,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583610,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Juárez",
+    "fullName": null,
+    "lat": 27.58357,
+    "lng": -100.64539,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583611,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Lamadrid",
+    "fullName": null,
+    "lat": 27.09007,
+    "lng": -101.82311,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583612,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Matamoros",
+    "fullName": null,
+    "lat": 25.55656,
+    "lng": -103.24755,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583613,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Monclova",
+    "fullName": null,
+    "lat": 26.948,
+    "lng": -101.31627,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583614,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Morelos",
+    "fullName": null,
+    "lat": 28.38221,
+    "lng": -100.91674,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583615,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Múzquiz",
+    "fullName": null,
+    "lat": 28.07368,
+    "lng": -101.6663,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583616,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Nadadores",
+    "fullName": null,
+    "lat": 27.07105,
+    "lng": -101.63339,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583617,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Nava",
+    "fullName": null,
+    "lat": 28.51527,
+    "lng": -100.61365,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583618,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Ocampo",
+    "fullName": null,
+    "lat": 27.9768,
+    "lng": -102.83596,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583619,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Parras",
+    "fullName": null,
+    "lat": 25.51361,
+    "lng": -102.11715,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583620,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Piedras Negras",
+    "fullName": null,
+    "lat": 28.75368,
+    "lng": -100.57904,
+    "tz": "America/Matamoros"
+  },
+  {
+    "id": 8583621,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Progreso",
+    "fullName": null,
+    "lat": 27.46271,
+    "lng": -101.07952,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583622,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Ramos Arizpe",
+    "fullName": null,
+    "lat": 25.74463,
+    "lng": -101.08205,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583623,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Sabinas",
+    "fullName": null,
+    "lat": 27.89615,
+    "lng": -101.13229,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583624,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Sacramento",
+    "fullName": null,
+    "lat": 27.01342,
+    "lng": -101.75808,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583625,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Saltillo",
+    "fullName": null,
+    "lat": 25.20026,
+    "lng": -101.13184,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583626,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "San Buenaventura",
+    "fullName": null,
+    "lat": 27.344,
+    "lng": -101.69382,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583627,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "San Juan de Sabinas",
+    "fullName": null,
+    "lat": 27.96054,
+    "lng": -101.3108,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583628,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": 25.79691,
+    "lng": -103.03703,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583629,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Sierra Mojada",
+    "fullName": null,
+    "lat": 27.58451,
+    "lng": -103.65579,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583630,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Torreón",
+    "fullName": null,
+    "lat": 25.50471,
+    "lng": -103.35272,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583631,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Viesca",
+    "fullName": null,
+    "lat": 25.32633,
+    "lng": -103.18155,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583632,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Villa Unión",
+    "fullName": null,
+    "lat": 28.2044,
+    "lng": -100.78477,
+    "tz": "America/Monterrey"
+  },
+  {
+    "id": 8583633,
+    "parentId": 4013674,
+    "country": "MX",
+    "name": "Zaragoza",
+    "fullName": null,
+    "lat": 28.72244,
+    "lng": -101.15434,
+    "tz": "America/Monterrey"
+  }
+]

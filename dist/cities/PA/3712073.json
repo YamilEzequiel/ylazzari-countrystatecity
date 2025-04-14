@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3712596,
+    "parentId": 3712073,
+    "country": "PA",
+    "name": "Distrito de Chagres",
+    "fullName": null,
+    "lat": 9.123,
+    "lng": -80.11841,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712075,
+    "parentId": 3712073,
+    "country": "PA",
+    "name": "Distrito de Colón",
+    "fullName": null,
+    "lat": 9.24313,
+    "lng": -79.79463,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3711599,
+    "parentId": 3712073,
+    "country": "PA",
+    "name": "Distrito de Donoso",
+    "fullName": null,
+    "lat": 9.01999,
+    "lng": -80.42967,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3702573,
+    "parentId": 3712073,
+    "country": "PA",
+    "name": "Distrito de Portobelo",
+    "fullName": null,
+    "lat": 9.49748,
+    "lng": -79.6073,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701183,
+    "parentId": 3712073,
+    "country": "PA",
+    "name": "Distrito de Santa Isabel",
+    "fullName": null,
+    "lat": 9.48333,
+    "lng": -79.31667,
+    "tz": "America/Panama"
+  }
+]

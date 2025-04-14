@@ -1,0 +1,182 @@
+[
+  {
+    "id": 8583262,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Amealco de Bonfil",
+    "fullName": null,
+    "lat": 20.16026,
+    "lng": -100.10958,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583264,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Arroyo Seco",
+    "fullName": null,
+    "lat": 21.42261,
+    "lng": -99.64331,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583265,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Cadereyta de Montes",
+    "fullName": null,
+    "lat": 20.78238,
+    "lng": -99.65621,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583266,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Colón",
+    "fullName": null,
+    "lat": 20.72533,
+    "lng": -100.08198,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583267,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Corregidora",
+    "fullName": null,
+    "lat": 20.5084,
+    "lng": -100.43606,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583272,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "El Marqués",
+    "fullName": null,
+    "lat": 20.65854,
+    "lng": -100.27444,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583268,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Ezequiel Montes",
+    "fullName": null,
+    "lat": 20.66207,
+    "lng": -99.89354,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583269,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Huimilpan",
+    "fullName": null,
+    "lat": 20.43317,
+    "lng": -100.32323,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583270,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Jalpan de Serra",
+    "fullName": null,
+    "lat": 21.2973,
+    "lng": -99.39243,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583271,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Landa de Matamoros",
+    "fullName": null,
+    "lat": 21.23547,
+    "lng": -99.17766,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583273,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Pedro Escobedo",
+    "fullName": null,
+    "lat": 20.49542,
+    "lng": -100.15461,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583274,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Peñamiller",
+    "fullName": null,
+    "lat": 21.09568,
+    "lng": -99.83628,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583263,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Pinal de Amoles",
+    "fullName": null,
+    "lat": 21.15755,
+    "lng": -99.58849,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583275,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Querétaro",
+    "fullName": null,
+    "lat": 20.72105,
+    "lng": -100.44738,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583276,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "San Joaquín",
+    "fullName": null,
+    "lat": 20.95754,
+    "lng": -99.53221,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583277,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "San Juan del Río",
+    "fullName": null,
+    "lat": 20.38741,
+    "lng": -100.00285,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583278,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Tequisquiapan",
+    "fullName": null,
+    "lat": 20.55985,
+    "lng": -99.94915,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583279,
+    "parentId": 3520914,
+    "country": "MX",
+    "name": "Tolimán",
+    "fullName": null,
+    "lat": 20.91168,
+    "lng": -99.94568,
+    "tz": "America/Mexico_City"
+  }
+]

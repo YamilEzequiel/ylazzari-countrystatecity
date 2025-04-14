@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3714937,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Alanje",
+    "fullName": null,
+    "lat": 8.39842,
+    "lng": -82.64065,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3714267,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Barú",
+    "fullName": null,
+    "lat": 8.29482,
+    "lng": -82.92726,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713866,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Boquerón",
+    "fullName": null,
+    "lat": 8.61667,
+    "lng": -82.56667,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713858,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Boquete",
+    "fullName": null,
+    "lat": 8.74896,
+    "lng": -82.36842,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3713665,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Bugaba",
+    "fullName": null,
+    "lat": 8.68786,
+    "lng": -82.67937,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3711666,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de David",
+    "fullName": null,
+    "lat": 8.4,
+    "lng": -82.4,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3711616,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Dolega",
+    "fullName": null,
+    "lat": 8.61667,
+    "lng": -82.45,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3708946,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Gualaca",
+    "fullName": null,
+    "lat": 8.57398,
+    "lng": -82.22207,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701992,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Remedios",
+    "fullName": null,
+    "lat": 8.20253,
+    "lng": -81.81163,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701989,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Renacimiento",
+    "fullName": null,
+    "lat": 8.71667,
+    "lng": -82.76667,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701489,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de San Félix",
+    "fullName": null,
+    "lat": 8.27768,
+    "lng": -81.87377,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701365,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de San Lorenzo",
+    "fullName": null,
+    "lat": 8.29366,
+    "lng": -82.08922,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3700557,
+    "parentId": 3712410,
+    "country": "PA",
+    "name": "Distrito de Tolé",
+    "fullName": null,
+    "lat": 8.19015,
+    "lng": -81.66007,
+    "tz": "America/Panama"
+  }
+]

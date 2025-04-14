@@ -1,0 +1,192 @@
+[
+  {
+    "id": 3866424,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Albardón",
+    "fullName": "Departamento de Albardón",
+    "lat": -31.28333,
+    "lng": -68.41667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3865769,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Angaco",
+    "fullName": "Departamento de Angaco",
+    "lat": -31.2,
+    "lng": -68.13333,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3863361,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Calingasta",
+    "fullName": "Departamento de Calingasta",
+    "lat": -31.5,
+    "lng": -69.75,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3862743,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -31.53333,
+    "lng": -68.53333,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3862239,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Caucete",
+    "fullName": "Departamento de Caucete",
+    "lat": -31.45,
+    "lng": -67.66667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3861415,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Chimbas",
+    "fullName": "Departamento de Chimbas",
+    "lat": -31.48738,
+    "lng": -68.52691,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3853914,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Iglesia",
+    "fullName": "Departamento de Iglesia",
+    "lat": -29.33333,
+    "lng": -69.58333,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3853596,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Jáchal",
+    "fullName": "Departamento de Jáchal",
+    "lat": -30.5,
+    "lng": -68.5,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3842876,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Nueve de Julio",
+    "fullName": "Departamento de Nueve de Julio",
+    "lat": -31.65072,
+    "lng": -68.38925,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3840858,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Pocito",
+    "fullName": "Departamento de Pocito",
+    "lat": -31.80712,
+    "lng": -68.58531,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3839304,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Rawson",
+    "fullName": "Departamento de Rawson",
+    "lat": -31.7,
+    "lng": -68.46667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3838750,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Rivadavia",
+    "fullName": "Departamento de Rivadavia",
+    "lat": -31.5645,
+    "lng": -68.65219,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3836985,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "San Martín",
+    "fullName": "Departamento de San Martín",
+    "lat": -31.5,
+    "lng": -68.25,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3836188,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Santa Lucía",
+    "fullName": "Departamento de Santa Lucía",
+    "lat": -31.53333,
+    "lng": -68.46667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3835706,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Sarmiento",
+    "fullName": "Departamento de Sarmiento",
+    "lat": -32,
+    "lng": -68.66667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3833446,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Ullúm",
+    "fullName": "Departamento de Ullúm",
+    "lat": -31,
+    "lng": -68.91667,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3833221,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Valle Fértil",
+    "fullName": "Departamento de Valle Fértil",
+    "lat": -30.58333,
+    "lng": -67.5,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3833107,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Veinticinco de Mayo",
+    "fullName": "Departamento de Veinticinco de Mayo",
+    "lat": -31.83333,
+    "lng": -67.83333,
+    "tz": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 3832079,
+    "parentId": 3837152,
+    "country": "AR",
+    "name": "Zonda",
+    "fullName": "Departamento de Zonda",
+    "lat": -31.6826,
+    "lng": -68.89938,
+    "tz": "America/Argentina/San_Juan"
+  }
+]

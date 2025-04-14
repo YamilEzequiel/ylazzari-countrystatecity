@@ -1,0 +1,92 @@
+[
+  {
+    "id": 9172378,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Barranco Minas",
+    "fullName": null,
+    "lat": 3.09899,
+    "lng": -69.58297,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172380,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Cacahual",
+    "fullName": null,
+    "lat": 3.32533,
+    "lng": -67.62397,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172381,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Inírida",
+    "fullName": null,
+    "lat": 2.92409,
+    "lng": -68.93526,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9178698,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "La Guadalupe",
+    "fullName": null,
+    "lat": 1.39579,
+    "lng": -67.0015,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609521,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Mapiripana",
+    "fullName": null,
+    "lat": 2.81003,
+    "lng": -70.28568,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609523,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Morichal",
+    "fullName": null,
+    "lat": 2.4298,
+    "lng": -69.83284,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172382,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Pana Pana",
+    "fullName": null,
+    "lat": 1.96249,
+    "lng": -69.126,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172271,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "Puerto Colombia",
+    "fullName": null,
+    "lat": 2.43903,
+    "lng": -68.16419,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609522,
+    "parentId": 3681652,
+    "country": "CO",
+    "name": "San Felipe",
+    "fullName": null,
+    "lat": 2.14321,
+    "lng": -67.34122,
+    "tz": "America/Bogota"
+  }
+]

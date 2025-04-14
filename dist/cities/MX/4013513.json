@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8583634,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Armería",
+    "fullName": null,
+    "lat": 18.95554,
+    "lng": -103.98357,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583635,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Colima",
+    "fullName": null,
+    "lat": 19.17953,
+    "lng": -103.68011,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583636,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Comala",
+    "fullName": null,
+    "lat": 19.38053,
+    "lng": -103.74424,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583637,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Coquimatlán",
+    "fullName": null,
+    "lat": 19.19898,
+    "lng": -103.84863,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581725,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Cuauhtémoc",
+    "fullName": null,
+    "lat": 19.32744,
+    "lng": -103.60892,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581705,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Ixtlahuacán",
+    "fullName": null,
+    "lat": 18.97406,
+    "lng": -103.69292,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8581706,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Manzanillo",
+    "fullName": null,
+    "lat": 19.10856,
+    "lng": -104.31351,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583638,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Minatitlán",
+    "fullName": null,
+    "lat": 19.37167,
+    "lng": -104.05832,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583639,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Tecomán",
+    "fullName": null,
+    "lat": 18.89473,
+    "lng": -103.87345,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8583640,
+    "parentId": 4013513,
+    "country": "MX",
+    "name": "Villa de Álvarez",
+    "fullName": null,
+    "lat": 19.3097,
+    "lng": -103.84436,
+    "tz": "America/Mexico_City"
+  }
+]

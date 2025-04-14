@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3699501,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Ayabaca",
+    "fullName": "Provincia de Ayabaca",
+    "lat": -4.75,
+    "lng": -79.83333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3696465,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Huancabamba",
+    "fullName": "Provincia de Huancabamba",
+    "lat": -5.5,
+    "lng": -79.58333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694581,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Morropon",
+    "fullName": null,
+    "lat": -5.25,
+    "lng": -80,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694110,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Paita",
+    "fullName": "Provincia de Paita",
+    "lat": -5.10189,
+    "lng": -81.09695,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3693524,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Piura",
+    "fullName": "Provincia de Piura",
+    "lat": -5.21416,
+    "lng": -80.40617,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349569,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Sechura",
+    "fullName": null,
+    "lat": -5.87051,
+    "lng": -80.67181,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3691673,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Sullana",
+    "fullName": "Provincia de Sullana",
+    "lat": -4.5,
+    "lng": -80.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3691580,
+    "parentId": 3693525,
+    "country": "PE",
+    "name": "Talara",
+    "fullName": "Provincia de Talara",
+    "lat": -4.41667,
+    "lng": -81.08333,
+    "tz": "America/Lima"
+  }
+]

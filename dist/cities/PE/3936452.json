@@ -1,0 +1,102 @@
+[
+  {
+    "id": 8349564,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Barranca",
+    "fullName": null,
+    "lat": -10.66599,
+    "lng": -77.65707,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3946262,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Cajatambo",
+    "fullName": "Provincia de Cajatambo",
+    "lat": -10.66667,
+    "lng": -77,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945799,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Cañete",
+    "fullName": "Provincia de Cañete",
+    "lat": -12.75,
+    "lng": -76.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945748,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Canta",
+    "fullName": "Provincia de Canta",
+    "lat": -11.46667,
+    "lng": -76.61667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939284,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Huaral",
+    "fullName": "Provincia de Huaral",
+    "lat": -11.25,
+    "lng": -76.91667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939153,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Huarochirí",
+    "fullName": "Provincia de Huarochirí",
+    "lat": -11.91667,
+    "lng": -76.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349565,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Huaura",
+    "fullName": null,
+    "lat": -11.03363,
+    "lng": -77.23795,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349601,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Lima",
+    "fullName": null,
+    "lat": -12.0179,
+    "lng": -76.90432,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349566,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Oyon",
+    "fullName": null,
+    "lat": -10.75869,
+    "lng": -76.87634,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3925567,
+    "parentId": 3936452,
+    "country": "PE",
+    "name": "Yauyos",
+    "fullName": "Provincia de Yauyos",
+    "lat": -12.41667,
+    "lng": -76,
+    "tz": "America/Lima"
+  }
+]

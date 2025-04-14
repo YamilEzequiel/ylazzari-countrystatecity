@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3864297,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Bermejo",
+    "fullName": "Departamento de Bermejo",
+    "lat": -24.33333,
+    "lng": -61.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433898,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Formosa",
+    "fullName": "Departamento de Formosa",
+    "lat": -26,
+    "lng": -58.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3432407,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Laishí",
+    "fullName": "Departamento de Laishí",
+    "lat": -26.5,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844738,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Matacos",
+    "fullName": "Departamento de Matacos",
+    "lat": -23.83333,
+    "lng": -62.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430084,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Patiño",
+    "fullName": "Departamento de Patiño",
+    "lat": -24.75,
+    "lng": -60,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429982,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Pilagás",
+    "fullName": "Departamento de Pilagás",
+    "lat": -25.08333,
+    "lng": -58.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429978,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Pilcomayo",
+    "fullName": "Departamento de Pilcomayo",
+    "lat": -25.5,
+    "lng": -58.08333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429948,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Pirané",
+    "fullName": "Departamento de Pirané",
+    "lat": -25.66667,
+    "lng": -59.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3839414,
+    "parentId": 3433896,
+    "country": "AR",
+    "name": "Ramón Lista",
+    "fullName": "Departamento de Ramón Lista",
+    "lat": -23,
+    "lng": -62.16667,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

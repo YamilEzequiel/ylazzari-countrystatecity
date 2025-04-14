@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3940771,
+    "parentId": 3934607,
+    "country": "PE",
+    "name": "General Sánchez Cerro",
+    "fullName": "Provincia de General Sánchez Cerro",
+    "lat": -16.5,
+    "lng": -70.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3938414,
+    "parentId": 3934607,
+    "country": "PE",
+    "name": "Ilo",
+    "fullName": "Provincia de Ilo",
+    "lat": -17.49694,
+    "lng": -71.16722,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3935255,
+    "parentId": 3934607,
+    "country": "PE",
+    "name": "Mariscal Nieto",
+    "fullName": "Provincia de Mariscal Nieto",
+    "lat": -17.08361,
+    "lng": -71.00333,
+    "tz": "America/Lima"
+  }
+]

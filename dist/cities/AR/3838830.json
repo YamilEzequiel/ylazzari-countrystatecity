@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3866927,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Adolfo Alsina",
+    "fullName": "Departamento de Adolfo Alsina",
+    "lat": -40.75,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3865210,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Avellaneda",
+    "fullName": "Departamento de Avellaneda",
+    "lat": -39.5,
+    "lng": -66.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3864759,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Bariloche",
+    "fullName": "Departamento de Bariloche",
+    "lat": -41.5,
+    "lng": -71.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3860364,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Conesa",
+    "fullName": "Departamento de Conesa",
+    "lat": -40.25,
+    "lng": -64.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3858240,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "El Cuy",
+    "fullName": "Departamento de El Cuy",
+    "lat": -39.58333,
+    "lng": -68.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3855061,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "General Roca",
+    "fullName": "Departamento de General Roca",
+    "lat": -38.5,
+    "lng": -67.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3842988,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Ñorquincó",
+    "fullName": "Departamento de Ñorquincó",
+    "lat": -41.66667,
+    "lng": -70.41667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3842875,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Nueve de Julio",
+    "fullName": "Departamento de Nueve de Julio",
+    "lat": -41,
+    "lng": -67.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3841356,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Pichi Mahuida",
+    "fullName": "Departamento de Pichi Mahuida",
+    "lat": -39.5,
+    "lng": -64.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3841139,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Pilcaniyeu",
+    "fullName": "Departamento de Pilcaniyeu",
+    "lat": -40.75,
+    "lng": -70.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3838028,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "San Antonio",
+    "fullName": "Departamento de San Antonio",
+    "lat": -41,
+    "lng": -65.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3833280,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Valcheta",
+    "fullName": "Departamento de Valcheta",
+    "lat": -41,
+    "lng": -66.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3833106,
+    "parentId": 3838830,
+    "country": "AR",
+    "name": "Veinticinco de Mayo",
+    "fullName": "Departamento de Veinticinco de Mayo",
+    "lat": -41.25,
+    "lng": -69,
+    "tz": "America/Argentina/Salta"
+  }
+]

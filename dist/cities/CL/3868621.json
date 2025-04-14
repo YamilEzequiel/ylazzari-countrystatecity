@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4030752,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Isla de Pascua",
+    "fullName": "Provincia de Isla de Pascua",
+    "lat": -27.11048,
+    "lng": -109.29749,
+    "tz": "Pacific/Easter"
+  },
+  {
+    "id": 3882432,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Los Andes",
+    "fullName": "Provincia de Los Andes",
+    "lat": -32.82556,
+    "lng": -70.33518,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181711,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Marga Marga",
+    "fullName": "Provincia de Marga Marga",
+    "lat": -33.04378,
+    "lng": -71.39465,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3876415,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Petorca",
+    "fullName": "Petorca Province",
+    "lat": -32.33333,
+    "lng": -71,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3874118,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Quillota",
+    "fullName": "Provincia de Quillota",
+    "lat": -32.80753,
+    "lng": -71.17957,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3872374,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "San Antonio",
+    "fullName": "San Antonio Province",
+    "lat": -33.58333,
+    "lng": -71.5,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3872251,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "San Felipe de Aconcagua",
+    "fullName": "Provincia de San Felipe de Aconcagua",
+    "lat": -32.60401,
+    "lng": -70.6593,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3868623,
+    "parentId": 3868621,
+    "country": "CL",
+    "name": "Valparaíso",
+    "fullName": "Provincia de Valparaíso",
+    "lat": -33.06105,
+    "lng": -71.59241,
+    "tz": "America/Santiago"
+  }
+]

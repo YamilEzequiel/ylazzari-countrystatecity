@@ -1,0 +1,202 @@
+[
+  {
+    "id": 11840025,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "25 De Diciembre",
+    "fullName": null,
+    "lat": -24.77256,
+    "lng": -56.80126,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840158,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Antequera",
+    "fullName": null,
+    "lat": -24.09076,
+    "lng": -57.16917,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839969,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Capiibary",
+    "fullName": null,
+    "lat": -24.74588,
+    "lng": -55.9916,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840090,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Chore",
+    "fullName": null,
+    "lat": -24.18431,
+    "lng": -56.63288,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840127,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "General Elizardo Aquino",
+    "fullName": null,
+    "lat": -24.38336,
+    "lng": -56.79333,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840082,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "General Resquin",
+    "fullName": null,
+    "lat": -24.00518,
+    "lng": -56.20818,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840023,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Guajayvi",
+    "fullName": null,
+    "lat": -24.40787,
+    "lng": -56.34811,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840116,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Itacurubi Del Rosario",
+    "fullName": null,
+    "lat": -24.58239,
+    "lng": -56.81959,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840003,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Liberacion",
+    "fullName": null,
+    "lat": -24.1964,
+    "lng": -56.37838,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840047,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Lima",
+    "fullName": null,
+    "lat": -23.97833,
+    "lng": -56.56935,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839970,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Nueva Germania",
+    "fullName": null,
+    "lat": -23.85997,
+    "lng": -56.67184,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839928,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "San Estanislao",
+    "fullName": null,
+    "lat": -24.64582,
+    "lng": -56.39245,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840107,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "San Pablo",
+    "fullName": null,
+    "lat": -24.13809,
+    "lng": -56.91929,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840133,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "San Pedro Del Ykuamandiyu",
+    "fullName": null,
+    "lat": -23.77219,
+    "lng": -57.05951,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840170,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Santa Rosa Del Aguaray",
+    "fullName": null,
+    "lat": -23.75906,
+    "lng": -56.27188,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840118,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Tacuati",
+    "fullName": null,
+    "lat": -23.5425,
+    "lng": -56.59278,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839946,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Union",
+    "fullName": null,
+    "lat": -24.8699,
+    "lng": -56.5309,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839940,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Villa Del Rosario",
+    "fullName": null,
+    "lat": -24.56109,
+    "lng": -57.07704,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840008,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Yataity Del Norte",
+    "fullName": null,
+    "lat": -24.83738,
+    "lng": -56.32904,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840143,
+    "parentId": 3437027,
+    "country": "PY",
+    "name": "Yryvu Cua",
+    "fullName": null,
+    "lat": -24.50473,
+    "lng": -56.13708,
+    "tz": "America/Asuncion"
+  }
+]

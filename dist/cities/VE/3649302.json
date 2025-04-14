@@ -1,0 +1,72 @@
+[
+  {
+    "id": 8129028,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Alto Orinoco",
+    "fullName": "Municipio Autónomo Alto Orinoco",
+    "lat": 2.73456,
+    "lng": -64.83032,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648813,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Atabapo",
+    "fullName": "Municipio Autónomo Atabapo",
+    "lat": 4.09441,
+    "lng": -66.57715,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648789,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Atures",
+    "fullName": "Municipio Autónomo Atures",
+    "lat": 5.69252,
+    "lng": -67.34619,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129029,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Autana",
+    "fullName": "Municipio Autónomo Autana",
+    "lat": 5.01434,
+    "lng": -67.24731,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129030,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Manapiare",
+    "fullName": "Municipio Autónomo Manapiare",
+    "lat": 5.07453,
+    "lng": -65.54443,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129031,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Maroa",
+    "fullName": "Municipio Autónomo Maroa",
+    "lat": 2.70164,
+    "lng": -66.78589,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3629068,
+    "parentId": 3649302,
+    "country": "VE",
+    "name": "Río Negro",
+    "fullName": "Municipio Autónomo Río Negro",
+    "lat": 1.71361,
+    "lng": -66.07178,
+    "tz": "America/Caracas"
+  }
+]

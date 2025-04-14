@@ -1,0 +1,672 @@
+[
+  {
+    "id": 4556228,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Adams County",
+    "fullName": null,
+    "lat": 39.87145,
+    "lng": -77.21789,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5178040,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Allegheny County",
+    "fullName": null,
+    "lat": 40.46883,
+    "lng": -79.98119,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5178515,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Armstrong County",
+    "fullName": null,
+    "lat": 40.81229,
+    "lng": -79.46454,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5179454,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Beaver County",
+    "fullName": null,
+    "lat": 40.68226,
+    "lng": -80.34929,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5179633,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Bedford County",
+    "fullName": null,
+    "lat": 40.00656,
+    "lng": -78.49032,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5180052,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Berks County",
+    "fullName": null,
+    "lat": 40.4163,
+    "lng": -75.926,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5180809,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Blair County",
+    "fullName": null,
+    "lat": 40.481,
+    "lng": -78.3486,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5181416,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Bradford County",
+    "fullName": null,
+    "lat": 41.78867,
+    "lng": -76.51545,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5182201,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Bucks County",
+    "fullName": null,
+    "lat": 40.33694,
+    "lng": -75.10687,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5182539,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Butler County",
+    "fullName": null,
+    "lat": 40.91172,
+    "lng": -79.91299,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5182829,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Cambria County",
+    "fullName": null,
+    "lat": 40.49529,
+    "lng": -78.7137,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5182858,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Cameron County",
+    "fullName": null,
+    "lat": 41.4368,
+    "lng": -78.20378,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5183193,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Carbon County",
+    "fullName": null,
+    "lat": 40.91818,
+    "lng": -75.70882,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5183763,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Centre County",
+    "fullName": null,
+    "lat": 40.91934,
+    "lng": -77.81995,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5184079,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Chester County",
+    "fullName": null,
+    "lat": 39.97314,
+    "lng": -75.74845,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5184423,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Clarion County",
+    "fullName": null,
+    "lat": 41.19239,
+    "lng": -79.42096,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5184546,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Clearfield County",
+    "fullName": null,
+    "lat": 41.00019,
+    "lng": -78.47411,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5184630,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Clinton County",
+    "fullName": null,
+    "lat": 41.23405,
+    "lng": -77.63811,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5185032,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Columbia County",
+    "fullName": null,
+    "lat": 41.04865,
+    "lng": -76.40515,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5185801,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Crawford County",
+    "fullName": null,
+    "lat": 41.6847,
+    "lng": -80.10628,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5186106,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Cumberland County",
+    "fullName": null,
+    "lat": 40.16363,
+    "lng": -77.26555,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5186395,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Dauphin County",
+    "fullName": null,
+    "lat": 40.41544,
+    "lng": -76.77947,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5186677,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Delaware County",
+    "fullName": null,
+    "lat": 39.91681,
+    "lng": -75.3989,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5188486,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Elk County",
+    "fullName": null,
+    "lat": 41.42523,
+    "lng": -78.64909,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5188847,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Erie County",
+    "fullName": null,
+    "lat": 42.11748,
+    "lng": -80.09811,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5189414,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Fayette County",
+    "fullName": null,
+    "lat": 39.9199,
+    "lng": -79.64737,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5189967,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Forest County",
+    "fullName": null,
+    "lat": 41.51307,
+    "lng": -79.23601,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5190337,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 39.92742,
+    "lng": -77.72127,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5190669,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Fulton County",
+    "fullName": null,
+    "lat": 39.92534,
+    "lng": -78.11268,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5191994,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Greene County",
+    "fullName": null,
+    "lat": 39.8538,
+    "lng": -80.22287,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5194592,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Huntingdon County",
+    "fullName": null,
+    "lat": 40.41693,
+    "lng": -77.98121,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5194872,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Indiana County",
+    "fullName": null,
+    "lat": 40.65205,
+    "lng": -79.08755,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5195307,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 41.12815,
+    "lng": -78.99942,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5195677,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Juniata County",
+    "fullName": null,
+    "lat": 40.53106,
+    "lng": -77.40216,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5196674,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lackawanna County",
+    "fullName": null,
+    "lat": 41.43679,
+    "lng": -75.6092,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5197085,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lancaster County",
+    "fullName": null,
+    "lat": 40.04244,
+    "lng": -76.2477,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5197440,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lawrence County",
+    "fullName": null,
+    "lat": 40.99127,
+    "lng": -80.33419,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5197522,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lebanon County",
+    "fullName": null,
+    "lat": 40.36723,
+    "lng": -76.45771,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5197646,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lehigh County",
+    "fullName": null,
+    "lat": 40.61271,
+    "lng": -75.59237,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5199309,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Luzerne County",
+    "fullName": null,
+    "lat": 41.17701,
+    "lng": -75.98903,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5199318,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Lycoming County",
+    "fullName": null,
+    "lat": 41.34338,
+    "lng": -77.06451,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5200448,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "McKean County",
+    "fullName": null,
+    "lat": 41.80775,
+    "lng": -78.56903,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5200801,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Mercer County",
+    "fullName": null,
+    "lat": 41.30218,
+    "lng": -80.2577,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5201068,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Mifflin County",
+    "fullName": null,
+    "lat": 40.61041,
+    "lng": -77.61704,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5201707,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Monroe County",
+    "fullName": null,
+    "lat": 41.05807,
+    "lng": -75.33948,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5201756,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Montgomery County",
+    "fullName": null,
+    "lat": 40.21083,
+    "lng": -75.3673,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5201786,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Montour County",
+    "fullName": null,
+    "lat": 41.02792,
+    "lng": -76.65856,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5203809,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Northampton County",
+    "fullName": null,
+    "lat": 40.75423,
+    "lng": -75.30742,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5203860,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Northumberland County",
+    "fullName": null,
+    "lat": 40.85198,
+    "lng": -76.70932,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5205669,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Perry County",
+    "fullName": null,
+    "lat": 40.39841,
+    "lng": -77.2623,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5205788,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Philadelphia County",
+    "fullName": null,
+    "lat": 40.00764,
+    "lng": -75.13396,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5205930,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Pike County",
+    "fullName": null,
+    "lat": 41.33199,
+    "lng": -75.03383,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5207042,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Potter County",
+    "fullName": null,
+    "lat": 41.74492,
+    "lng": -77.89581,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5211208,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Schuylkill County",
+    "fullName": null,
+    "lat": 40.7058,
+    "lng": -76.21595,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5212772,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Snyder County",
+    "fullName": null,
+    "lat": 40.76984,
+    "lng": -77.07019,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5212857,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Somerset County",
+    "fullName": null,
+    "lat": 39.97244,
+    "lng": -79.02827,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5214721,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Sullivan County",
+    "fullName": null,
+    "lat": 41.44616,
+    "lng": -76.51214,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5214915,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Susquehanna County",
+    "fullName": null,
+    "lat": 41.82133,
+    "lng": -75.80068,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5215684,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Tioga County",
+    "fullName": null,
+    "lat": 41.77216,
+    "lng": -77.25426,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5216649,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 40.96297,
+    "lng": -77.06225,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5217142,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Venango County",
+    "fullName": null,
+    "lat": 41.40097,
+    "lng": -79.75795,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5217991,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Warren County",
+    "fullName": null,
+    "lat": 41.81457,
+    "lng": -79.27414,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5218076,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 40.1894,
+    "lng": -80.24824,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5218273,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Wayne County",
+    "fullName": null,
+    "lat": 41.64873,
+    "lng": -75.30326,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5219013,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Westmoreland County",
+    "fullName": null,
+    "lat": 40.31073,
+    "lng": -79.46696,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5220239,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "Wyoming County",
+    "fullName": null,
+    "lat": 41.51833,
+    "lng": -76.01655,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5220355,
+    "parentId": 6254927,
+    "country": "US",
+    "name": "York County",
+    "fullName": null,
+    "lat": 39.91996,
+    "lng": -76.72651,
+    "tz": "America/New_York"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3712382,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Chitré",
+    "fullName": null,
+    "lat": 7.98333,
+    "lng": -80.43333,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3706342,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Las Minas",
+    "fullName": null,
+    "lat": 7.76525,
+    "lng": -80.82249,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3705017,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Los Pozos",
+    "fullName": null,
+    "lat": 7.70944,
+    "lng": -80.64311,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703784,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Ocú",
+    "fullName": null,
+    "lat": 7.90641,
+    "lng": -80.79752,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703351,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Parita",
+    "fullName": null,
+    "lat": 8.0624,
+    "lng": -80.56373,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703009,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Pesé",
+    "fullName": null,
+    "lat": 7.88194,
+    "lng": -80.63261,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701171,
+    "parentId": 3708710,
+    "country": "PA",
+    "name": "Distrito de Santa María",
+    "fullName": null,
+    "lat": 8.11667,
+    "lng": -80.68333,
+    "tz": "America/Panama"
+  }
+]

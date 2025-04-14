@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3714424,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito de Balboa",
+    "fullName": null,
+    "lat": 8.46667,
+    "lng": -79,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712502,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito de Chepo",
+    "fullName": null,
+    "lat": 9.17391,
+    "lng": -78.70374,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3712446,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito de Chimán",
+    "fullName": null,
+    "lat": 8.76043,
+    "lng": -78.5647,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3703439,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito de Panamá",
+    "fullName": null,
+    "lat": 9.30612,
+    "lng": -79.45246,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3700799,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito de Taboga",
+    "fullName": null,
+    "lat": 8.78333,
+    "lng": -79.55833,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 3701328,
+    "parentId": 3703433,
+    "country": "PA",
+    "name": "Distrito San Miguelito",
+    "fullName": null,
+    "lat": 9.05,
+    "lng": -79.5,
+    "tz": "America/Panama"
+  }
+]

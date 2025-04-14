@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3689237,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Baranoa",
+    "fullName": null,
+    "lat": 10.79497,
+    "lng": -74.92073,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3689152,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Barranquilla",
+    "fullName": null,
+    "lat": 10.95838,
+    "lng": -74.79183,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687759,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Campo de La Cruz",
+    "fullName": null,
+    "lat": 10.37844,
+    "lng": -74.90258,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3687646,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Candelaria",
+    "fullName": null,
+    "lat": 10.47387,
+    "lng": -74.88581,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3682239,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Galapa",
+    "fullName": null,
+    "lat": 10.8979,
+    "lng": -74.887,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3680177,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Juan de Acosta",
+    "fullName": null,
+    "lat": 10.82946,
+    "lng": -75.07435,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675827,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Luruaco",
+    "fullName": null,
+    "lat": 10.6392,
+    "lng": -75.14577,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675597,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Malambo",
+    "fullName": null,
+    "lat": 10.84961,
+    "lng": -74.80765,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675514,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Manatí",
+    "fullName": null,
+    "lat": 10.46402,
+    "lng": -74.9822,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673221,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Palmar de Varela",
+    "fullName": null,
+    "lat": 10.69613,
+    "lng": -74.76896,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672177,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Piojó",
+    "fullName": null,
+    "lat": 10.74613,
+    "lng": -75.13797,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671951,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Polonuevo",
+    "fullName": null,
+    "lat": 10.7807,
+    "lng": -74.85895,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172357,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Ponedera",
+    "fullName": null,
+    "lat": 10.58325,
+    "lng": -74.80492,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671506,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Puerto Colombia",
+    "fullName": null,
+    "lat": 11.00854,
+    "lng": -74.90887,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670876,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Repelón",
+    "fullName": null,
+    "lat": 10.50937,
+    "lng": -75.1283,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670519,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Sabanagrande",
+    "fullName": null,
+    "lat": 10.80077,
+    "lng": -74.77051,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670507,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Sabanalarga",
+    "fullName": null,
+    "lat": 10.61636,
+    "lng": -74.95717,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172250,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Santa Lucía",
+    "fullName": null,
+    "lat": 10.35239,
+    "lng": -74.9654,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3668337,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Santo Tomás",
+    "fullName": null,
+    "lat": 10.73184,
+    "lng": -74.80093,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667859,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Soledad",
+    "fullName": null,
+    "lat": 10.89986,
+    "lng": -74.78787,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667781,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Suan",
+    "fullName": null,
+    "lat": 10.30214,
+    "lng": -74.91934,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666674,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Tubará",
+    "fullName": null,
+    "lat": 10.91551,
+    "lng": -74.98366,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666371,
+    "parentId": 3689436,
+    "country": "CO",
+    "name": "Usiacurí",
+    "fullName": null,
+    "lat": 10.74536,
+    "lng": -74.98369,
+    "tz": "America/Bogota"
+  }
+]

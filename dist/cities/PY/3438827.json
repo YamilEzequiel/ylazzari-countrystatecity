@@ -1,0 +1,202 @@
+[
+  {
+    "id": 11840012,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Altos",
+    "fullName": null,
+    "lat": -25.24593,
+    "lng": -57.22165,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840163,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Arroyos Y Esteros",
+    "fullName": null,
+    "lat": -25.04278,
+    "lng": -57.16247,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840126,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Atyra",
+    "fullName": null,
+    "lat": -25.25993,
+    "lng": -57.15459,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840157,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Caacupe",
+    "fullName": null,
+    "lat": -25.38041,
+    "lng": -57.12673,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839996,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Caraguatay",
+    "fullName": null,
+    "lat": -25.2151,
+    "lng": -56.77737,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840051,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Emboscada",
+    "fullName": null,
+    "lat": -25.12883,
+    "lng": -57.36295,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840097,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Eusebio Ayala",
+    "fullName": null,
+    "lat": -25.36119,
+    "lng": -56.97145,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839931,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Isla Pucu",
+    "fullName": null,
+    "lat": -25.30084,
+    "lng": -56.8961,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840176,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Itacurubi De La Cordillera",
+    "fullName": null,
+    "lat": -25.45227,
+    "lng": -56.86402,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839992,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Juan De Mena",
+    "fullName": null,
+    "lat": -24.99495,
+    "lng": -56.77291,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840026,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Loma Grande",
+    "fullName": null,
+    "lat": -25.1485,
+    "lng": -57.20921,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840110,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Mbocayaty Del Yhaguy",
+    "fullName": null,
+    "lat": -25.31918,
+    "lng": -56.69231,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839991,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Nueva Colombia",
+    "fullName": null,
+    "lat": -25.15943,
+    "lng": -57.27208,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839997,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Piribebuy",
+    "fullName": null,
+    "lat": -25.49637,
+    "lng": -57.04219,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840091,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Primero De Marzo",
+    "fullName": null,
+    "lat": -25.12713,
+    "lng": -56.97094,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840076,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "San Bernardino",
+    "fullName": null,
+    "lat": -25.29314,
+    "lng": -57.29328,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840052,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "San Jose Obrero",
+    "fullName": null,
+    "lat": -25.11626,
+    "lng": -56.87837,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840122,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Santa Elena",
+    "fullName": null,
+    "lat": -25.39551,
+    "lng": -56.78063,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839976,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Tobati",
+    "fullName": null,
+    "lat": -25.21599,
+    "lng": -57.04655,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840054,
+    "parentId": 3438827,
+    "country": "PY",
+    "name": "Valenzuela",
+    "fullName": null,
+    "lat": -25.58852,
+    "lng": -56.87065,
+    "tz": "America/Asuncion"
+  }
+]

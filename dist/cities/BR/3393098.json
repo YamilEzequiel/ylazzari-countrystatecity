@@ -1,0 +1,2232 @@
+[
+  {
+    "id": 6324244,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Água Branca",
+    "fullName": null,
+    "lat": -7.46957,
+    "lng": -37.661,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320259,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Aguiar",
+    "fullName": null,
+    "lat": -7.0762,
+    "lng": -38.24255,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320260,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Alagoa Grande",
+    "fullName": null,
+    "lat": -7.07831,
+    "lng": -35.59525,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320261,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Alagoa Nova",
+    "fullName": null,
+    "lat": -7.04733,
+    "lng": -35.75397,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320262,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Alagoinha",
+    "fullName": null,
+    "lat": -6.96256,
+    "lng": -35.51465,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320263,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Alcantil",
+    "fullName": null,
+    "lat": -7.69816,
+    "lng": -36.06604,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320264,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Algodão de Jandaíra",
+    "fullName": null,
+    "lat": -6.86987,
+    "lng": -35.97724,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319045,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Alhandra",
+    "fullName": null,
+    "lat": -7.35043,
+    "lng": -34.92835,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324254,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Amparo",
+    "fullName": null,
+    "lat": -7.55889,
+    "lng": -37.03372,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319046,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Aparecida",
+    "fullName": null,
+    "lat": -6.80925,
+    "lng": -38.07182,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320266,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Araçagi",
+    "fullName": null,
+    "lat": -6.85419,
+    "lng": -35.36047,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320267,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Arara",
+    "fullName": null,
+    "lat": -6.83227,
+    "lng": -35.74493,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320268,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Araruna",
+    "fullName": null,
+    "lat": -6.53485,
+    "lng": -35.72194,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 3407206,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Areia",
+    "fullName": null,
+    "lat": -6.94723,
+    "lng": -35.66927,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320269,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Areia de Baraúnas",
+    "fullName": null,
+    "lat": -7.11328,
+    "lng": -36.97177,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320270,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Areial",
+    "fullName": null,
+    "lat": -7.04397,
+    "lng": -35.92622,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320271,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Aroeiras",
+    "fullName": null,
+    "lat": -7.52057,
+    "lng": -35.69927,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320272,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Assunção",
+    "fullName": null,
+    "lat": -7.07371,
+    "lng": -36.69894,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320273,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Baía da Traição",
+    "fullName": null,
+    "lat": -6.66287,
+    "lng": -34.97272,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320274,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bananeiras",
+    "fullName": null,
+    "lat": -6.68221,
+    "lng": -35.59007,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320275,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Baraúna",
+    "fullName": null,
+    "lat": -6.61853,
+    "lng": -36.26964,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320277,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Barra de Santa Rosa",
+    "fullName": null,
+    "lat": -6.79042,
+    "lng": -36.00175,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320276,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Barra de Santana",
+    "fullName": null,
+    "lat": -7.59054,
+    "lng": -35.98824,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320278,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Barra de São Miguel",
+    "fullName": null,
+    "lat": -7.7164,
+    "lng": -36.25481,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320279,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bayeux",
+    "fullName": null,
+    "lat": -7.12136,
+    "lng": -34.91725,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320280,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Belém",
+    "fullName": null,
+    "lat": -6.72329,
+    "lng": -35.50238,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320281,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Belém do Brejo do Cruz",
+    "fullName": null,
+    "lat": -6.1626,
+    "lng": -37.40554,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320282,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bernardino Batista",
+    "fullName": null,
+    "lat": -6.47656,
+    "lng": -38.56998,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320283,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Boa Ventura",
+    "fullName": null,
+    "lat": -7.45676,
+    "lng": -38.17678,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320284,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Boa Vista",
+    "fullName": null,
+    "lat": -7.26995,
+    "lng": -36.15741,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320285,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bom Jesus",
+    "fullName": null,
+    "lat": -6.81845,
+    "lng": -38.62549,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320286,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bom Sucesso",
+    "fullName": null,
+    "lat": -6.47349,
+    "lng": -37.9577,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320287,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Bonito de Santa Fé",
+    "fullName": null,
+    "lat": -7.2894,
+    "lng": -38.47977,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319047,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Boqueirão",
+    "fullName": null,
+    "lat": -7.55063,
+    "lng": -36.12977,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320289,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Borborema",
+    "fullName": null,
+    "lat": -6.79913,
+    "lng": -35.62094,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320290,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Brejo do Cruz",
+    "fullName": null,
+    "lat": -6.32578,
+    "lng": -37.49716,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320291,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Brejo dos Santos",
+    "fullName": null,
+    "lat": -6.39546,
+    "lng": -37.8607,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320292,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Caaporã",
+    "fullName": null,
+    "lat": -7.48718,
+    "lng": -34.91832,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320293,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cabaceiras",
+    "fullName": null,
+    "lat": -7.50856,
+    "lng": -36.33351,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320294,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cabedelo",
+    "fullName": null,
+    "lat": -7.0272,
+    "lng": -34.85044,
+    "tz": "America/Noronha"
+  },
+  {
+    "id": 6319048,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cachoeira dos Índios",
+    "fullName": null,
+    "lat": -6.94486,
+    "lng": -38.69902,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320295,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cacimba de Areia",
+    "fullName": null,
+    "lat": -7.13451,
+    "lng": -37.1537,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320296,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cacimba de Dentro",
+    "fullName": null,
+    "lat": -6.62328,
+    "lng": -35.8005,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320297,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cacimbas",
+    "fullName": null,
+    "lat": -7.2318,
+    "lng": -37.09984,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320298,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Caiçara",
+    "fullName": null,
+    "lat": -6.59631,
+    "lng": -35.39497,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319049,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cajazeiras",
+    "fullName": null,
+    "lat": -6.92206,
+    "lng": -38.56928,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320299,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cajazeirinhas",
+    "fullName": null,
+    "lat": -6.94633,
+    "lng": -37.81454,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320300,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Caldas Brandão",
+    "fullName": null,
+    "lat": -7.15105,
+    "lng": -35.3487,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320301,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Camalaú",
+    "fullName": null,
+    "lat": -7.92695,
+    "lng": -36.74211,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320302,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Campina Grande",
+    "fullName": null,
+    "lat": -7.27818,
+    "lng": -35.97631,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320303,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Capim",
+    "fullName": null,
+    "lat": -6.8915,
+    "lng": -35.183,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320304,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Caraúbas",
+    "fullName": null,
+    "lat": -7.79092,
+    "lng": -36.50278,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320305,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Carrapateira",
+    "fullName": null,
+    "lat": -7.02919,
+    "lng": -38.32951,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320306,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Casserengue",
+    "fullName": null,
+    "lat": -6.7813,
+    "lng": -35.81676,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320307,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Catingueira",
+    "fullName": null,
+    "lat": -7.13699,
+    "lng": -37.59654,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320308,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Catolé do Rocha",
+    "fullName": null,
+    "lat": -6.31231,
+    "lng": -37.72843,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320309,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Caturité",
+    "fullName": null,
+    "lat": -7.41991,
+    "lng": -36.04194,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319050,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Conceição",
+    "fullName": null,
+    "lat": -7.49917,
+    "lng": -38.51375,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320310,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Condado",
+    "fullName": null,
+    "lat": -6.85244,
+    "lng": -37.61864,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320311,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Conde",
+    "fullName": null,
+    "lat": -7.28644,
+    "lng": -34.84305,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320312,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Congo",
+    "fullName": null,
+    "lat": -7.79578,
+    "lng": -36.63487,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320313,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Coremas",
+    "fullName": null,
+    "lat": -7.01057,
+    "lng": -37.98264,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320314,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Coxixola",
+    "fullName": null,
+    "lat": -7.66749,
+    "lng": -36.61824,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319051,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cruz do Espírito Santo",
+    "fullName": null,
+    "lat": -7.14752,
+    "lng": -35.14179,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320315,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cubati",
+    "fullName": null,
+    "lat": -6.86116,
+    "lng": -36.33415,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320316,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cuité",
+    "fullName": null,
+    "lat": -6.51391,
+    "lng": -36.06759,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320318,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cuité de Mamanguape",
+    "fullName": null,
+    "lat": -6.89788,
+    "lng": -35.26042,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320317,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Cuitegi",
+    "fullName": null,
+    "lat": -6.90639,
+    "lng": -35.53423,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319052,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Curral de Cima",
+    "fullName": null,
+    "lat": -6.72359,
+    "lng": -35.28596,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320319,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Curral Velho",
+    "fullName": null,
+    "lat": -7.55796,
+    "lng": -38.19847,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320320,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Damião",
+    "fullName": null,
+    "lat": -6.67843,
+    "lng": -35.92205,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320321,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Desterro",
+    "fullName": null,
+    "lat": -7.29362,
+    "lng": -37.1136,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320323,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Diamante",
+    "fullName": null,
+    "lat": -7.41004,
+    "lng": -38.30873,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320324,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Dona Inês",
+    "fullName": null,
+    "lat": -6.60102,
+    "lng": -35.60547,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320325,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Duas Estradas",
+    "fullName": null,
+    "lat": -6.71946,
+    "lng": -35.39737,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320326,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Emas",
+    "fullName": null,
+    "lat": -7.1268,
+    "lng": -37.73881,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320327,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Esperança",
+    "fullName": null,
+    "lat": -6.99864,
+    "lng": -35.90777,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320328,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Fagundes",
+    "fullName": null,
+    "lat": -7.39161,
+    "lng": -35.77424,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319053,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Frei Martinho",
+    "fullName": null,
+    "lat": -6.44605,
+    "lng": -36.48061,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320329,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Gado Bravo",
+    "fullName": null,
+    "lat": -7.59984,
+    "lng": -35.81967,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320330,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Guarabira",
+    "fullName": null,
+    "lat": -6.8796,
+    "lng": -35.44117,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320331,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Gurinhém",
+    "fullName": null,
+    "lat": -7.17169,
+    "lng": -35.40792,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324196,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Gurjão",
+    "fullName": null,
+    "lat": -7.261,
+    "lng": -36.50008,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319054,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Ibiara",
+    "fullName": null,
+    "lat": -7.48251,
+    "lng": -38.38051,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320288,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Igaracy",
+    "fullName": null,
+    "lat": -7.13856,
+    "lng": -38.13526,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320332,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Imaculada",
+    "fullName": null,
+    "lat": -7.34686,
+    "lng": -37.5573,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320333,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Ingá",
+    "fullName": null,
+    "lat": -7.25441,
+    "lng": -35.62897,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320334,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Itabaiana",
+    "fullName": null,
+    "lat": -7.36659,
+    "lng": -35.36575,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320335,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Itaporanga",
+    "fullName": null,
+    "lat": -7.30035,
+    "lng": -38.25159,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320336,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Itapororoca",
+    "fullName": null,
+    "lat": -6.81152,
+    "lng": -35.24478,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320337,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Itatuba",
+    "fullName": null,
+    "lat": -7.39234,
+    "lng": -35.58368,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320338,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Jacaraú",
+    "fullName": null,
+    "lat": -6.62681,
+    "lng": -35.26339,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320339,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Jericó",
+    "fullName": null,
+    "lat": -6.50746,
+    "lng": -37.80665,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320340,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "João Pessoa",
+    "fullName": null,
+    "lat": -7.17088,
+    "lng": -34.86536,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320406,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Joca Claudino",
+    "fullName": null,
+    "lat": -6.48432,
+    "lng": -38.46407,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320341,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Juarez Távora",
+    "fullName": null,
+    "lat": -7.15975,
+    "lng": -35.5716,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320342,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Juazeirinho",
+    "fullName": null,
+    "lat": -6.99463,
+    "lng": -36.60213,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320343,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Junco do Seridó",
+    "fullName": null,
+    "lat": -6.97843,
+    "lng": -36.72769,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320344,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Juripiranga",
+    "fullName": null,
+    "lat": -7.35,
+    "lng": -35.22087,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320345,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Juru",
+    "fullName": null,
+    "lat": -7.49131,
+    "lng": -37.78854,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319055,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Lagoa",
+    "fullName": null,
+    "lat": -6.59521,
+    "lng": -37.84991,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320346,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Lagoa de Dentro",
+    "fullName": null,
+    "lat": -6.68308,
+    "lng": -35.35907,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319056,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Lagoa Seca",
+    "fullName": null,
+    "lat": -7.14356,
+    "lng": -35.82941,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320347,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Lastro",
+    "fullName": null,
+    "lat": -6.5374,
+    "lng": -38.18946,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320348,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Livramento",
+    "fullName": null,
+    "lat": -7.34008,
+    "lng": -36.93209,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320349,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Logradouro",
+    "fullName": null,
+    "lat": -6.55268,
+    "lng": -35.42864,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320350,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Lucena",
+    "fullName": null,
+    "lat": -6.92461,
+    "lng": -34.90267,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320351,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mãe d'Água",
+    "fullName": null,
+    "lat": -7.2199,
+    "lng": -37.45284,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320352,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Malta",
+    "fullName": null,
+    "lat": -6.904,
+    "lng": -37.51251,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319057,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mamanguape",
+    "fullName": null,
+    "lat": -6.70651,
+    "lng": -35.151,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320353,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Manaíra",
+    "fullName": null,
+    "lat": -7.70247,
+    "lng": -38.22947,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320354,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Marcação",
+    "fullName": null,
+    "lat": -6.74717,
+    "lng": -34.99103,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320355,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mari",
+    "fullName": null,
+    "lat": -7.07138,
+    "lng": -35.30258,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320356,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Marizópolis",
+    "fullName": null,
+    "lat": -6.82133,
+    "lng": -38.33496,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320357,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Massaranduba",
+    "fullName": null,
+    "lat": -7.20476,
+    "lng": -35.78379,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319058,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mataraca",
+    "fullName": null,
+    "lat": -6.55476,
+    "lng": -35.0369,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320358,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Matinhas",
+    "fullName": null,
+    "lat": -7.12428,
+    "lng": -35.7607,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320359,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mato Grosso",
+    "fullName": null,
+    "lat": -6.54728,
+    "lng": -37.75067,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320360,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Maturéia",
+    "fullName": null,
+    "lat": -7.27175,
+    "lng": -37.3394,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320361,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mogeiro",
+    "fullName": null,
+    "lat": -7.26788,
+    "lng": -35.48727,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320362,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Montadas",
+    "fullName": null,
+    "lat": -7.08947,
+    "lng": -35.903,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320363,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Monte Horebe",
+    "fullName": null,
+    "lat": -7.20792,
+    "lng": -38.52503,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 3394547,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Monteiro",
+    "fullName": null,
+    "lat": -7.91637,
+    "lng": -37.17496,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320364,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Mulungu",
+    "fullName": null,
+    "lat": -6.98029,
+    "lng": -35.41871,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320365,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Natuba",
+    "fullName": null,
+    "lat": -7.55807,
+    "lng": -35.54632,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320366,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Nazarezinho",
+    "fullName": null,
+    "lat": -6.91991,
+    "lng": -38.32592,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320367,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Nova Floresta",
+    "fullName": null,
+    "lat": -6.48792,
+    "lng": -36.20101,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320368,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Nova Olinda",
+    "fullName": null,
+    "lat": -7.45231,
+    "lng": -38.01122,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320369,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Nova Palmeira",
+    "fullName": null,
+    "lat": -6.67346,
+    "lng": -36.44186,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320370,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Olho d'Água",
+    "fullName": null,
+    "lat": -7.26106,
+    "lng": -37.73242,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320371,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Olivedos",
+    "fullName": null,
+    "lat": -6.99403,
+    "lng": -36.23822,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320372,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Ouro Velho",
+    "fullName": null,
+    "lat": -7.60554,
+    "lng": -37.13565,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320373,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Parari",
+    "fullName": null,
+    "lat": -7.31136,
+    "lng": -36.67699,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320374,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Passagem",
+    "fullName": null,
+    "lat": -7.11889,
+    "lng": -37.03671,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320375,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Patos",
+    "fullName": null,
+    "lat": -6.99689,
+    "lng": -37.34287,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319164,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Paulista",
+    "fullName": null,
+    "lat": -6.59504,
+    "lng": -37.60966,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324255,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pedra Branca",
+    "fullName": null,
+    "lat": -7.46068,
+    "lng": -38.07996,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320376,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pedra Lavrada",
+    "fullName": null,
+    "lat": -6.78024,
+    "lng": -36.442,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320377,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pedras de Fogo",
+    "fullName": null,
+    "lat": -7.37583,
+    "lng": -35.07071,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320391,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pedro Régis",
+    "fullName": null,
+    "lat": -6.67047,
+    "lng": -35.31031,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324304,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Piancó",
+    "fullName": null,
+    "lat": -7.22625,
+    "lng": -37.9463,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320378,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Picuí",
+    "fullName": null,
+    "lat": -6.53008,
+    "lng": -36.35837,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320379,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pilar",
+    "fullName": null,
+    "lat": -7.25739,
+    "lng": -35.26971,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320380,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pilões",
+    "fullName": null,
+    "lat": -6.89446,
+    "lng": -35.59432,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320381,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pilõezinhos",
+    "fullName": null,
+    "lat": -6.85269,
+    "lng": -35.54455,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320382,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pirpirituba",
+    "fullName": null,
+    "lat": -6.78371,
+    "lng": -35.4804,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320383,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pitimbu",
+    "fullName": null,
+    "lat": -7.41381,
+    "lng": -34.83686,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319059,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pocinhos",
+    "fullName": null,
+    "lat": -7.03267,
+    "lng": -36.06886,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320384,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Poço Dantas",
+    "fullName": null,
+    "lat": -6.38792,
+    "lng": -38.53359,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320385,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Poço de José de Moura",
+    "fullName": null,
+    "lat": -6.59957,
+    "lng": -38.50574,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319060,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Pombal",
+    "fullName": null,
+    "lat": -6.80692,
+    "lng": -37.87012,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324225,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Prata",
+    "fullName": null,
+    "lat": -7.7125,
+    "lng": -37.09411,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320386,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Princesa Isabel",
+    "fullName": null,
+    "lat": -7.6487,
+    "lng": -38.04258,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320387,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Puxinanã",
+    "fullName": null,
+    "lat": -7.17053,
+    "lng": -35.92913,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320388,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Queimadas",
+    "fullName": null,
+    "lat": -7.42696,
+    "lng": -35.89774,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320389,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Quixaba",
+    "fullName": null,
+    "lat": -7.05081,
+    "lng": -37.11783,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320390,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Remígio",
+    "fullName": null,
+    "lat": -6.95596,
+    "lng": -35.85965,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320392,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Riachão",
+    "fullName": null,
+    "lat": -6.55515,
+    "lng": -35.62324,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320393,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Riachão do Bacamarte",
+    "fullName": null,
+    "lat": -7.26337,
+    "lng": -35.67518,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320394,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Riachão do Poço",
+    "fullName": null,
+    "lat": -7.17041,
+    "lng": -35.303,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320395,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Riacho de Santo Antônio",
+    "fullName": null,
+    "lat": -7.66143,
+    "lng": -36.13551,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320396,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Riacho dos Cavalos",
+    "fullName": null,
+    "lat": -6.4714,
+    "lng": -37.64024,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319061,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Rio Tinto",
+    "fullName": null,
+    "lat": -6.79673,
+    "lng": -35.03715,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320397,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Salgadinho",
+    "fullName": null,
+    "lat": -7.08934,
+    "lng": -36.86318,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320398,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Salgado de São Félix",
+    "fullName": null,
+    "lat": -7.40862,
+    "lng": -35.45675,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320399,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Cecília",
+    "fullName": null,
+    "lat": -7.72027,
+    "lng": -35.93681,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320400,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": -6.54542,
+    "lng": -38.04968,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320401,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Helena",
+    "fullName": null,
+    "lat": -6.72745,
+    "lng": -38.59506,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320402,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Inês",
+    "fullName": null,
+    "lat": -7.68334,
+    "lng": -38.59346,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320403,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Luzia",
+    "fullName": null,
+    "lat": -6.92562,
+    "lng": -36.9066,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319062,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Rita",
+    "fullName": null,
+    "lat": -7.10437,
+    "lng": -34.97387,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320407,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santa Teresinha",
+    "fullName": null,
+    "lat": -7.12089,
+    "lng": -37.49654,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320404,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santana de Mangueira",
+    "fullName": null,
+    "lat": -7.66593,
+    "lng": -38.35848,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320405,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santana dos Garrotes",
+    "fullName": null,
+    "lat": -7.38163,
+    "lng": -37.95386,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320408,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Santo André",
+    "fullName": null,
+    "lat": -7.24178,
+    "lng": -36.6146,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320410,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Bentinho",
+    "fullName": null,
+    "lat": -6.88452,
+    "lng": -37.75898,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320409,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Bento",
+    "fullName": null,
+    "lat": -6.47344,
+    "lng": -37.47144,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320412,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Domingos",
+    "fullName": null,
+    "lat": -6.80733,
+    "lng": -37.91657,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320411,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Domingos do Cariri",
+    "fullName": null,
+    "lat": -7.56749,
+    "lng": -36.36393,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324226,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Francisco",
+    "fullName": null,
+    "lat": -6.63302,
+    "lng": -38.0378,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320413,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São João do Cariri",
+    "fullName": null,
+    "lat": -7.48465,
+    "lng": -36.48602,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320265,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São João do Rio do Peixe",
+    "fullName": null,
+    "lat": -6.71851,
+    "lng": -38.42942,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320414,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São João do Tigre",
+    "fullName": null,
+    "lat": -8.10906,
+    "lng": -36.79766,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320415,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José da Lagoa Tapada",
+    "fullName": null,
+    "lat": -6.94245,
+    "lng": -38.09393,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320416,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José de Caiana",
+    "fullName": null,
+    "lat": -7.25916,
+    "lng": -38.34483,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320417,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José de Espinharas",
+    "fullName": null,
+    "lat": -6.80244,
+    "lng": -37.38224,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320419,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José de Piranhas",
+    "fullName": null,
+    "lat": -7.11074,
+    "lng": -38.52611,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320420,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José de Princesa",
+    "fullName": null,
+    "lat": -7.70649,
+    "lng": -38.08465,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6319063,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José do Bonfim",
+    "fullName": null,
+    "lat": -7.13715,
+    "lng": -37.31607,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320421,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José do Brejo do Cruz",
+    "fullName": null,
+    "lat": -6.23731,
+    "lng": -37.37932,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320422,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José do Sabugi",
+    "fullName": null,
+    "lat": -6.82784,
+    "lng": -36.80335,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320423,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José dos Cordeiros",
+    "fullName": null,
+    "lat": -7.41638,
+    "lng": -36.84773,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320418,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São José dos Ramos",
+    "fullName": null,
+    "lat": -7.25103,
+    "lng": -35.3741,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320424,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Mamede",
+    "fullName": null,
+    "lat": -6.92111,
+    "lng": -37.09131,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320425,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Miguel de Taipu",
+    "fullName": null,
+    "lat": -7.21706,
+    "lng": -35.20175,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320426,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Sebastião de Lagoa de Roça",
+    "fullName": null,
+    "lat": -7.08497,
+    "lng": -35.84445,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320427,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Sebastião do Umbuzeiro",
+    "fullName": null,
+    "lat": -8.1569,
+    "lng": -37.0222,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320429,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "São Vicente do Seridó",
+    "fullName": null,
+    "lat": -6.88683,
+    "lng": -36.42652,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320428,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sapé",
+    "fullName": null,
+    "lat": -7.07937,
+    "lng": -35.21734,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320430,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Serra Branca",
+    "fullName": null,
+    "lat": -7.58019,
+    "lng": -36.73326,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320431,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Serra da Raiz",
+    "fullName": null,
+    "lat": -6.69703,
+    "lng": -35.43579,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320432,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Serra Grande",
+    "fullName": null,
+    "lat": -7.2509,
+    "lng": -38.39588,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320433,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Serra Redonda",
+    "fullName": null,
+    "lat": -7.15665,
+    "lng": -35.67628,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320434,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Serraria",
+    "fullName": null,
+    "lat": -6.86365,
+    "lng": -35.66926,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324245,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sertãozinho",
+    "fullName": null,
+    "lat": -6.73939,
+    "lng": -35.41628,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320435,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sobrado",
+    "fullName": null,
+    "lat": -7.16887,
+    "lng": -35.23251,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320436,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Solânea",
+    "fullName": null,
+    "lat": -6.73321,
+    "lng": -35.69495,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6324256,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Soledade",
+    "fullName": null,
+    "lat": -7.11244,
+    "lng": -36.36478,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320437,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sossêgo",
+    "fullName": null,
+    "lat": -6.67592,
+    "lng": -36.17875,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319064,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sousa",
+    "fullName": null,
+    "lat": -6.73098,
+    "lng": -38.18614,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320438,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Sumé",
+    "fullName": null,
+    "lat": -7.61709,
+    "lng": -36.9104,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320439,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Tacima",
+    "fullName": null,
+    "lat": -6.53805,
+    "lng": -35.52277,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320440,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Taperoá",
+    "fullName": null,
+    "lat": -7.1687,
+    "lng": -36.79197,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320441,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Tavares",
+    "fullName": null,
+    "lat": -7.61418,
+    "lng": -37.87959,
+    "tz": "America/Maceio"
+  },
+  {
+    "id": 6320442,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Teixeira",
+    "fullName": null,
+    "lat": -7.24821,
+    "lng": -37.27523,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320443,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Tenório",
+    "fullName": null,
+    "lat": -6.97568,
+    "lng": -36.62216,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319065,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Triunfo",
+    "fullName": null,
+    "lat": -6.58475,
+    "lng": -38.57827,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320444,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Uiraúna",
+    "fullName": null,
+    "lat": -6.4965,
+    "lng": -38.38015,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320445,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Umbuzeiro",
+    "fullName": null,
+    "lat": -7.67111,
+    "lng": -35.73927,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320446,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Várzea",
+    "fullName": null,
+    "lat": -6.80276,
+    "lng": -37.03707,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6320447,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Vieirópolis",
+    "fullName": null,
+    "lat": -6.55838,
+    "lng": -38.27091,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320322,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Vista Serrana",
+    "fullName": null,
+    "lat": -6.74167,
+    "lng": -37.57597,
+    "tz": "America/Recife"
+  },
+  {
+    "id": 6319066,
+    "parentId": 3393098,
+    "country": "BR",
+    "name": "Zabelê",
+    "fullName": null,
+    "lat": -8.07634,
+    "lng": -37.05635,
+    "tz": "America/Maceio"
+  }
+]

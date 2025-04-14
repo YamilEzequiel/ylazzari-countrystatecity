@@ -1,0 +1,522 @@
+[
+  {
+    "id": 6319229,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Alta Floresta d'Oeste",
+    "fullName": null,
+    "lat": -12.47107,
+    "lng": -62.13705,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319251,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Alto Alegre dos Parecis",
+    "fullName": null,
+    "lat": -12.75601,
+    "lng": -61.97971,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319252,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Alto Paraíso",
+    "fullName": null,
+    "lat": -9.65996,
+    "lng": -63.58719,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319250,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Alvorada d'Oeste",
+    "fullName": null,
+    "lat": -11.29925,
+    "lng": -62.50152,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319230,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Ariquemes",
+    "fullName": null,
+    "lat": -9.91052,
+    "lng": -62.95488,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319253,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Buritis",
+    "fullName": null,
+    "lat": -10.09215,
+    "lng": -63.96964,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319231,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Cabixi",
+    "fullName": null,
+    "lat": -13.51083,
+    "lng": -60.60257,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319255,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Cacaulândia",
+    "fullName": null,
+    "lat": -10.32583,
+    "lng": -63.14953,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319232,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Cacoal",
+    "fullName": null,
+    "lat": -11.49042,
+    "lng": -61.43174,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319256,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Campo Novo de Rondônia",
+    "fullName": null,
+    "lat": -10.48146,
+    "lng": -63.85192,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319257,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Candeias do Jamari",
+    "fullName": null,
+    "lat": -8.94512,
+    "lng": -63.35731,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319258,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Castanheiras",
+    "fullName": null,
+    "lat": -11.42661,
+    "lng": -61.88918,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319233,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Cerejeiras",
+    "fullName": null,
+    "lat": -13.18319,
+    "lng": -61.47518,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319259,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Chupinguaia",
+    "fullName": null,
+    "lat": -12.6724,
+    "lng": -60.92622,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319234,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Colorado do Oeste",
+    "fullName": null,
+    "lat": -13.08252,
+    "lng": -60.49419,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319235,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Corumbiara",
+    "fullName": null,
+    "lat": -12.87592,
+    "lng": -61.11993,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319236,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Costa Marques",
+    "fullName": null,
+    "lat": -12.06168,
+    "lng": -64.07323,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319260,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Cujubim",
+    "fullName": null,
+    "lat": -8.97819,
+    "lng": -62.44252,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319237,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Espigão d'Oeste",
+    "fullName": null,
+    "lat": -11.46622,
+    "lng": -60.69924,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6324173,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Governador Jorge Teixeira",
+    "fullName": null,
+    "lat": -10.78462,
+    "lng": -63.04433,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 3925074,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Guajará-Mirim",
+    "fullName": null,
+    "lat": -11.33108,
+    "lng": -64.44095,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319261,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Itapuã do Oeste",
+    "fullName": null,
+    "lat": -9.03389,
+    "lng": -63.23215,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6324172,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Jaru",
+    "fullName": null,
+    "lat": -10.59222,
+    "lng": -62.58503,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319238,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Ji-Paraná",
+    "fullName": null,
+    "lat": -10.83398,
+    "lng": -61.96014,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319239,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Machadinho d'Oeste",
+    "fullName": null,
+    "lat": -9.23953,
+    "lng": -62.11241,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319262,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Ministro Andreazza",
+    "fullName": null,
+    "lat": -11.16029,
+    "lng": -61.56897,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6324174,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Mirante da Serra",
+    "fullName": null,
+    "lat": -11.13706,
+    "lng": -62.86154,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319263,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Monte Negro",
+    "fullName": null,
+    "lat": -10.3045,
+    "lng": -63.35402,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319240,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Nova Brasilândia d'Oeste",
+    "fullName": null,
+    "lat": -11.49111,
+    "lng": -62.16495,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6324274,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Nova Mamoré",
+    "fullName": null,
+    "lat": -10.53837,
+    "lng": -64.49429,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319264,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Nova União",
+    "fullName": null,
+    "lat": -10.94938,
+    "lng": -62.51087,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319254,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Novo Horizonte do Oeste",
+    "fullName": null,
+    "lat": -11.70769,
+    "lng": -62.07989,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319241,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Ouro Preto do Oeste",
+    "fullName": null,
+    "lat": -10.36659,
+    "lng": -61.92239,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319265,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Parecis",
+    "fullName": null,
+    "lat": -12.28659,
+    "lng": -61.31662,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319242,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Pimenta Bueno",
+    "fullName": null,
+    "lat": -11.78779,
+    "lng": -60.74978,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319266,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Pimenteiras do Oeste",
+    "fullName": null,
+    "lat": -13.01273,
+    "lng": -61.73762,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319243,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Porto Velho",
+    "fullName": null,
+    "lat": -9.20787,
+    "lng": -64.31064,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319244,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Presidente Médici",
+    "fullName": null,
+    "lat": -11.18523,
+    "lng": -61.94072,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319267,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Primavera de Rondônia",
+    "fullName": null,
+    "lat": -11.92939,
+    "lng": -61.30611,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319245,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Rio Crespo",
+    "fullName": null,
+    "lat": -9.7188,
+    "lng": -62.74641,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319246,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Rolim de Moura",
+    "fullName": null,
+    "lat": -11.7526,
+    "lng": -61.78967,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319247,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Santa Luzia d'Oeste",
+    "fullName": null,
+    "lat": -12.10467,
+    "lng": -61.7944,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319268,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "São Felipe d'Oeste",
+    "fullName": null,
+    "lat": -11.89774,
+    "lng": -61.47739,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319269,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "São Francisco do Guaporé",
+    "fullName": null,
+    "lat": -12.38313,
+    "lng": -63.12648,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319249,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "São Miguel do Guaporé",
+    "fullName": null,
+    "lat": -11.70783,
+    "lng": -62.93532,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319270,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Seringueiras",
+    "fullName": null,
+    "lat": -11.92491,
+    "lng": -63.18938,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319271,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Teixeirópolis",
+    "fullName": null,
+    "lat": -10.99266,
+    "lng": -62.24735,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319272,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Theobroma",
+    "fullName": null,
+    "lat": -10.10159,
+    "lng": -62.28094,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319273,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Urupá",
+    "fullName": null,
+    "lat": -11.07917,
+    "lng": -62.38127,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319274,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Vale do Anari",
+    "fullName": null,
+    "lat": -9.73244,
+    "lng": -61.93919,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319275,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Vale do Paraíso",
+    "fullName": null,
+    "lat": -10.20652,
+    "lng": -62.06993,
+    "tz": "America/Porto_Velho"
+  },
+  {
+    "id": 6319248,
+    "parentId": 3924825,
+    "country": "BR",
+    "name": "Vilhena",
+    "fullName": null,
+    "lat": -12.02062,
+    "lng": -60.27526,
+    "tz": "America/Porto_Velho"
+  }
+]

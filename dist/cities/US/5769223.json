@@ -1,0 +1,662 @@
+[
+  {
+    "id": 5226093,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Aurora County",
+    "fullName": null,
+    "lat": 43.71801,
+    "lng": -98.56155,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226183,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Beadle County",
+    "fullName": null,
+    "lat": 44.41448,
+    "lng": -98.27811,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5762756,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Bennett County",
+    "fullName": null,
+    "lat": 43.19492,
+    "lng": -101.66397,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5226441,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Bon Homme County",
+    "fullName": null,
+    "lat": 42.98837,
+    "lng": -97.88463,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226536,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Brookings County",
+    "fullName": null,
+    "lat": 44.36968,
+    "lng": -96.79042,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226553,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Brown County",
+    "fullName": null,
+    "lat": 45.58972,
+    "lng": -98.35161,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226565,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Brule County",
+    "fullName": null,
+    "lat": 43.71806,
+    "lng": -99.08094,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226588,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Buffalo County",
+    "fullName": null,
+    "lat": 44.07635,
+    "lng": -99.20496,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5763234,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Butte County",
+    "fullName": null,
+    "lat": 44.90583,
+    "lng": -103.50802,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5763333,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Campbell County",
+    "fullName": null,
+    "lat": 45.77113,
+    "lng": -100.05163,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226849,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Charles Mix County",
+    "fullName": null,
+    "lat": 43.20791,
+    "lng": -98.58789,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226904,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Clark County",
+    "fullName": null,
+    "lat": 44.85825,
+    "lng": -97.7295,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226973,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Clay County",
+    "fullName": null,
+    "lat": 42.91465,
+    "lng": -96.97566,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5226970,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Codington County",
+    "fullName": null,
+    "lat": 44.97785,
+    "lng": -97.18862,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5763761,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Corson County",
+    "fullName": null,
+    "lat": 45.7086,
+    "lng": -101.19687,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5763916,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Custer County",
+    "fullName": null,
+    "lat": 43.67763,
+    "lng": -103.45154,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5227222,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Davison County",
+    "fullName": null,
+    "lat": 43.67474,
+    "lng": -98.146,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5227240,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Day County",
+    "fullName": null,
+    "lat": 45.36715,
+    "lng": -97.60741,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5227295,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Deuel County",
+    "fullName": null,
+    "lat": 44.76006,
+    "lng": -96.66797,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5764119,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Dewey County",
+    "fullName": null,
+    "lat": 45.15662,
+    "lng": -100.87186,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5227372,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Douglas County",
+    "fullName": null,
+    "lat": 43.38692,
+    "lng": -98.3661,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5227535,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Edmunds County",
+    "fullName": null,
+    "lat": 45.4188,
+    "lng": -99.21533,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5764690,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Fall River County",
+    "fullName": null,
+    "lat": 43.23939,
+    "lng": -103.52756,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5227752,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Faulk County",
+    "fullName": null,
+    "lat": 45.07101,
+    "lng": -99.14525,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228179,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Grant County",
+    "fullName": null,
+    "lat": 45.17194,
+    "lng": -96.76769,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228223,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Gregory County",
+    "fullName": null,
+    "lat": 43.19238,
+    "lng": -99.18561,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5765294,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Haakon County",
+    "fullName": null,
+    "lat": 44.29443,
+    "lng": -101.53999,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5228291,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hamlin County",
+    "fullName": null,
+    "lat": 44.67376,
+    "lng": -97.18833,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228302,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hand County",
+    "fullName": null,
+    "lat": 44.54778,
+    "lng": -99.00494,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228308,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hanson County",
+    "fullName": null,
+    "lat": 43.67482,
+    "lng": -97.78734,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5765341,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Harding County",
+    "fullName": null,
+    "lat": 45.58035,
+    "lng": -103.49577,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5228654,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hughes County",
+    "fullName": null,
+    "lat": 44.38903,
+    "lng": -99.99605,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228688,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hutchinson County",
+    "fullName": null,
+    "lat": 43.33485,
+    "lng": -97.75442,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228693,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Hyde County",
+    "fullName": null,
+    "lat": 44.54736,
+    "lng": -99.48711,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5765964,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Jackson County",
+    "fullName": null,
+    "lat": 43.69421,
+    "lng": -101.62813,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5228817,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Jerauld County",
+    "fullName": null,
+    "lat": 44.06635,
+    "lng": -98.62973,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5766096,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Jones County",
+    "fullName": null,
+    "lat": 43.96061,
+    "lng": -100.68972,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5228997,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Kingsbury County",
+    "fullName": null,
+    "lat": 44.36959,
+    "lng": -97.49148,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229128,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Lake County",
+    "fullName": null,
+    "lat": 44.02204,
+    "lng": -97.12938,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5766411,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Lawrence County",
+    "fullName": null,
+    "lat": 44.35863,
+    "lng": -103.79222,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5229313,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 43.27892,
+    "lng": -96.72182,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229494,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Lyman County",
+    "fullName": null,
+    "lat": 43.89582,
+    "lng": -99.84738,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229574,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Marshall County",
+    "fullName": null,
+    "lat": 45.75867,
+    "lng": -97.5985,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229622,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "McCook County",
+    "fullName": null,
+    "lat": 43.67431,
+    "lng": -97.36844,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229653,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "McPherson County",
+    "fullName": null,
+    "lat": 45.76637,
+    "lng": -99.22146,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5767000,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Meade County",
+    "fullName": null,
+    "lat": 44.56684,
+    "lng": -102.71687,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5767033,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Mellette County",
+    "fullName": null,
+    "lat": 43.58127,
+    "lng": -100.75999,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229775,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Miner County",
+    "fullName": null,
+    "lat": 44.02195,
+    "lng": -97.61025,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229782,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Minnehaha County",
+    "fullName": null,
+    "lat": 43.67418,
+    "lng": -96.79144,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5229837,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Moody County",
+    "fullName": null,
+    "lat": 44.02201,
+    "lng": -96.67092,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5768976,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Oglala Lakota County",
+    "fullName": null,
+    "lat": 43.33559,
+    "lng": -102.55162,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5767840,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Pennington County",
+    "fullName": null,
+    "lat": 44.00373,
+    "lng": -102.82383,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5767864,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Perkins County",
+    "fullName": null,
+    "lat": 45.49051,
+    "lng": -102.47563,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5230591,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Potter County",
+    "fullName": null,
+    "lat": 45.0645,
+    "lng": -99.95725,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5230872,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Roberts County",
+    "fullName": null,
+    "lat": 45.62965,
+    "lng": -96.94612,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5231251,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Sanborn County",
+    "fullName": null,
+    "lat": 44.02345,
+    "lng": -98.09139,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5231992,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Spink County",
+    "fullName": null,
+    "lat": 44.93802,
+    "lng": -98.34619,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5769386,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Stanley County",
+    "fullName": null,
+    "lat": 44.41232,
+    "lng": -100.73594,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5769502,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Sully County",
+    "fullName": null,
+    "lat": 44.71558,
+    "lng": -100.1322,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5769778,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Todd County",
+    "fullName": null,
+    "lat": 43.19337,
+    "lng": -100.71841,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5232417,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Tripp County",
+    "fullName": null,
+    "lat": 43.34587,
+    "lng": -99.884,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5232458,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Turner County",
+    "fullName": null,
+    "lat": 43.31087,
+    "lng": -97.14866,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5232511,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 42.83249,
+    "lng": -96.65609,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5232702,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Walworth County",
+    "fullName": null,
+    "lat": 45.42995,
+    "lng": -100.03156,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5233056,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Yankton County",
+    "fullName": null,
+    "lat": 43.00897,
+    "lng": -97.39475,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 5770576,
+    "parentId": 5769223,
+    "country": "US",
+    "name": "Ziebach County",
+    "fullName": null,
+    "lat": 44.98041,
+    "lng": -101.66586,
+    "tz": "America/Denver"
+  }
+]

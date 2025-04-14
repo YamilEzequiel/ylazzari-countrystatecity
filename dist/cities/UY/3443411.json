@@ -1,0 +1,302 @@
+[
+  {
+    "id": 11820827,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "18 De Mayo",
+    "fullName": null,
+    "lat": -34.69542,
+    "lng": -56.21758,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820809,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Aguas Corrientes",
+    "fullName": null,
+    "lat": -34.52569,
+    "lng": -56.35812,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820866,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Atlantida",
+    "fullName": null,
+    "lat": -34.69775,
+    "lng": -55.7712,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820841,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Barros Blancos",
+    "fullName": null,
+    "lat": -34.7596,
+    "lng": -56.00216,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820768,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Canelones",
+    "fullName": null,
+    "lat": -34.5356,
+    "lng": -56.2413,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820810,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Ciudad De La Costa",
+    "fullName": null,
+    "lat": -34.81206,
+    "lng": -55.95145,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820854,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Empalme Olmos",
+    "fullName": null,
+    "lat": -34.64079,
+    "lng": -55.87756,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820859,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Joaquin Suarez",
+    "fullName": null,
+    "lat": -34.73516,
+    "lng": -56.03836,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820829,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "La Floresta",
+    "fullName": null,
+    "lat": -34.75842,
+    "lng": -55.66889,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820818,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": -34.72377,
+    "lng": -56.26722,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820767,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Las Piedras",
+    "fullName": null,
+    "lat": -34.70564,
+    "lng": -56.20121,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820871,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Los Cerrillos",
+    "fullName": null,
+    "lat": -34.62237,
+    "lng": -56.38879,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820838,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Migues",
+    "fullName": null,
+    "lat": -34.48653,
+    "lng": -55.63989,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820837,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Montes",
+    "fullName": null,
+    "lat": -34.5197,
+    "lng": -55.54962,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820821,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Nicolich",
+    "fullName": null,
+    "lat": -34.80594,
+    "lng": -56.01483,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820815,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Pando",
+    "fullName": null,
+    "lat": -34.70848,
+    "lng": -55.95447,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820824,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Parque Del Plata",
+    "fullName": null,
+    "lat": -34.75601,
+    "lng": -55.72256,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820856,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Paso Carrasco",
+    "fullName": null,
+    "lat": -34.8494,
+    "lng": -56.03193,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820839,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Progreso",
+    "fullName": null,
+    "lat": -34.65346,
+    "lng": -56.24203,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820817,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Salinas",
+    "fullName": null,
+    "lat": -34.74401,
+    "lng": -55.84988,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820842,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": -34.42339,
+    "lng": -56.07315,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820844,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "San Bautista",
+    "fullName": null,
+    "lat": -34.41501,
+    "lng": -55.95837,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820840,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "San Jacinto",
+    "fullName": null,
+    "lat": -34.52354,
+    "lng": -55.81213,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820769,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "San Ramon",
+    "fullName": null,
+    "lat": -34.31252,
+    "lng": -55.994,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820870,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Santa Lucia",
+    "fullName": null,
+    "lat": -34.42162,
+    "lng": -56.29419,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820847,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Santa Rosa",
+    "fullName": null,
+    "lat": -34.52165,
+    "lng": -56.06488,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820849,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Sauce",
+    "fullName": null,
+    "lat": -34.62046,
+    "lng": -56.06446,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820855,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Soca",
+    "fullName": null,
+    "lat": -34.67748,
+    "lng": -55.58471,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820858,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Tala",
+    "fullName": null,
+    "lat": -34.33241,
+    "lng": -55.73721,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820812,
+    "parentId": 3443411,
+    "country": "UY",
+    "name": "Toledo",
+    "fullName": null,
+    "lat": -34.72635,
+    "lng": -56.0926,
+    "tz": "America/Montevideo"
+  }
+]

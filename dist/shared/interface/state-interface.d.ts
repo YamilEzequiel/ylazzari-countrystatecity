@@ -6,6 +6,7 @@ export interface State {
     id: number;
     parentId: string | null;
     country: string;
+    name: string;
     fullName: string | null;
     lat: number;
     lng: number;

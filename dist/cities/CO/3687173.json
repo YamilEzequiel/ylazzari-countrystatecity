@@ -1,0 +1,192 @@
+[
+  {
+    "id": 3690317,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Aguazul",
+    "fullName": null,
+    "lat": 5.09922,
+    "lng": -72.57163,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3686820,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Chameza",
+    "fullName": null,
+    "lat": 5.19237,
+    "lng": -72.88952,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3681010,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Hato Corozal",
+    "fullName": null,
+    "lat": 6.16278,
+    "lng": -70.99694,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 6198139,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "La Salina",
+    "fullName": null,
+    "lat": 6.18528,
+    "lng": -72.34444,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3675454,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Maní",
+    "fullName": null,
+    "lat": 4.7,
+    "lng": -72.25,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3674446,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Monterrey",
+    "fullName": null,
+    "lat": 4.82015,
+    "lng": -72.87901,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673697,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Nunchía",
+    "fullName": null,
+    "lat": 5.54444,
+    "lng": -72.10139,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3673538,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Orocué",
+    "fullName": null,
+    "lat": 4.92194,
+    "lng": -71.59722,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3672655,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Paz de Ariporo",
+    "fullName": null,
+    "lat": 5.88333,
+    "lng": -71.9,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3671904,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Pore",
+    "fullName": null,
+    "lat": 5.67083,
+    "lng": -71.93,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670935,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Recetor",
+    "fullName": null,
+    "lat": 5.22846,
+    "lng": -72.78643,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9178690,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Sabanalarga",
+    "fullName": null,
+    "lat": 4.73513,
+    "lng": -73.0082,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3670444,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Sácama",
+    "fullName": null,
+    "lat": 6.05213,
+    "lng": -72.21049,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3669354,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "San Luis de Palenque",
+    "fullName": null,
+    "lat": 5.28056,
+    "lng": -71.58194,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3667517,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Támara",
+    "fullName": null,
+    "lat": 5.88972,
+    "lng": -72.21306,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172036,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Tauramena",
+    "fullName": null,
+    "lat": 4.66448,
+    "lng": -72.6507,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3666722,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Trinidad",
+    "fullName": null,
+    "lat": 5.34778,
+    "lng": -71.20194,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172246,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Villanueva",
+    "fullName": null,
+    "lat": 4.4782,
+    "lng": -72.82242,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 3665690,
+    "parentId": 3687173,
+    "country": "CO",
+    "name": "Yopal",
+    "fullName": null,
+    "lat": 5.25806,
+    "lng": -72.26444,
+    "tz": "America/Bogota"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 3649798,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Acosta",
+    "fullName": "Municipio Acosta",
+    "lat": 11.1,
+    "lng": -68.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648107,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Bolívar",
+    "fullName": "Municipio Bolívar",
+    "lat": 11.11988,
+    "lng": -69.68559,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3647886,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Buchivacoa",
+    "fullName": "Municipio Buchivacoa",
+    "lat": 10.91667,
+    "lng": -70.75,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129220,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Cacique Manaure",
+    "fullName": "Municipio Cacique Manaure",
+    "lat": 10.97099,
+    "lng": -68.54435,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3646527,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Carirubana",
+    "fullName": "Municipio Carirubana",
+    "lat": 11.71667,
+    "lng": -70,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3645374,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Colina",
+    "fullName": "Municipio Colina",
+    "lat": 11.28333,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129177,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Dabajuro",
+    "fullName": "Municipio Dabajuro",
+    "lat": 11.02273,
+    "lng": -70.67769,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640874,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Falcón",
+    "fullName": "Municipio Falcón",
+    "lat": 11.83333,
+    "lng": -70,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640848,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Federación",
+    "fullName": "Municipio Federación",
+    "lat": 10.83333,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129216,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Jacura",
+    "fullName": "Municipio Jacura",
+    "lat": 11.07417,
+    "lng": -68.85604,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131432,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Los Taques",
+    "fullName": "Municipio Los Taques",
+    "lat": 11.82308,
+    "lng": -70.25353,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632524,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Mauroa",
+    "fullName": "Municipio Mauroa",
+    "lat": 10.83333,
+    "lng": -71,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632192,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": "Municipio Miranda",
+    "lat": 11.31667,
+    "lng": -69.86667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3644540,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "mocracia",
+    "fullName": "Municipio Democracia",
+    "lat": 10.83333,
+    "lng": -70.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129249,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Monseñor Iturriza",
+    "fullName": "Municipio Monseñor Iturriza",
+    "lat": 10.9333,
+    "lng": -68.27716,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131433,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Palmasola",
+    "fullName": "Municipio Palmasola",
+    "lat": 10.59329,
+    "lng": -68.54576,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3630294,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Petit",
+    "fullName": "Municipio Petit",
+    "lat": 11.05,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129154,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Píritu",
+    "fullName": "Municipio Píritu",
+    "lat": 11.37389,
+    "lng": -69.13722,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129238,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "San Francisco",
+    "fullName": "Municipio San Francisco",
+    "lat": 11.1602,
+    "lng": -68.72604,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626828,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Silva",
+    "fullName": "Municipio Silva",
+    "lat": 10.75709,
+    "lng": -68.35007,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129189,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 11.06395,
+    "lng": -69.7131,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129153,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Tocópero",
+    "fullName": "Municipio Tocópero",
+    "lat": 11.49897,
+    "lng": -69.25892,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129260,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Unión",
+    "fullName": "Municipio Unión",
+    "lat": 10.81953,
+    "lng": -69.27776,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129181,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Urumaco",
+    "fullName": "Municipio Urumaco",
+    "lat": 11.19913,
+    "lng": -70.25499,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625121,
+    "parentId": 3640873,
+    "country": "VE",
+    "name": "Zamora",
+    "fullName": "Municipio Zamora",
+    "lat": 11.36667,
+    "lng": -69.03333,
+    "tz": "America/Caracas"
+  }
+]

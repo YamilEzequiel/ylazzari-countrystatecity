@@ -1,0 +1,22 @@
+[
+  {
+    "id": 11820807,
+    "parentId": 3442720,
+    "country": "UY",
+    "name": "Sarandí Del Yí",
+    "fullName": null,
+    "lat": -33.21653,
+    "lng": -55.57587,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820777,
+    "parentId": 3442720,
+    "country": "UY",
+    "name": "Villa Carmen",
+    "fullName": null,
+    "lat": -33.16511,
+    "lng": -55.91501,
+    "tz": "America/Montevideo"
+  }
+]

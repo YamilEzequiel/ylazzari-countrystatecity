@@ -1,0 +1,442 @@
+[
+  {
+    "id": 5583739,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Ada County",
+    "fullName": null,
+    "lat": 43.45112,
+    "lng": -116.24109,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5583743,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Adams County",
+    "fullName": null,
+    "lat": 44.88965,
+    "lng": -116.45387,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5584639,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Bannock County",
+    "fullName": null,
+    "lat": 42.66851,
+    "lng": -112.22463,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5585000,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Bear Lake County",
+    "fullName": null,
+    "lat": 42.28479,
+    "lng": -111.32965,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5585304,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Benewah County",
+    "fullName": null,
+    "lat": 47.21755,
+    "lng": -116.65883,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5585826,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Bingham County",
+    "fullName": null,
+    "lat": 43.21652,
+    "lng": -112.39805,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5586170,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Blaine County",
+    "fullName": null,
+    "lat": 43.41233,
+    "lng": -113.9804,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5586445,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Boise County",
+    "fullName": null,
+    "lat": 43.98913,
+    "lng": -115.73024,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5586489,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Bonner County",
+    "fullName": null,
+    "lat": 48.29975,
+    "lng": -116.60097,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5586500,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Bonneville County",
+    "fullName": null,
+    "lat": 43.38773,
+    "lng": -111.61493,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5586641,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Boundary County",
+    "fullName": null,
+    "lat": 48.76702,
+    "lng": -116.46288,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5587504,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Butte County",
+    "fullName": null,
+    "lat": 43.72287,
+    "lng": -113.17202,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5587757,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Camas County",
+    "fullName": null,
+    "lat": 43.46325,
+    "lng": -114.80585,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5587975,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Canyon County",
+    "fullName": null,
+    "lat": 43.62513,
+    "lng": -116.70929,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5588082,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Caribou County",
+    "fullName": null,
+    "lat": 42.77051,
+    "lng": -111.56224,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5588204,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Cassia County",
+    "fullName": null,
+    "lat": 42.28387,
+    "lng": -113.60037,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5588908,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Clark County",
+    "fullName": null,
+    "lat": 44.28398,
+    "lng": -112.35135,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5589005,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Clearwater County",
+    "fullName": null,
+    "lat": 46.6737,
+    "lng": -115.65686,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5590383,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Custer County",
+    "fullName": null,
+    "lat": 44.24142,
+    "lng": -114.2818,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5592510,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Elmore County",
+    "fullName": null,
+    "lat": 43.3539,
+    "lng": -115.46918,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5593547,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 42.18117,
+    "lng": -111.81323,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5593620,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Fremont County",
+    "fullName": null,
+    "lat": 44.22879,
+    "lng": -111.48202,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5593925,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Gem County",
+    "fullName": null,
+    "lat": 44.06169,
+    "lng": -116.39723,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5594311,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Gooding County",
+    "fullName": null,
+    "lat": 42.9709,
+    "lng": -114.81152,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5596467,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Idaho County",
+    "fullName": null,
+    "lat": 45.8442,
+    "lng": -115.46745,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5596986,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 43.82014,
+    "lng": -112.31128,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5597037,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Jerome County",
+    "fullName": null,
+    "lat": 42.6899,
+    "lng": -114.26403,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5597922,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Kootenai County",
+    "fullName": null,
+    "lat": 47.67456,
+    "lng": -116.70001,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5598264,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Latah County",
+    "fullName": null,
+    "lat": 46.81613,
+    "lng": -116.71168,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5598464,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Lemhi County",
+    "fullName": null,
+    "lat": 44.94331,
+    "lng": -113.93324,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5598527,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Lewis County",
+    "fullName": null,
+    "lat": 46.23702,
+    "lng": -116.42625,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5598678,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 43.00241,
+    "lng": -114.13831,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5599930,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Madison County",
+    "fullName": null,
+    "lat": 43.78419,
+    "lng": -111.65934,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5601141,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Minidoka County",
+    "fullName": null,
+    "lat": 42.8544,
+    "lng": -113.63752,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5602115,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Nez Perce County",
+    "fullName": null,
+    "lat": 46.32676,
+    "lng": -116.75024,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5602844,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Oneida County",
+    "fullName": null,
+    "lat": 42.1949,
+    "lng": -112.53962,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5603018,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Owyhee County",
+    "fullName": null,
+    "lat": 42.58153,
+    "lng": -116.16998,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5603395,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Payette County",
+    "fullName": null,
+    "lat": 44.00674,
+    "lng": -116.76084,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5604439,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Power County",
+    "fullName": null,
+    "lat": 42.69369,
+    "lng": -112.84067,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5607202,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Shoshone County",
+    "fullName": null,
+    "lat": 47.35167,
+    "lng": -115.89103,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5609855,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Teton County",
+    "fullName": null,
+    "lat": 43.75946,
+    "lng": -111.2077,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5610815,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Twin Falls County",
+    "fullName": null,
+    "lat": 42.35598,
+    "lng": -114.66716,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5611156,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Valley County",
+    "fullName": null,
+    "lat": 44.7667,
+    "lng": -115.56613,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5611570,
+    "parentId": 5596512,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 44.45243,
+    "lng": -116.78477,
+    "tz": "America/Boise"
+  }
+]

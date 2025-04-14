@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11840009,
+    "parentId": 3867442,
+    "country": "PY",
+    "name": "Filadelfia",
+    "fullName": null,
+    "lat": -21.4374,
+    "lng": -60.17867,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839974,
+    "parentId": 3867442,
+    "country": "PY",
+    "name": "Loma Plata",
+    "fullName": null,
+    "lat": -22.30512,
+    "lng": -59.6906,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840039,
+    "parentId": 3867442,
+    "country": "PY",
+    "name": "Mariscal Estigarribia",
+    "fullName": null,
+    "lat": -21.96421,
+    "lng": -61.28682,
+    "tz": "America/Asuncion"
+  }
+]

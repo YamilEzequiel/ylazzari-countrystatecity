@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11820875,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Carmelo",
+    "fullName": null,
+    "lat": -34.07371,
+    "lng": -58.16169,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820863,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Colonia Valdense",
+    "fullName": null,
+    "lat": -34.38807,
+    "lng": -57.19443,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820862,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Florencio Sanchez",
+    "fullName": null,
+    "lat": -33.96887,
+    "lng": -57.36327,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820876,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Juan Lacaze",
+    "fullName": null,
+    "lat": -34.39212,
+    "lng": -57.43194,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820828,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Nueva Helvecia",
+    "fullName": null,
+    "lat": -34.30305,
+    "lng": -57.20707,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820811,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Nueva Palmira",
+    "fullName": null,
+    "lat": -33.88974,
+    "lng": -58.34519,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820861,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Ombues De Lavalle",
+    "fullName": null,
+    "lat": -33.95904,
+    "lng": -57.82665,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820868,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Rosario",
+    "fullName": null,
+    "lat": -34.30754,
+    "lng": -57.36498,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820816,
+    "parentId": 3443025,
+    "country": "UY",
+    "name": "Tarariras",
+    "fullName": null,
+    "lat": -34.26259,
+    "lng": -57.58597,
+    "tz": "America/Montevideo"
+  }
+]

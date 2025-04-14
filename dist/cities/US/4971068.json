@@ -1,0 +1,162 @@
+[
+  {
+    "id": 4956755,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Androscoggin County",
+    "fullName": null,
+    "lat": 44.16585,
+    "lng": -70.20645,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4956873,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Aroostook County",
+    "fullName": null,
+    "lat": 46.65881,
+    "lng": -68.59889,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4961900,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Cumberland County",
+    "fullName": null,
+    "lat": 43.80608,
+    "lng": -70.3302,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4964821,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 44.97417,
+    "lng": -70.4441,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4966407,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Hancock County",
+    "fullName": null,
+    "lat": 44.56289,
+    "lng": -68.36821,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4968714,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Kennebec County",
+    "fullName": null,
+    "lat": 44.40916,
+    "lng": -69.76726,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4968996,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Knox County",
+    "fullName": null,
+    "lat": 44.07575,
+    "lng": -69.12598,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4969555,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 43.99779,
+    "lng": -69.52576,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4974522,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Oxford County",
+    "fullName": null,
+    "lat": 44.49977,
+    "lng": -70.75657,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4974977,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Penobscot County",
+    "fullName": null,
+    "lat": 45.40051,
+    "lng": -68.64943,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4975418,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Piscataquis County",
+    "fullName": null,
+    "lat": 45.83736,
+    "lng": -69.28452,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4977278,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Sagadahoc County",
+    "fullName": null,
+    "lat": 43.91173,
+    "lng": -69.83931,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4978972,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Somerset County",
+    "fullName": null,
+    "lat": 45.51385,
+    "lng": -69.95882,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4982040,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Waldo County",
+    "fullName": null,
+    "lat": 44.48525,
+    "lng": -69.12188,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4982182,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 44.96946,
+    "lng": -67.60906,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4983621,
+    "parentId": 4971068,
+    "country": "US",
+    "name": "York County",
+    "fullName": null,
+    "lat": 43.42923,
+    "lng": -70.67015,
+    "tz": "America/New_York"
+  }
+]

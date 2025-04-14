@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5855765,
+    "parentId": 5855797,
+    "country": "US",
+    "name": "Hawaii County",
+    "fullName": null,
+    "lat": 19.6024,
+    "lng": -155.52289,
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "id": 5856194,
+    "parentId": 5855797,
+    "country": "US",
+    "name": "Honolulu County",
+    "fullName": null,
+    "lat": 21.45543,
+    "lng": -157.96138,
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "id": 5847795,
+    "parentId": 5855797,
+    "country": "US",
+    "name": "Kalawao County",
+    "fullName": null,
+    "lat": 21.18569,
+    "lng": -156.95944,
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "id": 5848514,
+    "parentId": 5855797,
+    "country": "US",
+    "name": "Kauai County",
+    "fullName": null,
+    "lat": 22.01108,
+    "lng": -159.70544,
+    "tz": "Pacific/Honolulu"
+  },
+  {
+    "id": 5850871,
+    "parentId": 5855797,
+    "country": "US",
+    "name": "Maui County",
+    "fullName": null,
+    "lat": 20.86774,
+    "lng": -156.61706,
+    "tz": "Pacific/Honolulu"
+  }
+]

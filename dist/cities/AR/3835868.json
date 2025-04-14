@@ -1,0 +1,272 @@
+[
+  {
+    "id": 3866489,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Aguirre",
+    "fullName": "Departamento de Aguirre",
+    "lat": -29.33333,
+    "lng": -62.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3866417,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Alberdi",
+    "fullName": "Departamento de Alberdi",
+    "lat": -26.5,
+    "lng": -62.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3865278,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Atamisqui",
+    "fullName": "Departamento de Atamisqui",
+    "lat": -28.66667,
+    "lng": -63.9,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3865211,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Avellaneda",
+    "fullName": "Departamento de Avellaneda",
+    "lat": -28.5,
+    "lng": -63.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3864853,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Banda",
+    "fullName": "Departamento de Banda",
+    "lat": -27.5,
+    "lng": -64.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3864413,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Belgrano",
+    "fullName": "Departamento de Belgrano",
+    "lat": -29.08333,
+    "lng": -62.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3862747,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -27.83333,
+    "lng": -64.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3861253,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Choya",
+    "fullName": "Departamento de Choya",
+    "lat": -28.75,
+    "lng": -64.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3860289,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Copo",
+    "fullName": "Departamento de Copo",
+    "lat": -26,
+    "lng": -62.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855567,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Figueroa",
+    "fullName": "Departamento de Figueroa",
+    "lat": -27.33333,
+    "lng": -63.55,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855047,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "General Taboada",
+    "fullName": "Departamento de General Taboada",
+    "lat": -28.58333,
+    "lng": -62.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3854499,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Guasayán",
+    "fullName": "Departamento de Guasayán",
+    "lat": -28,
+    "lng": -64.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3853500,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Jiménez",
+    "fullName": "Departamento de Jiménez",
+    "lat": -27,
+    "lng": -64.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844706,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Juan F. Ibarra",
+    "fullName": "Departamento de Juan F. Ibarra",
+    "lat": -28,
+    "lng": -62.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3846597,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Loreto",
+    "fullName": "Departamento de Loreto",
+    "lat": -28.55,
+    "lng": -64.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844110,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Mitre",
+    "fullName": "Departamento de Mitre",
+    "lat": -29.5,
+    "lng": -62.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3843684,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Moreno",
+    "fullName": "Departamento de Moreno",
+    "lat": -27.33333,
+    "lng": -62.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3842719,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Ojo de Agua",
+    "fullName": "Departamento de Ojo de Agua",
+    "lat": -29.25,
+    "lng": -64.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3841612,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Pellegrini",
+    "fullName": "Departamento de Pellegrini",
+    "lat": -26.16667,
+    "lng": -64.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3839792,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Quebrachos",
+    "fullName": "Departamento de Quebrachos",
+    "lat": -29.33333,
+    "lng": -63.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838845,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Río Hondo",
+    "fullName": "Departamento de Río Hondo",
+    "lat": -27.58333,
+    "lng": -64.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838752,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Rivadavia",
+    "fullName": "Departamento de Rivadavia",
+    "lat": -29.83333,
+    "lng": -62.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838725,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Robles",
+    "fullName": "Departamento de Robles",
+    "lat": -27.83333,
+    "lng": -63.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838300,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Salavina",
+    "fullName": "Departamento de Salavina",
+    "lat": -28.91667,
+    "lng": -63.3,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3836986,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "San Martín",
+    "fullName": "Departamento de San Martín",
+    "lat": -28.16667,
+    "lng": -63.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3835707,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Sarmiento",
+    "fullName": "Departamento de Sarmiento",
+    "lat": -28.08333,
+    "lng": -63.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3835272,
+    "parentId": 3835868,
+    "country": "AR",
+    "name": "Silípica",
+    "fullName": "Departamento de Silípica",
+    "lat": -28.16667,
+    "lng": -64.33333,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

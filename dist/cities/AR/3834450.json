@@ -1,0 +1,52 @@
+[
+  {
+    "id": 11524834,
+    "parentId": 3834450,
+    "country": "AR",
+    "name": "Antártida Argentina",
+    "fullName": null,
+    "lat": -82.78066,
+    "lng": -50.6785,
+    "tz": "Antarctica/Troll"
+  },
+  {
+    "id": 11524835,
+    "parentId": 3834450,
+    "country": "AR",
+    "name": "Islas del Atlántico Sur",
+    "fullName": null,
+    "lat": -51.94426,
+    "lng": -59.21631,
+    "tz": "Atlantic/Stanley"
+  },
+  {
+    "id": 3836551,
+    "parentId": 3834450,
+    "country": "AR",
+    "name": "Río Grande",
+    "fullName": "Departamento de Río Grande",
+    "lat": -53.5,
+    "lng": -68.33333,
+    "tz": "America/Argentina/Ushuaia"
+  },
+  {
+    "id": 11994812,
+    "parentId": 3834450,
+    "country": "AR",
+    "name": "Tolhuin",
+    "fullName": null,
+    "lat": -54.50967,
+    "lng": -67.18109,
+    "tz": "America/Argentina/Ushuaia"
+  },
+  {
+    "id": 3833365,
+    "parentId": 3834450,
+    "country": "AR",
+    "name": "Ushuaia",
+    "fullName": "Departamento de Ushuaia",
+    "lat": -54.62912,
+    "lng": -67.8962,
+    "tz": "America/Argentina/Ushuaia"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 4929772,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Barnstable County",
+    "fullName": null,
+    "lat": 41.68419,
+    "lng": -70.27405,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4930396,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Berkshire County",
+    "fullName": null,
+    "lat": 42.37067,
+    "lng": -73.2064,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4931378,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Bristol County",
+    "fullName": null,
+    "lat": 41.75709,
+    "lng": -71.08852,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4935156,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Dukes County",
+    "fullName": null,
+    "lat": 41.38877,
+    "lng": -70.69877,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4935951,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Essex County",
+    "fullName": null,
+    "lat": 42.63887,
+    "lng": -70.86792,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4937280,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 42.58312,
+    "lng": -72.59187,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4938741,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Hampden County",
+    "fullName": null,
+    "lat": 42.13511,
+    "lng": -72.63162,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4938757,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Hampshire County",
+    "fullName": null,
+    "lat": 42.34014,
+    "lng": -72.66377,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4943909,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Middlesex County",
+    "fullName": null,
+    "lat": 42.48555,
+    "lng": -71.39184,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4944911,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Nantucket County",
+    "fullName": null,
+    "lat": 41.26955,
+    "lng": -70.02171,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4945455,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Norfolk County",
+    "fullName": null,
+    "lat": 42.17097,
+    "lng": -71.18381,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4947607,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Plymouth County",
+    "fullName": null,
+    "lat": 41.98743,
+    "lng": -70.73707,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4952349,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Suffolk County",
+    "fullName": null,
+    "lat": 42.3555,
+    "lng": -71.06575,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4956199,
+    "parentId": 6254926,
+    "country": "US",
+    "name": "Worcester County",
+    "fullName": null,
+    "lat": 42.3514,
+    "lng": -71.90774,
+    "tz": "America/New_York"
+  }
+]

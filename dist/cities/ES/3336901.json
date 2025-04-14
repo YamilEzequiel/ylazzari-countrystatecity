@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3128759,
+    "parentId": 3336901,
+    "country": "ES",
+    "name": "Barcelona",
+    "fullName": "Província de Barcelona",
+    "lat": 41.66667,
+    "lng": 2,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 6355230,
+    "parentId": 3336901,
+    "country": "ES",
+    "name": "Girona",
+    "fullName": "Província de Girona",
+    "lat": 41.98916,
+    "lng": 2.81113,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 6355231,
+    "parentId": 3336901,
+    "country": "ES",
+    "name": "Lleida",
+    "fullName": "Província de Lleida",
+    "lat": 41.61878,
+    "lng": 0.57472,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3108287,
+    "parentId": 3336901,
+    "country": "ES",
+    "name": "Tarragona",
+    "fullName": "Província de Tarragona",
+    "lat": 41.12902,
+    "lng": 1.24901,
+    "tz": "Europe/Madrid"
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 3866926,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Adolfo Alsina",
+    "fullName": "Partido de Adolfo Alsina",
+    "lat": -37.25,
+    "lng": -63,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3854937,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Adolfo González Chaves",
+    "fullName": "Partido de Adolfo González Chaves",
+    "lat": -38,
+    "lng": -60.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3866414,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Alberti",
+    "fullName": "Partido de Alberti",
+    "lat": -35,
+    "lng": -60.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436394,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Almirante Brown",
+    "fullName": "Partido de Almirante Brown",
+    "lat": -34.83333,
+    "lng": -58.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436101,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Arrecifes",
+    "fullName": "Partido de Arrecifes",
+    "lat": -34,
+    "lng": -60,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436227,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Avellaneda",
+    "fullName": "Partido de Avellaneda",
+    "lat": -34.66667,
+    "lng": -58.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436219,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Ayacucho",
+    "fullName": "Partido de Ayacucho",
+    "lat": -37,
+    "lng": -58.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436197,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Azul",
+    "fullName": "Partido de Azul",
+    "lat": -36.75,
+    "lng": -59.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3865084,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Bahía Blanca",
+    "fullName": "Partido de Bahía Blanca",
+    "lat": -38.66667,
+    "lng": -62.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436176,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Balcarce",
+    "fullName": "Partido de Balcarce",
+    "lat": -37.75,
+    "lng": -58.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436149,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Baradero",
+    "fullName": "Partido de Baradero",
+    "lat": -33.83333,
+    "lng": -59.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433284,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Benito Juárez",
+    "fullName": "Partido de Benito Juárez",
+    "lat": -37.5,
+    "lng": -59.91667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436042,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Berazategui",
+    "fullName": "Partido de Berazategui",
+    "lat": -34.83333,
+    "lng": -58.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3436038,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Berisso",
+    "fullName": "Partido de Berisso",
+    "lat": -34.91667,
+    "lng": -57.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3863998,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Bolívar",
+    "fullName": "Partido de Bolívar",
+    "lat": -36.33333,
+    "lng": -61.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3863881,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Bragado",
+    "fullName": "Partido de Bragado",
+    "lat": -35,
+    "lng": -60.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435962,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Brandsen",
+    "fullName": "Partido de Brandsen",
+    "lat": -35.25,
+    "lng": -58.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435809,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Campana",
+    "fullName": "Partido de Campana",
+    "lat": -34.16667,
+    "lng": -58.91667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435710,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Canuelas",
+    "fullName": "Partido de Canuelas",
+    "lat": -35.08333,
+    "lng": -58.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435689,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Capitán Sarmiento",
+    "fullName": "Partido de Capitán Sarmiento",
+    "lat": -34.16667,
+    "lng": -59.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3862606,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Carlos Casares",
+    "fullName": "Partido de Carlos Casares",
+    "lat": -35.75,
+    "lng": -61.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3862599,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Carlos Tejedor",
+    "fullName": "Partido de Carlos Tejedor",
+    "lat": -35.41667,
+    "lng": -62.41667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435643,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Carmen de Areco",
+    "fullName": "Partido de Carmen de Areco",
+    "lat": -34.33333,
+    "lng": -59.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435603,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Castelli",
+    "fullName": "Partido de Castelli",
+    "lat": -36,
+    "lng": -57.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3861944,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Chacabuco",
+    "fullName": "Partido de Chacabuco",
+    "lat": -34.66667,
+    "lng": -60.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435446,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Chascomús",
+    "fullName": "Partido de Chascomús",
+    "lat": -35.47745,
+    "lng": -57.9776,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435406,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Chivilcoy",
+    "fullName": "Partido de Chivilcoy",
+    "lat": -34.91667,
+    "lng": -59.91667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3860822,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Colón",
+    "fullName": "Partido de Colón",
+    "lat": -33.83333,
+    "lng": -61,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3860198,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Coronel Dorrego",
+    "fullName": "Partido de Coronel Dorrego",
+    "lat": -38.66667,
+    "lng": -61.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3860172,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Coronel Pringles",
+    "fullName": "Partido de Coronel Pringles",
+    "lat": -38.25,
+    "lng": -61.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3860201,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Coronel Rosales",
+    "fullName": "Partido de Coronel Rosales",
+    "lat": -38.83333,
+    "lng": -61.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3860163,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Coronel Suárez",
+    "fullName": "Partido de Coronel Suárez",
+    "lat": -37.5,
+    "lng": -61.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3862356,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Daireaux",
+    "fullName": "Partido de Daireaux",
+    "lat": -36.59806,
+    "lng": -61.74306,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3435032,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Dolores",
+    "fullName": "Partido de Dolores",
+    "lat": -36.41667,
+    "lng": -57.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3434140,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Ensenada",
+    "fullName": "Partido de Ensenada",
+    "lat": -34.85833,
+    "lng": -57.91889,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3434130,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Escobar",
+    "fullName": "Partido de Escobar",
+    "lat": -34.33333,
+    "lng": -58.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3434003,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Esteban Echeverría",
+    "fullName": "Partido de Esteban Echeverría",
+    "lat": -34.81917,
+    "lng": -58.46583,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433977,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Exaltación de la Cruz",
+    "fullName": "Partido de Exaltación de la Cruz",
+    "lat": -34.25,
+    "lng": -59.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063203,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Ezeiza",
+    "fullName": "Partido de Ezeiza",
+    "lat": -34.85417,
+    "lng": -58.52472,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433922,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Florencio Varela",
+    "fullName": "Partido de Florencio Varela",
+    "lat": -34.83333,
+    "lng": -58.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063213,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Florentino Ameghino",
+    "fullName": "Partido de Florentino Ameghino",
+    "lat": -34.83889,
+    "lng": -62.46722,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433821,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Alvarado",
+    "fullName": "Partido de General Alvarado",
+    "lat": -38.16667,
+    "lng": -58.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855135,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Alvear",
+    "fullName": "Partido de General Alvear",
+    "lat": -36,
+    "lng": -60.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855132,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Arenales",
+    "fullName": "Partido de General Arenales",
+    "lat": -34.25,
+    "lng": -61.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433816,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Belgrano",
+    "fullName": "Partido de General Belgrano",
+    "lat": -35.8487,
+    "lng": -58.67023,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433805,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Guido",
+    "fullName": "Partido de General Guido",
+    "lat": -36.75,
+    "lng": -58,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855102,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General La Madrid",
+    "fullName": "Partido de General La Madrid",
+    "lat": -37.5,
+    "lng": -61.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433798,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Las Heras",
+    "fullName": "Partido de General Las Heras",
+    "lat": -34.83333,
+    "lng": -59,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433794,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Lavalle",
+    "fullName": "Partido de General Lavalle",
+    "lat": -36.66667,
+    "lng": -57,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433800,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Madariaga",
+    "fullName": "Partido de General Madariaga",
+    "lat": -37.25,
+    "lng": -57.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433785,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Paz",
+    "fullName": "Partido de General Paz",
+    "lat": -35.5,
+    "lng": -58.41667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855071,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Pinto",
+    "fullName": "Partido de General Pinto",
+    "lat": -34.71779,
+    "lng": -62.00155,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433782,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Pueyrredón",
+    "fullName": "Partido de General Pueyrredón",
+    "lat": -38,
+    "lng": -57.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433780,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Rodríguez",
+    "fullName": "Partido de General Rodríguez",
+    "lat": -34.66667,
+    "lng": -59,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433778,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General San Martín",
+    "fullName": "Partido de General San Martín",
+    "lat": -34.5733,
+    "lng": -58.54099,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855042,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Viamonte",
+    "fullName": "Partido de General Viamonte",
+    "lat": -35,
+    "lng": -61,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3855039,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "General Villegas",
+    "fullName": "Partido de General Villegas",
+    "lat": -34.75,
+    "lng": -63,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3854602,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Guaminí",
+    "fullName": "Partido de Guaminí",
+    "lat": -36.75,
+    "lng": -62.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3854283,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Hipólito Yrigoyen",
+    "fullName": "Partido de Hipólito Yrigoyen",
+    "lat": -36.25,
+    "lng": -61.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063217,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Hurlingham",
+    "fullName": "Partido de Hurlingham",
+    "lat": -34.58694,
+    "lng": -58.62806,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063220,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Ituzaingó",
+    "fullName": "Partido de Ituzaingó",
+    "lat": -34.66028,
+    "lng": -58.66611,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433328,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "José C. Paz",
+    "fullName": "Partido de José C. Paz",
+    "lat": -34.5198,
+    "lng": -58.76556,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3853351,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Junín",
+    "fullName": "Partido de Junín",
+    "lat": -34.5,
+    "lng": -61,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063197,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "La Costa",
+    "fullName": "Partido de La Costa",
+    "lat": -36.57722,
+    "lng": -56.6875,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430786,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "La Matanza",
+    "fullName": "Partido de La Matanza",
+    "lat": -34.75,
+    "lng": -58.58333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3432039,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "La Plata",
+    "fullName": "Partido de La Plata",
+    "lat": -35,
+    "lng": -58,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3432134,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lanús",
+    "fullName": "Partido de Lanús",
+    "lat": -34.66667,
+    "lng": -58.41667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3849298,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Laprida",
+    "fullName": "Partido de Laprida",
+    "lat": -37.5,
+    "lng": -60.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3431782,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Las Flores",
+    "fullName": "Partido de Las Flores",
+    "lat": -36.08333,
+    "lng": -59.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3847097,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Leandro N. Alem",
+    "fullName": "Partido de Leandro N. Alem",
+    "lat": -34.5,
+    "lng": -61.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8715333,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lezama",
+    "fullName": "Partido de Lezama",
+    "lat": -35.88015,
+    "lng": -57.89692,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3846861,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lincoln",
+    "fullName": "Partido de Lincoln",
+    "lat": -34.8684,
+    "lng": -61.52962,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3431318,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lobería",
+    "fullName": "Partido de Lobería",
+    "lat": -38.08333,
+    "lng": -58.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3431309,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lobos",
+    "fullName": "Partido de Lobos",
+    "lat": -35.25,
+    "lng": -59.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3431270,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Lomas de Zamora",
+    "fullName": "Partido de Lomas de Zamora",
+    "lat": -34.75,
+    "lng": -58.41667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430982,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Luján",
+    "fullName": "Partido de Luján",
+    "lat": -34.58333,
+    "lng": -59.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430951,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Magdalena",
+    "fullName": "Partido de Magdalena",
+    "lat": -35.18487,
+    "lng": -57.68628,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430945,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Maipú",
+    "fullName": "Partido de Maipú",
+    "lat": -36.83333,
+    "lng": -57.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8715332,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Malvinas Argentinas",
+    "fullName": "Partido de Malvinas Argentinas",
+    "lat": -34.50771,
+    "lng": -58.6956,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430869,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Mar Chiquita",
+    "fullName": "Partido de Mar Chiquita",
+    "lat": -37.5,
+    "lng": -57.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430867,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Marcos Paz",
+    "fullName": "Partido de Marcos Paz",
+    "lat": -34.83333,
+    "lng": -58.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430705,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Mercedes",
+    "fullName": "Partido de Mercedes",
+    "lat": -34.66667,
+    "lng": -59.41667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430696,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Merlo",
+    "fullName": "Partido de Merlo",
+    "lat": -34.66583,
+    "lng": -58.72828,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430604,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Monte",
+    "fullName": "Partido de Monte",
+    "lat": -35.5,
+    "lng": -58.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3864881,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Monte Hermoso",
+    "fullName": "Partido de Monte Hermoso",
+    "lat": -38.97944,
+    "lng": -61.29667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430550,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Moreno",
+    "fullName": "Partido de Moreno",
+    "lat": -34.6349,
+    "lng": -58.79059,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430544,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Morón",
+    "fullName": "Partido de Morón",
+    "lat": -34.65139,
+    "lng": -58.62194,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430454,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Navarro",
+    "fullName": "Partido de Navarro",
+    "lat": -35,
+    "lng": -59.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430442,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Necochea",
+    "fullName": "Partido de Necochea",
+    "lat": -38.25,
+    "lng": -59.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3842871,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Nueve de Julio",
+    "fullName": "Partido de Nueve de Julio",
+    "lat": -35.5,
+    "lng": -61,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3842669,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Olavarría",
+    "fullName": "Partido de Olavarría",
+    "lat": -36.75,
+    "lng": -60.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3841799,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Patagones",
+    "fullName": "Partido de Patagones",
+    "lat": -40.25,
+    "lng": -62.91667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3841678,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pehuajó",
+    "fullName": "Partido de Pehuajó",
+    "lat": -35.91667,
+    "lng": -61.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3841610,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pellegrini",
+    "fullName": "Partido de Pellegrini",
+    "lat": -36.2628,
+    "lng": -63.11853,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3841488,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pergamino",
+    "fullName": "Partido de Pergamino",
+    "lat": -33.75,
+    "lng": -60.58333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429987,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pila",
+    "fullName": "Partido de Pila",
+    "lat": -36.25,
+    "lng": -58.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429979,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pilar",
+    "fullName": "Partido de Pilar",
+    "lat": -34.41667,
+    "lng": -58.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430860,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Pinamar",
+    "fullName": "Partido de Pinamar",
+    "lat": -37.11028,
+    "lng": -56.855,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3430859,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Presidente Perón",
+    "fullName": "Partido de Presidente Perón",
+    "lat": -34.91778,
+    "lng": -58.37917,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3840251,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Puan",
+    "fullName": "Partido de Puan",
+    "lat": -38.16667,
+    "lng": -63,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3433417,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Punta Indio",
+    "fullName": "Partido de Punta Indio",
+    "lat": -35.38722,
+    "lng": -57.33833,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429651,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Quilmes",
+    "fullName": "Partido de Quilmes",
+    "lat": -34.75,
+    "lng": -58.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3839441,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Ramallo",
+    "fullName": "Partido de Ramallo",
+    "lat": -33.5,
+    "lng": -60.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429601,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Rauch",
+    "fullName": "Partido de Rauch",
+    "lat": -36.58333,
+    "lng": -58.83333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3838745,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Rivadavia",
+    "fullName": "Partido de Rivadavia",
+    "lat": -35.5,
+    "lng": -63,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3838646,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Rojas",
+    "fullName": "Partido de Rojas",
+    "lat": -34.25,
+    "lng": -60.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429449,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Roque Pérez",
+    "fullName": "Partido de Roque Pérez",
+    "lat": -35.44512,
+    "lng": -59.41064,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3838468,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Saavedra",
+    "fullName": "Partido de Saavedra",
+    "lat": -37.75,
+    "lng": -62.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429389,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Saladillo",
+    "fullName": "Partido de Saladillo",
+    "lat": -35.75,
+    "lng": -59.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3838240,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Salliqueló",
+    "fullName": "Partido de Salliqueló",
+    "lat": -36.66667,
+    "lng": -63.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3838222,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Salto",
+    "fullName": "Partido de Salto",
+    "lat": -34.25,
+    "lng": -60.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429308,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Andrés de Giles",
+    "fullName": "Partido de San Andrés de Giles",
+    "lat": -34.5,
+    "lng": -59.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429247,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Antonio de Areco",
+    "fullName": null,
+    "lat": -34.24236,
+    "lng": -59.46899,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429168,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Cayetano",
+    "fullName": "Partido de San Cayetano",
+    "lat": -38.41667,
+    "lng": -59.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3429088,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Fernando",
+    "fullName": "Partido de San Fernando",
+    "lat": -34.44542,
+    "lng": -58.54202,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3428983,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Isidro",
+    "fullName": "Partido de San Isidro",
+    "lat": -34.49009,
+    "lng": -58.53028,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 7289234,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Miguel",
+    "fullName": "Partido de San Miguel",
+    "lat": -34.55209,
+    "lng": -58.69171,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3836848,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Nicolás",
+    "fullName": "Partido de San Nicolás",
+    "lat": -33.5,
+    "lng": -60.33333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3428533,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Pedro",
+    "fullName": "Partido de San Pedro",
+    "lat": -33.75,
+    "lng": -59.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3428056,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "San Vicente",
+    "fullName": "Partido de San Vicente",
+    "lat": -35.08333,
+    "lng": -58.5,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427896,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Suipacha",
+    "fullName": "Partido de Suipacha",
+    "lat": -34.75,
+    "lng": -59.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427832,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tandil",
+    "fullName": "Partido de Tandil",
+    "lat": -37.33333,
+    "lng": -59.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3834646,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tapalqué",
+    "fullName": "Partido de Tapalqué",
+    "lat": -36.33333,
+    "lng": -60.08333,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427753,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tigre",
+    "fullName": "Partido de Tigre",
+    "lat": -34.42058,
+    "lng": -58.58279,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427709,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tordillo",
+    "fullName": "Partido de Tordillo",
+    "lat": -36.5,
+    "lng": -57.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3834182,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tornquist",
+    "fullName": "Partido de Tornquist",
+    "lat": -38.25,
+    "lng": -62.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3833874,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Trenque Lauquen",
+    "fullName": "Partido de Trenque Lauquen",
+    "lat": -36,
+    "lng": -62.66667,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3833857,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tres Arroyos",
+    "fullName": "Partido de Tres Arroyos",
+    "lat": -38.5,
+    "lng": -60.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427655,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tres de Febrero",
+    "fullName": "Partido de Tres de Febrero",
+    "lat": -34.59987,
+    "lng": -58.56606,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063222,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Tres Lomas",
+    "fullName": "Partido de Tres Lomas",
+    "lat": -36.45278,
+    "lng": -62.8625,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3833100,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Veinticinco de Mayo",
+    "fullName": "Partido de Veinticinco de Mayo",
+    "lat": -35.5,
+    "lng": -60.25,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427504,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Vicente López",
+    "fullName": "Partido de Vicente López",
+    "lat": -34.52353,
+    "lng": -58.47439,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 8063223,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Villa Gesell",
+    "fullName": "Partido de Villa Gesell",
+    "lat": -37.26167,
+    "lng": -56.9725,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3832640,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Villarino",
+    "fullName": "Partido de Villarino",
+    "lat": -39,
+    "lng": -62.75,
+    "tz": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 3427212,
+    "parentId": 3435907,
+    "country": "AR",
+    "name": "Zárate",
+    "fullName": "Partido de Zárate",
+    "lat": -34,
+    "lng": -59.16667,
+    "tz": "America/Argentina/Buenos_Aires"
+  }
+]

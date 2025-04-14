@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 4282211,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Adair County",
+    "fullName": null,
+    "lat": 37.10416,
+    "lng": -85.28065,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4282393,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Allen County",
+    "fullName": null,
+    "lat": 36.75132,
+    "lng": -86.19042,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4282511,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Anderson County",
+    "fullName": null,
+    "lat": 38.00391,
+    "lng": -84.99101,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4283067,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Ballard County",
+    "fullName": null,
+    "lat": 37.05843,
+    "lng": -88.99934,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4283268,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Barren County",
+    "fullName": null,
+    "lat": 36.96558,
+    "lng": -85.93366,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4283333,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Bath County",
+    "fullName": null,
+    "lat": 38.14497,
+    "lng": -83.74267,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4283814,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Bell County",
+    "fullName": null,
+    "lat": 36.73065,
+    "lng": -83.67409,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4048522,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Boone County",
+    "fullName": null,
+    "lat": 38.96986,
+    "lng": -84.72787,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285233,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Bourbon County",
+    "fullName": null,
+    "lat": 38.20673,
+    "lng": -84.21715,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285302,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Boyd County",
+    "fullName": null,
+    "lat": 38.35957,
+    "lng": -82.68773,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285317,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Boyle County",
+    "fullName": null,
+    "lat": 37.62433,
+    "lng": -84.86681,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285325,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Bracken County",
+    "fullName": null,
+    "lat": 38.68881,
+    "lng": -84.09019,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285423,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Breathitt County",
+    "fullName": null,
+    "lat": 37.52162,
+    "lng": -83.32409,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4285428,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Breckinridge County",
+    "fullName": null,
+    "lat": 37.77327,
+    "lng": -86.42928,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4286176,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Bullitt County",
+    "fullName": null,
+    "lat": 37.97008,
+    "lng": -85.69586,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4286382,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Butler County",
+    "fullName": null,
+    "lat": 37.20728,
+    "lng": -86.68176,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4286500,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Caldwell County",
+    "fullName": null,
+    "lat": 37.14533,
+    "lng": -87.86791,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4286549,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Calloway County",
+    "fullName": null,
+    "lat": 36.6211,
+    "lng": -88.2722,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4286705,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Campbell County",
+    "fullName": null,
+    "lat": 38.94648,
+    "lng": -84.3797,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4286990,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Carlisle County",
+    "fullName": null,
+    "lat": 36.85322,
+    "lng": -88.97106,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4287048,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Carroll County",
+    "fullName": null,
+    "lat": 38.66786,
+    "lng": -85.12359,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4287080,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Carter County",
+    "fullName": null,
+    "lat": 38.31817,
+    "lng": -83.04954,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4287126,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Casey County",
+    "fullName": null,
+    "lat": 37.32228,
+    "lng": -84.92837,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4287749,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Christian County",
+    "fullName": null,
+    "lat": 36.89418,
+    "lng": -87.49038,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4287837,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Clark County",
+    "fullName": null,
+    "lat": 37.97085,
+    "lng": -84.1474,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4287883,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Clay County",
+    "fullName": null,
+    "lat": 37.15971,
+    "lng": -83.71468,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4288063,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Clinton County",
+    "fullName": null,
+    "lat": 36.72748,
+    "lng": -85.13601,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4289074,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Crittenden County",
+    "fullName": null,
+    "lat": 37.35272,
+    "lng": -88.09722,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4289242,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Cumberland County",
+    "fullName": null,
+    "lat": 36.78653,
+    "lng": -85.38845,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4289518,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Daviess County",
+    "fullName": null,
+    "lat": 37.73177,
+    "lng": -87.08723,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4290885,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Edmonson County",
+    "fullName": null,
+    "lat": 37.20884,
+    "lng": -86.23862,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4291095,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Elliott County",
+    "fullName": null,
+    "lat": 38.11789,
+    "lng": -83.09762,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4291280,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Estill County",
+    "fullName": null,
+    "lat": 37.69248,
+    "lng": -83.96433,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4291564,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Fayette County",
+    "fullName": null,
+    "lat": 38.04233,
+    "lng": -84.45873,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4291901,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Fleming County",
+    "fullName": null,
+    "lat": 38.37011,
+    "lng": -83.69665,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4291960,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Floyd County",
+    "fullName": null,
+    "lat": 37.55711,
+    "lng": -82.7457,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4292202,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Franklin County",
+    "fullName": null,
+    "lat": 38.23915,
+    "lng": -84.87707,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4292427,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Fulton County",
+    "fullName": null,
+    "lat": 36.55408,
+    "lng": -89.18761,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4292492,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Gallatin County",
+    "fullName": null,
+    "lat": 38.75687,
+    "lng": -84.85931,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4292570,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Garrard County",
+    "fullName": null,
+    "lat": 37.63958,
+    "lng": -84.53763,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4293148,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Grant County",
+    "fullName": null,
+    "lat": 38.64881,
+    "lng": -84.62461,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4293245,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Graves County",
+    "fullName": null,
+    "lat": 36.72314,
+    "lng": -88.65121,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4293301,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Grayson County",
+    "fullName": null,
+    "lat": 37.46082,
+    "lng": -86.34388,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4293371,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Green County",
+    "fullName": null,
+    "lat": 37.26411,
+    "lng": -85.55311,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4293471,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Greenup County",
+    "fullName": null,
+    "lat": 38.54566,
+    "lng": -82.92229,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4293950,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Hancock County",
+    "fullName": null,
+    "lat": 37.84151,
+    "lng": -86.77793,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4294031,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Hardin County",
+    "fullName": null,
+    "lat": 37.69792,
+    "lng": -85.96337,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4294084,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Harlan County",
+    "fullName": null,
+    "lat": 36.85697,
+    "lng": -83.21795,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4294160,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Harrison County",
+    "fullName": null,
+    "lat": 38.44181,
+    "lng": -84.33139,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4294190,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Hart County",
+    "fullName": null,
+    "lat": 37.29993,
+    "lng": -85.88471,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4294512,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Henderson County",
+    "fullName": null,
+    "lat": 37.7959,
+    "lng": -87.57316,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4294546,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Henry County",
+    "fullName": null,
+    "lat": 38.44847,
+    "lng": -85.11893,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4294628,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Hickman County",
+    "fullName": null,
+    "lat": 36.67817,
+    "lng": -88.97622,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4295247,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Hopkins County",
+    "fullName": null,
+    "lat": 37.30882,
+    "lng": -87.54084,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4296106,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Jackson County",
+    "fullName": null,
+    "lat": 37.41978,
+    "lng": -84.00577,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4296212,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 38.18719,
+    "lng": -85.65916,
+    "tz": "America/Kentucky/Louisville"
+  },
+  {
+    "id": 4296292,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Jessamine County",
+    "fullName": null,
+    "lat": 37.87203,
+    "lng": -84.58093,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4296508,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Johnson County",
+    "fullName": null,
+    "lat": 37.84664,
+    "lng": -82.83154,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4296902,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Kenton County",
+    "fullName": null,
+    "lat": 38.93346,
+    "lng": -84.53334,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297180,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Knott County",
+    "fullName": null,
+    "lat": 37.35405,
+    "lng": -82.95413,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297187,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Knox County",
+    "fullName": null,
+    "lat": 36.89067,
+    "lng": -83.85404,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297424,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Larue County",
+    "fullName": null,
+    "lat": 37.5458,
+    "lng": -85.69792,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297480,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Laurel County",
+    "fullName": null,
+    "lat": 37.11067,
+    "lng": -84.1178,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297576,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Lawrence County",
+    "fullName": null,
+    "lat": 38.06788,
+    "lng": -82.73475,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297704,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Lee County",
+    "fullName": null,
+    "lat": 37.5948,
+    "lng": -83.71628,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297902,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Leslie County",
+    "fullName": null,
+    "lat": 37.09406,
+    "lng": -83.38116,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297909,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Letcher County",
+    "fullName": null,
+    "lat": 37.12119,
+    "lng": -82.85528,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4297955,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Lewis County",
+    "fullName": null,
+    "lat": 38.53154,
+    "lng": -83.37805,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4298293,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 37.45535,
+    "lng": -84.66081,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4298811,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Livingston County",
+    "fullName": null,
+    "lat": 37.2097,
+    "lng": -88.35381,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4298932,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Logan County",
+    "fullName": null,
+    "lat": 36.8597,
+    "lng": -86.87894,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4299595,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Lyon County",
+    "fullName": null,
+    "lat": 37.01913,
+    "lng": -88.08328,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4299665,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Madison County",
+    "fullName": null,
+    "lat": 37.72018,
+    "lng": -84.278,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4299695,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Magoffin County",
+    "fullName": null,
+    "lat": 37.70647,
+    "lng": -83.06491,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4299849,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Marion County",
+    "fullName": null,
+    "lat": 37.55253,
+    "lng": -85.26963,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4299896,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Marshall County",
+    "fullName": null,
+    "lat": 36.88345,
+    "lng": -88.32938,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4299939,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Martin County",
+    "fullName": null,
+    "lat": 37.80158,
+    "lng": -82.51329,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300012,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Mason County",
+    "fullName": null,
+    "lat": 38.59517,
+    "lng": -83.82425,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300244,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "McCracken County",
+    "fullName": null,
+    "lat": 37.05408,
+    "lng": -88.71272,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4300249,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "McCreary County",
+    "fullName": null,
+    "lat": 36.73714,
+    "lng": -84.48417,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300401,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "McLean County",
+    "fullName": null,
+    "lat": 37.52919,
+    "lng": -87.26361,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4300426,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Meade County",
+    "fullName": null,
+    "lat": 37.96984,
+    "lng": -86.21718,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300562,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Menifee County",
+    "fullName": null,
+    "lat": 37.94138,
+    "lng": -83.59887,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300572,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Mercer County",
+    "fullName": null,
+    "lat": 37.81103,
+    "lng": -84.87444,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4300606,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Metcalfe County",
+    "fullName": null,
+    "lat": 36.99054,
+    "lng": -85.62925,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4301192,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Monroe County",
+    "fullName": null,
+    "lat": 36.71218,
+    "lng": -85.71652,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4301216,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Montgomery County",
+    "fullName": null,
+    "lat": 38.03353,
+    "lng": -83.9131,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4301333,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Morgan County",
+    "fullName": null,
+    "lat": 37.92228,
+    "lng": -83.25889,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4301955,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Muhlenberg County",
+    "fullName": null,
+    "lat": 37.21579,
+    "lng": -87.14204,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4302277,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Nelson County",
+    "fullName": null,
+    "lat": 37.80513,
+    "lng": -85.46599,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4302564,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Nicholas County",
+    "fullName": null,
+    "lat": 38.3356,
+    "lng": -84.01533,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4302977,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Ohio County",
+    "fullName": null,
+    "lat": 37.47819,
+    "lng": -86.84889,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4303164,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Oldham County",
+    "fullName": null,
+    "lat": 38.39944,
+    "lng": -85.44837,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4303402,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Owen County",
+    "fullName": null,
+    "lat": 38.51964,
+    "lng": -84.82811,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4303455,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Owsley County",
+    "fullName": null,
+    "lat": 37.4192,
+    "lng": -83.68311,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4303870,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Pendleton County",
+    "fullName": null,
+    "lat": 38.69563,
+    "lng": -84.36027,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4303951,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Perry County",
+    "fullName": null,
+    "lat": 37.24429,
+    "lng": -83.22148,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4304226,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Pike County",
+    "fullName": null,
+    "lat": 37.46902,
+    "lng": -82.39587,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4305121,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Powell County",
+    "fullName": null,
+    "lat": 37.83115,
+    "lng": -83.82377,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4305364,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Pulaski County",
+    "fullName": null,
+    "lat": 37.10393,
+    "lng": -84.57718,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4306340,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Robertson County",
+    "fullName": null,
+    "lat": 38.51882,
+    "lng": -84.05203,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4306470,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Rockcastle County",
+    "fullName": null,
+    "lat": 37.36518,
+    "lng": -84.31594,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4048572,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Rowan County",
+    "fullName": null,
+    "lat": 38.19626,
+    "lng": -83.42108,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4306996,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Russell County",
+    "fullName": null,
+    "lat": 36.99103,
+    "lng": -85.05869,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4307808,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Scott County",
+    "fullName": null,
+    "lat": 38.29156,
+    "lng": -84.58393,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4308112,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Shelby County",
+    "fullName": null,
+    "lat": 38.21544,
+    "lng": -85.19477,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4308447,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Simpson County",
+    "fullName": null,
+    "lat": 36.74194,
+    "lng": -86.58232,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4309179,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Spencer County",
+    "fullName": null,
+    "lat": 38.03251,
+    "lng": -85.32785,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4310601,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Taylor County",
+    "fullName": null,
+    "lat": 37.36646,
+    "lng": -85.32784,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4310988,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Todd County",
+    "fullName": null,
+    "lat": 36.83556,
+    "lng": -87.17915,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4311258,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Trigg County",
+    "fullName": null,
+    "lat": 36.80632,
+    "lng": -87.87337,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4311266,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Trimble County",
+    "fullName": null,
+    "lat": 38.61303,
+    "lng": -85.33757,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4311683,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 37.65845,
+    "lng": -87.94538,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4312732,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Warren County",
+    "fullName": null,
+    "lat": 36.99358,
+    "lng": -86.4238,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4312745,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 37.75338,
+    "lng": -85.17475,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4312835,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Wayne County",
+    "fullName": null,
+    "lat": 36.80127,
+    "lng": -84.82863,
+    "tz": "America/Kentucky/Monticello"
+  },
+  {
+    "id": 4312885,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Webster County",
+    "fullName": null,
+    "lat": 37.51842,
+    "lng": -87.68316,
+    "tz": "America/Chicago"
+  },
+  {
+    "id": 4313367,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Whitley County",
+    "fullName": null,
+    "lat": 36.75807,
+    "lng": -84.14518,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4313865,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Wolfe County",
+    "fullName": null,
+    "lat": 37.73932,
+    "lng": -83.49318,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4313946,
+    "parentId": 6254925,
+    "country": "US",
+    "name": "Woodford County",
+    "fullName": null,
+    "lat": 38.04239,
+    "lng": -84.74359,
+    "tz": "America/New_York"
+  }
+]

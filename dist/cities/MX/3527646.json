@@ -1,0 +1,162 @@
+[
+  {
+    "id": 8379114,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Álvaro Obregón",
+    "fullName": null,
+    "lat": 19.37496,
+    "lng": -99.21976,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379132,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Azcapotzalco",
+    "fullName": null,
+    "lat": 19.48731,
+    "lng": -99.18766,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379133,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Benito Juárez",
+    "fullName": null,
+    "lat": 19.39812,
+    "lng": -99.1571,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379369,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Coyoacán",
+    "fullName": null,
+    "lat": 19.34678,
+    "lng": -99.15968,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379371,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Cuajimalpa de Morelos",
+    "fullName": null,
+    "lat": 19.35925,
+    "lng": -99.28774,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379372,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Cuauhtémoc",
+    "fullName": null,
+    "lat": 19.4449,
+    "lng": -99.14303,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379376,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Gustavo A. Madero",
+    "fullName": null,
+    "lat": 19.48407,
+    "lng": -99.11144,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379454,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Iztacalco",
+    "fullName": null,
+    "lat": 19.39601,
+    "lng": -99.08192,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379455,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Iztapalapa",
+    "fullName": null,
+    "lat": 19.35318,
+    "lng": -99.05342,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379458,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Magdalena Contreras",
+    "fullName": null,
+    "lat": 19.31495,
+    "lng": -99.2407,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379460,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Miguel Hidalgo",
+    "fullName": null,
+    "lat": 19.40824,
+    "lng": -99.19212,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379461,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Milpa Alta",
+    "fullName": null,
+    "lat": 19.19405,
+    "lng": -99.02149,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379478,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Tláhuac",
+    "fullName": null,
+    "lat": 19.27436,
+    "lng": -99.00278,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379479,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Tlalpan",
+    "fullName": null,
+    "lat": 19.27874,
+    "lng": -99.16569,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379480,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Venustiano Carranza",
+    "fullName": null,
+    "lat": 19.43972,
+    "lng": -99.1105,
+    "tz": "America/Mexico_City"
+  },
+  {
+    "id": 8379481,
+    "parentId": 3527646,
+    "country": "MX",
+    "name": "Xochimilco",
+    "fullName": null,
+    "lat": 19.27761,
+    "lng": -99.11591,
+    "tz": "America/Mexico_City"
+  }
+]

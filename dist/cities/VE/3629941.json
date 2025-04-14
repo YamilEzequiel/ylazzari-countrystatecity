@@ -1,0 +1,142 @@
+[
+  {
+    "id": 8129193,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Agua Blanca",
+    "fullName": "Municipio Agua Blanca",
+    "lat": 9.66146,
+    "lng": -69.10752,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3649016,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Araure",
+    "fullName": "Municipio Araure",
+    "lat": 9.63333,
+    "lng": -69.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640903,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Esteller",
+    "fullName": "Municipio Esteller",
+    "lat": 9.25,
+    "lng": -69.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640225,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Guanare",
+    "fullName": "Municipio Guanare",
+    "lat": 8.91667,
+    "lng": -69.5,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3640213,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Guanarito",
+    "fullName": "Municipio Guanarito",
+    "lat": 8.5,
+    "lng": -69,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129158,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Monseñor José Vicente de Unda",
+    "fullName": "Municipio Monseñor José Vicente de Unda",
+    "lat": 9.43365,
+    "lng": -69.94754,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631207,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Ospino",
+    "fullName": "Municipio Ospino",
+    "lat": 9.33333,
+    "lng": -69.41667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631170,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Páez",
+    "fullName": "Municipio Páez",
+    "lat": 9.5,
+    "lng": -69.05,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129163,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Papelón",
+    "fullName": "Municipio Papelón",
+    "lat": 8.94109,
+    "lng": -69.46021,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129252,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "San Genaro de Boconoito",
+    "fullName": "Municipio San Genaro de Boconoito",
+    "lat": 8.84659,
+    "lng": -69.98032,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129184,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "San Rafael de Onoto",
+    "fullName": "Municipio San Rafael de Onoto",
+    "lat": 9.67742,
+    "lng": -68.97344,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129157,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Santa Rosalía",
+    "fullName": "Municipio Santa Rosalía",
+    "lat": 9.09857,
+    "lng": -69.04914,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626660,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 9.33333,
+    "lng": -70,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3625845,
+    "parentId": 3629941,
+    "country": "VE",
+    "name": "Turén",
+    "fullName": "Municipio Turén",
+    "lat": 9.16667,
+    "lng": -68.83333,
+    "tz": "America/Caracas"
+  }
+]

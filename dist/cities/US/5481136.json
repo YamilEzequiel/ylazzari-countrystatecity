@@ -1,0 +1,332 @@
+[
+  {
+    "id": 5457180,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Bernalillo County",
+    "fullName": null,
+    "lat": 35.05131,
+    "lng": -106.67017,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5460788,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Catron County",
+    "fullName": null,
+    "lat": 33.91533,
+    "lng": -108.40473,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5461428,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Chaves County",
+    "fullName": null,
+    "lat": 33.36319,
+    "lng": -104.467,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5462019,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Cibola County",
+    "fullName": null,
+    "lat": 34.91257,
+    "lng": -107.99971,
+    "tz": "America/Phoenix"
+  },
+  {
+    "id": 5462567,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Colfax County",
+    "fullName": null,
+    "lat": 36.60612,
+    "lng": -104.64686,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5464151,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Curry County",
+    "fullName": null,
+    "lat": 34.57416,
+    "lng": -103.34691,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5464477,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "De Baca County",
+    "fullName": null,
+    "lat": 34.34239,
+    "lng": -104.412,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5465283,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Doña Ana County",
+    "fullName": null,
+    "lat": 32.35268,
+    "lng": -106.8328,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5466318,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Eddy County",
+    "fullName": null,
+    "lat": 32.47149,
+    "lng": -104.30431,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5469835,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Grant County",
+    "fullName": null,
+    "lat": 32.73901,
+    "lng": -108.38225,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5470197,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Guadalupe County",
+    "fullName": null,
+    "lat": 34.86333,
+    "lng": -104.7907,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5470675,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Harding County",
+    "fullName": null,
+    "lat": 35.85794,
+    "lng": -103.81993,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5471293,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Hidalgo County",
+    "fullName": null,
+    "lat": 31.91416,
+    "lng": -108.71482,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5475594,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Lea County",
+    "fullName": null,
+    "lat": 32.79218,
+    "lng": -103.41245,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5475934,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 33.74524,
+    "lng": -105.45925,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5476834,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Los Alamos County",
+    "fullName": null,
+    "lat": 35.86937,
+    "lng": -106.30729,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5477433,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Luna County",
+    "fullName": null,
+    "lat": 32.18215,
+    "lng": -107.74977,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5478585,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "McKinley County",
+    "fullName": null,
+    "lat": 35.58061,
+    "lng": -108.26193,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5480123,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Mora County",
+    "fullName": null,
+    "lat": 36.00995,
+    "lng": -104.94458,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5482932,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Otero County",
+    "fullName": null,
+    "lat": 32.61316,
+    "lng": -105.74168,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5485605,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Quay County",
+    "fullName": null,
+    "lat": 35.10436,
+    "lng": -103.54974,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5487732,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Rio Arriba County",
+    "fullName": null,
+    "lat": 36.50957,
+    "lng": -106.69311,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5488372,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Roosevelt County",
+    "fullName": null,
+    "lat": 34.02127,
+    "lng": -103.48018,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5489698,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "San Juan County",
+    "fullName": null,
+    "lat": 36.50847,
+    "lng": -108.3206,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5489818,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "San Miguel County",
+    "fullName": null,
+    "lat": 35.48029,
+    "lng": -104.81585,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5490135,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Sandoval County",
+    "fullName": null,
+    "lat": 35.68855,
+    "lng": -106.86584,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5490272,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Santa Fe County",
+    "fullName": null,
+    "lat": 35.50686,
+    "lng": -105.97612,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5491395,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Sierra County",
+    "fullName": null,
+    "lat": 33.13047,
+    "lng": -107.1925,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5492031,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Socorro County",
+    "fullName": null,
+    "lat": 34.00724,
+    "lng": -106.93033,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5493780,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Taos County",
+    "fullName": null,
+    "lat": 36.5783,
+    "lng": -105.63097,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5494881,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Torrance County",
+    "fullName": null,
+    "lat": 34.64047,
+    "lng": -105.85078,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5495841,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 36.48176,
+    "lng": -103.47099,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5496319,
+    "parentId": 5481136,
+    "country": "US",
+    "name": "Valencia County",
+    "fullName": null,
+    "lat": 34.71545,
+    "lng": -106.80911,
+    "tz": "America/Denver"
+  }
+]

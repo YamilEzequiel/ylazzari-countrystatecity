@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11820792,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Acegua",
+    "fullName": null,
+    "lat": -31.87054,
+    "lng": -54.36067,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820874,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Arbolito",
+    "fullName": null,
+    "lat": -32.65691,
+    "lng": -54.13196,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820848,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Arevalo",
+    "fullName": null,
+    "lat": -32.73891,
+    "lng": -55.01603,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820796,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Fraile Muerto",
+    "fullName": null,
+    "lat": -32.49252,
+    "lng": -54.52964,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820791,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Isidoro Noblia",
+    "fullName": null,
+    "lat": -32.03132,
+    "lng": -54.1332,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820794,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Placido Rosas",
+    "fullName": null,
+    "lat": -32.68664,
+    "lng": -53.71597,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820795,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Ramon Trigo",
+    "fullName": null,
+    "lat": -32.25232,
+    "lng": -54.59411,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820834,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Rio Branco",
+    "fullName": null,
+    "lat": -32.62083,
+    "lng": -53.46143,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820793,
+    "parentId": 3443173,
+    "country": "UY",
+    "name": "Tupambae",
+    "fullName": null,
+    "lat": -32.66114,
+    "lng": -54.80492,
+    "tz": "America/Montevideo"
+  }
+]

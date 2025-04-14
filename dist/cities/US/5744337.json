@@ -1,0 +1,362 @@
+[
+  {
+    "id": 5712180,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Baker County",
+    "fullName": null,
+    "lat": 44.70923,
+    "lng": -117.67534,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5713677,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Benton County",
+    "fullName": null,
+    "lat": 44.49176,
+    "lng": -123.42931,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5719297,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Clackamas County",
+    "fullName": null,
+    "lat": 45.18816,
+    "lng": -122.22094,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5719408,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Clatsop County",
+    "fullName": null,
+    "lat": 46.01747,
+    "lng": -123.71677,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5720173,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Columbia County",
+    "fullName": null,
+    "lat": 45.94377,
+    "lng": -123.08805,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5720502,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Coos County",
+    "fullName": null,
+    "lat": 43.18501,
+    "lng": -124.09333,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5721611,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Crook County",
+    "fullName": null,
+    "lat": 44.14219,
+    "lng": -120.35658,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5721936,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Curry County",
+    "fullName": null,
+    "lat": 42.46661,
+    "lng": -124.21534,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5722958,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Deschutes County",
+    "fullName": null,
+    "lat": 43.91488,
+    "lng": -121.22789,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5723759,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Douglas County",
+    "fullName": null,
+    "lat": 43.28536,
+    "lng": -123.17942,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5728364,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Gilliam County",
+    "fullName": null,
+    "lat": 45.37806,
+    "lng": -120.21087,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5729054,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Grant County",
+    "fullName": null,
+    "lat": 44.49125,
+    "lng": -119.00738,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5730293,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Harney County",
+    "fullName": null,
+    "lat": 43.06402,
+    "lng": -118.96787,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5731767,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Hood River County",
+    "fullName": null,
+    "lat": 45.51911,
+    "lng": -121.65111,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5733351,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Jackson County",
+    "fullName": null,
+    "lat": 42.43215,
+    "lng": -122.72843,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5733534,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 44.62941,
+    "lng": -121.17541,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5734120,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Josephine County",
+    "fullName": null,
+    "lat": 42.36546,
+    "lng": -123.55558,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5735237,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Klamath County",
+    "fullName": null,
+    "lat": 42.68634,
+    "lng": -121.65013,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5735647,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Lake County",
+    "fullName": null,
+    "lat": 42.79339,
+    "lng": -120.38747,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5735869,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Lane County",
+    "fullName": null,
+    "lat": 43.94155,
+    "lng": -122.87655,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5736643,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 44.64568,
+    "lng": -123.9077,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5736713,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Linn County",
+    "fullName": null,
+    "lat": 44.48857,
+    "lng": -122.53419,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5738839,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Malheur County",
+    "fullName": null,
+    "lat": 43.19341,
+    "lng": -117.62307,
+    "tz": "America/Boise"
+  },
+  {
+    "id": 5739051,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Marion County",
+    "fullName": null,
+    "lat": 44.90319,
+    "lng": -122.58473,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5741531,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Morrow County",
+    "fullName": null,
+    "lat": 45.41883,
+    "lng": -119.5843,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5742126,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Multnomah County",
+    "fullName": null,
+    "lat": 45.54687,
+    "lng": -122.41534,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5746351,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Polk County",
+    "fullName": null,
+    "lat": 44.90348,
+    "lng": -123.41337,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5751614,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Sherman County",
+    "fullName": null,
+    "lat": 45.40521,
+    "lng": -120.68932,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5756780,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Tillamook County",
+    "fullName": null,
+    "lat": 45.45645,
+    "lng": -123.75877,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5758058,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Umatilla County",
+    "fullName": null,
+    "lat": 45.5919,
+    "lng": -118.73683,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5758120,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Union County",
+    "fullName": null,
+    "lat": 45.31035,
+    "lng": -118.009,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5759046,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Wallowa County",
+    "fullName": null,
+    "lat": 45.57983,
+    "lng": -117.18107,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5759298,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Wasco County",
+    "fullName": null,
+    "lat": 45.16005,
+    "lng": -121.16815,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5759333,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 45.56007,
+    "lng": -123.09849,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5760229,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Wheeler County",
+    "fullName": null,
+    "lat": 44.72606,
+    "lng": -120.02746,
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "id": 5761960,
+    "parentId": 5744337,
+    "country": "US",
+    "name": "Yamhill County",
+    "fullName": null,
+    "lat": 45.2326,
+    "lng": -123.30815,
+    "tz": "America/Los_Angeles"
+  }
+]

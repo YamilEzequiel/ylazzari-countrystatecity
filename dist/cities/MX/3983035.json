@@ -1,0 +1,182 @@
+[
+  {
+    "id": 8583348,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Ahome",
+    "fullName": null,
+    "lat": 25.89893,
+    "lng": -109.08106,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583349,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Angostura",
+    "fullName": null,
+    "lat": 25.29136,
+    "lng": -108.12742,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583350,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Badiraguato",
+    "fullName": null,
+    "lat": 25.6392,
+    "lng": -107.39599,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583354,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Choix",
+    "fullName": null,
+    "lat": 26.63568,
+    "lng": -108.22314,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583351,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Concordia",
+    "fullName": null,
+    "lat": 23.36259,
+    "lng": -106.00161,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583352,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Cosalá",
+    "fullName": null,
+    "lat": 24.47551,
+    "lng": -106.78037,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583353,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Culiacán",
+    "fullName": null,
+    "lat": 24.70309,
+    "lng": -107.35265,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583357,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "El Fuerte",
+    "fullName": null,
+    "lat": 26.19174,
+    "lng": -108.74931,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583355,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Elota",
+    "fullName": null,
+    "lat": 24.03463,
+    "lng": -106.84491,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583356,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Escuinapa",
+    "fullName": null,
+    "lat": 22.7388,
+    "lng": -105.72987,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8582651,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Guasave",
+    "fullName": null,
+    "lat": 25.58081,
+    "lng": -108.5135,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583358,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Mazatlán",
+    "fullName": null,
+    "lat": 23.22,
+    "lng": -106.42,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583359,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Mocorito",
+    "fullName": null,
+    "lat": 25.32192,
+    "lng": -107.77442,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583364,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Navolato",
+    "fullName": null,
+    "lat": 24.73457,
+    "lng": -107.68282,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583360,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Rosario",
+    "fullName": null,
+    "lat": 23.01761,
+    "lng": -105.85768,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583361,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Salvador Alvarado",
+    "fullName": null,
+    "lat": 25.4306,
+    "lng": -108.0765,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583362,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "San Ignacio",
+    "fullName": null,
+    "lat": 23.96168,
+    "lng": -106.41048,
+    "tz": "America/Mazatlan"
+  },
+  {
+    "id": 8583363,
+    "parentId": 3983035,
+    "country": "MX",
+    "name": "Sinaloa",
+    "fullName": null,
+    "lat": 25.94103,
+    "lng": -108.09076,
+    "tz": "America/Mazatlan"
+  }
+]

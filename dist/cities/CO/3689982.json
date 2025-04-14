@@ -1,0 +1,112 @@
+[
+  {
+    "id": 9172023,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "El Encanto",
+    "fullName": null,
+    "lat": -1.56261,
+    "lng": -73.25684,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172025,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "La Chorrera",
+    "fullName": null,
+    "lat": -1.48894,
+    "lng": -72.72935,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172026,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "La Pedrera",
+    "fullName": null,
+    "lat": -1.65596,
+    "lng": -70.22186,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172266,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "La Victoria",
+    "fullName": null,
+    "lat": -0.18311,
+    "lng": -71.0376,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172028,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Leticia",
+    "fullName": null,
+    "lat": -3.65829,
+    "lng": -70.02817,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172030,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Miriti - Paraná",
+    "fullName": null,
+    "lat": -0.81858,
+    "lng": -70.78925,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609512,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Puerto Alegría",
+    "fullName": null,
+    "lat": -0.96886,
+    "lng": -73.74962,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9609513,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Puerto Arica",
+    "fullName": null,
+    "lat": -1.90677,
+    "lng": -71.14653,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172031,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Puerto Nariño",
+    "fullName": null,
+    "lat": -3.60552,
+    "lng": -70.41458,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172033,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Puerto Santander",
+    "fullName": null,
+    "lat": -1.0987,
+    "lng": -71.93911,
+    "tz": "America/Bogota"
+  },
+  {
+    "id": 9172034,
+    "parentId": 3689982,
+    "country": "CO",
+    "name": "Tarapacá",
+    "fullName": null,
+    "lat": -2.88544,
+    "lng": -69.77692,
+    "tz": "America/Bogota"
+  }
+]

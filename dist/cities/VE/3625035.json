@@ -1,0 +1,212 @@
+[
+  {
+    "id": 8131511,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Almirante Padilla",
+    "fullName": "Municipio Almirante Padilla",
+    "lat": 10.954,
+    "lng": -71.64906,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3648586,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Baralt",
+    "fullName": "Municipio Baralt",
+    "lat": 9.83333,
+    "lng": -70.91667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129199,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Cabimas",
+    "fullName": "Municipio Cabimas",
+    "lat": 10.36667,
+    "lng": -71.4,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129217,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Catatumbo",
+    "fullName": "Municipio Catatumbo",
+    "lat": 9.06085,
+    "lng": -72.23413,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3645361,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Colón",
+    "fullName": "Municipio Colón",
+    "lat": 9,
+    "lng": -72.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131512,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Francisco Javier Pulgar",
+    "fullName": "Municipio Francisco Javier Pulgar",
+    "lat": 8.9635,
+    "lng": -71.6173,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131513,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Jesús Enrique Lossada",
+    "fullName": "Municipio Jesús Enrique Lossada",
+    "lat": 10.62062,
+    "lng": -71.83651,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129265,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Jesús María Semprún",
+    "fullName": "Municipio Jesús María Semprún",
+    "lat": 8.74493,
+    "lng": -72.51967,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129197,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "La Cañada de Urdaneta",
+    "fullName": "Municipio La Cañada de Urdaneta",
+    "lat": 10.8,
+    "lng": -71.76667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129209,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Lagunillas",
+    "fullName": "Municipio Lagunillas",
+    "lat": 10.19635,
+    "lng": -71.30818,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129198,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Machiques de Perijá",
+    "fullName": "Municipio Machiques de Perijá",
+    "lat": 10.06444,
+    "lng": -72.545,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3633019,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Mara",
+    "fullName": "Municipio Mara",
+    "lat": 10.91667,
+    "lng": -72.08333,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3633006,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Maracaibo",
+    "fullName": "Municipio Maracaibo",
+    "lat": 10.66667,
+    "lng": -72.16667,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3632193,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Miranda",
+    "fullName": "Municipio Miranda",
+    "lat": 10.75,
+    "lng": -71.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3631168,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Páez",
+    "fullName": "Municipio Páez",
+    "lat": 11.33333,
+    "lng": -72,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131514,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Rosario de Perijá",
+    "fullName": "Municipio Rosario de Perijá",
+    "lat": 10.32573,
+    "lng": -72.31441,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131515,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "San Francisco",
+    "fullName": "Municipio San Francisco",
+    "lat": 10.55448,
+    "lng": -71.70605,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131516,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Santa Rita",
+    "fullName": "Municipio Santa Rita",
+    "lat": 10.53473,
+    "lng": -71.50692,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8129196,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Simón Bolívar",
+    "fullName": "Municipio Simón Bolívar",
+    "lat": 10.25838,
+    "lng": -71.36865,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 3626661,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Sucre",
+    "fullName": "Municipio Sucre",
+    "lat": 9.08333,
+    "lng": -71.25,
+    "tz": "America/Caracas"
+  },
+  {
+    "id": 8131517,
+    "parentId": 3625035,
+    "country": "VE",
+    "name": "Valmore Rodríguez",
+    "fullName": "Municipio Valmore Rodríguez",
+    "lat": 9.9702,
+    "lng": -71.14729,
+    "tz": "America/Caracas"
+  }
+]

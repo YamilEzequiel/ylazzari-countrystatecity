@@ -1,4 +1,4 @@
-import { Language } from "../shared/enum/index-enum";
+import { Language } from "../shared/enum/general-enum";
 import { Country } from "../shared/interface/country-interface";
 import { LIST_COUNTRY } from "./country-list";
 
@@ -7,6 +7,7 @@ export { LIST_COUNTRY } from "./country-list";
 /**
  * @class CountryService
  * @description Class for the country service
+ * @version 1.0.6
  */
 export class CountryService {
   constructor() {}
@@ -28,6 +29,19 @@ export class CountryService {
    */
   public getAllCountries = (): Country[] => {
     return Object.values(LIST_COUNTRY);
+  };
+
+  /**
+   * @method getAllCountriesOnlyNames
+   * @description Method to get all the countries only with the name
+   * @returns The countries array
+   */
+  public getAllCountriesOnlyNames = (): { [key: string]: string } => {
+    const countries: { [key: string]: string } = {};
+    Object.entries(LIST_COUNTRY).forEach(([key, country]) => {
+      countries[key] = (country as Country).en;
+    });
+    return countries;
   };
 
   /**

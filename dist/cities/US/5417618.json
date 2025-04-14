@@ -1,0 +1,642 @@
+[
+  {
+    "id": 5411363,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Adams County",
+    "fullName": null,
+    "lat": 39.87363,
+    "lng": -104.33791,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5550375,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Alamosa County",
+    "fullName": null,
+    "lat": 37.57289,
+    "lng": -105.78829,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5412056,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Arapahoe County",
+    "fullName": null,
+    "lat": 39.64977,
+    "lng": -104.33924,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5412082,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Archuleta County",
+    "fullName": null,
+    "lat": 37.1936,
+    "lng": -107.04833,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5412453,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Baca County",
+    "fullName": null,
+    "lat": 37.31918,
+    "lng": -102.56047,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5413481,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Bent County",
+    "fullName": null,
+    "lat": 37.95509,
+    "lng": -103.0717,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5574999,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Boulder County",
+    "fullName": null,
+    "lat": 40.09246,
+    "lng": -105.3577,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5415040,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Broomfield County",
+    "fullName": null,
+    "lat": 39.95413,
+    "lng": -105.05266,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5416621,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Chaffee County",
+    "fullName": null,
+    "lat": 38.7469,
+    "lng": -106.19407,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5416840,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Cheyenne County",
+    "fullName": null,
+    "lat": 38.82794,
+    "lng": -102.6034,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5417183,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Clear Creek County",
+    "fullName": null,
+    "lat": 39.6891,
+    "lng": -105.64436,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5417799,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Conejos County",
+    "fullName": null,
+    "lat": 37.2007,
+    "lng": -106.19163,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5418130,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Costilla County",
+    "fullName": null,
+    "lat": 37.2781,
+    "lng": -105.42827,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5418687,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Crowley County",
+    "fullName": null,
+    "lat": 38.32666,
+    "lng": -103.78483,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5418854,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Custer County",
+    "fullName": null,
+    "lat": 38.10868,
+    "lng": -105.36747,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5419338,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Delta County",
+    "fullName": null,
+    "lat": 38.86137,
+    "lng": -107.86288,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5419396,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Denver County",
+    "fullName": null,
+    "lat": 39.76204,
+    "lng": -104.87635,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5419761,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Dolores County",
+    "fullName": null,
+    "lat": 37.7516,
+    "lng": -108.51722,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5419891,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Douglas County",
+    "fullName": null,
+    "lat": 39.32972,
+    "lng": -104.92956,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5420332,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Eagle County",
+    "fullName": null,
+    "lat": 39.62783,
+    "lng": -106.6953,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5420926,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "El Paso County",
+    "fullName": null,
+    "lat": 38.83209,
+    "lng": -104.52558,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5420936,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Elbert County",
+    "fullName": null,
+    "lat": 39.28656,
+    "lng": -104.13589,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5422448,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Fremont County",
+    "fullName": null,
+    "lat": 38.47297,
+    "lng": -105.43966,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5422751,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Garfield County",
+    "fullName": null,
+    "lat": 39.59931,
+    "lng": -107.90395,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5422987,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Gilpin County",
+    "fullName": null,
+    "lat": 39.85756,
+    "lng": -105.52253,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5577529,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Grand County",
+    "fullName": null,
+    "lat": 40.10261,
+    "lng": -106.11836,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5424092,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Gunnison County",
+    "fullName": null,
+    "lat": 38.6668,
+    "lng": -107.0317,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5425136,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Hinsdale County",
+    "fullName": null,
+    "lat": 37.82134,
+    "lng": -107.30031,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5425737,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Huerfano County",
+    "fullName": null,
+    "lat": 37.68468,
+    "lng": -104.96058,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5578418,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Jackson County",
+    "fullName": null,
+    "lat": 40.66643,
+    "lng": -106.34279,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5426503,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Jefferson County",
+    "fullName": null,
+    "lat": 39.58642,
+    "lng": -105.25047,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5427500,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Kiowa County",
+    "fullName": null,
+    "lat": 38.43269,
+    "lng": -102.74034,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5427526,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Kit Carson County",
+    "fullName": null,
+    "lat": 39.30544,
+    "lng": -102.60289,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5427717,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "La Plata County",
+    "fullName": null,
+    "lat": 37.28656,
+    "lng": -107.84334,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5427799,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Lake County",
+    "fullName": null,
+    "lat": 39.20238,
+    "lng": -106.34484,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5578884,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Larimer County",
+    "fullName": null,
+    "lat": 40.66641,
+    "lng": -105.46116,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5428059,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Las Animas County",
+    "fullName": null,
+    "lat": 37.31585,
+    "lng": -104.03872,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5428518,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Lincoln County",
+    "fullName": null,
+    "lat": 38.98807,
+    "lng": -103.51397,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5579185,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Logan County",
+    "fullName": null,
+    "lat": 40.72468,
+    "lng": -103.1101,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5430806,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Mesa County",
+    "fullName": null,
+    "lat": 39.01828,
+    "lng": -108.46645,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5431333,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Mineral County",
+    "fullName": null,
+    "lat": 37.669,
+    "lng": -106.92409,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5579973,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Moffat County",
+    "fullName": null,
+    "lat": 40.61843,
+    "lng": -108.2073,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5431680,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Montezuma County",
+    "fullName": null,
+    "lat": 37.33841,
+    "lng": -108.59671,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5431716,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Montrose County",
+    "fullName": null,
+    "lat": 38.40218,
+    "lng": -108.26936,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5580055,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Morgan County",
+    "fullName": null,
+    "lat": 40.26271,
+    "lng": -103.80982,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5433658,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Otero County",
+    "fullName": null,
+    "lat": 37.9027,
+    "lng": -103.71645,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5433677,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Ouray County",
+    "fullName": null,
+    "lat": 38.1555,
+    "lng": -107.76932,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5433959,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Park County",
+    "fullName": null,
+    "lat": 39.1193,
+    "lng": -105.71717,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5580855,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Phillips County",
+    "fullName": null,
+    "lat": 40.59388,
+    "lng": -102.35758,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5434773,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Pitkin County",
+    "fullName": null,
+    "lat": 39.21711,
+    "lng": -106.91658,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5435436,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Prowers County",
+    "fullName": null,
+    "lat": 37.95518,
+    "lng": -102.39335,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5435465,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Pueblo County",
+    "fullName": null,
+    "lat": 38.17342,
+    "lng": -104.51285,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5436472,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Rio Blanco County",
+    "fullName": null,
+    "lat": 39.97984,
+    "lng": -108.21721,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5436477,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Rio Grande County",
+    "fullName": null,
+    "lat": 37.58252,
+    "lng": -106.38321,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5581553,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Routt County",
+    "fullName": null,
+    "lat": 40.48507,
+    "lng": -106.99119,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5437350,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Saguache County",
+    "fullName": null,
+    "lat": 38.08055,
+    "lng": -106.28156,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5437668,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "San Juan County",
+    "fullName": null,
+    "lat": 37.76404,
+    "lng": -107.67615,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5437707,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "San Miguel County",
+    "fullName": null,
+    "lat": 38.00374,
+    "lng": -108.40583,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5581788,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Sedgwick County",
+    "fullName": null,
+    "lat": 40.87591,
+    "lng": -102.35179,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5440680,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Summit County",
+    "fullName": null,
+    "lat": 39.63417,
+    "lng": -106.11638,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5441188,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Teller County",
+    "fullName": null,
+    "lat": 38.88217,
+    "lng": -105.16183,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5443305,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 39.97106,
+    "lng": -103.20125,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5583239,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Weld County",
+    "fullName": null,
+    "lat": 40.55484,
+    "lng": -104.39253,
+    "tz": "America/Denver"
+  },
+  {
+    "id": 5444907,
+    "parentId": 5417618,
+    "country": "US",
+    "name": "Yuma County",
+    "fullName": null,
+    "lat": 40.0029,
+    "lng": -102.42423,
+    "tz": "America/Denver"
+  }
+]

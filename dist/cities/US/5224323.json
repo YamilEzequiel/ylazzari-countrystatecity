@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5221078,
+    "parentId": 5224323,
+    "country": "US",
+    "name": "Bristol County",
+    "fullName": null,
+    "lat": 41.70554,
+    "lng": -71.28612,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5222961,
+    "parentId": 5224323,
+    "country": "US",
+    "name": "Kent County",
+    "fullName": null,
+    "lat": 41.67334,
+    "lng": -71.57895,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5223601,
+    "parentId": 5224323,
+    "country": "US",
+    "name": "Newport County",
+    "fullName": null,
+    "lat": 41.4998,
+    "lng": -71.281,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5224162,
+    "parentId": 5224323,
+    "country": "US",
+    "name": "Providence County",
+    "fullName": null,
+    "lat": 41.87136,
+    "lng": -71.5786,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 5225535,
+    "parentId": 5224323,
+    "country": "US",
+    "name": "Washington County",
+    "fullName": null,
+    "lat": 41.39649,
+    "lng": -71.61966,
+    "tz": "America/New_York"
+  }
+]

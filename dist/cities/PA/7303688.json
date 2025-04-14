@@ -1,0 +1,72 @@
+[
+  {
+    "id": 9862224,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Besiko",
+    "fullName": null,
+    "lat": 8.54863,
+    "lng": -82.0898,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9862223,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Kankintú",
+    "fullName": null,
+    "lat": 8.89503,
+    "lng": -81.8575,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9862221,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Kusapín",
+    "fullName": null,
+    "lat": 9.17119,
+    "lng": -81.89621,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9862220,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Mirono",
+    "fullName": null,
+    "lat": 8.40469,
+    "lng": -81.83064,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9857648,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Müna",
+    "fullName": null,
+    "lat": 8.35035,
+    "lng": -81.67219,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9857644,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Nole Düima",
+    "fullName": null,
+    "lat": 8.32682,
+    "lng": -81.81531,
+    "tz": "America/Panama"
+  },
+  {
+    "id": 9862226,
+    "parentId": 7303688,
+    "country": "PA",
+    "name": "Nurun",
+    "fullName": null,
+    "lat": 8.47815,
+    "lng": -81.47015,
+    "tz": "America/Panama"
+  }
+]

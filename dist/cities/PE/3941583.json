@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3948442,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Acomayo",
+    "fullName": "Provincia de Acomayo",
+    "lat": -13.91667,
+    "lng": -71.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3947623,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Anta",
+    "fullName": "Provincia de Anta",
+    "lat": -13.5,
+    "lng": -72.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3946176,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Calca",
+    "fullName": "Provincia de Calca",
+    "lat": -13,
+    "lng": -72.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945875,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Canas",
+    "fullName": "Provincia de Canas",
+    "lat": -14.41083,
+    "lng": -71.33694,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945823,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Canchis",
+    "fullName": "Provincia de Canchis",
+    "lat": -14.08194,
+    "lng": -71.18556,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3943263,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Chumbivilcas",
+    "fullName": "Provincia de Chumbivilcas",
+    "lat": -14.41667,
+    "lng": -72,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3941582,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Cusco",
+    "fullName": "Provincia de Cusco",
+    "lat": -13.5,
+    "lng": -72,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3941092,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Espinar",
+    "fullName": "Provincia de Espinar",
+    "lat": -14.75,
+    "lng": -71.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3937248,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "La Convención",
+    "fullName": "Provincia de La Convención",
+    "lat": -12,
+    "lng": -73,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3932863,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Paruro",
+    "fullName": "Provincia de Paruro",
+    "lat": -13.91667,
+    "lng": -71.91667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3932649,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Paucartambo",
+    "fullName": "Provincia de Paucartambo",
+    "lat": -13.16667,
+    "lng": -71.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3930646,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Quispicanchis",
+    "fullName": "Provincia de Quispicanchis",
+    "lat": -13.41667,
+    "lng": -71,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3926436,
+    "parentId": 3941583,
+    "country": "PE",
+    "name": "Urubamba",
+    "fullName": "Provincia de Urubamba",
+    "lat": -13.25,
+    "lng": -72.33333,
+    "tz": "America/Lima"
+  }
+]

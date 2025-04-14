@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3697834,
+    "parentId": 3691146,
+    "country": "PE",
+    "name": "Contralmirante Villar",
+    "fullName": "Provincia de Contralmirante Villar",
+    "lat": -4,
+    "lng": -80.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3691145,
+    "parentId": 3691146,
+    "country": "PE",
+    "name": "Tumbes",
+    "fullName": "Provincia de Tumbes",
+    "lat": -3.75,
+    "lng": -80.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3690615,
+    "parentId": 3691146,
+    "country": "PE",
+    "name": "Zarumilla",
+    "fullName": "Provincia de Zarumilla",
+    "lat": -3.66667,
+    "lng": -80.25,
+    "tz": "America/Lima"
+  }
+]

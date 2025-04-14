@@ -1,0 +1,82 @@
+[
+  {
+    "id": 4834162,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Fairfield County",
+    "fullName": null,
+    "lat": 41.22496,
+    "lng": -73.3712,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4835806,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Hartford County",
+    "fullName": null,
+    "lat": 41.80642,
+    "lng": -72.73284,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4837802,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Litchfield County",
+    "fullName": null,
+    "lat": 41.79249,
+    "lng": -73.24532,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4838627,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Middlesex County",
+    "fullName": null,
+    "lat": 41.43538,
+    "lng": -72.52312,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4839373,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "New Haven County",
+    "fullName": null,
+    "lat": 41.34882,
+    "lng": -72.89986,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4839420,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "New London County",
+    "fullName": null,
+    "lat": 41.46678,
+    "lng": -72.1065,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4844275,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Tolland County",
+    "fullName": null,
+    "lat": 41.85501,
+    "lng": -72.33649,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 4845904,
+    "parentId": 4831725,
+    "country": "US",
+    "name": "Windham County",
+    "fullName": null,
+    "lat": 41.83003,
+    "lng": -71.98749,
+    "tz": "America/New_York"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3865696,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Anta",
+    "fullName": "Departamento de Anta",
+    "lat": -24.91667,
+    "lng": -64,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3863554,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Cachí",
+    "fullName": "Departamento de Cachí",
+    "lat": -25.09741,
+    "lng": -66.18542,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3863502,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Cafayate",
+    "fullName": null,
+    "lat": -26.08333,
+    "lng": -65.83333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3862084,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Cerrillos",
+    "fullName": "Departamento de Cerrillos",
+    "lat": -25,
+    "lng": -65.41667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3861493,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Chicoana",
+    "fullName": "Departamento de Chicoana",
+    "lat": -25.11583,
+    "lng": -65.59466,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3862749,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Departamento Capital",
+    "fullName": null,
+    "lat": -24.83333,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3855089,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "General Güemes",
+    "fullName": "Departamento de General Güemes",
+    "lat": -24.79464,
+    "lng": -64.94393,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3855106,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "General José de San Martín",
+    "fullName": "Departamento de General José de San Martín",
+    "lat": -22.83333,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3854676,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Guachipas",
+    "fullName": "Departamento de Guachipas",
+    "lat": -25.66667,
+    "lng": -65.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3853698,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Iruya",
+    "fullName": "Departamento de Iruya",
+    "lat": -22.8,
+    "lng": -64.91667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 99900001,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Joaquín V. González",
+    "fullName": null,
+    "lat": -25.1181,
+    "lng": -64.1291,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3863400,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "La Caldera",
+    "fullName": null,
+    "lat": -24.58333,
+    "lng": -65.41667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 10231145,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "La Candelaria",
+    "fullName": null,
+    "lat": -26.10997,
+    "lng": -65.09623,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3849374,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "La Poma",
+    "fullName": "Departamento de La Poma",
+    "lat": -24.16667,
+    "lng": -66.16667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3847193,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "La Viña",
+    "fullName": "Departamento de La Viña",
+    "lat": -25.5,
+    "lng": -65.66667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846503,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Los Andes",
+    "fullName": "Departamento de Los Andes",
+    "lat": -24.5,
+    "lng": -67.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3844297,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Metán",
+    "fullName": "Departamento de Metán",
+    "lat": -25.5,
+    "lng": -64.66667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3843991,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Molinos",
+    "fullName": "Departamento de Molinos",
+    "lat": -25.58333,
+    "lng": -66.41667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3842606,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Orán",
+    "fullName": "Departamento de Orán",
+    "lat": -23.33333,
+    "lng": -64.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3838753,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Rivadavia",
+    "fullName": "Departamento de Rivadavia",
+    "lat": -23.66667,
+    "lng": -62.91667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3838563,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Rosario de la Frontera",
+    "fullName": "Departamento de Rosario de la Frontera",
+    "lat": -25.91667,
+    "lng": -64.83333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3838560,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Rosario de Lerma",
+    "fullName": "Departamento de Rosario de Lerma",
+    "lat": -24.58333,
+    "lng": -65.83333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3837886,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "San Carlos",
+    "fullName": "Departamento de San Carlos",
+    "lat": -25.75,
+    "lng": -66.08333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3835877,
+    "parentId": 3838231,
+    "country": "AR",
+    "name": "Santa Victoria",
+    "fullName": "Departamento de Santa Victoria",
+    "lat": -22.41667,
+    "lng": -64.91667,
+    "tz": "America/Argentina/Salta"
+  }
+]

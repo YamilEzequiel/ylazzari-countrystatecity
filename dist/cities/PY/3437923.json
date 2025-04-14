@@ -1,0 +1,302 @@
+[
+  {
+    "id": 11839982,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Alto Vera",
+    "fullName": null,
+    "lat": -26.5883,
+    "lng": -55.74206,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840077,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Bella Vista",
+    "fullName": null,
+    "lat": -26.99528,
+    "lng": -55.54513,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840001,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Cambyreta",
+    "fullName": null,
+    "lat": -27.35643,
+    "lng": -55.76349,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840037,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Capitan Meza",
+    "fullName": null,
+    "lat": -26.82882,
+    "lng": -55.29086,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840123,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Capitan Miranda",
+    "fullName": null,
+    "lat": -27.18966,
+    "lng": -55.81169,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840151,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Carlos Antonio Lopez",
+    "fullName": null,
+    "lat": -26.35738,
+    "lng": -54.9257,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840086,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Carmen Del Parana",
+    "fullName": null,
+    "lat": -27.20845,
+    "lng": -56.09826,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839951,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Coronel Bogado",
+    "fullName": null,
+    "lat": -27.18629,
+    "lng": -56.27949,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840059,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Edelira",
+    "fullName": null,
+    "lat": -26.58082,
+    "lng": -55.38199,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839995,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Encarnacion",
+    "fullName": null,
+    "lat": -27.26225,
+    "lng": -55.89523,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840032,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Fram",
+    "fullName": null,
+    "lat": -27.07413,
+    "lng": -56.01183,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840050,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "General Artigas",
+    "fullName": null,
+    "lat": -26.90516,
+    "lng": -56.37593,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840178,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "General Delgado",
+    "fullName": null,
+    "lat": -27.05952,
+    "lng": -56.5522,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840004,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Hohenau",
+    "fullName": null,
+    "lat": -27.0869,
+    "lng": -55.64417,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840092,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Itapua Poty",
+    "fullName": null,
+    "lat": -26.56135,
+    "lng": -55.54526,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839938,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Jesus",
+    "fullName": null,
+    "lat": -27.05364,
+    "lng": -55.77418,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840174,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": -26.97791,
+    "lng": -55.89728,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840000,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Leandro Oviedo",
+    "fullName": null,
+    "lat": -26.74776,
+    "lng": -56.22912,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840094,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Mayor Otaño",
+    "fullName": null,
+    "lat": -26.27843,
+    "lng": -54.76885,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840168,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Natalio",
+    "fullName": null,
+    "lat": -26.73436,
+    "lng": -55.13926,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840102,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Nueva Alborada",
+    "fullName": null,
+    "lat": -27.26343,
+    "lng": -55.65323,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839942,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Obligado",
+    "fullName": null,
+    "lat": -26.92183,
+    "lng": -55.70839,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840169,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Pirapo",
+    "fullName": null,
+    "lat": -26.83341,
+    "lng": -55.51474,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839927,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "San Cosme y Damian",
+    "fullName": null,
+    "lat": -27.35494,
+    "lng": -56.50419,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839961,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "San Juan del Parana",
+    "fullName": null,
+    "lat": -27.30785,
+    "lng": -55.971,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839949,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "San Pedro Del Parana",
+    "fullName": null,
+    "lat": -26.73011,
+    "lng": -56.00858,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840089,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "San Rafael Del Parana",
+    "fullName": null,
+    "lat": -26.43968,
+    "lng": -55.10063,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840020,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Tomas Romero Pereira",
+    "fullName": null,
+    "lat": -26.47347,
+    "lng": -55.28248,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840084,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Trinidad",
+    "fullName": null,
+    "lat": -27.13435,
+    "lng": -55.73089,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840119,
+    "parentId": 3437923,
+    "country": "PY",
+    "name": "Yatytay",
+    "fullName": null,
+    "lat": -26.67186,
+    "lng": -55.05177,
+    "tz": "America/Asuncion"
+  }
+]

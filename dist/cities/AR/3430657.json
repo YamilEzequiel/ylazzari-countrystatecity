@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3436309,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Apóstoles",
+    "fullName": "Departamento de Apóstoles",
+    "lat": -27.91667,
+    "lng": -55.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435844,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Cainguás",
+    "fullName": "Departamento de Cainguás",
+    "lat": -27.16667,
+    "lng": -54.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435732,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Candelaria",
+    "fullName": "Departamento de Candelaria",
+    "lat": -27.5,
+    "lng": -55.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435699,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -27.5,
+    "lng": -55.83333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3435270,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Concepción de la Sierra",
+    "fullName": "Departamento de Concepción de la Sierra",
+    "lat": -27.83333,
+    "lng": -55.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3434672,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Eldorado",
+    "fullName": "Departamento de Eldorado",
+    "lat": -26.25,
+    "lng": -54.41667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433790,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "General Manuel Belgrano",
+    "fullName": "Departamento de General Manuel Belgrano",
+    "lat": -26.16667,
+    "lng": -53.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433646,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Guaraní",
+    "fullName": "Departamento de Guaraní",
+    "lat": -27.16667,
+    "lng": -54.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3433487,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Iguazú",
+    "fullName": "Departamento de Iguazú",
+    "lat": -25.86667,
+    "lng": -54.36667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3431390,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Leandro N. Alem",
+    "fullName": "Departamento de Leandro N. Alem",
+    "lat": -27.56667,
+    "lng": -55.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3431357,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento de Libertador General San Martín",
+    "lat": -26.91667,
+    "lng": -54.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430599,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Montecarlo",
+    "fullName": "Departamento de Montecarlo",
+    "lat": -26.71667,
+    "lng": -54.58333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3430339,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Oberá",
+    "fullName": "Departamento de Oberá",
+    "lat": -27.55,
+    "lng": -55.08333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3429014,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "San Ignacio",
+    "fullName": "Departamento de San Ignacio",
+    "lat": -27.25,
+    "lng": -55.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428974,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "San Javier",
+    "fullName": "Departamento de San Javier",
+    "lat": -27.77806,
+    "lng": -55.13004,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3428569,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "San Pedro",
+    "fullName": "Departamento de San Pedro",
+    "lat": -26.66667,
+    "lng": -54,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3427535,
+    "parentId": 3430657,
+    "country": "AR",
+    "name": "Veinticinco de Mayo",
+    "fullName": "Departamento de Veinticinco de Mayo",
+    "lat": -27.41667,
+    "lng": -54.66667,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

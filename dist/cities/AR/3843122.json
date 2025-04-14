@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3865999,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Aluminé",
+    "fullName": "Departamento de Aluminé",
+    "lat": -39.16667,
+    "lng": -71,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3865775,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Añelo",
+    "fullName": "Departamento de Añelo",
+    "lat": -38.16667,
+    "lng": -69,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3862279,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Catán-Lil",
+    "fullName": "Departamento de Catán-Lil",
+    "lat": -39.5,
+    "lng": -70.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3861261,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Chos-Malal",
+    "fullName": "Departamento de Chos-Malal",
+    "lat": -36.91667,
+    "lng": -70.16667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3860849,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Collón-Curá",
+    "fullName": "Departamento de Collón-Curá",
+    "lat": -40.08333,
+    "lng": -70.16667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3860360,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Confluencia",
+    "fullName": "Departamento de Confluencia",
+    "lat": -38.83333,
+    "lng": -68.83333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3853984,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Huiliches",
+    "fullName": "Departamento de Huiliches",
+    "lat": -39.75,
+    "lng": -71.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3852288,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Lácar",
+    "fullName": "Departamento de Lácar",
+    "lat": -40.25,
+    "lng": -71.2,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846632,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Loncopué",
+    "fullName": "Departamento de Loncopué",
+    "lat": -38.08333,
+    "lng": -70.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846077,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Los Lagos",
+    "fullName": "Departamento de Los Lagos",
+    "lat": -40.75,
+    "lng": -71.41667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3844208,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Minas",
+    "fullName": "Departamento de Minas",
+    "lat": -36.83333,
+    "lng": -70.83333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3842991,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Ñorquín",
+    "fullName": "Departamento de Ñorquín",
+    "lat": -37.75,
+    "lng": -70.58333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3841673,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Pehuenches",
+    "fullName": "Departamento de Pehuenches",
+    "lat": -37.5,
+    "lng": -69.33333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3841298,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Picún Leufú",
+    "fullName": "Departamento de Picún Leufú",
+    "lat": -39.5,
+    "lng": -69.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3841303,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Picunches",
+    "fullName": "Departamento de Picunches",
+    "lat": -38.53333,
+    "lng": -70.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3832131,
+    "parentId": 3843122,
+    "country": "AR",
+    "name": "Zapala",
+    "fullName": "Departamento de Zapala",
+    "lat": -39,
+    "lng": -69.83333,
+    "tz": "America/Argentina/Salta"
+  }
+]

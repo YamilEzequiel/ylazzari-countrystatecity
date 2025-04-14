@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3948641,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Abancay",
+    "fullName": "Provincia de Abancay",
+    "lat": -13.66667,
+    "lng": -72.91667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3947739,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Andahuaylas",
+    "fullName": "Provincia de Andahuaylas",
+    "lat": -13.66667,
+    "lng": -73.41667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3947611,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Antabamba",
+    "fullName": "Provincia de Antabamba",
+    "lat": -14.41667,
+    "lng": -72.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3946963,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Aymaraes",
+    "fullName": "Provincia de Aymaraes",
+    "lat": -14.41667,
+    "lng": -73.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349550,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Chincheros",
+    "fullName": null,
+    "lat": -13.47005,
+    "lng": -73.67162,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3942083,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Cotabambas",
+    "fullName": "Provincia de Cotabambas",
+    "lat": -14,
+    "lng": -72.2,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3940641,
+    "parentId": 3947421,
+    "country": "PE",
+    "name": "Grau",
+    "fullName": "Provincia de Grau",
+    "lat": -14,
+    "lng": -72.58333,
+    "tz": "America/Lima"
+  }
+]

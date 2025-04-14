@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8583288,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Bacalar",
+    "fullName": null,
+    "lat": 18.90566,
+    "lng": -88.48173,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8581707,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Benito Juárez",
+    "fullName": null,
+    "lat": 21.02029,
+    "lng": -87.04101,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583280,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Cozumel",
+    "fullName": null,
+    "lat": 20.4535,
+    "lng": -86.92835,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583281,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Felipe Carrillo Puerto",
+    "fullName": null,
+    "lat": 19.64519,
+    "lng": -88.1532,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583282,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Isla Mujeres",
+    "fullName": null,
+    "lat": 21.27101,
+    "lng": -86.89904,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583284,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "José María Morelos",
+    "fullName": null,
+    "lat": 19.74914,
+    "lng": -88.77606,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583285,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Lázaro Cárdenas",
+    "fullName": null,
+    "lat": 20.999,
+    "lng": -87.44275,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583283,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Othón P. Blanco",
+    "fullName": null,
+    "lat": 18.52309,
+    "lng": -88.38672,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 11789146,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Puerto Morelos",
+    "fullName": null,
+    "lat": 20.85063,
+    "lng": -86.87585,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583286,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Solidaridad",
+    "fullName": null,
+    "lat": 20.63076,
+    "lng": -87.17661,
+    "tz": "America/Cancun"
+  },
+  {
+    "id": 8583287,
+    "parentId": 3520887,
+    "country": "MX",
+    "name": "Tulum",
+    "fullName": null,
+    "lat": 20.22618,
+    "lng": -87.51702,
+    "tz": "America/Cancun"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3865578,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Arauco",
+    "fullName": "Departamento de Arauco",
+    "lat": -28.5,
+    "lng": -66.83333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3862745,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -29.33333,
+    "lng": -66.33333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3862292,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Castro Barros",
+    "fullName": "Departamento de Castro Barros",
+    "lat": -28.83333,
+    "lng": -66.91667,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3854983,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Chamical",
+    "fullName": "Departamento de Chamical",
+    "lat": -30.25,
+    "lng": -65.83333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3861443,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Chilecito",
+    "fullName": "Departamento de Chilecito",
+    "lat": -29.41667,
+    "lng": -67.5,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855099,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Coronel Felipe Varela",
+    "fullName": "Departamento de Coronel Felipe Varela",
+    "lat": -29.5,
+    "lng": -68.33333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855660,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Famatina",
+    "fullName": "Departamento de Famatina",
+    "lat": -28.66667,
+    "lng": -67.58333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3833075,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General Angel Peñaloza",
+    "fullName": "Departamento de General Angel Peñaloza",
+    "lat": -30.25,
+    "lng": -66.66667,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855127,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General Belgrano",
+    "fullName": "Departamento de General Belgrano",
+    "lat": -30.58333,
+    "lng": -66,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3838749,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General Juan F. Quiroga",
+    "fullName": "Departamento de General Juan F. Quiroga",
+    "lat": -30.8,
+    "lng": -66.615,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855103,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General Lamadrid",
+    "fullName": "Departamento de General Lamadrid",
+    "lat": -28.83333,
+    "lng": -68.66667,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855082,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General Ocampo",
+    "fullName": "Departamento de General Ocampo",
+    "lat": -31,
+    "lng": -66.25,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855054,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "General San Martín",
+    "fullName": "Departamento de General San Martín",
+    "lat": -31.5,
+    "lng": -66.08333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3853854,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Independencia",
+    "fullName": "Departamento de Independencia",
+    "lat": -30.16667,
+    "lng": -67.41667,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855063,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Rosario Vera Peñaloza",
+    "fullName": "Departamento de Rosario Vera Peñaloza",
+    "lat": -31.41667,
+    "lng": -66.66667,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3837918,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "San Blas de los Sauces",
+    "fullName": "Departamento de San Blas de los Sauces",
+    "lat": -28.5,
+    "lng": -67.08333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3838186,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Sanagasta",
+    "fullName": "Departamento de Sanagasta",
+    "lat": -29.2,
+    "lng": -67.08333,
+    "tz": "America/Argentina/La_Rioja"
+  },
+  {
+    "id": 3855050,
+    "parentId": 3848949,
+    "country": "AR",
+    "name": "Vinchina",
+    "fullName": "Departamento de Vinchina",
+    "lat": -28.2,
+    "lng": -68.66667,
+    "tz": "America/Argentina/La_Rioja"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2515271,
+    "parentId": 2593110,
+    "country": "ES",
+    "name": "Las Palmas",
+    "fullName": "Provincia de Las Palmas",
+    "lat": 28.42039,
+    "lng": -14.01306,
+    "tz": "Atlantic/Canary"
+  },
+  {
+    "id": 2511173,
+    "parentId": 2593110,
+    "country": "ES",
+    "name": "Santa Cruz de Tenerife",
+    "fullName": "Provincia de Santa Cruz de Tenerife",
+    "lat": 28.16667,
+    "lng": -17.33333,
+    "tz": "Atlantic/Canary"
+  }
+]

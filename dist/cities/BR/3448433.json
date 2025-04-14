@@ -1,0 +1,6452 @@
+[
+  {
+    "id": 3473156,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Adamantina",
+    "fullName": null,
+    "lat": -21.59136,
+    "lng": -51.06669,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322085,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Adolfo",
+    "fullName": null,
+    "lat": -21.28535,
+    "lng": -49.65497,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472968,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Aguaí",
+    "fullName": null,
+    "lat": -22.0259,
+    "lng": -47.06702,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472872,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Águas da Prata",
+    "fullName": null,
+    "lat": -21.91623,
+    "lng": -46.68666,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322086,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Águas de Lindóia",
+    "fullName": null,
+    "lat": -22.47703,
+    "lng": -46.62838,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322087,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Águas de Santa Bárbara",
+    "fullName": null,
+    "lat": -22.85764,
+    "lng": -49.25362,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472867,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Águas de São Pedro",
+    "fullName": null,
+    "lat": -22.60238,
+    "lng": -47.87481,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472824,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Agudos",
+    "fullName": null,
+    "lat": -22.58942,
+    "lng": -49.16164,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322088,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Alambari",
+    "fullName": null,
+    "lat": -23.53745,
+    "lng": -47.86273,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472589,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Alfredo Marcondes",
+    "fullName": null,
+    "lat": -21.92954,
+    "lng": -51.39519,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322089,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Altair",
+    "fullName": null,
+    "lat": -20.53889,
+    "lng": -49.10219,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472484,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Altinópolis",
+    "fullName": null,
+    "lat": -21.00412,
+    "lng": -47.39795,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472474,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Alto Alegre",
+    "fullName": null,
+    "lat": -21.63149,
+    "lng": -50.19601,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322090,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Alumínio",
+    "fullName": null,
+    "lat": -23.52259,
+    "lng": -47.28373,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472418,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Álvares Florence",
+    "fullName": null,
+    "lat": -20.27757,
+    "lng": -49.91405,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472416,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Álvares Machado",
+    "fullName": null,
+    "lat": -22.14018,
+    "lng": -51.50417,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472413,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Álvaro de Carvalho",
+    "fullName": null,
+    "lat": -22.08676,
+    "lng": -49.73512,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322091,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Alvinlândia",
+    "fullName": null,
+    "lat": -22.45669,
+    "lng": -49.76243,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472342,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Americana",
+    "fullName": null,
+    "lat": -22.71408,
+    "lng": -47.29009,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322092,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Américo Brasiliense",
+    "fullName": null,
+    "lat": -21.71797,
+    "lng": -48.01568,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472336,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Américo de Campos",
+    "fullName": null,
+    "lat": -20.27453,
+    "lng": -49.75539,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472310,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Amparo",
+    "fullName": null,
+    "lat": -22.70845,
+    "lng": -46.80148,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3472293,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Analândia",
+    "fullName": null,
+    "lat": -22.12002,
+    "lng": -47.68938,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322093,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Andradina",
+    "fullName": null,
+    "lat": -20.86545,
+    "lng": -51.31567,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322094,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Angatuba",
+    "fullName": null,
+    "lat": -23.4745,
+    "lng": -48.42565,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322095,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Anhembi",
+    "fullName": null,
+    "lat": -22.83293,
+    "lng": -48.16384,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324331,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Anhumas",
+    "fullName": null,
+    "lat": -22.34571,
+    "lng": -51.42761,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322096,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Aparecida",
+    "fullName": null,
+    "lat": -22.90434,
+    "lng": -45.23562,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322097,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Aparecida d'Oeste",
+    "fullName": null,
+    "lat": -20.48414,
+    "lng": -50.91883,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322098,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Apiaí",
+    "fullName": null,
+    "lat": -24.39767,
+    "lng": -48.82237,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322099,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Araçariguama",
+    "fullName": null,
+    "lat": -23.42294,
+    "lng": -47.07816,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322100,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Araçatuba",
+    "fullName": null,
+    "lat": -21.14986,
+    "lng": -50.5747,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322101,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Araçoiaba da Serra",
+    "fullName": null,
+    "lat": -23.56602,
+    "lng": -47.66733,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322102,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Aramina",
+    "fullName": null,
+    "lat": -20.16724,
+    "lng": -47.82645,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322103,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Arandu",
+    "fullName": null,
+    "lat": -23.17065,
+    "lng": -49.05861,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322104,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Arapeí",
+    "fullName": null,
+    "lat": -22.66504,
+    "lng": -44.43858,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322105,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Araraquara",
+    "fullName": null,
+    "lat": -21.82763,
+    "lng": -48.20111,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322106,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Araras",
+    "fullName": null,
+    "lat": -22.31376,
+    "lng": -47.31589,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322107,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Arco-Íris",
+    "fullName": null,
+    "lat": -21.74342,
+    "lng": -50.42979,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324206,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Arealva",
+    "fullName": null,
+    "lat": -22.06881,
+    "lng": -48.99294,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322108,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Areias",
+    "fullName": null,
+    "lat": -22.66811,
+    "lng": -44.71651,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322109,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Areiópolis",
+    "fullName": null,
+    "lat": -22.60627,
+    "lng": -48.65273,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322110,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ariranha",
+    "fullName": null,
+    "lat": -21.17685,
+    "lng": -48.77771,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322111,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Artur Nogueira",
+    "fullName": null,
+    "lat": -22.55165,
+    "lng": -47.12729,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322112,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Arujá",
+    "fullName": null,
+    "lat": -23.3841,
+    "lng": -46.31583,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322113,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Aspásia",
+    "fullName": null,
+    "lat": -20.18385,
+    "lng": -50.73117,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319104,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Assis",
+    "fullName": null,
+    "lat": -22.58665,
+    "lng": -50.42838,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322114,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Atibaia",
+    "fullName": null,
+    "lat": -23.13099,
+    "lng": -46.58896,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322115,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Auriflama",
+    "fullName": null,
+    "lat": -20.62162,
+    "lng": -50.59368,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322116,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Avaí",
+    "fullName": null,
+    "lat": -22.17789,
+    "lng": -49.30511,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322117,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Avanhandava",
+    "fullName": null,
+    "lat": -21.46596,
+    "lng": -49.94791,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322118,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Avaré",
+    "fullName": null,
+    "lat": -23.03402,
+    "lng": -48.88802,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322119,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bady Bassitt",
+    "fullName": null,
+    "lat": -20.93338,
+    "lng": -49.4421,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322120,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Balbinos",
+    "fullName": null,
+    "lat": -21.90089,
+    "lng": -49.33509,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322121,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bálsamo",
+    "fullName": null,
+    "lat": -20.70239,
+    "lng": -49.55045,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322122,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bananal",
+    "fullName": null,
+    "lat": -22.73751,
+    "lng": -44.33413,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322123,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barão de Antonina",
+    "fullName": null,
+    "lat": -23.57097,
+    "lng": -49.5666,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324237,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barbosa",
+    "fullName": null,
+    "lat": -21.29619,
+    "lng": -49.92293,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322124,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bariri",
+    "fullName": null,
+    "lat": -22.05614,
+    "lng": -48.70758,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322125,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barra Bonita",
+    "fullName": null,
+    "lat": -22.47507,
+    "lng": -48.54704,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322126,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barra do Chapéu",
+    "fullName": null,
+    "lat": -24.44047,
+    "lng": -49.08615,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322127,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barra do Turvo",
+    "fullName": null,
+    "lat": -24.89045,
+    "lng": -48.4079,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322128,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barretos",
+    "fullName": null,
+    "lat": -20.5284,
+    "lng": -48.67749,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322129,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barrinha",
+    "fullName": null,
+    "lat": -21.22404,
+    "lng": -48.08387,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322130,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Barueri",
+    "fullName": null,
+    "lat": -23.50172,
+    "lng": -46.86993,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322131,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bastos",
+    "fullName": null,
+    "lat": -21.95226,
+    "lng": -50.74933,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322132,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Batatais",
+    "fullName": null,
+    "lat": -20.83515,
+    "lng": -47.56742,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322133,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bauru",
+    "fullName": null,
+    "lat": -22.26348,
+    "lng": -49.13641,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322134,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bebedouro",
+    "fullName": null,
+    "lat": -20.94546,
+    "lng": -48.53799,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322135,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bento de Abreu",
+    "fullName": null,
+    "lat": -21.34057,
+    "lng": -50.86542,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322136,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bernardino de Campos",
+    "fullName": null,
+    "lat": -23.02698,
+    "lng": -49.49277,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322137,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bertioga",
+    "fullName": null,
+    "lat": -23.7487,
+    "lng": -46.0476,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322138,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bilac",
+    "fullName": null,
+    "lat": -21.42076,
+    "lng": -50.47862,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322139,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Birigui",
+    "fullName": null,
+    "lat": -21.2409,
+    "lng": -50.33731,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322140,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Biritiba-Mirim",
+    "fullName": null,
+    "lat": -23.62009,
+    "lng": -46.01938,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322141,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Boa Esperança do Sul",
+    "fullName": null,
+    "lat": -21.9116,
+    "lng": -48.47792,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322142,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bocaina",
+    "fullName": null,
+    "lat": -22.0983,
+    "lng": -48.51952,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322143,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bofete",
+    "fullName": null,
+    "lat": -23.12244,
+    "lng": -48.28058,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322144,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Boituva",
+    "fullName": null,
+    "lat": -23.31012,
+    "lng": -47.68519,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322145,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bom Jesus dos Perdões",
+    "fullName": null,
+    "lat": -23.16488,
+    "lng": -46.47118,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322146,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bom Sucesso de Itararé",
+    "fullName": null,
+    "lat": -24.31225,
+    "lng": -49.167,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322147,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Borá",
+    "fullName": null,
+    "lat": -22.23881,
+    "lng": -50.49252,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322148,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Boracéia",
+    "fullName": null,
+    "lat": -22.16759,
+    "lng": -48.78863,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322149,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Borborema",
+    "fullName": null,
+    "lat": -21.62909,
+    "lng": -49.04371,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322150,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Borebi",
+    "fullName": null,
+    "lat": -22.67635,
+    "lng": -48.98476,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322151,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Botucatu",
+    "fullName": null,
+    "lat": -22.87768,
+    "lng": -48.51789,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322152,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Bragança Paulista",
+    "fullName": null,
+    "lat": -22.94002,
+    "lng": -46.55559,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322153,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Braúna",
+    "fullName": null,
+    "lat": -21.56582,
+    "lng": -50.35227,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322154,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Brejo Alegre",
+    "fullName": null,
+    "lat": -21.17757,
+    "lng": -50.21805,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322155,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Brodowski",
+    "fullName": null,
+    "lat": -21.0506,
+    "lng": -47.61728,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322156,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Brotas",
+    "fullName": null,
+    "lat": -22.27942,
+    "lng": -48.08744,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322157,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Buri",
+    "fullName": null,
+    "lat": -23.71518,
+    "lng": -48.55268,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322158,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Buritama",
+    "fullName": null,
+    "lat": -21.04698,
+    "lng": -50.17781,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322159,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Buritizal",
+    "fullName": null,
+    "lat": -20.21345,
+    "lng": -47.70776,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322160,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cabrália Paulista",
+    "fullName": null,
+    "lat": -22.49155,
+    "lng": -49.38637,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322161,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cabreúva",
+    "fullName": null,
+    "lat": -23.31495,
+    "lng": -47.0763,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322162,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caçapava",
+    "fullName": null,
+    "lat": -23.09592,
+    "lng": -45.71792,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322163,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cachoeira Paulista",
+    "fullName": null,
+    "lat": -22.70115,
+    "lng": -44.99229,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322164,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caconde",
+    "fullName": null,
+    "lat": -21.5415,
+    "lng": -46.62252,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322165,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cafelândia",
+    "fullName": null,
+    "lat": -21.74295,
+    "lng": -49.57061,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322166,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caiabu",
+    "fullName": null,
+    "lat": -21.93822,
+    "lng": -51.23232,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322167,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caieiras",
+    "fullName": null,
+    "lat": -23.38134,
+    "lng": -46.73815,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322168,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caiuá",
+    "fullName": null,
+    "lat": -21.76518,
+    "lng": -51.95903,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322169,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cajamar",
+    "fullName": null,
+    "lat": -23.35193,
+    "lng": -46.88129,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322170,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cajati",
+    "fullName": null,
+    "lat": -24.77156,
+    "lng": -48.2011,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322171,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cajobi",
+    "fullName": null,
+    "lat": -20.88622,
+    "lng": -48.85175,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322172,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cajuru",
+    "fullName": null,
+    "lat": -21.27048,
+    "lng": -47.31651,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322173,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Campina do Monte Alegre",
+    "fullName": null,
+    "lat": -23.61364,
+    "lng": -48.45388,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324332,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Campinas",
+    "fullName": null,
+    "lat": -22.89703,
+    "lng": -47.04441,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3467719,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Campo Limpo Paulista",
+    "fullName": null,
+    "lat": -23.21599,
+    "lng": -46.75842,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322174,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Campos do Jordão",
+    "fullName": null,
+    "lat": -22.69537,
+    "lng": -45.52622,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322175,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Campos Novos Paulista",
+    "fullName": null,
+    "lat": -22.62889,
+    "lng": -50.01282,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322176,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cananéia",
+    "fullName": null,
+    "lat": -24.98104,
+    "lng": -48.00093,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322177,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Canas",
+    "fullName": null,
+    "lat": -22.73999,
+    "lng": -45.03208,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322178,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cândido Mota",
+    "fullName": null,
+    "lat": -22.80248,
+    "lng": -50.39229,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322179,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cândido Rodrigues",
+    "fullName": null,
+    "lat": -21.34194,
+    "lng": -48.63294,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322180,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Canitar",
+    "fullName": null,
+    "lat": -23.01421,
+    "lng": -49.78705,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322181,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Capão Bonito",
+    "fullName": null,
+    "lat": -24.06183,
+    "lng": -48.2952,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322182,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Capela do Alto",
+    "fullName": null,
+    "lat": -23.46871,
+    "lng": -47.75083,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322183,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Capivari",
+    "fullName": null,
+    "lat": -22.98552,
+    "lng": -47.48522,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322184,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Caraguatatuba",
+    "fullName": null,
+    "lat": -23.63384,
+    "lng": -45.48992,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322185,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Carapicuíba",
+    "fullName": null,
+    "lat": -23.55339,
+    "lng": -46.84852,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322186,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cardoso",
+    "fullName": null,
+    "lat": -20.09171,
+    "lng": -49.94738,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322187,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Casa Branca",
+    "fullName": null,
+    "lat": -21.81396,
+    "lng": -47.08264,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322188,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cássia dos Coqueiros",
+    "fullName": null,
+    "lat": -21.25917,
+    "lng": -47.13783,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322189,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Castilho",
+    "fullName": null,
+    "lat": -21.00459,
+    "lng": -51.61858,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322190,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Catanduva",
+    "fullName": null,
+    "lat": -21.12893,
+    "lng": -48.96186,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322191,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Catiguá",
+    "fullName": null,
+    "lat": -21.06536,
+    "lng": -49.04977,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322192,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cedral",
+    "fullName": null,
+    "lat": -20.90742,
+    "lng": -49.25495,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322193,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cerqueira César",
+    "fullName": null,
+    "lat": -23.03,
+    "lng": -49.10697,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322194,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cerquilho",
+    "fullName": null,
+    "lat": -23.19129,
+    "lng": -47.77092,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322195,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cesário Lange",
+    "fullName": null,
+    "lat": -23.21195,
+    "lng": -47.88465,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3466262,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Charqueada",
+    "fullName": null,
+    "lat": -22.53724,
+    "lng": -47.7377,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322657,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Chavantes",
+    "fullName": null,
+    "lat": -23.0346,
+    "lng": -49.72321,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322196,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Clementina",
+    "fullName": null,
+    "lat": -21.57634,
+    "lng": -50.46202,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322197,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Colina",
+    "fullName": null,
+    "lat": -20.75233,
+    "lng": -48.58162,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322198,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Colômbia",
+    "fullName": null,
+    "lat": -20.29302,
+    "lng": -48.72328,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322199,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Conchal",
+    "fullName": null,
+    "lat": -22.34611,
+    "lng": -47.1362,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322200,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Conchas",
+    "fullName": null,
+    "lat": -22.95922,
+    "lng": -48.07255,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322201,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cordeirópolis",
+    "fullName": null,
+    "lat": -22.483,
+    "lng": -47.40713,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324333,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Coroados",
+    "fullName": null,
+    "lat": -21.37115,
+    "lng": -50.31271,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322202,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Coronel Macedo",
+    "fullName": null,
+    "lat": -23.62092,
+    "lng": -49.30305,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324334,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Corumbataí",
+    "fullName": null,
+    "lat": -22.21698,
+    "lng": -47.59961,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322203,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cosmópolis",
+    "fullName": null,
+    "lat": -22.6619,
+    "lng": -47.18317,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324335,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cosmorama",
+    "fullName": null,
+    "lat": -20.40934,
+    "lng": -49.74905,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322204,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cotia",
+    "fullName": null,
+    "lat": -23.67036,
+    "lng": -46.94717,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322205,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cravinhos",
+    "fullName": null,
+    "lat": -21.33785,
+    "lng": -47.7573,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322206,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cristais Paulista",
+    "fullName": null,
+    "lat": -20.36538,
+    "lng": -47.373,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322207,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cruzália",
+    "fullName": null,
+    "lat": -22.73707,
+    "lng": -50.75793,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322208,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cruzeiro",
+    "fullName": null,
+    "lat": -22.57104,
+    "lng": -45.00105,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322209,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cubatão",
+    "fullName": null,
+    "lat": -23.8602,
+    "lng": -46.41622,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322210,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Cunha",
+    "fullName": null,
+    "lat": -23.03857,
+    "lng": -44.92637,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322211,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Descalvado",
+    "fullName": null,
+    "lat": -21.87915,
+    "lng": -47.65919,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322212,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Diadema",
+    "fullName": null,
+    "lat": -23.69552,
+    "lng": -46.61156,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322213,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dirce Reis",
+    "fullName": null,
+    "lat": -20.45591,
+    "lng": -50.62798,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319105,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Divinolândia",
+    "fullName": null,
+    "lat": -21.66459,
+    "lng": -46.7045,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322214,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dobrada",
+    "fullName": null,
+    "lat": -21.51531,
+    "lng": -48.37033,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322215,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dois Córregos",
+    "fullName": null,
+    "lat": -22.3728,
+    "lng": -48.33722,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322216,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dolcinópolis",
+    "fullName": null,
+    "lat": -20.11666,
+    "lng": -50.52771,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322217,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dourado",
+    "fullName": null,
+    "lat": -22.11665,
+    "lng": -48.35204,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322218,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dracena",
+    "fullName": null,
+    "lat": -21.57936,
+    "lng": -51.59598,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322219,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Duartina",
+    "fullName": null,
+    "lat": -22.40495,
+    "lng": -49.42251,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322220,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Dumont",
+    "fullName": null,
+    "lat": -21.24438,
+    "lng": -47.99598,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322221,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Echaporã",
+    "fullName": null,
+    "lat": -22.4108,
+    "lng": -50.18262,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322222,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Eldorado",
+    "fullName": null,
+    "lat": -24.50057,
+    "lng": -48.25601,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322223,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Elias Fausto",
+    "fullName": null,
+    "lat": -23.0588,
+    "lng": -47.38776,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322224,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Elisiário",
+    "fullName": null,
+    "lat": -21.15517,
+    "lng": -49.09106,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322225,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Embaúba",
+    "fullName": null,
+    "lat": -20.94301,
+    "lng": -48.85819,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322226,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Embu das Artes",
+    "fullName": null,
+    "lat": -23.64664,
+    "lng": -46.85386,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322227,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Embu-Guaçu",
+    "fullName": null,
+    "lat": -23.85336,
+    "lng": -46.83957,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322228,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Emilianópolis",
+    "fullName": null,
+    "lat": -21.78179,
+    "lng": -51.47959,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322229,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Engenheiro Coelho",
+    "fullName": null,
+    "lat": -22.48904,
+    "lng": -47.17256,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322230,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Espírito Santo do Pinhal",
+    "fullName": null,
+    "lat": -22.189,
+    "lng": -46.78421,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322231,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Espírito Santo do Turvo",
+    "fullName": null,
+    "lat": -22.6681,
+    "lng": -49.42175,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322658,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Estiva Gerbi",
+    "fullName": null,
+    "lat": -22.22052,
+    "lng": -46.93878,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322232,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Estrela d'Oeste",
+    "fullName": null,
+    "lat": -20.27767,
+    "lng": -50.40807,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322233,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Estrela do Norte",
+    "fullName": null,
+    "lat": -22.47843,
+    "lng": -51.67954,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322234,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Euclides da Cunha Paulista",
+    "fullName": null,
+    "lat": -22.5171,
+    "lng": -52.59099,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322235,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Fartura",
+    "fullName": null,
+    "lat": -23.39874,
+    "lng": -49.52774,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322237,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Fernando Prestes",
+    "fullName": null,
+    "lat": -21.30945,
+    "lng": -48.69583,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322236,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Fernandópolis",
+    "fullName": null,
+    "lat": -20.29757,
+    "lng": -50.29196,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322238,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Fernão",
+    "fullName": null,
+    "lat": -22.37381,
+    "lng": -49.55434,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322239,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ferraz de Vasconcelos",
+    "fullName": null,
+    "lat": -23.56153,
+    "lng": -46.3749,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322240,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Flora Rica",
+    "fullName": null,
+    "lat": -21.70103,
+    "lng": -51.37786,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322241,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Floreal",
+    "fullName": null,
+    "lat": -20.65394,
+    "lng": -50.15844,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322242,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Flórida Paulista",
+    "fullName": null,
+    "lat": -21.54193,
+    "lng": -51.18066,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322243,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Florínea",
+    "fullName": null,
+    "lat": -22.87222,
+    "lng": -50.68979,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324336,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Franca",
+    "fullName": null,
+    "lat": -20.56902,
+    "lng": -47.33897,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322244,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Francisco Morato",
+    "fullName": null,
+    "lat": -23.26924,
+    "lng": -46.70889,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322245,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Franco da Rocha",
+    "fullName": null,
+    "lat": -23.30277,
+    "lng": -46.73089,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322246,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Gabriel Monteiro",
+    "fullName": null,
+    "lat": -21.49989,
+    "lng": -50.56997,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322247,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Gália",
+    "fullName": null,
+    "lat": -22.34323,
+    "lng": -49.57865,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324337,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Garça",
+    "fullName": null,
+    "lat": -22.23247,
+    "lng": -49.71356,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322248,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Gastão Vidigal",
+    "fullName": null,
+    "lat": -20.80633,
+    "lng": -50.19238,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322249,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Gavião Peixoto",
+    "fullName": null,
+    "lat": -21.80879,
+    "lng": -48.46904,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322250,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "General Salgado",
+    "fullName": null,
+    "lat": -20.61948,
+    "lng": -50.43174,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322251,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Getulina",
+    "fullName": null,
+    "lat": -21.76343,
+    "lng": -50.06225,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322252,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Glicério",
+    "fullName": null,
+    "lat": -21.31866,
+    "lng": -50.17782,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322253,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaiçara",
+    "fullName": null,
+    "lat": -21.5541,
+    "lng": -49.76263,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322254,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaimbê",
+    "fullName": null,
+    "lat": -21.86204,
+    "lng": -49.84959,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322255,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaíra",
+    "fullName": null,
+    "lat": -20.30126,
+    "lng": -48.33773,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322256,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guapiaçu",
+    "fullName": null,
+    "lat": -20.72593,
+    "lng": -49.16413,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322257,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guapiara",
+    "fullName": null,
+    "lat": -24.21726,
+    "lng": -48.54523,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322258,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guará",
+    "fullName": null,
+    "lat": -20.48958,
+    "lng": -47.80068,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319106,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaraçaí",
+    "fullName": null,
+    "lat": -21.1082,
+    "lng": -51.30124,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322259,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaraci",
+    "fullName": null,
+    "lat": -20.41648,
+    "lng": -49.00521,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322260,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guarani d'Oeste",
+    "fullName": null,
+    "lat": -20.07032,
+    "lng": -50.36292,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322261,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guarantã",
+    "fullName": null,
+    "lat": -21.92281,
+    "lng": -49.58519,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322262,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guararapes",
+    "fullName": null,
+    "lat": -21.27546,
+    "lng": -50.62083,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322263,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guararema",
+    "fullName": null,
+    "lat": -23.43419,
+    "lng": -46.06086,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322264,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guaratinguetá",
+    "fullName": null,
+    "lat": -22.82682,
+    "lng": -45.21287,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322265,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guareí",
+    "fullName": null,
+    "lat": -23.37338,
+    "lng": -48.22466,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322266,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guariba",
+    "fullName": null,
+    "lat": -21.39568,
+    "lng": -48.20427,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322267,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guarujá",
+    "fullName": null,
+    "lat": -23.95753,
+    "lng": -46.22783,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322268,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guarulhos",
+    "fullName": null,
+    "lat": -23.41201,
+    "lng": -46.44348,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322269,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guatapará",
+    "fullName": null,
+    "lat": -21.47231,
+    "lng": -47.99142,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322270,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Guzolândia",
+    "fullName": null,
+    "lat": -20.6204,
+    "lng": -50.71925,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322271,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Herculândia",
+    "fullName": null,
+    "lat": -21.96198,
+    "lng": -50.38482,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322272,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Holambra",
+    "fullName": null,
+    "lat": -22.63825,
+    "lng": -47.06501,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322273,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Hortolândia",
+    "fullName": null,
+    "lat": -22.87181,
+    "lng": -47.21181,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324207,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iacanga",
+    "fullName": null,
+    "lat": -21.90745,
+    "lng": -49.05917,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322274,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iacri",
+    "fullName": null,
+    "lat": -21.77798,
+    "lng": -50.61517,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322275,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iaras",
+    "fullName": null,
+    "lat": -22.83679,
+    "lng": -49.10928,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322276,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ibaté",
+    "fullName": null,
+    "lat": -21.95093,
+    "lng": -48.03582,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322277,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ibirá",
+    "fullName": null,
+    "lat": -21.0888,
+    "lng": -49.21879,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322278,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ibirarema",
+    "fullName": null,
+    "lat": -22.80911,
+    "lng": -50.07816,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322279,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ibitinga",
+    "fullName": null,
+    "lat": -21.79515,
+    "lng": -48.83841,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322280,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ibiúna",
+    "fullName": null,
+    "lat": -23.83577,
+    "lng": -47.21076,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322281,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Icém",
+    "fullName": null,
+    "lat": -20.38003,
+    "lng": -49.20507,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322282,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iepê",
+    "fullName": null,
+    "lat": -22.65726,
+    "lng": -51.04385,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322283,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Igaraçu do Tietê",
+    "fullName": null,
+    "lat": -22.54179,
+    "lng": -48.58557,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319107,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Igarapava",
+    "fullName": null,
+    "lat": -20.0826,
+    "lng": -47.69024,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322284,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Igaratá",
+    "fullName": null,
+    "lat": -23.12994,
+    "lng": -46.14647,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322285,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iguape",
+    "fullName": null,
+    "lat": -24.55465,
+    "lng": -47.50472,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322287,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ilha Comprida",
+    "fullName": null,
+    "lat": -24.87792,
+    "lng": -47.74757,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322288,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ilha Solteira",
+    "fullName": null,
+    "lat": -20.48722,
+    "lng": -51.27632,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322286,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ilhabela",
+    "fullName": null,
+    "lat": -23.8484,
+    "lng": -45.32321,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322289,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Indaiatuba",
+    "fullName": null,
+    "lat": -23.10251,
+    "lng": -47.18217,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322290,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Indiana",
+    "fullName": null,
+    "lat": -22.12587,
+    "lng": -51.26047,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322291,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Indiaporã",
+    "fullName": null,
+    "lat": -19.95987,
+    "lng": -50.24419,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322292,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Inúbia Paulista",
+    "fullName": null,
+    "lat": -21.72002,
+    "lng": -50.94738,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322293,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ipaussu",
+    "fullName": null,
+    "lat": -23.08202,
+    "lng": -49.6037,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322294,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iperó",
+    "fullName": null,
+    "lat": -23.38022,
+    "lng": -47.6421,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322295,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ipeúna",
+    "fullName": null,
+    "lat": -22.44376,
+    "lng": -47.69449,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322296,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ipiguá",
+    "fullName": null,
+    "lat": -20.63984,
+    "lng": -49.39781,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324208,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iporanga",
+    "fullName": null,
+    "lat": -24.50438,
+    "lng": -48.55248,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322297,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ipuã",
+    "fullName": null,
+    "lat": -20.39667,
+    "lng": -48.0566,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322298,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Iracemápolis",
+    "fullName": null,
+    "lat": -22.61601,
+    "lng": -47.51989,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322299,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Irapuã",
+    "fullName": null,
+    "lat": -21.25013,
+    "lng": -49.40247,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322300,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Irapuru",
+    "fullName": null,
+    "lat": -21.44903,
+    "lng": -51.33959,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322301,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaberá",
+    "fullName": null,
+    "lat": -23.89815,
+    "lng": -49.14326,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322302,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaí",
+    "fullName": null,
+    "lat": -23.52302,
+    "lng": -49.07565,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322303,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itajobi",
+    "fullName": null,
+    "lat": -21.35516,
+    "lng": -49.0569,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322304,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaju",
+    "fullName": null,
+    "lat": -21.92879,
+    "lng": -48.78312,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322305,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itanhaém",
+    "fullName": null,
+    "lat": -24.05887,
+    "lng": -46.84562,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322306,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaoca",
+    "fullName": null,
+    "lat": -24.61155,
+    "lng": -48.8439,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322307,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapecerica da Serra",
+    "fullName": null,
+    "lat": -23.74232,
+    "lng": -46.85547,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322308,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapetininga",
+    "fullName": null,
+    "lat": -23.64607,
+    "lng": -48.12574,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322309,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapeva",
+    "fullName": null,
+    "lat": -23.94696,
+    "lng": -48.83835,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322310,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapevi",
+    "fullName": null,
+    "lat": -23.5582,
+    "lng": -46.97737,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324338,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapira",
+    "fullName": null,
+    "lat": -22.42118,
+    "lng": -46.773,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322311,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapirapuã Paulista",
+    "fullName": null,
+    "lat": -24.55985,
+    "lng": -49.22435,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322312,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itápolis",
+    "fullName": null,
+    "lat": -21.54679,
+    "lng": -48.83018,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322313,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaporanga",
+    "fullName": null,
+    "lat": -23.66197,
+    "lng": -49.47439,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322314,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapuí",
+    "fullName": null,
+    "lat": -22.25044,
+    "lng": -48.69737,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322315,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itapura",
+    "fullName": null,
+    "lat": -20.59626,
+    "lng": -51.42537,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322316,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itaquaquecetuba",
+    "fullName": null,
+    "lat": -23.45806,
+    "lng": -46.32917,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322317,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itararé",
+    "fullName": null,
+    "lat": -24.07772,
+    "lng": -49.3261,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322318,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itariri",
+    "fullName": null,
+    "lat": -24.2888,
+    "lng": -47.13325,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322319,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itatiba",
+    "fullName": null,
+    "lat": -23.0025,
+    "lng": -46.79813,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322320,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itatinga",
+    "fullName": null,
+    "lat": -23.12572,
+    "lng": -48.62341,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322321,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itirapina",
+    "fullName": null,
+    "lat": -22.30447,
+    "lng": -47.83454,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3460550,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itirapuã",
+    "fullName": null,
+    "lat": -20.65755,
+    "lng": -47.16859,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322322,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itobi",
+    "fullName": null,
+    "lat": -21.74902,
+    "lng": -46.93051,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322323,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itu",
+    "fullName": null,
+    "lat": -23.30045,
+    "lng": -47.27573,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322324,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Itupeva",
+    "fullName": null,
+    "lat": -23.14518,
+    "lng": -47.06363,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322325,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ituverava",
+    "fullName": null,
+    "lat": -20.30007,
+    "lng": -47.82592,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322326,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jaborandi",
+    "fullName": null,
+    "lat": -20.66618,
+    "lng": -48.40164,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322327,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jaboticabal",
+    "fullName": null,
+    "lat": -21.2022,
+    "lng": -48.29305,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322328,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jacareí",
+    "fullName": null,
+    "lat": -23.29305,
+    "lng": -45.9705,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322329,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jaci",
+    "fullName": null,
+    "lat": -20.94747,
+    "lng": -49.57606,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322330,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jacupiranga",
+    "fullName": null,
+    "lat": -24.78043,
+    "lng": -48.04336,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322331,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jaguariúna",
+    "fullName": null,
+    "lat": -22.69473,
+    "lng": -47.01728,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322332,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jales",
+    "fullName": null,
+    "lat": -20.28884,
+    "lng": -50.5581,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322333,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jambeiro",
+    "fullName": null,
+    "lat": -23.28154,
+    "lng": -45.71217,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322334,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jandira",
+    "fullName": null,
+    "lat": -23.54082,
+    "lng": -46.89571,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324339,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jardinópolis",
+    "fullName": null,
+    "lat": -20.98644,
+    "lng": -47.81714,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324340,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jarinu",
+    "fullName": null,
+    "lat": -23.09771,
+    "lng": -46.7254,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322335,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jaú",
+    "fullName": null,
+    "lat": -22.27384,
+    "lng": -48.52723,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322336,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jeriquara",
+    "fullName": null,
+    "lat": -20.33455,
+    "lng": -47.57121,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322337,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Joanópolis",
+    "fullName": null,
+    "lat": -22.93462,
+    "lng": -46.21096,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322338,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "João Ramalho",
+    "fullName": null,
+    "lat": -22.2444,
+    "lng": -50.78747,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319108,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "José Bonifácio",
+    "fullName": null,
+    "lat": -21.08986,
+    "lng": -49.77293,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322339,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Júlio Mesquita",
+    "fullName": null,
+    "lat": -21.97689,
+    "lng": -49.78623,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322340,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jumirim",
+    "fullName": null,
+    "lat": -23.10825,
+    "lng": -47.7982,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322341,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Jundiaí",
+    "fullName": null,
+    "lat": -23.203,
+    "lng": -46.9008,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322342,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Junqueirópolis",
+    "fullName": null,
+    "lat": -21.4211,
+    "lng": -51.44193,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322343,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Juquiá",
+    "fullName": null,
+    "lat": -24.18961,
+    "lng": -47.6354,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322344,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Juquitiba",
+    "fullName": null,
+    "lat": -23.9586,
+    "lng": -47.01366,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322345,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lagoinha",
+    "fullName": null,
+    "lat": -23.08443,
+    "lng": -45.19973,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322346,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Laranjal Paulista",
+    "fullName": null,
+    "lat": -23.01583,
+    "lng": -47.85394,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322347,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lavínia",
+    "fullName": null,
+    "lat": -21.17069,
+    "lng": -51.05184,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322348,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lavrinhas",
+    "fullName": null,
+    "lat": -22.51707,
+    "lng": -44.88055,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322349,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Leme",
+    "fullName": null,
+    "lat": -22.17789,
+    "lng": -47.34393,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322350,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lençóis Paulista",
+    "fullName": null,
+    "lat": -22.67259,
+    "lng": -48.82147,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322351,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Limeira",
+    "fullName": null,
+    "lat": -22.61134,
+    "lng": -47.38017,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3458505,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lindóia",
+    "fullName": null,
+    "lat": -22.5125,
+    "lng": -46.65352,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322352,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lins",
+    "fullName": null,
+    "lat": -21.66919,
+    "lng": -49.69329,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322353,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lorena",
+    "fullName": null,
+    "lat": -22.78236,
+    "lng": -45.06079,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322354,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lourdes",
+    "fullName": null,
+    "lat": -20.94345,
+    "lng": -50.23799,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322355,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Louveira",
+    "fullName": null,
+    "lat": -23.08252,
+    "lng": -46.93308,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324341,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lucélia",
+    "fullName": null,
+    "lat": -21.63636,
+    "lng": -51.00037,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322356,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lucianópolis",
+    "fullName": null,
+    "lat": -22.48385,
+    "lng": -49.54507,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319109,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Luís Antônio",
+    "fullName": null,
+    "lat": -21.55997,
+    "lng": -47.81156,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322357,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Luiziânia",
+    "fullName": null,
+    "lat": -21.68237,
+    "lng": -50.35305,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319110,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lupércio",
+    "fullName": null,
+    "lat": -22.42771,
+    "lng": -49.81232,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319111,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Lutécia",
+    "fullName": null,
+    "lat": -22.30652,
+    "lng": -50.37817,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322358,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Macatuba",
+    "fullName": null,
+    "lat": -22.49292,
+    "lng": -48.71085,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322359,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Macaubal",
+    "fullName": null,
+    "lat": -20.86271,
+    "lng": -49.9853,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322360,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Macedônia",
+    "fullName": null,
+    "lat": -20.08825,
+    "lng": -50.17318,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322361,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Magda",
+    "fullName": null,
+    "lat": -20.57602,
+    "lng": -50.22413,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322362,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mairinque",
+    "fullName": null,
+    "lat": -23.51045,
+    "lng": -47.23443,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322363,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mairiporã",
+    "fullName": null,
+    "lat": -23.32126,
+    "lng": -46.55992,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322364,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Manduri",
+    "fullName": null,
+    "lat": -23.05388,
+    "lng": -49.30262,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322365,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Marabá Paulista",
+    "fullName": null,
+    "lat": -22.11727,
+    "lng": -52.05131,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322366,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Maracaí",
+    "fullName": null,
+    "lat": -22.66252,
+    "lng": -50.79803,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322367,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Marapoama",
+    "fullName": null,
+    "lat": -21.25761,
+    "lng": -49.14859,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322368,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mariápolis",
+    "fullName": null,
+    "lat": -21.77944,
+    "lng": -51.16754,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322369,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Marília",
+    "fullName": null,
+    "lat": -22.20881,
+    "lng": -49.94179,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322370,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Marinópolis",
+    "fullName": null,
+    "lat": -20.4878,
+    "lng": -50.83467,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322371,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Martinópolis",
+    "fullName": null,
+    "lat": -22.19618,
+    "lng": -51.13703,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322372,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Matão",
+    "fullName": null,
+    "lat": -21.59547,
+    "lng": -48.45033,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322373,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mauá",
+    "fullName": null,
+    "lat": -23.66364,
+    "lng": -46.44656,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322374,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mendonça",
+    "fullName": null,
+    "lat": -21.1962,
+    "lng": -49.56427,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322375,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Meridiano",
+    "fullName": null,
+    "lat": -20.41766,
+    "lng": -50.20536,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322376,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mesópolis",
+    "fullName": null,
+    "lat": -19.95808,
+    "lng": -50.60938,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322377,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Miguelópolis",
+    "fullName": null,
+    "lat": -20.18798,
+    "lng": -48.16308,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322378,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mineiros do Tietê",
+    "fullName": null,
+    "lat": -22.4486,
+    "lng": -48.44074,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322380,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mira Estrela",
+    "fullName": null,
+    "lat": -19.97244,
+    "lng": -50.13043,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322379,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Miracatu",
+    "fullName": null,
+    "lat": -24.17514,
+    "lng": -47.36583,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322381,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mirandópolis",
+    "fullName": null,
+    "lat": -21.12459,
+    "lng": -51.15123,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322382,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mirante do Paranapanema",
+    "fullName": null,
+    "lat": -22.35109,
+    "lng": -51.97126,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322383,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mirassol",
+    "fullName": null,
+    "lat": -20.84158,
+    "lng": -49.50879,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322384,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mirassolândia",
+    "fullName": null,
+    "lat": -20.59295,
+    "lng": -49.48426,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322385,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mococa",
+    "fullName": null,
+    "lat": -21.44253,
+    "lng": -47.01305,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322386,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mogi das Cruzes",
+    "fullName": null,
+    "lat": -23.56813,
+    "lng": -46.1877,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324342,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mogi Guaçu",
+    "fullName": null,
+    "lat": -22.24995,
+    "lng": -47.00981,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322387,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mogi Mirim",
+    "fullName": null,
+    "lat": -22.44982,
+    "lng": -46.9897,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322388,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mombuca",
+    "fullName": null,
+    "lat": -22.95107,
+    "lng": -47.60238,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322389,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monções",
+    "fullName": null,
+    "lat": -20.86875,
+    "lng": -50.08331,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322390,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Mongaguá",
+    "fullName": null,
+    "lat": -24.05741,
+    "lng": -46.66836,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322391,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Alegre do Sul",
+    "fullName": null,
+    "lat": -22.71002,
+    "lng": -46.67181,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322392,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Alto",
+    "fullName": null,
+    "lat": -21.25009,
+    "lng": -48.55789,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322393,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Aprazível",
+    "fullName": null,
+    "lat": -20.72598,
+    "lng": -49.69104,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322394,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Azul Paulista",
+    "fullName": null,
+    "lat": -20.92022,
+    "lng": -48.68958,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322395,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Castelo",
+    "fullName": null,
+    "lat": -21.22773,
+    "lng": -51.57141,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322397,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monte Mor",
+    "fullName": null,
+    "lat": -22.95066,
+    "lng": -47.30214,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322396,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Monteiro Lobato",
+    "fullName": null,
+    "lat": -22.933,
+    "lng": -45.80525,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322398,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Morro Agudo",
+    "fullName": null,
+    "lat": -20.63596,
+    "lng": -48.18889,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322399,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Morungaba",
+    "fullName": null,
+    "lat": -22.88318,
+    "lng": -46.78699,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322400,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Motuca",
+    "fullName": null,
+    "lat": -21.48936,
+    "lng": -48.15669,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322401,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Murutinga do Sul",
+    "fullName": null,
+    "lat": -20.99638,
+    "lng": -51.30376,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322402,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nantes",
+    "fullName": null,
+    "lat": -22.60334,
+    "lng": -51.2084,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322403,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Narandiba",
+    "fullName": null,
+    "lat": -22.53395,
+    "lng": -51.50976,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322404,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Natividade da Serra",
+    "fullName": null,
+    "lat": -23.39447,
+    "lng": -45.39368,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322405,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nazaré Paulista",
+    "fullName": null,
+    "lat": -23.18203,
+    "lng": -46.36202,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322406,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Neves Paulista",
+    "fullName": null,
+    "lat": -20.87439,
+    "lng": -49.6485,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322407,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nhandeara",
+    "fullName": null,
+    "lat": -20.66142,
+    "lng": -50.05605,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322408,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nipoã",
+    "fullName": null,
+    "lat": -20.89366,
+    "lng": -49.78133,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322409,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Aliança",
+    "fullName": null,
+    "lat": -21.06591,
+    "lng": -49.52593,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322410,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Campina",
+    "fullName": null,
+    "lat": -24.20918,
+    "lng": -48.98456,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319112,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Canaã Paulista",
+    "fullName": null,
+    "lat": -20.3702,
+    "lng": -50.90616,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319113,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Castilho",
+    "fullName": null,
+    "lat": -20.7853,
+    "lng": -50.34957,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322411,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Europa",
+    "fullName": null,
+    "lat": -21.79214,
+    "lng": -48.5688,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322412,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Granada",
+    "fullName": null,
+    "lat": -20.45718,
+    "lng": -49.31545,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322413,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Guataporanga",
+    "fullName": null,
+    "lat": -21.31898,
+    "lng": -51.64323,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322414,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Independência",
+    "fullName": null,
+    "lat": -21.15481,
+    "lng": -51.52759,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322416,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Luzitânia",
+    "fullName": null,
+    "lat": -20.87304,
+    "lng": -50.24297,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324343,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nova Odessa",
+    "fullName": null,
+    "lat": -22.78164,
+    "lng": -47.27133,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322415,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Novais",
+    "fullName": null,
+    "lat": -20.9766,
+    "lng": -48.90985,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322417,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Novo Horizonte",
+    "fullName": null,
+    "lat": -21.4521,
+    "lng": -49.30259,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322418,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Nuporanga",
+    "fullName": null,
+    "lat": -20.73263,
+    "lng": -47.7514,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322419,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ocauçu",
+    "fullName": null,
+    "lat": -22.43034,
+    "lng": -49.9517,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322420,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Óleo",
+    "fullName": null,
+    "lat": -22.94964,
+    "lng": -49.38996,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322421,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Olímpia",
+    "fullName": null,
+    "lat": -20.69621,
+    "lng": -48.99168,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322422,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Onda Verde",
+    "fullName": null,
+    "lat": -20.61043,
+    "lng": -49.24474,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322423,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Oriente",
+    "fullName": null,
+    "lat": -22.15005,
+    "lng": -50.09676,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322424,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Orindiúva",
+    "fullName": null,
+    "lat": -20.22235,
+    "lng": -49.37594,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322425,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Orlândia",
+    "fullName": null,
+    "lat": -20.68905,
+    "lng": -47.89527,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322426,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Osasco",
+    "fullName": null,
+    "lat": -23.52632,
+    "lng": -46.7884,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322427,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Oscar Bressane",
+    "fullName": null,
+    "lat": -22.29031,
+    "lng": -50.25646,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322428,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Osvaldo Cruz",
+    "fullName": null,
+    "lat": -21.67502,
+    "lng": -50.84203,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322429,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ourinhos",
+    "fullName": null,
+    "lat": -22.96326,
+    "lng": -49.86105,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322431,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ouro Verde",
+    "fullName": null,
+    "lat": -21.52766,
+    "lng": -51.75119,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322430,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ouroeste",
+    "fullName": null,
+    "lat": -19.9376,
+    "lng": -50.41455,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322432,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pacaembu",
+    "fullName": null,
+    "lat": -21.50331,
+    "lng": -51.26948,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322433,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Palestina",
+    "fullName": null,
+    "lat": -20.29911,
+    "lng": -49.52,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322434,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Palmares Paulista",
+    "fullName": null,
+    "lat": -21.10148,
+    "lng": -48.82032,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322435,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Palmeira d'Oeste",
+    "fullName": null,
+    "lat": -20.45046,
+    "lng": -50.75181,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322436,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Palmital",
+    "fullName": null,
+    "lat": -22.81598,
+    "lng": -50.22953,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322437,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Panorama",
+    "fullName": null,
+    "lat": -21.50826,
+    "lng": -51.87193,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322438,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paraguaçu Paulista",
+    "fullName": null,
+    "lat": -22.4702,
+    "lng": -50.6453,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322439,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paraibuna",
+    "fullName": null,
+    "lat": -23.48123,
+    "lng": -45.63778,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322440,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paraíso",
+    "fullName": null,
+    "lat": -21.00667,
+    "lng": -48.77143,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322441,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paranapanema",
+    "fullName": null,
+    "lat": -23.48856,
+    "lng": -48.75931,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322442,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paranapuã",
+    "fullName": null,
+    "lat": -20.0594,
+    "lng": -50.59676,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322443,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Parapuã",
+    "fullName": null,
+    "lat": -21.84482,
+    "lng": -50.8341,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322444,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pardinho",
+    "fullName": null,
+    "lat": -23.08987,
+    "lng": -48.3842,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322445,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pariquera-Açu",
+    "fullName": null,
+    "lat": -24.66388,
+    "lng": -47.84553,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322446,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Parisi",
+    "fullName": null,
+    "lat": -20.26554,
+    "lng": -50.03904,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3454760,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Patrocínio Paulista",
+    "fullName": null,
+    "lat": -20.68707,
+    "lng": -47.28437,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322447,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paulicéia",
+    "fullName": null,
+    "lat": -21.17172,
+    "lng": -51.75418,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322448,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paulínia",
+    "fullName": null,
+    "lat": -22.73916,
+    "lng": -47.14087,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324344,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paulistânia",
+    "fullName": null,
+    "lat": -22.57816,
+    "lng": -49.29587,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322449,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Paulo de Faria",
+    "fullName": null,
+    "lat": -20.09639,
+    "lng": -49.48849,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322450,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pederneiras",
+    "fullName": null,
+    "lat": -22.30876,
+    "lng": -48.86558,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322451,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedra Bela",
+    "fullName": null,
+    "lat": -22.76397,
+    "lng": -46.43708,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322452,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedranópolis",
+    "fullName": null,
+    "lat": -20.19986,
+    "lng": -50.08987,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322453,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedregulho",
+    "fullName": null,
+    "lat": -20.18888,
+    "lng": -47.44327,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324345,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedreira",
+    "fullName": null,
+    "lat": -22.75077,
+    "lng": -46.89089,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322454,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedrinhas Paulista",
+    "fullName": null,
+    "lat": -22.80731,
+    "lng": -50.82055,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322455,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pedro de Toledo",
+    "fullName": null,
+    "lat": -24.1702,
+    "lng": -47.17239,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324346,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Penápolis",
+    "fullName": null,
+    "lat": -21.39112,
+    "lng": -50.10989,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322456,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pereira Barreto",
+    "fullName": null,
+    "lat": -20.64776,
+    "lng": -51.08711,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322457,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pereiras",
+    "fullName": null,
+    "lat": -23.1215,
+    "lng": -47.97614,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322458,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Peruíbe",
+    "fullName": null,
+    "lat": -24.27887,
+    "lng": -47.01284,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322459,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piacatu",
+    "fullName": null,
+    "lat": -21.57301,
+    "lng": -50.65835,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322460,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piedade",
+    "fullName": null,
+    "lat": -23.80789,
+    "lng": -47.43506,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322461,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pilar do Sul",
+    "fullName": null,
+    "lat": -23.85315,
+    "lng": -47.71904,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322462,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pindamonhangaba",
+    "fullName": null,
+    "lat": -22.88763,
+    "lng": -45.46,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322463,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pindorama",
+    "fullName": null,
+    "lat": -21.20688,
+    "lng": -48.91109,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322464,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pinhalzinho",
+    "fullName": null,
+    "lat": -22.78213,
+    "lng": -46.57177,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322465,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piquerobi",
+    "fullName": null,
+    "lat": -21.84262,
+    "lng": -51.74581,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322466,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piquete",
+    "fullName": null,
+    "lat": -22.5978,
+    "lng": -45.16575,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322467,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piracaia",
+    "fullName": null,
+    "lat": -23.05285,
+    "lng": -46.30252,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324347,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piracicaba",
+    "fullName": null,
+    "lat": -22.71579,
+    "lng": -47.77297,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322468,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piraju",
+    "fullName": null,
+    "lat": -23.19769,
+    "lng": -49.39415,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322469,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pirajuí",
+    "fullName": null,
+    "lat": -21.9578,
+    "lng": -49.41391,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322470,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pirangi",
+    "fullName": null,
+    "lat": -21.08566,
+    "lng": -48.67186,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322471,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pirapora do Bom Jesus",
+    "fullName": null,
+    "lat": -23.37201,
+    "lng": -46.97798,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324348,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pirapozinho",
+    "fullName": null,
+    "lat": -22.42995,
+    "lng": -51.56487,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322472,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pirassununga",
+    "fullName": null,
+    "lat": -21.99838,
+    "lng": -47.36666,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324349,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Piratininga",
+    "fullName": null,
+    "lat": -22.42279,
+    "lng": -49.19329,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322473,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pitangueiras",
+    "fullName": null,
+    "lat": -21.01395,
+    "lng": -48.26197,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322474,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Planalto",
+    "fullName": null,
+    "lat": -21.00411,
+    "lng": -49.93965,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322475,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Platina",
+    "fullName": null,
+    "lat": -22.62809,
+    "lng": -50.22211,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322476,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Poá",
+    "fullName": null,
+    "lat": -23.53459,
+    "lng": -46.34662,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322477,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Poloni",
+    "fullName": null,
+    "lat": -20.72938,
+    "lng": -49.8155,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322478,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pompéia",
+    "fullName": null,
+    "lat": -22.04169,
+    "lng": -50.20123,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322479,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pongaí",
+    "fullName": null,
+    "lat": -21.73364,
+    "lng": -49.36396,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322480,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pontal",
+    "fullName": null,
+    "lat": -20.96612,
+    "lng": -48.06856,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322481,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pontalinda",
+    "fullName": null,
+    "lat": -20.46316,
+    "lng": -50.52208,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324350,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pontes Gestal",
+    "fullName": null,
+    "lat": -20.17009,
+    "lng": -49.75902,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322482,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Populina",
+    "fullName": null,
+    "lat": -19.92212,
+    "lng": -50.51727,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322483,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Porangaba",
+    "fullName": null,
+    "lat": -23.15994,
+    "lng": -48.13535,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322484,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Porto Feliz",
+    "fullName": null,
+    "lat": -23.21632,
+    "lng": -47.52288,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322485,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Porto Ferreira",
+    "fullName": null,
+    "lat": -21.84125,
+    "lng": -47.43937,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322486,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Potim",
+    "fullName": null,
+    "lat": -22.82497,
+    "lng": -45.30614,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322487,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Potirendaba",
+    "fullName": null,
+    "lat": -21.10737,
+    "lng": -49.39808,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322488,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pracinha",
+    "fullName": null,
+    "lat": -21.84003,
+    "lng": -51.08033,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322489,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pradópolis",
+    "fullName": null,
+    "lat": -21.34374,
+    "lng": -48.07585,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324351,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Praia Grande",
+    "fullName": null,
+    "lat": -24.01506,
+    "lng": -46.52292,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322490,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Pratânia",
+    "fullName": null,
+    "lat": -22.81737,
+    "lng": -48.68698,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322491,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Presidente Alves",
+    "fullName": null,
+    "lat": -22.10947,
+    "lng": -49.40588,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324352,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Presidente Bernardes",
+    "fullName": null,
+    "lat": -22.13099,
+    "lng": -51.64432,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322492,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Presidente Epitácio",
+    "fullName": null,
+    "lat": -21.91838,
+    "lng": -52.17528,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324353,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Presidente Prudente",
+    "fullName": null,
+    "lat": -21.95826,
+    "lng": -51.32416,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322493,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Presidente Venceslau",
+    "fullName": null,
+    "lat": -21.77554,
+    "lng": -51.83643,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322494,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Promissão",
+    "fullName": null,
+    "lat": -21.52887,
+    "lng": -49.88507,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322495,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Quadra",
+    "fullName": null,
+    "lat": -23.30027,
+    "lng": -48.04264,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322496,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Quatá",
+    "fullName": null,
+    "lat": -22.21146,
+    "lng": -50.64957,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322497,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Queiroz",
+    "fullName": null,
+    "lat": -21.79287,
+    "lng": -50.23587,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322498,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Queluz",
+    "fullName": null,
+    "lat": -22.5132,
+    "lng": -44.78091,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322499,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Quintana",
+    "fullName": null,
+    "lat": -22.0972,
+    "lng": -50.37082,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322500,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rafard",
+    "fullName": null,
+    "lat": -23.03281,
+    "lng": -47.58676,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322501,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rancharia",
+    "fullName": null,
+    "lat": -22.34679,
+    "lng": -50.9199,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322502,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Redenção da Serra",
+    "fullName": null,
+    "lat": -23.25672,
+    "lng": -45.502,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322503,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Regente Feijó",
+    "fullName": null,
+    "lat": -22.22331,
+    "lng": -51.29212,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322504,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Reginópolis",
+    "fullName": null,
+    "lat": -21.87493,
+    "lng": -49.19025,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322505,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Registro",
+    "fullName": null,
+    "lat": -24.5216,
+    "lng": -47.86017,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322506,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Restinga",
+    "fullName": null,
+    "lat": -20.67652,
+    "lng": -47.52058,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322507,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeira",
+    "fullName": null,
+    "lat": -24.61113,
+    "lng": -49.03616,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322508,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Bonito",
+    "fullName": null,
+    "lat": -22.03418,
+    "lng": -48.18769,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322509,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Branco",
+    "fullName": null,
+    "lat": -24.26113,
+    "lng": -48.77205,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322510,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Corrente",
+    "fullName": null,
+    "lat": -20.44247,
+    "lng": -47.57152,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322511,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão do Sul",
+    "fullName": null,
+    "lat": -22.74112,
+    "lng": -49.94632,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322512,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão dos Índios",
+    "fullName": null,
+    "lat": -21.7847,
+    "lng": -51.5784,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322513,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Grande",
+    "fullName": null,
+    "lat": -24.17568,
+    "lng": -48.34008,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322514,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Pires",
+    "fullName": null,
+    "lat": -23.70411,
+    "lng": -46.39991,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322515,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ribeirão Preto",
+    "fullName": null,
+    "lat": -21.22253,
+    "lng": -47.82384,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322517,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rifaina",
+    "fullName": null,
+    "lat": -20.07816,
+    "lng": -47.43839,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322518,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rincão",
+    "fullName": null,
+    "lat": -21.57394,
+    "lng": -47.99687,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322519,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rinópolis",
+    "fullName": null,
+    "lat": -21.66311,
+    "lng": -50.72038,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322520,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rio Claro",
+    "fullName": null,
+    "lat": -22.40994,
+    "lng": -47.61383,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322521,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rio das Pedras",
+    "fullName": null,
+    "lat": -22.84082,
+    "lng": -47.59724,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322522,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rio Grande da Serra",
+    "fullName": null,
+    "lat": -23.73345,
+    "lng": -46.37351,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324354,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Riolândia",
+    "fullName": null,
+    "lat": -20.05381,
+    "lng": -49.71116,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322516,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Riversul",
+    "fullName": null,
+    "lat": -23.84439,
+    "lng": -49.44354,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322523,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rosana",
+    "fullName": null,
+    "lat": -22.4925,
+    "lng": -52.81942,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322524,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Roseira",
+    "fullName": null,
+    "lat": -22.93295,
+    "lng": -45.29982,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322525,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rubiácea",
+    "fullName": null,
+    "lat": -21.36114,
+    "lng": -50.78593,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322526,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Rubinéia",
+    "fullName": null,
+    "lat": -20.24994,
+    "lng": -51.01836,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322527,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sabino",
+    "fullName": null,
+    "lat": -21.4797,
+    "lng": -49.5765,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322528,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sagres",
+    "fullName": null,
+    "lat": -21.86529,
+    "lng": -51.00502,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324238,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sales",
+    "fullName": null,
+    "lat": -21.33848,
+    "lng": -49.51847,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322529,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sales Oliveira",
+    "fullName": null,
+    "lat": -20.83364,
+    "lng": -47.84079,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322530,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Salesópolis",
+    "fullName": null,
+    "lat": -23.58753,
+    "lng": -45.84743,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322531,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Salmourão",
+    "fullName": null,
+    "lat": -21.58291,
+    "lng": -50.87491,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6319114,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Saltinho",
+    "fullName": null,
+    "lat": -22.86275,
+    "lng": -47.72668,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322532,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Salto",
+    "fullName": null,
+    "lat": -23.20427,
+    "lng": -47.29013,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322533,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Salto de Pirapora",
+    "fullName": null,
+    "lat": -23.65747,
+    "lng": -47.60704,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322534,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Salto Grande",
+    "fullName": null,
+    "lat": -22.87363,
+    "lng": -49.9619,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322535,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sandovalina",
+    "fullName": null,
+    "lat": -22.45478,
+    "lng": -51.85322,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322536,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Adélia",
+    "fullName": null,
+    "lat": -21.32501,
+    "lng": -48.82706,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322537,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Albertina",
+    "fullName": null,
+    "lat": -20.03496,
+    "lng": -50.71776,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322538,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Bárbara d'Oeste",
+    "fullName": null,
+    "lat": -22.79576,
+    "lng": -47.43963,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322539,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Branca",
+    "fullName": null,
+    "lat": -23.42205,
+    "lng": -45.86813,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322540,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Clara d'Oeste",
+    "fullName": null,
+    "lat": -20.07534,
+    "lng": -50.8987,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324355,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Cruz da Conceição",
+    "fullName": null,
+    "lat": -22.12608,
+    "lng": -47.49276,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322541,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Cruz da Esperança",
+    "fullName": null,
+    "lat": -21.2617,
+    "lng": -47.44749,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322542,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Cruz das Palmeiras",
+    "fullName": null,
+    "lat": -21.88673,
+    "lng": -47.25141,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322543,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Cruz do Rio Pardo",
+    "fullName": null,
+    "lat": -22.78239,
+    "lng": -49.57775,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322544,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Ernestina",
+    "fullName": null,
+    "lat": -21.45303,
+    "lng": -48.37797,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322545,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Fé do Sul",
+    "fullName": null,
+    "lat": -20.26577,
+    "lng": -50.9509,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322546,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Gertrudes",
+    "fullName": null,
+    "lat": -22.47615,
+    "lng": -47.52068,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322547,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Isabel",
+    "fullName": null,
+    "lat": -23.2944,
+    "lng": -46.24151,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322548,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Lúcia",
+    "fullName": null,
+    "lat": -21.66472,
+    "lng": -48.08283,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322549,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Maria da Serra",
+    "fullName": null,
+    "lat": -22.53752,
+    "lng": -48.14455,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322550,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Mercedes",
+    "fullName": null,
+    "lat": -21.31829,
+    "lng": -51.74637,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322553,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Rita d'Oeste",
+    "fullName": null,
+    "lat": -20.08064,
+    "lng": -50.81371,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322554,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Rita do Passa Quatro",
+    "fullName": null,
+    "lat": -21.69237,
+    "lng": -47.50348,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322555,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Rosa de Viterbo",
+    "fullName": null,
+    "lat": -21.49882,
+    "lng": -47.36324,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322556,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santa Salete",
+    "fullName": null,
+    "lat": -20.2736,
+    "lng": -50.72826,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322551,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santana da Ponte Pensa",
+    "fullName": null,
+    "lat": -20.25649,
+    "lng": -50.79852,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322552,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santana de Parnaíba",
+    "fullName": null,
+    "lat": -23.44727,
+    "lng": -46.91722,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322557,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Anastácio",
+    "fullName": null,
+    "lat": -22.01522,
+    "lng": -51.70097,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322558,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo André",
+    "fullName": null,
+    "lat": -23.71057,
+    "lng": -46.5046,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322559,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Antônio da Alegria",
+    "fullName": null,
+    "lat": -21.09238,
+    "lng": -47.2036,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322560,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Antônio de Posse",
+    "fullName": null,
+    "lat": -22.60438,
+    "lng": -46.94759,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322561,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Antônio do Aracanguá",
+    "fullName": null,
+    "lat": -20.85619,
+    "lng": -50.53106,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322562,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Antônio do Jardim",
+    "fullName": null,
+    "lat": -22.12625,
+    "lng": -46.67237,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322563,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Antônio do Pinhal",
+    "fullName": null,
+    "lat": -22.82143,
+    "lng": -45.69968,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322564,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santo Expedito",
+    "fullName": null,
+    "lat": -21.82978,
+    "lng": -51.36993,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322565,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santópolis do Aguapeí",
+    "fullName": null,
+    "lat": -21.67058,
+    "lng": -50.52029,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322566,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Santos",
+    "fullName": null,
+    "lat": -23.85663,
+    "lng": -46.27055,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322567,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Bento do Sapucaí",
+    "fullName": null,
+    "lat": -22.67091,
+    "lng": -45.68394,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324356,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Bernardo do Campo",
+    "fullName": null,
+    "lat": -23.81022,
+    "lng": -46.54405,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322568,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Caetano do Sul",
+    "fullName": null,
+    "lat": -23.62429,
+    "lng": -46.56241,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322569,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Carlos",
+    "fullName": null,
+    "lat": -21.9065,
+    "lng": -47.87473,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324239,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Francisco",
+    "fullName": null,
+    "lat": -20.36457,
+    "lng": -50.67463,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324357,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São João da Boa Vista",
+    "fullName": null,
+    "lat": -21.97964,
+    "lng": -46.81643,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322570,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São João das Duas Pontes",
+    "fullName": null,
+    "lat": -20.41912,
+    "lng": -50.3896,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322571,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São João de Iracema",
+    "fullName": null,
+    "lat": -20.51199,
+    "lng": -50.36102,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322572,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São João do Pau d'Alho",
+    "fullName": null,
+    "lat": -21.20519,
+    "lng": -51.66857,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322573,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Joaquim da Barra",
+    "fullName": null,
+    "lat": -20.53958,
+    "lng": -47.92799,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322574,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São José da Bela Vista",
+    "fullName": null,
+    "lat": -20.59934,
+    "lng": -47.6294,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322575,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São José do Barreiro",
+    "fullName": null,
+    "lat": -22.73717,
+    "lng": -44.58545,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322576,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São José do Rio Pardo",
+    "fullName": null,
+    "lat": -21.6011,
+    "lng": -46.89981,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322577,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São José do Rio Preto",
+    "fullName": null,
+    "lat": -20.76911,
+    "lng": -49.35669,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322578,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São José dos Campos",
+    "fullName": null,
+    "lat": -23.09831,
+    "lng": -45.92181,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322579,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Lourenço da Serra",
+    "fullName": null,
+    "lat": -23.84783,
+    "lng": -46.9393,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322580,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Luiz do Paraitinga",
+    "fullName": null,
+    "lat": -23.26061,
+    "lng": -45.22724,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322581,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Manuel",
+    "fullName": null,
+    "lat": -22.68228,
+    "lng": -48.56342,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322582,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Miguel Arcanjo",
+    "fullName": null,
+    "lat": -23.93766,
+    "lng": -47.99988,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324358,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Paulo",
+    "fullName": null,
+    "lat": -23.62703,
+    "lng": -46.63503,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3448380,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Pedro",
+    "fullName": null,
+    "lat": -22.55963,
+    "lng": -47.90443,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322583,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Pedro do Turvo",
+    "fullName": null,
+    "lat": -22.69638,
+    "lng": -49.74295,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322584,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Roque",
+    "fullName": null,
+    "lat": -23.54011,
+    "lng": -47.1128,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322585,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Sebastião",
+    "fullName": null,
+    "lat": -23.80846,
+    "lng": -45.41081,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322586,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Sebastião da Grama",
+    "fullName": null,
+    "lat": -21.7473,
+    "lng": -46.75934,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322587,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Simão",
+    "fullName": null,
+    "lat": -21.45119,
+    "lng": -47.56768,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3448130,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "São Vicente",
+    "fullName": null,
+    "lat": -23.96506,
+    "lng": -46.49683,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322588,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sarapuí",
+    "fullName": null,
+    "lat": -23.65898,
+    "lng": -47.77095,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322589,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sarutaiá",
+    "fullName": null,
+    "lat": -23.25823,
+    "lng": -49.48372,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322590,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sebastianópolis do Sul",
+    "fullName": null,
+    "lat": -20.61558,
+    "lng": -49.90753,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322591,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Serra Azul",
+    "fullName": null,
+    "lat": -21.28755,
+    "lng": -47.53885,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322593,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Serra Negra",
+    "fullName": null,
+    "lat": -22.60767,
+    "lng": -46.70322,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322592,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Serrana",
+    "fullName": null,
+    "lat": -21.2125,
+    "lng": -47.61185,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3447642,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sertãozinho",
+    "fullName": null,
+    "lat": -21.12817,
+    "lng": -48.02523,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322594,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sete Barras",
+    "fullName": null,
+    "lat": -24.27723,
+    "lng": -47.95013,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322595,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Severínia",
+    "fullName": null,
+    "lat": -20.78066,
+    "lng": -48.79037,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322596,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Silveiras",
+    "fullName": null,
+    "lat": -22.73649,
+    "lng": -44.84778,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322597,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Socorro",
+    "fullName": null,
+    "lat": -22.60626,
+    "lng": -46.50989,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322598,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sorocaba",
+    "fullName": null,
+    "lat": -23.49579,
+    "lng": -47.45956,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322599,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sud Mennucci",
+    "fullName": null,
+    "lat": -20.6186,
+    "lng": -50.88011,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322600,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Sumaré",
+    "fullName": null,
+    "lat": -22.83743,
+    "lng": -47.25197,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322602,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Suzanápolis",
+    "fullName": null,
+    "lat": -20.5103,
+    "lng": -51.07079,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322601,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Suzano",
+    "fullName": null,
+    "lat": -23.60714,
+    "lng": -46.31002,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322603,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tabapuã",
+    "fullName": null,
+    "lat": -20.92377,
+    "lng": -49.02475,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322604,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tabatinga",
+    "fullName": null,
+    "lat": -21.7421,
+    "lng": -48.64589,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322605,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taboão da Serra",
+    "fullName": null,
+    "lat": -23.61155,
+    "lng": -46.7827,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322606,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taciba",
+    "fullName": null,
+    "lat": -22.49676,
+    "lng": -51.33241,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322607,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taguaí",
+    "fullName": null,
+    "lat": -23.48512,
+    "lng": -49.40781,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322608,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taiaçu",
+    "fullName": null,
+    "lat": -21.13217,
+    "lng": -48.53092,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322609,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taiúva",
+    "fullName": null,
+    "lat": -21.12737,
+    "lng": -48.42696,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322610,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tambaú",
+    "fullName": null,
+    "lat": -21.58688,
+    "lng": -47.22761,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322611,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tanabi",
+    "fullName": null,
+    "lat": -20.50212,
+    "lng": -49.64584,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322612,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tapiraí",
+    "fullName": null,
+    "lat": -24.01487,
+    "lng": -47.62583,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322613,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tapiratiba",
+    "fullName": null,
+    "lat": -21.44656,
+    "lng": -46.73214,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322614,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taquaral",
+    "fullName": null,
+    "lat": -21.0676,
+    "lng": -48.39336,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322615,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taquaritinga",
+    "fullName": null,
+    "lat": -21.4327,
+    "lng": -48.54735,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322616,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taquarituba",
+    "fullName": null,
+    "lat": -23.52998,
+    "lng": -49.21441,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322617,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taquarivaí",
+    "fullName": null,
+    "lat": -23.95095,
+    "lng": -48.67524,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322618,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tarabai",
+    "fullName": null,
+    "lat": -22.35043,
+    "lng": -51.62019,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322619,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tarumã",
+    "fullName": null,
+    "lat": -22.76111,
+    "lng": -50.60332,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322620,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tatuí",
+    "fullName": null,
+    "lat": -23.35439,
+    "lng": -47.85624,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322621,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Taubaté",
+    "fullName": null,
+    "lat": -23.07158,
+    "lng": -45.49745,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 3446655,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tejupá",
+    "fullName": null,
+    "lat": -23.35231,
+    "lng": -49.30721,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322622,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Teodoro Sampaio",
+    "fullName": null,
+    "lat": -22.41617,
+    "lng": -52.36402,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322623,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Terra Roxa",
+    "fullName": null,
+    "lat": -20.76175,
+    "lng": -48.36899,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322624,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tietê",
+    "fullName": null,
+    "lat": -23.04197,
+    "lng": -47.7143,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322625,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Timburi",
+    "fullName": null,
+    "lat": -23.19265,
+    "lng": -49.61224,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322626,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Torre de Pedra",
+    "fullName": null,
+    "lat": -23.2464,
+    "lng": -48.21328,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322627,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Torrinha",
+    "fullName": null,
+    "lat": -22.47144,
+    "lng": -48.15338,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322628,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Trabiju",
+    "fullName": null,
+    "lat": -22.03023,
+    "lng": -48.36861,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322629,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tremembé",
+    "fullName": null,
+    "lat": -22.9241,
+    "lng": -45.61503,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322630,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Três Fronteiras",
+    "fullName": null,
+    "lat": -20.29093,
+    "lng": -50.87027,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322631,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tuiuti",
+    "fullName": null,
+    "lat": -22.84505,
+    "lng": -46.69618,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322632,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tupã",
+    "fullName": null,
+    "lat": -21.95443,
+    "lng": -50.53493,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322633,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Tupi Paulista",
+    "fullName": null,
+    "lat": -21.38916,
+    "lng": -51.58294,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322634,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Turiúba",
+    "fullName": null,
+    "lat": -20.94735,
+    "lng": -50.09803,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322635,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Turmalina",
+    "fullName": null,
+    "lat": -20.05953,
+    "lng": -50.45595,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322636,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ubarana",
+    "fullName": null,
+    "lat": -21.22036,
+    "lng": -49.72981,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322637,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ubatuba",
+    "fullName": null,
+    "lat": -23.38256,
+    "lng": -45.02436,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322638,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Ubirajara",
+    "fullName": null,
+    "lat": -22.55131,
+    "lng": -49.66278,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322639,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Uchoa",
+    "fullName": null,
+    "lat": -20.9185,
+    "lng": -49.13654,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322640,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "União Paulista",
+    "fullName": null,
+    "lat": -20.88795,
+    "lng": -49.89135,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322641,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Urânia",
+    "fullName": null,
+    "lat": -20.20908,
+    "lng": -50.66093,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322642,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Uru",
+    "fullName": null,
+    "lat": -21.76519,
+    "lng": -49.2972,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322643,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Urupês",
+    "fullName": null,
+    "lat": -21.18413,
+    "lng": -49.28069,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322644,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Valentim Gentil",
+    "fullName": null,
+    "lat": -20.43138,
+    "lng": -50.12129,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322645,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Valinhos",
+    "fullName": null,
+    "lat": -22.97746,
+    "lng": -46.97488,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322646,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Valparaíso",
+    "fullName": null,
+    "lat": -21.21512,
+    "lng": -50.94698,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322647,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vargem",
+    "fullName": null,
+    "lat": -22.89117,
+    "lng": -46.41556,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322648,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vargem Grande do Sul",
+    "fullName": null,
+    "lat": -21.87152,
+    "lng": -46.89073,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322649,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vargem Grande Paulista",
+    "fullName": null,
+    "lat": -23.62856,
+    "lng": -47.01914,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322650,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Várzea Paulista",
+    "fullName": null,
+    "lat": -23.21817,
+    "lng": -46.82503,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324359,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vera Cruz",
+    "fullName": null,
+    "lat": -22.2334,
+    "lng": -49.83281,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322651,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vinhedo",
+    "fullName": null,
+    "lat": -23.05397,
+    "lng": -46.98135,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322652,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Viradouro",
+    "fullName": null,
+    "lat": -20.87625,
+    "lng": -48.31479,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322653,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vista Alegre do Alto",
+    "fullName": null,
+    "lat": -21.18019,
+    "lng": -48.65482,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322654,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Vitória Brasil",
+    "fullName": null,
+    "lat": -20.19354,
+    "lng": -50.4794,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322655,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Votorantim",
+    "fullName": null,
+    "lat": -23.58223,
+    "lng": -47.40899,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6324360,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Votuporanga",
+    "fullName": null,
+    "lat": -20.4801,
+    "lng": -50.01266,
+    "tz": "America/Sao_Paulo"
+  },
+  {
+    "id": 6322656,
+    "parentId": 3448433,
+    "country": "BR",
+    "name": "Zacarias",
+    "fullName": null,
+    "lat": -21.11651,
+    "lng": -50.06154,
+    "tz": "America/Sao_Paulo"
+  }
+]

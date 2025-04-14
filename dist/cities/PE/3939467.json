@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3948478,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Acobamba",
+    "fullName": "Provincia de Acobamba",
+    "lat": -12.75,
+    "lng": -74.66667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3947704,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Angaraes",
+    "fullName": "Provincia de Angaraes",
+    "lat": -13,
+    "lng": -74.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3945232,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Castrovirreyna",
+    "fullName": "Provincia de Castrovirreyna",
+    "lat": -13.14535,
+    "lng": -75.40598,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7778813,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Churcampa",
+    "fullName": "Provincia de Churcampa",
+    "lat": -12.6,
+    "lng": -74.52,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3939465,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Huancavelica",
+    "fullName": "Provincia de Huancavelica",
+    "lat": -12.66667,
+    "lng": -75.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349554,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Huaytara",
+    "fullName": null,
+    "lat": -13.65616,
+    "lng": -75.09234,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3927670,
+    "parentId": 3939467,
+    "country": "PE",
+    "name": "Tayacaja",
+    "fullName": "Provincia de Tayacaja",
+    "lat": -12.25,
+    "lng": -74.75,
+    "tz": "America/Lima"
+  }
+]

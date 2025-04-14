@@ -1,0 +1,792 @@
+[
+  {
+    "id": 6323717,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Água Clara",
+    "fullName": null,
+    "lat": -19.89787,
+    "lng": -52.95089,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323718,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Alcinópolis",
+    "fullName": null,
+    "lat": -18.19955,
+    "lng": -53.75814,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323719,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Amambai",
+    "fullName": null,
+    "lat": -23.1271,
+    "lng": -54.9579,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323720,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Anastácio",
+    "fullName": null,
+    "lat": -20.76269,
+    "lng": -55.73052,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323721,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Anaurilândia",
+    "fullName": null,
+    "lat": -22.14199,
+    "lng": -52.72011,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323722,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Angélica",
+    "fullName": null,
+    "lat": -22.0278,
+    "lng": -53.86668,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323723,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Antônio João",
+    "fullName": null,
+    "lat": -22.20114,
+    "lng": -55.93897,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323724,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Aparecida do Taboado",
+    "fullName": null,
+    "lat": -20.00909,
+    "lng": -51.34632,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323725,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Aquidauana",
+    "fullName": null,
+    "lat": -20.4579,
+    "lng": -55.83801,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323726,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Aral Moreira",
+    "fullName": null,
+    "lat": -22.90946,
+    "lng": -55.37007,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323727,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Bandeirantes",
+    "fullName": null,
+    "lat": -19.80863,
+    "lng": -54.33095,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323728,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Bataguassu",
+    "fullName": null,
+    "lat": -21.7855,
+    "lng": -52.56542,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323729,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Batayporã",
+    "fullName": null,
+    "lat": -22.46496,
+    "lng": -53.17683,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323730,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Bela Vista",
+    "fullName": null,
+    "lat": -22.04062,
+    "lng": -56.50822,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323731,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Bodoquena",
+    "fullName": null,
+    "lat": -20.48226,
+    "lng": -56.65893,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323732,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Bonito",
+    "fullName": null,
+    "lat": -20.91043,
+    "lng": -56.3386,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323733,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Brasilândia",
+    "fullName": null,
+    "lat": -21.11993,
+    "lng": -52.43829,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323734,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Caarapó",
+    "fullName": null,
+    "lat": -22.61041,
+    "lng": -54.83162,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323735,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Camapuã",
+    "fullName": null,
+    "lat": -19.05769,
+    "lng": -53.85781,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323736,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Campo Grande",
+    "fullName": null,
+    "lat": -20.38797,
+    "lng": -54.66797,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323737,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Caracol",
+    "fullName": null,
+    "lat": -21.96712,
+    "lng": -57.12672,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323738,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Cassilândia",
+    "fullName": null,
+    "lat": -19.06105,
+    "lng": -52.1108,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323739,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Chapadão do Sul",
+    "fullName": null,
+    "lat": -19.06696,
+    "lng": -52.74056,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323740,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Corguinho",
+    "fullName": null,
+    "lat": -19.81861,
+    "lng": -55.00199,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323741,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Coronel Sapucaia",
+    "fullName": null,
+    "lat": -23.33759,
+    "lng": -55.38899,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323742,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Corumbá",
+    "fullName": null,
+    "lat": -18.64755,
+    "lng": -56.82104,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323743,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Costa Rica",
+    "fullName": null,
+    "lat": -18.63739,
+    "lng": -53.27361,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323744,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Coxim",
+    "fullName": null,
+    "lat": -18.21262,
+    "lng": -54.71695,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323745,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Deodápolis",
+    "fullName": null,
+    "lat": -22.0804,
+    "lng": -54.20322,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323746,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Dois Irmãos do Buriti",
+    "fullName": null,
+    "lat": -20.57189,
+    "lng": -55.36839,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323747,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Douradina",
+    "fullName": null,
+    "lat": -21.98525,
+    "lng": -54.58145,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323748,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Dourados",
+    "fullName": null,
+    "lat": -22.16264,
+    "lng": -54.54083,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323749,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Eldorado",
+    "fullName": null,
+    "lat": -23.77957,
+    "lng": -54.21572,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323750,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Fátima do Sul",
+    "fullName": null,
+    "lat": -22.34424,
+    "lng": -54.37064,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6317140,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Figueirão",
+    "fullName": null,
+    "lat": -18.675,
+    "lng": -53.6425,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323751,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Glória de Dourados",
+    "fullName": null,
+    "lat": -22.48388,
+    "lng": -54.09006,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323752,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Guia Lopes da Laguna",
+    "fullName": null,
+    "lat": -21.61081,
+    "lng": -55.93458,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323753,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Iguatemi",
+    "fullName": null,
+    "lat": -23.42596,
+    "lng": -54.55844,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323754,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Inocência",
+    "fullName": null,
+    "lat": -19.6715,
+    "lng": -52.04393,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323755,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Itaporã",
+    "fullName": null,
+    "lat": -21.92184,
+    "lng": -54.81409,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323756,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Itaquiraí",
+    "fullName": null,
+    "lat": -23.4708,
+    "lng": -54.19281,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323757,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Ivinhema",
+    "fullName": null,
+    "lat": -22.38076,
+    "lng": -53.75565,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323758,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Japorã",
+    "fullName": null,
+    "lat": -23.7941,
+    "lng": -54.54402,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323759,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Jaraguari",
+    "fullName": null,
+    "lat": -20.27238,
+    "lng": -54.23743,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6324263,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Jardim",
+    "fullName": null,
+    "lat": -21.6451,
+    "lng": -56.23508,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323760,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Jateí",
+    "fullName": null,
+    "lat": -22.73989,
+    "lng": -53.81496,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323761,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Juti",
+    "fullName": null,
+    "lat": -22.85356,
+    "lng": -54.52155,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323762,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Ladário",
+    "fullName": null,
+    "lat": -19.10505,
+    "lng": -57.58416,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323763,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Laguna Carapã",
+    "fullName": null,
+    "lat": -22.71043,
+    "lng": -55.08248,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323764,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Maracaju",
+    "fullName": null,
+    "lat": -21.42498,
+    "lng": -55.54578,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323765,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Miranda",
+    "fullName": null,
+    "lat": -20.20887,
+    "lng": -56.52619,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323766,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Mundo Novo",
+    "fullName": null,
+    "lat": -23.92628,
+    "lng": -54.25746,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323767,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Naviraí",
+    "fullName": null,
+    "lat": -23.10745,
+    "lng": -54.03106,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323768,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Nioaque",
+    "fullName": null,
+    "lat": -21.18151,
+    "lng": -55.75856,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323769,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Nova Alvorada do Sul",
+    "fullName": null,
+    "lat": -21.48079,
+    "lng": -54.1526,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323770,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Nova Andradina",
+    "fullName": null,
+    "lat": -21.88205,
+    "lng": -53.46637,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323771,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Novo Horizonte do Sul",
+    "fullName": null,
+    "lat": -22.63068,
+    "lng": -53.73643,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 8581577,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Paraíso das Águas",
+    "fullName": null,
+    "lat": -19.22729,
+    "lng": -53.13065,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323772,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Paranaíba",
+    "fullName": null,
+    "lat": -19.526,
+    "lng": -51.39833,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323773,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Paranhos",
+    "fullName": null,
+    "lat": -23.72174,
+    "lng": -55.35447,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323774,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Pedro Gomes",
+    "fullName": null,
+    "lat": -17.83882,
+    "lng": -54.12943,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323775,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Ponta Porã",
+    "fullName": null,
+    "lat": -22.01602,
+    "lng": -55.72685,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323776,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Porto Murtinho",
+    "fullName": null,
+    "lat": -21.29947,
+    "lng": -57.34312,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323777,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Ribas do Rio Pardo",
+    "fullName": null,
+    "lat": -20.6995,
+    "lng": -53.57564,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323778,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Rio Brilhante",
+    "fullName": null,
+    "lat": -21.77535,
+    "lng": -54.45906,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323779,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Rio Negro",
+    "fullName": null,
+    "lat": -19.4462,
+    "lng": -54.97947,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323780,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Rio Verde de Mato Grosso",
+    "fullName": null,
+    "lat": -18.86722,
+    "lng": -54.91466,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323781,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Rochedo",
+    "fullName": null,
+    "lat": -19.98799,
+    "lng": -54.78184,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323782,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Santa Rita do Pardo",
+    "fullName": null,
+    "lat": -21.35479,
+    "lng": -52.69315,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323783,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "São Gabriel do Oeste",
+    "fullName": null,
+    "lat": -19.1317,
+    "lng": -54.44865,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323785,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Selvíria",
+    "fullName": null,
+    "lat": -20.24958,
+    "lng": -51.83228,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323784,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Sete Quedas",
+    "fullName": null,
+    "lat": -23.88066,
+    "lng": -55.02727,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6324215,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Sidrolândia",
+    "fullName": null,
+    "lat": -21.02035,
+    "lng": -54.99,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323786,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Sonora",
+    "fullName": null,
+    "lat": -17.67403,
+    "lng": -54.45326,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6323787,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Tacuru",
+    "fullName": null,
+    "lat": -23.68722,
+    "lng": -54.91099,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323788,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Taquarussu",
+    "fullName": null,
+    "lat": -22.73419,
+    "lng": -53.48002,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323789,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Terenos",
+    "fullName": null,
+    "lat": -20.42068,
+    "lng": -55.10602,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323790,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Três Lagoas",
+    "fullName": null,
+    "lat": -20.37964,
+    "lng": -52.25961,
+    "tz": "America/Campo_Grande"
+  },
+  {
+    "id": 6323791,
+    "parentId": 3457415,
+    "country": "BR",
+    "name": "Vicentina",
+    "fullName": null,
+    "lat": -22.49155,
+    "lng": -54.46183,
+    "tz": "America/Campo_Grande"
+  }
+]

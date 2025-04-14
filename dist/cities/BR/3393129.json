@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 6319362,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Abaetetuba",
+    "fullName": null,
+    "lat": -1.73485,
+    "lng": -48.94394,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319363,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Abel Figueiredo",
+    "fullName": null,
+    "lat": -4.94378,
+    "lng": -48.42275,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319364,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Acará",
+    "fullName": null,
+    "lat": -2.10359,
+    "lng": -48.47992,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319365,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Afuá",
+    "fullName": null,
+    "lat": -0.37678,
+    "lng": -50.76679,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319366,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Água Azul do Norte",
+    "fullName": null,
+    "lat": -6.63125,
+    "lng": -50.62146,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319367,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Alenquer",
+    "fullName": null,
+    "lat": -0.85422,
+    "lng": -54.94506,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6324182,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Almeirim",
+    "fullName": null,
+    "lat": 0.47621,
+    "lng": -53.87297,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6324183,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Altamira",
+    "fullName": null,
+    "lat": -5.87889,
+    "lng": -53.65823,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319368,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Anajás",
+    "fullName": null,
+    "lat": -0.86015,
+    "lng": -50.0397,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319369,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ananindeua",
+    "fullName": null,
+    "lat": -1.34611,
+    "lng": -48.38287,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319370,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Anapu",
+    "fullName": null,
+    "lat": -3.88583,
+    "lng": -51.33796,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319371,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Augusto Corrêa",
+    "fullName": null,
+    "lat": -0.98951,
+    "lng": -46.48008,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319372,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Aurora do Pará",
+    "fullName": null,
+    "lat": -2.30323,
+    "lng": -47.75621,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324277,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Aveiro",
+    "fullName": null,
+    "lat": -3.66721,
+    "lng": -56.01637,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319373,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bagre",
+    "fullName": null,
+    "lat": -2.40166,
+    "lng": -50.16628,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319374,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Baião",
+    "fullName": null,
+    "lat": -3.2528,
+    "lng": -49.75452,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319375,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bannach",
+    "fullName": null,
+    "lat": -7.46864,
+    "lng": -50.65904,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319376,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Barcarena",
+    "fullName": null,
+    "lat": -1.54656,
+    "lng": -48.63248,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319377,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Belém",
+    "fullName": null,
+    "lat": -1.24071,
+    "lng": -48.45991,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319378,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Belterra",
+    "fullName": null,
+    "lat": -3.01258,
+    "lng": -54.99128,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319379,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Benevides",
+    "fullName": null,
+    "lat": -1.32453,
+    "lng": -48.28873,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319380,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bom Jesus do Tocantins",
+    "fullName": null,
+    "lat": -4.99184,
+    "lng": -48.8237,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319381,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bonito",
+    "fullName": null,
+    "lat": -1.42927,
+    "lng": -47.33735,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 3405004,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bragança",
+    "fullName": null,
+    "lat": -0.96813,
+    "lng": -46.73377,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319382,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Brasil Novo",
+    "fullName": null,
+    "lat": -3.33767,
+    "lng": -52.57451,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319383,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Brejo Grande do Araguaia",
+    "fullName": null,
+    "lat": -5.74369,
+    "lng": -48.45573,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319384,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Breu Branco",
+    "fullName": null,
+    "lat": -3.73348,
+    "lng": -49.37122,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319385,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Breves",
+    "fullName": null,
+    "lat": -1.1684,
+    "lng": -50.55968,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319386,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Bujaru",
+    "fullName": null,
+    "lat": -1.65318,
+    "lng": -48.05295,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319388,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Cachoeira do Arari",
+    "fullName": null,
+    "lat": -0.84609,
+    "lng": -48.93118,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319387,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Cachoeira do Piriá",
+    "fullName": null,
+    "lat": -1.94037,
+    "lng": -46.46914,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319389,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Cametá",
+    "fullName": null,
+    "lat": -2.29582,
+    "lng": -49.49213,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319390,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Canaã dos Carajás",
+    "fullName": null,
+    "lat": -6.49873,
+    "lng": -50.09334,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319391,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Capanema",
+    "fullName": null,
+    "lat": -1.09966,
+    "lng": -47.08154,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319392,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Capitão Poço",
+    "fullName": null,
+    "lat": -1.97992,
+    "lng": -47.2031,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 3402582,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Castanhal",
+    "fullName": null,
+    "lat": -1.27231,
+    "lng": -47.85627,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319393,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Chaves",
+    "fullName": null,
+    "lat": -0.06289,
+    "lng": -49.64787,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319394,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Colares",
+    "fullName": null,
+    "lat": -0.90894,
+    "lng": -48.2534,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319395,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Conceição do Araguaia",
+    "fullName": null,
+    "lat": -8.15433,
+    "lng": -49.6035,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319396,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Concórdia do Pará",
+    "fullName": null,
+    "lat": -1.86154,
+    "lng": -47.96322,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319397,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Cumaru do Norte",
+    "fullName": null,
+    "lat": -8.39144,
+    "lng": -51.24084,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319398,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Curionópolis",
+    "fullName": null,
+    "lat": -6.18137,
+    "lng": -49.66441,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319399,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Curralinho",
+    "fullName": null,
+    "lat": -1.58236,
+    "lng": -49.98697,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319400,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Curuá",
+    "fullName": null,
+    "lat": -1.73821,
+    "lng": -55.11492,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319401,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Curuçá",
+    "fullName": null,
+    "lat": -0.69787,
+    "lng": -47.86755,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319402,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Dom Eliseu",
+    "fullName": null,
+    "lat": -4.08267,
+    "lng": -47.89052,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319403,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Eldorado do Carajás",
+    "fullName": null,
+    "lat": -6.10586,
+    "lng": -49.30329,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319404,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Faro",
+    "fullName": null,
+    "lat": -1.11536,
+    "lng": -57.77412,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319405,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Floresta do Araguaia",
+    "fullName": null,
+    "lat": -7.57944,
+    "lng": -49.52862,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319406,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Garrafão do Norte",
+    "fullName": null,
+    "lat": -2.21516,
+    "lng": -47.11722,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319407,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Goianésia do Pará",
+    "fullName": null,
+    "lat": -3.9492,
+    "lng": -48.87355,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319408,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Gurupá",
+    "fullName": null,
+    "lat": -1.16555,
+    "lng": -51.62743,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319409,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Igarapé-Açu",
+    "fullName": null,
+    "lat": -1.14164,
+    "lng": -47.51366,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319410,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Igarapé-Miri",
+    "fullName": null,
+    "lat": -2.07705,
+    "lng": -49.14772,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324278,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Inhangapi",
+    "fullName": null,
+    "lat": -1.46284,
+    "lng": -47.94974,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319411,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ipixuna do Pará",
+    "fullName": null,
+    "lat": -2.98149,
+    "lng": -48.11946,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319412,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Irituia",
+    "fullName": null,
+    "lat": -1.77048,
+    "lng": -47.42145,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 3397966,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Itaituba",
+    "fullName": null,
+    "lat": -5.86018,
+    "lng": -56.23176,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319413,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Itupiranga",
+    "fullName": null,
+    "lat": -5.23295,
+    "lng": -49.94952,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319414,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Jacareacanga",
+    "fullName": null,
+    "lat": -7.44532,
+    "lng": -57.30272,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319415,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Jacundá",
+    "fullName": null,
+    "lat": -4.56883,
+    "lng": -49.22284,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319416,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Juruti",
+    "fullName": null,
+    "lat": -2.33065,
+    "lng": -56.02742,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319417,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Limoeiro do Ajuru",
+    "fullName": null,
+    "lat": -1.89647,
+    "lng": -49.51015,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319418,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Mãe do Rio",
+    "fullName": null,
+    "lat": -1.98328,
+    "lng": -47.51572,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319419,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Magalhães Barata",
+    "fullName": null,
+    "lat": -0.81838,
+    "lng": -47.6299,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319420,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Marabá",
+    "fullName": null,
+    "lat": -5.62104,
+    "lng": -50.06414,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319421,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Maracanã",
+    "fullName": null,
+    "lat": -0.75819,
+    "lng": -47.48755,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319422,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Marapanim",
+    "fullName": null,
+    "lat": -0.84063,
+    "lng": -47.70897,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319423,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Marituba",
+    "fullName": null,
+    "lat": -1.37399,
+    "lng": -48.3142,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319424,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Medicilândia",
+    "fullName": null,
+    "lat": -3.15674,
+    "lng": -53.17769,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319425,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Melgaço",
+    "fullName": null,
+    "lat": -1.66163,
+    "lng": -51.05884,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319426,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Mocajuba",
+    "fullName": null,
+    "lat": -2.56174,
+    "lng": -49.43618,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319427,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Moju",
+    "fullName": null,
+    "lat": -2.58712,
+    "lng": -49.04096,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 8581573,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Mojuí Dos Campos",
+    "fullName": null,
+    "lat": -3.07044,
+    "lng": -54.57515,
+    "tz": "America/Santarem"
+  },
+  {
+    "id": 6319428,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Monte Alegre",
+    "fullName": null,
+    "lat": -0.84467,
+    "lng": -54.45327,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319429,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Muaná",
+    "fullName": null,
+    "lat": -1.24887,
+    "lng": -49.31674,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319430,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Nova Esperança do Piriá",
+    "fullName": null,
+    "lat": -2.45364,
+    "lng": -46.97384,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319431,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Nova Ipixuna",
+    "fullName": null,
+    "lat": -4.98779,
+    "lng": -49.19861,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319432,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Nova Timboteua",
+    "fullName": null,
+    "lat": -1.12059,
+    "lng": -47.42089,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319433,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Novo Progresso",
+    "fullName": null,
+    "lat": -7.75396,
+    "lng": -55.51343,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319434,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Novo Repartimento",
+    "fullName": null,
+    "lat": -4.70032,
+    "lng": -50.5222,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319435,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Óbidos",
+    "fullName": null,
+    "lat": 0.1324,
+    "lng": -55.82386,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319436,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Oeiras do Pará",
+    "fullName": null,
+    "lat": -2.29632,
+    "lng": -49.88151,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319437,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Oriximiná",
+    "fullName": null,
+    "lat": 0.56595,
+    "lng": -56.84744,
+    "tz": "America/Boa_Vista"
+  },
+  {
+    "id": 6319438,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ourém",
+    "fullName": null,
+    "lat": -1.54159,
+    "lng": -47.1656,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319439,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ourilândia do Norte",
+    "fullName": null,
+    "lat": -7.59565,
+    "lng": -51.43201,
+    "tz": "America/Cuiaba"
+  },
+  {
+    "id": 6319440,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Pacajá",
+    "fullName": null,
+    "lat": -3.70172,
+    "lng": -50.77844,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319441,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Palestina do Pará",
+    "fullName": null,
+    "lat": -5.97518,
+    "lng": -48.38544,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319442,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Paragominas",
+    "fullName": null,
+    "lat": -3.22634,
+    "lng": -47.68139,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319443,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Parauapebas",
+    "fullName": null,
+    "lat": -6.18558,
+    "lng": -50.55474,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319444,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Pau d'Arco",
+    "fullName": null,
+    "lat": -7.73913,
+    "lng": -50.14638,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319445,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Peixe-Boi",
+    "fullName": null,
+    "lat": -1.10168,
+    "lng": -47.27259,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319446,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Piçarra",
+    "fullName": null,
+    "lat": -6.47338,
+    "lng": -48.95039,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319447,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Placas",
+    "fullName": null,
+    "lat": -3.97715,
+    "lng": -54.52418,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319448,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ponta de Pedras",
+    "fullName": null,
+    "lat": -1.05304,
+    "lng": -49.15491,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319449,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Portel",
+    "fullName": null,
+    "lat": -2.65891,
+    "lng": -50.85353,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319450,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Porto de Moz",
+    "fullName": null,
+    "lat": -2.13492,
+    "lng": -52.59623,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319451,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Prainha",
+    "fullName": null,
+    "lat": -2.20147,
+    "lng": -53.49329,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319452,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Primavera",
+    "fullName": null,
+    "lat": -0.94947,
+    "lng": -47.1104,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319453,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Quatipuru",
+    "fullName": null,
+    "lat": -0.82554,
+    "lng": -47.01043,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6318998,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Redenção",
+    "fullName": null,
+    "lat": -8.0601,
+    "lng": -50.18116,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319454,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Rio Maria",
+    "fullName": null,
+    "lat": -7.40968,
+    "lng": -49.82886,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319455,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Rondon do Pará",
+    "fullName": null,
+    "lat": -4.43977,
+    "lng": -48.59233,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319456,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Rurópolis",
+    "fullName": null,
+    "lat": -4.18795,
+    "lng": -55.18406,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319457,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Salinópolis",
+    "fullName": null,
+    "lat": -0.67105,
+    "lng": -47.34903,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319458,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Salvaterra",
+    "fullName": null,
+    "lat": -0.78848,
+    "lng": -48.61953,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319459,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Bárbara do Pará",
+    "fullName": null,
+    "lat": -1.19832,
+    "lng": -48.25095,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6318999,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Cruz do Arari",
+    "fullName": null,
+    "lat": -0.59603,
+    "lng": -49.29289,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319460,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Izabel do Pará",
+    "fullName": null,
+    "lat": -1.37975,
+    "lng": -48.12221,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319000,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Luzia do Pará",
+    "fullName": null,
+    "lat": -1.6575,
+    "lng": -46.92715,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319461,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Maria das Barreiras",
+    "fullName": null,
+    "lat": -8.63667,
+    "lng": -50.26578,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319462,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santa Maria do Pará",
+    "fullName": null,
+    "lat": -1.33579,
+    "lng": -47.50733,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319463,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santana do Araguaia",
+    "fullName": null,
+    "lat": -9.13867,
+    "lng": -50.673,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319464,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santarém",
+    "fullName": null,
+    "lat": -2.67922,
+    "lng": -55.23829,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319465,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santarém Novo",
+    "fullName": null,
+    "lat": -0.88782,
+    "lng": -47.36301,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319466,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Santo Antônio do Tauá",
+    "fullName": null,
+    "lat": -1.10308,
+    "lng": -48.19472,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319467,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Caetano de Odivelas",
+    "fullName": null,
+    "lat": -0.79823,
+    "lng": -48.049,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319468,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Domingos do Araguaia",
+    "fullName": null,
+    "lat": -5.7193,
+    "lng": -48.72755,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319469,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Domingos do Capim",
+    "fullName": null,
+    "lat": -1.87163,
+    "lng": -47.77837,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319470,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Félix do Xingu",
+    "fullName": null,
+    "lat": -7.21339,
+    "lng": -52.19345,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319471,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Francisco do Pará",
+    "fullName": null,
+    "lat": -1.14641,
+    "lng": -47.75713,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319472,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Geraldo do Araguaia",
+    "fullName": null,
+    "lat": -6.2136,
+    "lng": -48.71721,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319473,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São João da Ponta",
+    "fullName": null,
+    "lat": -0.85361,
+    "lng": -47.97803,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319474,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São João de Pirabas",
+    "fullName": null,
+    "lat": -0.78036,
+    "lng": -47.21207,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319475,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São João do Araguaia",
+    "fullName": null,
+    "lat": -5.443,
+    "lng": -48.74932,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319001,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Miguel do Guamá",
+    "fullName": null,
+    "lat": -1.59735,
+    "lng": -47.53464,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319476,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "São Sebastião da Boa Vista",
+    "fullName": null,
+    "lat": -1.47873,
+    "lng": -49.62629,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319477,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Sapucaia",
+    "fullName": null,
+    "lat": -6.8479,
+    "lng": -49.50056,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319478,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Senador José Porfírio",
+    "fullName": null,
+    "lat": -4.00067,
+    "lng": -51.78427,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319479,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Soure",
+    "fullName": null,
+    "lat": -0.48622,
+    "lng": -48.61221,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319480,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Tailândia",
+    "fullName": null,
+    "lat": -2.87235,
+    "lng": -48.75748,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319481,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Terra Alta",
+    "fullName": null,
+    "lat": -0.99306,
+    "lng": -47.84447,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319482,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Terra Santa",
+    "fullName": null,
+    "lat": -1.89647,
+    "lng": -56.48252,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319483,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Tomé-Açu",
+    "fullName": null,
+    "lat": -2.62132,
+    "lng": -48.24098,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319484,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Tracuateua",
+    "fullName": null,
+    "lat": -0.98894,
+    "lng": -46.93973,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319485,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Trairão",
+    "fullName": null,
+    "lat": -5.1025,
+    "lng": -55.95821,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319486,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Tucumã",
+    "fullName": null,
+    "lat": -6.8347,
+    "lng": -51.44562,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319487,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Tucuruí",
+    "fullName": null,
+    "lat": -3.82757,
+    "lng": -49.87481,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319488,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Ulianópolis",
+    "fullName": null,
+    "lat": -3.81225,
+    "lng": -47.50094,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319489,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Uruará",
+    "fullName": null,
+    "lat": -3.63212,
+    "lng": -53.78023,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319490,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Vigia",
+    "fullName": null,
+    "lat": -0.88818,
+    "lng": -48.13799,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6324279,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Viseu",
+    "fullName": null,
+    "lat": -1.30201,
+    "lng": -46.32078,
+    "tz": "America/Belem"
+  },
+  {
+    "id": 6319491,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Vitória do Xingu",
+    "fullName": null,
+    "lat": -3.22032,
+    "lng": -51.88508,
+    "tz": "America/Manaus"
+  },
+  {
+    "id": 6319492,
+    "parentId": 3393129,
+    "country": "BR",
+    "name": "Xinguara",
+    "fullName": null,
+    "lat": -6.84897,
+    "lng": -49.25573,
+    "tz": "America/Araguaina"
+  }
+]

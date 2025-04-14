@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2521976,
+    "parentId": 2593113,
+    "country": "ES",
+    "name": "Alicante",
+    "fullName": "Provincia de Alicante",
+    "lat": 38.5,
+    "lng": -0.5,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3125881,
+    "parentId": 2593113,
+    "country": "ES",
+    "name": "Castelló",
+    "fullName": "Província de Castelló",
+    "lat": 40.16667,
+    "lng": -0.16667,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2509951,
+    "parentId": 2593113,
+    "country": "ES",
+    "name": "València",
+    "fullName": "Província de València",
+    "lat": 39.33333,
+    "lng": -0.83333,
+    "tz": "Europe/Madrid"
+  }
+]

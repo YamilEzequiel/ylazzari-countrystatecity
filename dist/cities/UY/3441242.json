@@ -1,0 +1,72 @@
+[
+  {
+    "id": 11820865,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Chapicuy",
+    "fullName": null,
+    "lat": -31.65212,
+    "lng": -57.86263,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820801,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Guichon",
+    "fullName": null,
+    "lat": -32.30177,
+    "lng": -56.89259,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820788,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Lorenzo Geyres",
+    "fullName": null,
+    "lat": -32.15569,
+    "lng": -57.92295,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820836,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Piedras Coloradas",
+    "fullName": null,
+    "lat": -32.31086,
+    "lng": -57.53827,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820835,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Porvenir",
+    "fullName": null,
+    "lat": -32.43598,
+    "lng": -57.85035,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820802,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Quebracho",
+    "fullName": null,
+    "lat": -31.92635,
+    "lng": -57.93636,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820789,
+    "parentId": 3441242,
+    "country": "UY",
+    "name": "Tambores",
+    "fullName": null,
+    "lat": -31.98982,
+    "lng": -56.6076,
+    "tz": "America/Montevideo"
+  }
+]

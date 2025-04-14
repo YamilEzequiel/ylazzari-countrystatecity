@@ -1,0 +1,122 @@
+[
+  {
+    "id": 8349559,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Ascope",
+    "fullName": null,
+    "lat": -7.72414,
+    "lng": -79.15151,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3699282,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Bolívar",
+    "fullName": "Provincia de Bolívar",
+    "lat": -7.33333,
+    "lng": -77.75,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349560,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Chepen",
+    "fullName": null,
+    "lat": -7.14367,
+    "lng": -79.45674,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349562,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Gran Chimu",
+    "fullName": null,
+    "lat": -7.57976,
+    "lng": -78.64718,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349561,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Julcan",
+    "fullName": null,
+    "lat": -8.17238,
+    "lng": -78.46356,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694211,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Otuzco",
+    "fullName": "Provincia de Otuzco",
+    "lat": -7.90457,
+    "lng": -78.56362,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3694175,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Pacasmayo",
+    "fullName": "Provincia de Pacasmayo",
+    "lat": -7.25,
+    "lng": -79.5,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3693821,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Pataz",
+    "fullName": "Provincia de Pataz",
+    "lat": -8.25,
+    "lng": -77.33333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 7807970,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Sanchez Carrion",
+    "fullName": null,
+    "lat": -7.78538,
+    "lng": -77.92586,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3692071,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Santiago de Chuco",
+    "fullName": "Provincia de Santiago de Chuco",
+    "lat": -8.33333,
+    "lng": -78.25,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3691174,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Trujillo",
+    "fullName": "Provincia de Trujillo",
+    "lat": -8.08333,
+    "lng": -78.91667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 8349563,
+    "parentId": 3695781,
+    "country": "PE",
+    "name": "Viru",
+    "fullName": null,
+    "lat": -8.52199,
+    "lng": -78.60355,
+    "tz": "America/Lima"
+  }
+]

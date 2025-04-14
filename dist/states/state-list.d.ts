@@ -1,5 +1,5 @@
 import { State } from "../shared/interface/state-interface";
-import { StateEnum } from "../shared/enum";
+import { CountryEnum } from "../shared/enum";
 export declare const LIST_STATE: {
-    [key in StateEnum]: State[];
+    [key in CountryEnum]: State[];
 };

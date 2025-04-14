@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3895070,
+    "parentId": 3881974,
+    "country": "CL",
+    "name": "Chiloé",
+    "fullName": "Provincia de Chiloé",
+    "lat": -42.57471,
+    "lng": -73.96062,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3882955,
+    "parentId": 3881974,
+    "country": "CL",
+    "name": "Llanquihue",
+    "fullName": "Provincia de Llanquihue",
+    "lat": -41.34285,
+    "lng": -72.658,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 3877946,
+    "parentId": 3881974,
+    "country": "CL",
+    "name": "Osorno",
+    "fullName": "Provincia de Osorno",
+    "lat": -40.77939,
+    "lng": -72.95299,
+    "tz": "America/Santiago"
+  },
+  {
+    "id": 8181714,
+    "parentId": 3881974,
+    "country": "CL",
+    "name": "Palena",
+    "fullName": "Provincia de Palena",
+    "lat": -43.16212,
+    "lng": -72.47818,
+    "tz": "America/Santiago"
+  }
+]

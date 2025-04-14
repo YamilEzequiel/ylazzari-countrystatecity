@@ -1,0 +1,82 @@
+[
+  {
+    "id": 11840036,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Benjamin Aceval",
+    "fullName": null,
+    "lat": -24.39616,
+    "lng": -58.04525,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840053,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "General Jose Maria Bruguez",
+    "fullName": null,
+    "lat": -24.31207,
+    "lng": -58.87526,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839994,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Jose Falcon",
+    "fullName": null,
+    "lat": -24.90969,
+    "lng": -58.1241,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840073,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Nanawa",
+    "fullName": null,
+    "lat": -25.28283,
+    "lng": -57.70058,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840167,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Puerto Pinasco",
+    "fullName": null,
+    "lat": -22.75881,
+    "lng": -58.49017,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11840029,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Tte 1ro Manuel Irala Fernandez",
+    "fullName": null,
+    "lat": -23.03236,
+    "lng": -59.6142,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839990,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Tte. Esteban Martinez",
+    "fullName": null,
+    "lat": -23.91269,
+    "lng": -59.74379,
+    "tz": "America/Asuncion"
+  },
+  {
+    "id": 11839929,
+    "parentId": 3437443,
+    "country": "PY",
+    "name": "Villa Hayes",
+    "fullName": null,
+    "lat": -23.78075,
+    "lng": -58.04735,
+    "tz": "America/Asuncion"
+  }
+]

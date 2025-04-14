@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3943790,
+    "parentId": 3938526,
+    "country": "PE",
+    "name": "Chincha",
+    "fullName": "Provincia de Chincha",
+    "lat": -13.31791,
+    "lng": -75.9393,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3925316,
+    "parentId": 3938526,
+    "country": "PE",
+    "name": "Ica",
+    "fullName": "Provincia de Ica",
+    "lat": -14.33861,
+    "lng": -75.64833,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3934353,
+    "parentId": 3938526,
+    "country": "PE",
+    "name": "Nazca",
+    "fullName": "Provincia de Nazca",
+    "lat": -15,
+    "lng": -75.08333,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3933344,
+    "parentId": 3938526,
+    "country": "PE",
+    "name": "Palpa",
+    "fullName": "Provincia de Palpa",
+    "lat": -14.41667,
+    "lng": -75.16667,
+    "tz": "America/Lima"
+  },
+  {
+    "id": 3932143,
+    "parentId": 3938526,
+    "country": "PE",
+    "name": "Pisco",
+    "fullName": "Provincia de Pisco",
+    "lat": -13.80377,
+    "lng": -75.94264,
+    "tz": "America/Lima"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3862742,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -32.88469,
+    "lng": -68.85826,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3855136,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "General Alvear",
+    "fullName": "Departamento de General Alvear",
+    "lat": -35.16667,
+    "lng": -67.33333,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3854963,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Godoy Cruz",
+    "fullName": "Departamento de Godoy Cruz",
+    "lat": -32.93333,
+    "lng": -68.86667,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3854459,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Guaymallén",
+    "fullName": "Departamento de Guaymallén",
+    "lat": -32.88333,
+    "lng": -68.7,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3853352,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Junín",
+    "fullName": "Departamento de Junín",
+    "lat": -33.133,
+    "lng": -68.52157,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3849513,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "La Paz",
+    "fullName": "Departamento de La Paz",
+    "lat": -33.66667,
+    "lng": -67.25,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3848352,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Las Heras",
+    "fullName": "Departamento de Las Heras",
+    "lat": -32.5,
+    "lng": -69.5,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3847327,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Lavalle",
+    "fullName": "Departamento de Lavalle",
+    "lat": -32.5,
+    "lng": -68,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3845397,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Luján",
+    "fullName": "Departamento de Luján",
+    "lat": -33,
+    "lng": -69.33333,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3845244,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Maipú",
+    "fullName": "Departamento de Maipú",
+    "lat": -33,
+    "lng": -68.58333,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3845180,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Malargüe",
+    "fullName": "Departamento de Malargüe",
+    "lat": -36.25,
+    "lng": -69.25,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3838751,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Rivadavia",
+    "fullName": "Departamento de Rivadavia",
+    "lat": -33.18,
+    "lng": -68.466,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3837885,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "San Carlos",
+    "fullName": "Departamento de San Carlos",
+    "lat": -34,
+    "lng": -69,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3836982,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "San Martín",
+    "fullName": "Departamento de San Martín",
+    "lat": -32.8373,
+    "lng": -68.24922,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3836668,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "San Rafael",
+    "fullName": "Departamento de San Rafael",
+    "lat": -35,
+    "lng": -68.83333,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3835984,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Santa Rosa",
+    "fullName": "Departamento de Santa Rosa",
+    "lat": -33.5,
+    "lng": -68,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3833519,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Tunuyán",
+    "fullName": "Departamento de Tunuyán",
+    "lat": -33.66667,
+    "lng": -69.5,
+    "tz": "America/Argentina/Mendoza"
+  },
+  {
+    "id": 3833511,
+    "parentId": 3844419,
+    "country": "AR",
+    "name": "Tupungato",
+    "fullName": "Departamento de Tupungato",
+    "lat": -33.25,
+    "lng": -69.25,
+    "tz": "America/Argentina/Mendoza"
+  }
+]

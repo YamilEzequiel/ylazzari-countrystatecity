@@ -1,0 +1,262 @@
+[
+  {
+    "id": 3863430,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Calamuchita",
+    "fullName": "Departamento de Calamuchita",
+    "lat": -32.25,
+    "lng": -64.58333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3862744,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -31.41667,
+    "lng": -64.2,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3860825,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Colón",
+    "fullName": "Departamento de Colón",
+    "lat": -31.16667,
+    "lng": -64.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3859827,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Cruz del Eje",
+    "fullName": "Departamento de Cruz del Eje",
+    "lat": -30.75,
+    "lng": -65,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855062,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "General Roca",
+    "fullName": "Departamento de General Roca",
+    "lat": -34.66667,
+    "lng": -64.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3855053,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "General San Martín",
+    "fullName": "Departamento de General San Martín",
+    "lat": -32.5,
+    "lng": -63.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3853686,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Ischilín",
+    "fullName": "Departamento de Ischilín",
+    "lat": -30.5,
+    "lng": -64.58333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3853410,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Juárez Celman",
+    "fullName": "Departamento de Juárez Celman",
+    "lat": -33.33333,
+    "lng": -63.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844898,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Marcos Juárez",
+    "fullName": "Departamento de Marcos Juárez",
+    "lat": -33,
+    "lng": -62.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3844209,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Minas",
+    "fullName": "Departamento de Minas",
+    "lat": -31,
+    "lng": -65.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3840865,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Pocho",
+    "fullName": "Departamento de Pocho",
+    "lat": -31.5,
+    "lng": -65.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3840292,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Presidente Roque Sáenz Peña",
+    "fullName": "Departamento de Presidente Roque Sáenz Peña",
+    "lat": -34.25,
+    "lng": -63.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3839996,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Punilla",
+    "fullName": "Departamento de Punilla",
+    "lat": -31.16667,
+    "lng": -64.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838873,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Río Cuarto",
+    "fullName": "Departamento de Río Cuarto",
+    "lat": -33.33333,
+    "lng": -64.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838822,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Río Primero",
+    "fullName": "Departamento de Río Primero",
+    "lat": -31.08333,
+    "lng": -63.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838801,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Río Seco",
+    "fullName": "Departamento de Río Seco",
+    "lat": -30.08333,
+    "lng": -63,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838796,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Río Segundo",
+    "fullName": "Departamento de Río Segundo",
+    "lat": -31.75,
+    "lng": -63.5,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3838154,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "San Alberto",
+    "fullName": "Departamento de San Alberto",
+    "lat": -31.75,
+    "lng": -65.25,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837475,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "San Javier",
+    "fullName": "Departamento de San Javier",
+    "lat": -32.08333,
+    "lng": -65.16667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3837121,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "San Justo",
+    "fullName": "Departamento de San Justo",
+    "lat": -31.33333,
+    "lng": -62.66667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3836128,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Santa María",
+    "fullName": "Departamento de Santa María",
+    "lat": -31.66667,
+    "lng": -64.33333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3835180,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Sobremonte",
+    "fullName": "Departamento de Sobremonte",
+    "lat": -29.66667,
+    "lng": -64.08333,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3834506,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Tercero Arriba",
+    "fullName": "Departamento de Tercero Arriba",
+    "lat": -32.33333,
+    "lng": -63.75,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3834008,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Totoral",
+    "fullName": "Departamento de Totoral",
+    "lat": -30.83333,
+    "lng": -63.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3833554,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Tulumba",
+    "fullName": "Departamento de Tulumba",
+    "lat": -30.25,
+    "lng": -63.91667,
+    "tz": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 3833419,
+    "parentId": 3860255,
+    "country": "AR",
+    "name": "Unión",
+    "fullName": "Departamento de Unión",
+    "lat": -32.83333,
+    "lng": -62.75,
+    "tz": "America/Argentina/Cordoba"
+  }
+]

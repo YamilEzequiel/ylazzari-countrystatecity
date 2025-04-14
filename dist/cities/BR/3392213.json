@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 6319834,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Acauã",
+    "fullName": null,
+    "lat": -8.31552,
+    "lng": -40.91283,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319835,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Agricolândia",
+    "fullName": null,
+    "lat": -5.74819,
+    "lng": -42.67458,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324242,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Água Branca",
+    "fullName": null,
+    "lat": -5.89907,
+    "lng": -42.61058,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319836,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Alagoinha do Piauí",
+    "fullName": null,
+    "lat": -6.98016,
+    "lng": -40.91814,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319837,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Alegrete do Piauí",
+    "fullName": null,
+    "lat": -7.16226,
+    "lng": -40.82488,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319838,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Alto Longá",
+    "fullName": null,
+    "lat": -5.40788,
+    "lng": -42.06612,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319221,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Altos",
+    "fullName": null,
+    "lat": -5.1609,
+    "lng": -42.45038,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319839,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Alvorada do Gurguéia",
+    "fullName": null,
+    "lat": -8.38553,
+    "lng": -43.83237,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319840,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Amarante",
+    "fullName": null,
+    "lat": -6.3702,
+    "lng": -42.78806,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319841,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Angical do Piauí",
+    "fullName": null,
+    "lat": -6.09884,
+    "lng": -42.72022,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319842,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Anísio de Abreu",
+    "fullName": null,
+    "lat": -9.24779,
+    "lng": -43.05238,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319843,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Antônio Almeida",
+    "fullName": null,
+    "lat": -7.12211,
+    "lng": -44.25307,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319844,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Aroazes",
+    "fullName": null,
+    "lat": -6.20348,
+    "lng": -41.86926,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 7932510,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Aroeiras do Itaim",
+    "fullName": null,
+    "lat": -7.27,
+    "lng": -41.56,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319845,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Arraial",
+    "fullName": null,
+    "lat": -6.62721,
+    "lng": -42.49393,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319846,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Assunção do Piauí",
+    "fullName": null,
+    "lat": -5.85575,
+    "lng": -40.94796,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324283,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Avelino Lopes",
+    "fullName": null,
+    "lat": -10.11463,
+    "lng": -43.89286,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319847,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Baixa Grande do Ribeiro",
+    "fullName": null,
+    "lat": -8.69171,
+    "lng": -45.12583,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319848,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Barra d'Alcântara",
+    "fullName": null,
+    "lat": -6.54095,
+    "lng": -42.11504,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319849,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Barras",
+    "fullName": null,
+    "lat": -4.13224,
+    "lng": -42.31359,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319850,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Barreiras do Piauí",
+    "fullName": null,
+    "lat": -9.99042,
+    "lng": -45.69329,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319851,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Barro Duro",
+    "fullName": null,
+    "lat": -5.85063,
+    "lng": -42.45878,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324253,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Batalha",
+    "fullName": null,
+    "lat": -3.99736,
+    "lng": -42.10645,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319852,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bela Vista do Piauí",
+    "fullName": null,
+    "lat": -7.91606,
+    "lng": -41.90091,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319853,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Belém do Piauí",
+    "fullName": null,
+    "lat": -7.40657,
+    "lng": -40.98873,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319017,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Beneditinos",
+    "fullName": null,
+    "lat": -5.46008,
+    "lng": -42.43965,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319854,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bertolínia",
+    "fullName": null,
+    "lat": -7.75477,
+    "lng": -43.79588,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319855,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Betânia do Piauí",
+    "fullName": null,
+    "lat": -8.0643,
+    "lng": -40.85924,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319856,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Boa Hora",
+    "fullName": null,
+    "lat": -4.35576,
+    "lng": -42.14109,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319857,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bocaina",
+    "fullName": null,
+    "lat": -6.89508,
+    "lng": -41.32746,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319858,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bom Jesus",
+    "fullName": null,
+    "lat": -9.1626,
+    "lng": -44.60177,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319859,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bom Princípio do Piauí",
+    "fullName": null,
+    "lat": -3.23751,
+    "lng": -41.64572,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319860,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Bonfim do Piauí",
+    "fullName": null,
+    "lat": -9.16462,
+    "lng": -42.88253,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319861,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Boqueirão do Piauí",
+    "fullName": null,
+    "lat": -4.5665,
+    "lng": -42.13601,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319862,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Brasileira",
+    "fullName": null,
+    "lat": -4.13325,
+    "lng": -41.58774,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319863,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Brejo do Piauí",
+    "fullName": null,
+    "lat": -8.26858,
+    "lng": -42.78801,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319864,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Buriti dos Lopes",
+    "fullName": null,
+    "lat": -3.23977,
+    "lng": -41.80378,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319865,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Buriti dos Montes",
+    "fullName": null,
+    "lat": -5.20888,
+    "lng": -41.25078,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319866,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cabeceiras do Piauí",
+    "fullName": null,
+    "lat": -4.43347,
+    "lng": -42.2306,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319867,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cajazeiras do Piauí",
+    "fullName": null,
+    "lat": -6.78182,
+    "lng": -42.39243,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319868,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cajueiro da Praia",
+    "fullName": null,
+    "lat": -2.98747,
+    "lng": -41.35439,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319869,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Caldeirão Grande do Piauí",
+    "fullName": null,
+    "lat": -7.34361,
+    "lng": -40.58774,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319870,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Campinas do Piauí",
+    "fullName": null,
+    "lat": -7.67905,
+    "lng": -41.87938,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319871,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Campo Alegre do Fidalgo",
+    "fullName": null,
+    "lat": -8.31452,
+    "lng": -41.79184,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319872,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Campo Grande do Piauí",
+    "fullName": null,
+    "lat": -7.2207,
+    "lng": -41.04511,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319873,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Campo Largo do Piauí",
+    "fullName": null,
+    "lat": -3.85518,
+    "lng": -42.60317,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319874,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Campo Maior",
+    "fullName": null,
+    "lat": -4.78675,
+    "lng": -42.10869,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319875,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Canavieira",
+    "fullName": null,
+    "lat": -7.50756,
+    "lng": -43.6863,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319876,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Canto do Buriti",
+    "fullName": null,
+    "lat": -8.25966,
+    "lng": -43.08036,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319877,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Capitão de Campos",
+    "fullName": null,
+    "lat": -4.47203,
+    "lng": -41.88512,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319878,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Capitão Gervásio Oliveira",
+    "fullName": null,
+    "lat": -8.52938,
+    "lng": -41.90126,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319879,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Caracol",
+    "fullName": null,
+    "lat": -9.34943,
+    "lng": -43.27078,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319880,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Caraúbas do Piauí",
+    "fullName": null,
+    "lat": -3.53699,
+    "lng": -41.84588,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319018,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Caridade do Piauí",
+    "fullName": null,
+    "lat": -7.70139,
+    "lng": -40.89597,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319881,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Castelo do Piauí",
+    "fullName": null,
+    "lat": -5.2158,
+    "lng": -41.55735,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319882,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Caxingó",
+    "fullName": null,
+    "lat": -3.40863,
+    "lng": -41.88771,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319883,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cocal",
+    "fullName": null,
+    "lat": -3.43751,
+    "lng": -41.54594,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319884,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cocal de Telha",
+    "fullName": null,
+    "lat": -4.64857,
+    "lng": -41.99568,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319885,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cocal dos Alves",
+    "fullName": null,
+    "lat": -3.57383,
+    "lng": -41.45183,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319886,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Coivaras",
+    "fullName": null,
+    "lat": -5.11661,
+    "lng": -42.26583,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319887,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Colônia do Gurguéia",
+    "fullName": null,
+    "lat": -8.14465,
+    "lng": -43.77459,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319888,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Colônia do Piauí",
+    "fullName": null,
+    "lat": -7.22638,
+    "lng": -42.21262,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319889,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Conceição do Canindé",
+    "fullName": null,
+    "lat": -7.98695,
+    "lng": -41.57544,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319890,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Coronel José Dias",
+    "fullName": null,
+    "lat": -9.07216,
+    "lng": -42.27241,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319891,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Corrente",
+    "fullName": null,
+    "lat": -10.47219,
+    "lng": -45.04691,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319892,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cristalândia do Piauí",
+    "fullName": null,
+    "lat": -10.82007,
+    "lng": -45.11052,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319893,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Cristino Castro",
+    "fullName": null,
+    "lat": -8.69043,
+    "lng": -44.04806,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 3464981,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Curimatá",
+    "fullName": null,
+    "lat": -9.86209,
+    "lng": -44.38994,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319894,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Currais",
+    "fullName": null,
+    "lat": -8.73985,
+    "lng": -44.86466,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319019,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Curral Novo do Piauí",
+    "fullName": null,
+    "lat": -7.88978,
+    "lng": -40.76427,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319895,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Curralinhos",
+    "fullName": null,
+    "lat": -5.58488,
+    "lng": -42.86082,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319896,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Demerval Lobão",
+    "fullName": null,
+    "lat": -5.31543,
+    "lng": -42.6663,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319020,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Dirceu Arcoverde",
+    "fullName": null,
+    "lat": -9.3323,
+    "lng": -42.43422,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319897,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Dom Expedito Lopes",
+    "fullName": null,
+    "lat": -6.95806,
+    "lng": -41.71629,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319899,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Dom Inocêncio",
+    "fullName": null,
+    "lat": -8.8848,
+    "lng": -41.72,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319898,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Domingos Mourão",
+    "fullName": null,
+    "lat": -4.19141,
+    "lng": -41.34833,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319900,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Elesbão Veloso",
+    "fullName": null,
+    "lat": -6.19359,
+    "lng": -42.16607,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319901,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Eliseu Martins",
+    "fullName": null,
+    "lat": -7.90155,
+    "lng": -43.77769,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319902,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Esperantina",
+    "fullName": null,
+    "lat": -3.84898,
+    "lng": -42.17102,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319903,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Fartura do Piauí",
+    "fullName": null,
+    "lat": -9.52033,
+    "lng": -42.78927,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319904,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Flores do Piauí",
+    "fullName": null,
+    "lat": -7.64121,
+    "lng": -42.84551,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319905,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Floresta do Piauí",
+    "fullName": null,
+    "lat": -7.47628,
+    "lng": -41.84428,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324194,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Floriano",
+    "fullName": null,
+    "lat": -6.83639,
+    "lng": -43.13606,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319906,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Francinópolis",
+    "fullName": null,
+    "lat": -6.41032,
+    "lng": -42.24638,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319907,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Francisco Ayres",
+    "fullName": null,
+    "lat": -6.6913,
+    "lng": -42.69202,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319908,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Francisco Macedo",
+    "fullName": null,
+    "lat": -7.35845,
+    "lng": -40.77056,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319909,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Francisco Santos",
+    "fullName": null,
+    "lat": -7.10293,
+    "lng": -41.145,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319021,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Fronteiras",
+    "fullName": null,
+    "lat": -7.0125,
+    "lng": -40.56213,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319910,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Geminiano",
+    "fullName": null,
+    "lat": -7.16595,
+    "lng": -41.38802,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319911,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Gilbués",
+    "fullName": null,
+    "lat": -9.72737,
+    "lng": -45.52017,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319912,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Guadalupe",
+    "fullName": null,
+    "lat": -6.82297,
+    "lng": -43.77762,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319913,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Guaribas",
+    "fullName": null,
+    "lat": -9.2887,
+    "lng": -43.58188,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319914,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Hugo Napoleão",
+    "fullName": null,
+    "lat": -6.03293,
+    "lng": -42.46773,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319915,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Ilha Grande",
+    "fullName": null,
+    "lat": -2.84022,
+    "lng": -41.82881,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319916,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Inhuma",
+    "fullName": null,
+    "lat": -6.66187,
+    "lng": -41.68135,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319917,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Ipiranga do Piauí",
+    "fullName": null,
+    "lat": -6.84634,
+    "lng": -41.74687,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319918,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Isaías Coelho",
+    "fullName": null,
+    "lat": -7.54521,
+    "lng": -41.64289,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319919,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Itainópolis",
+    "fullName": null,
+    "lat": -7.45524,
+    "lng": -41.54165,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319920,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Itaueira",
+    "fullName": null,
+    "lat": -7.55236,
+    "lng": -43.09874,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319921,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jacobina do Piauí",
+    "fullName": null,
+    "lat": -7.96488,
+    "lng": -41.17396,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319922,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jaicós",
+    "fullName": null,
+    "lat": -7.45645,
+    "lng": -41.22016,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319923,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jardim do Mulato",
+    "fullName": null,
+    "lat": -6.15734,
+    "lng": -42.47763,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319022,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jatobá do Piauí",
+    "fullName": null,
+    "lat": -4.80296,
+    "lng": -41.89545,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319023,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jerumenha",
+    "fullName": null,
+    "lat": -7.09885,
+    "lng": -43.54675,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319924,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "João Costa",
+    "fullName": null,
+    "lat": -8.54315,
+    "lng": -42.41513,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319925,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Joaquim Pires",
+    "fullName": null,
+    "lat": -3.53692,
+    "lng": -42.0775,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319926,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Joca Marques",
+    "fullName": null,
+    "lat": -3.54211,
+    "lng": -42.43579,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319927,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "José de Freitas",
+    "fullName": null,
+    "lat": -4.72992,
+    "lng": -42.61373,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319928,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Juazeiro do Piauí",
+    "fullName": null,
+    "lat": -5.02486,
+    "lng": -41.52841,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319929,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Júlio Borges",
+    "fullName": null,
+    "lat": -10.5158,
+    "lng": -44.19178,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319930,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Jurema",
+    "fullName": null,
+    "lat": -9.29862,
+    "lng": -43.15301,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319932,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoa Alegre",
+    "fullName": null,
+    "lat": -4.4951,
+    "lng": -42.56555,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319934,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoa de São Francisco",
+    "fullName": null,
+    "lat": -4.35468,
+    "lng": -41.59168,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319933,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoa do Barro do Piauí",
+    "fullName": null,
+    "lat": -8.73535,
+    "lng": -41.54813,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319935,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoa do Piauí",
+    "fullName": null,
+    "lat": -5.47513,
+    "lng": -42.54814,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319936,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoa do Sítio",
+    "fullName": null,
+    "lat": -6.51918,
+    "lng": -41.42058,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319931,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Lagoinha do Piauí",
+    "fullName": null,
+    "lat": -5.80702,
+    "lng": -42.62796,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319937,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Landri Sales",
+    "fullName": null,
+    "lat": -7.23268,
+    "lng": -43.86456,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319938,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Luís Correia",
+    "fullName": null,
+    "lat": -3.03117,
+    "lng": -41.51665,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319939,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Luzilândia",
+    "fullName": null,
+    "lat": -3.60743,
+    "lng": -42.36456,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319940,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Madeiro",
+    "fullName": null,
+    "lat": -3.54658,
+    "lng": -42.51114,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319941,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Manoel Emídio",
+    "fullName": null,
+    "lat": -8.16469,
+    "lng": -43.8336,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319942,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Marcolândia",
+    "fullName": null,
+    "lat": -7.40891,
+    "lng": -40.74945,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319943,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Marcos Parente",
+    "fullName": null,
+    "lat": -7.05412,
+    "lng": -43.91664,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319944,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Massapê do Piauí",
+    "fullName": null,
+    "lat": -7.53879,
+    "lng": -41.01755,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319945,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Matias Olímpio",
+    "fullName": null,
+    "lat": -3.68774,
+    "lng": -42.60695,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319946,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Miguel Alves",
+    "fullName": null,
+    "lat": -4.1579,
+    "lng": -42.77263,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319947,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Miguel Leão",
+    "fullName": null,
+    "lat": -5.72867,
+    "lng": -42.68942,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319948,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Milton Brandão",
+    "fullName": null,
+    "lat": -4.74021,
+    "lng": -41.59457,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319949,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Monsenhor Gil",
+    "fullName": null,
+    "lat": -5.64162,
+    "lng": -42.54879,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319950,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Monsenhor Hipólito",
+    "fullName": null,
+    "lat": -6.94982,
+    "lng": -41.03155,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319951,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Monte Alegre do Piauí",
+    "fullName": null,
+    "lat": -9.74213,
+    "lng": -44.98266,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6324284,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Morro Cabeça no Tempo",
+    "fullName": null,
+    "lat": -9.87713,
+    "lng": -43.90657,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319952,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Morro do Chapéu do Piauí",
+    "fullName": null,
+    "lat": -3.68694,
+    "lng": -42.22185,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319953,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Murici dos Portelas",
+    "fullName": null,
+    "lat": -3.36504,
+    "lng": -42.00218,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319954,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Nazaré do Piauí",
+    "fullName": null,
+    "lat": -7.03279,
+    "lng": -42.73216,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 8354590,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Nazária",
+    "fullName": null,
+    "lat": -5.44546,
+    "lng": -42.8684,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319955,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Nossa Senhora de Nazaré",
+    "fullName": null,
+    "lat": -4.63841,
+    "lng": -42.19017,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319956,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Nossa Senhora dos Remédios",
+    "fullName": null,
+    "lat": -4.05765,
+    "lng": -42.60651,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319973,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Nova Santa Rita",
+    "fullName": null,
+    "lat": -8.11204,
+    "lng": -42.01361,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319957,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Novo Oriente do Piauí",
+    "fullName": null,
+    "lat": -6.55034,
+    "lng": -41.98555,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319958,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Novo Santo Antônio",
+    "fullName": null,
+    "lat": -5.32848,
+    "lng": -41.96256,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319959,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Oeiras",
+    "fullName": null,
+    "lat": -6.90686,
+    "lng": -42.17529,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319960,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Olho d'Água do Piauí",
+    "fullName": null,
+    "lat": -5.84854,
+    "lng": -42.53937,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319961,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Padre Marcos",
+    "fullName": null,
+    "lat": -7.36533,
+    "lng": -40.93416,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319962,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Paes Landim",
+    "fullName": null,
+    "lat": -7.77461,
+    "lng": -42.35087,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319963,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pajeú do Piauí",
+    "fullName": null,
+    "lat": -8.05364,
+    "lng": -42.86625,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319964,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Palmeira do Piauí",
+    "fullName": null,
+    "lat": -8.51549,
+    "lng": -44.43642,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319965,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Palmeirais",
+    "fullName": null,
+    "lat": -5.78548,
+    "lng": -43.02434,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319966,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Paquetá",
+    "fullName": null,
+    "lat": -7.10746,
+    "lng": -41.64719,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319024,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Parnaguá",
+    "fullName": null,
+    "lat": -10.12155,
+    "lng": -44.56012,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319967,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Parnaíba",
+    "fullName": null,
+    "lat": -2.92278,
+    "lng": -41.73536,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319968,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Passagem Franca do Piauí",
+    "fullName": null,
+    "lat": -5.82734,
+    "lng": -42.40584,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319969,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Patos do Piauí",
+    "fullName": null,
+    "lat": -7.60918,
+    "lng": -41.29464,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319194,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pau D'arco do Piauí",
+    "fullName": null,
+    "lat": -5.24511,
+    "lng": -42.45473,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319970,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Paulistana",
+    "fullName": null,
+    "lat": -8.22526,
+    "lng": -41.22746,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319971,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pavussu",
+    "fullName": null,
+    "lat": -7.88646,
+    "lng": -43.19694,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319972,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pedro II",
+    "fullName": null,
+    "lat": -4.49028,
+    "lng": -41.39962,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319025,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pedro Laurentino",
+    "fullName": null,
+    "lat": -8.11766,
+    "lng": -42.23542,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319974,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Picos",
+    "fullName": null,
+    "lat": -7.10697,
+    "lng": -41.51271,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319975,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pimenteiras",
+    "fullName": null,
+    "lat": -6.33065,
+    "lng": -41.21807,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319976,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Pio IX",
+    "fullName": null,
+    "lat": -6.86982,
+    "lng": -40.59717,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319977,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Piracuruca",
+    "fullName": null,
+    "lat": -3.86656,
+    "lng": -41.74153,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319978,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Piripiri",
+    "fullName": null,
+    "lat": -4.39488,
+    "lng": -41.78819,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319979,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Porto",
+    "fullName": null,
+    "lat": -3.94558,
+    "lng": -42.68879,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319980,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Porto Alegre do Piauí",
+    "fullName": null,
+    "lat": -6.95931,
+    "lng": -44.07411,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319981,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Prata do Piauí",
+    "fullName": null,
+    "lat": -5.71099,
+    "lng": -42.15331,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319982,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Queimada Nova",
+    "fullName": null,
+    "lat": -8.53997,
+    "lng": -41.24753,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6319983,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Redenção do Gurguéia",
+    "fullName": null,
+    "lat": -9.58205,
+    "lng": -44.53802,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319984,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Regeneração",
+    "fullName": null,
+    "lat": -6.27844,
+    "lng": -42.48165,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319985,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Riacho Frio",
+    "fullName": null,
+    "lat": -9.8366,
+    "lng": -44.67899,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319986,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Ribeira do Piauí",
+    "fullName": null,
+    "lat": -8.09706,
+    "lng": -42.57609,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319987,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Ribeiro Gonçalves",
+    "fullName": null,
+    "lat": -8.08721,
+    "lng": -45.47197,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319988,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Rio Grande do Piauí",
+    "fullName": null,
+    "lat": -7.86062,
+    "lng": -43.14551,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319989,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santa Cruz do Piauí",
+    "fullName": null,
+    "lat": -7.2649,
+    "lng": -41.7638,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319026,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santa Cruz dos Milagres",
+    "fullName": null,
+    "lat": -5.83227,
+    "lng": -41.95795,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319990,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santa Filomena",
+    "fullName": null,
+    "lat": -8.89582,
+    "lng": -45.66715,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319991,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santa Luz",
+    "fullName": null,
+    "lat": -8.97437,
+    "lng": -44.27778,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319993,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santa Rosa do Piauí",
+    "fullName": null,
+    "lat": -6.82877,
+    "lng": -42.24627,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319992,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santana do Piauí",
+    "fullName": null,
+    "lat": -6.95247,
+    "lng": -41.46185,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319994,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santo Antônio de Lisboa",
+    "fullName": null,
+    "lat": -6.87642,
+    "lng": -41.18103,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319995,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santo Antônio dos Milagres",
+    "fullName": null,
+    "lat": -6.05399,
+    "lng": -42.70083,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319996,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Santo Inácio do Piauí",
+    "fullName": null,
+    "lat": -7.46906,
+    "lng": -41.91794,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319997,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Braz do Piauí",
+    "fullName": null,
+    "lat": -8.9738,
+    "lng": -42.97568,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6319027,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Félix do Piauí",
+    "fullName": null,
+    "lat": -5.88422,
+    "lng": -42.1083,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319998,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Francisco de Assis do Piauí",
+    "fullName": null,
+    "lat": -8.12334,
+    "lng": -41.48056,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319999,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Francisco do Piauí",
+    "fullName": null,
+    "lat": -7.16899,
+    "lng": -42.55086,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320000,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Gonçalo do Gurguéia",
+    "fullName": null,
+    "lat": -10.0763,
+    "lng": -45.42387,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320001,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Gonçalo do Piauí",
+    "fullName": null,
+    "lat": -6.02033,
+    "lng": -42.6702,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320002,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João da Canabrava",
+    "fullName": null,
+    "lat": -6.72756,
+    "lng": -41.38226,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6324223,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João da Fronteira",
+    "fullName": null,
+    "lat": -4.09363,
+    "lng": -41.21552,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320003,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João da Serra",
+    "fullName": null,
+    "lat": -5.44173,
+    "lng": -41.85793,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320004,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João da Varjota",
+    "fullName": null,
+    "lat": -6.94733,
+    "lng": -41.92917,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320005,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João do Arraial",
+    "fullName": null,
+    "lat": -3.80325,
+    "lng": -42.46973,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320006,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São João do Piauí",
+    "fullName": null,
+    "lat": -8.27575,
+    "lng": -42.34005,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320007,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São José do Divino",
+    "fullName": null,
+    "lat": -3.74297,
+    "lng": -41.90119,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320008,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São José do Peixe",
+    "fullName": null,
+    "lat": -7.49544,
+    "lng": -42.49355,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319028,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São José do Piauí",
+    "fullName": null,
+    "lat": -6.84096,
+    "lng": -41.51702,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320009,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Julião",
+    "fullName": null,
+    "lat": -7.05987,
+    "lng": -40.79725,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320010,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Lourenço do Piauí",
+    "fullName": null,
+    "lat": -9.13336,
+    "lng": -42.40297,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320011,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Luis do Piauí",
+    "fullName": null,
+    "lat": -6.77801,
+    "lng": -41.2765,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320012,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Miguel da Baixa Grande",
+    "fullName": null,
+    "lat": -5.81791,
+    "lng": -42.27077,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320013,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Miguel do Fidalgo",
+    "fullName": null,
+    "lat": -7.59935,
+    "lng": -42.38796,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320014,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Miguel do Tapuio",
+    "fullName": null,
+    "lat": -5.70486,
+    "lng": -41.61634,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320015,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Pedro do Piauí",
+    "fullName": null,
+    "lat": -5.82135,
+    "lng": -42.77168,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320016,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "São Raimundo Nonato",
+    "fullName": null,
+    "lat": -9.0522,
+    "lng": -42.60836,
+    "tz": "America/Bahia"
+  },
+  {
+    "id": 6320017,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Sebastião Barros",
+    "fullName": null,
+    "lat": -10.59755,
+    "lng": -44.83609,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320018,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Sebastião Leal",
+    "fullName": null,
+    "lat": -7.51324,
+    "lng": -44.02545,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320019,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Sigefredo Pacheco",
+    "fullName": null,
+    "lat": -4.79886,
+    "lng": -41.78459,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6319029,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Simões",
+    "fullName": null,
+    "lat": -7.7382,
+    "lng": -40.72738,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320020,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Simplício Mendes",
+    "fullName": null,
+    "lat": -7.86171,
+    "lng": -41.92479,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320021,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Socorro do Piauí",
+    "fullName": null,
+    "lat": -7.8982,
+    "lng": -42.50745,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320022,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Sussuapara",
+    "fullName": null,
+    "lat": -7.00335,
+    "lng": -41.39182,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320023,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Tamboril do Piauí",
+    "fullName": null,
+    "lat": -8.40278,
+    "lng": -43.09084,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320024,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Tanque do Piauí",
+    "fullName": null,
+    "lat": -6.69614,
+    "lng": -42.1831,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320025,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Teresina",
+    "fullName": null,
+    "lat": -5.10252,
+    "lng": -42.7407,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320026,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "União",
+    "fullName": null,
+    "lat": -4.59646,
+    "lng": -42.86468,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320027,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Uruçuí",
+    "fullName": null,
+    "lat": -7.34206,
+    "lng": -44.58334,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320028,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Valença do Piauí",
+    "fullName": null,
+    "lat": -6.2787,
+    "lng": -41.81385,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320029,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Várzea Branca",
+    "fullName": null,
+    "lat": -9.34411,
+    "lng": -42.95158,
+    "tz": "America/Araguaina"
+  },
+  {
+    "id": 6320030,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Várzea Grande",
+    "fullName": null,
+    "lat": -6.56374,
+    "lng": -42.17729,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320031,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Vera Mendes",
+    "fullName": null,
+    "lat": -7.5548,
+    "lng": -41.50596,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320032,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Vila Nova do Piauí",
+    "fullName": null,
+    "lat": -7.18671,
+    "lng": -40.93621,
+    "tz": "America/Fortaleza"
+  },
+  {
+    "id": 6320033,
+    "parentId": 3392213,
+    "country": "BR",
+    "name": "Wall Ferraz",
+    "fullName": null,
+    "lat": -7.29532,
+    "lng": -41.8373,
+    "tz": "America/Fortaleza"
+  }
+]

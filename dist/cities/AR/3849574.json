@@ -1,0 +1,222 @@
+[
+  {
+    "id": 3865245,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Atreucó",
+    "fullName": "Departamento de Atreucó",
+    "lat": -37,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3863378,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Caleu-Caleu",
+    "fullName": "Departamento de Caleu-Caleu",
+    "lat": -38.58333,
+    "lng": -64,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3862741,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Capital",
+    "fullName": "Departamento de Capital",
+    "lat": -36.5,
+    "lng": -64.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3862250,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Catriló",
+    "fullName": "Departamento de Catriló",
+    "lat": -36.5,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3861829,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Chalileo",
+    "fullName": "Departamento de Chalileo",
+    "lat": -36.41667,
+    "lng": -66.58333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3861714,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Chapaleufú",
+    "fullName": "Departamento de Chapaleufú",
+    "lat": -35.16667,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3861539,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Chical-Có",
+    "fullName": "Departamento de Chical-Có",
+    "lat": -36.41667,
+    "lng": -67.58333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3860354,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Conhelo",
+    "fullName": "Departamento de Conhelo",
+    "lat": -36,
+    "lng": -64.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3859613,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Curacó",
+    "fullName": "Departamento de Curacó",
+    "lat": -38.16667,
+    "lng": -66.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3854492,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Guatraché",
+    "fullName": "Departamento de Guatraché",
+    "lat": -37.5,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3854058,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Hucal",
+    "fullName": "Departamento de Hucal",
+    "lat": -38,
+    "lng": -64,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846896,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Lihuel-Calel",
+    "fullName": "Departamento de Lihuel-Calel",
+    "lat": -38.25,
+    "lng": -65.08333,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846879,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Limay Mahuida",
+    "fullName": "Departamento de Limay Mahuida",
+    "lat": -37.33333,
+    "lng": -66.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3846928,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Loventué",
+    "fullName": "Departamento de Loventué",
+    "lat": -36.5,
+    "lng": -65.5,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3844924,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Maracó",
+    "fullName": "Departamento de Maracó",
+    "lat": -35.75,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3840188,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Puelén",
+    "fullName": "Departamento de Puelén",
+    "lat": -37.25,
+    "lng": -67.66667,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3839667,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Quemú Quemú",
+    "fullName": "Departamento de Quemú Quemú",
+    "lat": -36.25,
+    "lng": -63.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3839380,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Rancul",
+    "fullName": "Departamento de Rancul",
+    "lat": -35.5,
+    "lng": -64.75,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3839281,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Realicó",
+    "fullName": "Departamento de Realicó",
+    "lat": -35.25,
+    "lng": -64.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3834309,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Toay",
+    "fullName": "Departamento de Toay",
+    "lat": -36.58333,
+    "lng": -64.8,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3833878,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Trenel",
+    "fullName": "Departamento de Trenel",
+    "lat": -35.66667,
+    "lng": -64.25,
+    "tz": "America/Argentina/Salta"
+  },
+  {
+    "id": 3833347,
+    "parentId": 3849574,
+    "country": "AR",
+    "name": "Utracán",
+    "fullName": "Departamento de Utracán",
+    "lat": -37.25,
+    "lng": -65,
+    "tz": "America/Argentina/Salta"
+  }
+]

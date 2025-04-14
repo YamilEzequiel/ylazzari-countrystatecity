@@ -1,0 +1,32 @@
+[
+  {
+    "id": 11820853,
+    "parentId": 3442584,
+    "country": "UY",
+    "name": "Casupá",
+    "fullName": null,
+    "lat": -34.09929,
+    "lng": -55.63662,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820814,
+    "parentId": 3442584,
+    "country": "UY",
+    "name": "Fray Marcos",
+    "fullName": null,
+    "lat": -34.12473,
+    "lng": -55.71854,
+    "tz": "America/Montevideo"
+  },
+  {
+    "id": 11820852,
+    "parentId": 3442584,
+    "country": "UY",
+    "name": "Sarandí Grande",
+    "fullName": null,
+    "lat": -33.72478,
+    "lng": -56.33188,
+    "tz": "America/Montevideo"
+  }
+]

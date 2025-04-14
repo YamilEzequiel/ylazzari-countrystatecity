@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2522257,
+    "parentId": 2593111,
+    "country": "ES",
+    "name": "Albacete",
+    "fullName": "Provincia de Albacete",
+    "lat": 38.83333,
+    "lng": -2,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2519401,
+    "parentId": 2593111,
+    "country": "ES",
+    "name": "Ciudad Real",
+    "fullName": "Provincia de Ciudad Real",
+    "lat": 39,
+    "lng": -4,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2519034,
+    "parentId": 2593111,
+    "country": "ES",
+    "name": "Cuenca",
+    "fullName": "Provincia de Cuenca",
+    "lat": 40,
+    "lng": -2,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 3121069,
+    "parentId": 2593111,
+    "country": "ES",
+    "name": "Guadalajara",
+    "fullName": "Provincia de Guadalajara",
+    "lat": 40.83333,
+    "lng": -2.5,
+    "tz": "Europe/Madrid"
+  },
+  {
+    "id": 2510407,
+    "parentId": 2593111,
+    "country": "ES",
+    "name": "Toledo",
+    "fullName": "Province of Toledo",
+    "lat": 39.83333,
+    "lng": -4,
+    "tz": "Europe/Madrid"
+  }
+]
