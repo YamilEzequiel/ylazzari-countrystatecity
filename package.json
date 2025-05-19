@@ -1,6 +1,6 @@
 {
   "name": "ylazzari-countrystatecity",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "List of countries, states and cities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -125,8 +125,8 @@
     "country": "AR",
     "name": "Granadero Baigorria",
     "fullName": "Granadero Baigorria",
-    "lat": -32.95,
-    "lng": -60.7,
+    "lat": -32.9500,
+    "lng": -60.7000,
     "tz": "America/Argentina/Cordoba"
   },
   {
@@ -197,16 +197,6 @@
     "fullName": "Departamento de Vera",
     "lat": -29,
     "lng": -60.5,
-    "tz": "America/Argentina/Cordoba"
-  },
-  {
-    "id": 3833026,
-    "parentId": 3836276,
-    "country": "AR",
-    "name": "Villa Gobernador Gálvez",
-    "fullName": "Villa Gobernador Gálvez",
-    "lat": -33,
-    "lng": -60.63,
     "tz": "America/Argentina/Cordoba"
   }
 ]
