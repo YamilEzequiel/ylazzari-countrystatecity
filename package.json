@@ -30,7 +30,7 @@
     "build": "rimraf dist && tsc && npm run copy-files && npm run generate-cities-index",
     "build:cjs": "tsc && npm run copy-files && npm run generate-cities-index",
     "build:esm": "tsc -p tsconfig.esm.json && npm run copy-files && npm run generate-cities-index",
-    "copy-files": "cp -r src/cities dist/",
+    "copy-files": "shx cp -r src/cities dist/",
     "generate-cities-index": "ts-node src/cities/generate-cities-index.ts",
     "prepare": "npm run build",
     "clean": "rimraf dist",
@@ -64,6 +64,8 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "rimraf": "^5.0.10",
+    "shx": "^0.4.0",
+    "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.8.3"
   },
