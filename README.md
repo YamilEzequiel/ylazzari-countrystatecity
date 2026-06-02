@@ -250,6 +250,22 @@ Geo data is derived from the [GeoNames geographical database](https://www.geonam
 
 Contributions are welcome — issues and pull requests both. If you are adding a new country, please use the `import-geonames` script so the data stays consistent.
 
+## Changelog
+
+### 1.1.0
+
+- **perf(cities)**: cities are now lazy-loaded on demand and cached in memory. The library no longer loads 3.6 MB of JSON at `require()` time — only the country/state pairs you actually ask for. Cold start drops dramatically.
+- **feat(data)**: 9 new Latin American countries — Bolivia (BO), Costa Rica (CR), Cuba (CU), Dominican Republic (DO), Ecuador (EC), Guatemala (GT), Honduras (HN), Nicaragua (NI), El Salvador (SV). Total goes from 12 to 21 countries.
+- **feat(scripts)**: new `npm run import-geonames -- XX` script that generates the JSON files for any new country directly from official GeoNames dumps, and auto-updates `CountryEnum` and `state-list.ts`.
+- **feat(example)**: new `example/` folder with a self-contained Tailwind + Node demo. Run `npm run example:web` and open `http://localhost:3000` to try the library through three chained selectors.
+- **docs**: README expanded with the lazy-loading model, the demo workflow, the importer instructions, and the full updated country list.
+
+No breaking changes — the public API (`CountryService`, `StateService`, `CityService`, `CountryEnum`, `Language`, `LIST_COUNTRY`) is unchanged.
+
+### Previous releases
+
+See the git history for changes prior to 1.1.0.
+
 ## License
 
 ISC
