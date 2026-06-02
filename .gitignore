@@ -6,3 +6,6 @@ dist
 npm-debug.log*
 .env
 .env.*
+
+# GeoNames dumps used by scripts/import-geonames.ts
+geonames-data/

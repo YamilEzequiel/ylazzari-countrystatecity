@@ -34,7 +34,8 @@
     "prepare": "npm run build",
     "clean": "rimraf dist",
     "start": "npx ts-node src/index.ts",
-    "example": "npx ts-node src/example.ts"
+    "example": "npx ts-node src/example.ts",
+    "import-geonames": "npx ts-node src/scripts/import-geonames.ts"
   },
   "repository": {
     "type": "git",
