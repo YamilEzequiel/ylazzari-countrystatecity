@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="es" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ylazzari-countrystatecity — demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "ui-sans-serif", "system-ui"],
+              mono: ["JetBrains Mono", "ui-monospace", "monospace"],
+            },
+            animation: {
+              "fade-in": "fadeIn 0.4s ease-out",
+              "slide-up": "slideUp 0.4s ease-out",
+            },
+            keyframes: {
+              fadeIn: { "0%": { opacity: "0" }, "100%": { opacity: "1" } },
+              slideUp: {
+                "0%": { opacity: "0", transform: "translateY(8px)" },
+                "100%": { opacity: "1", transform: "translateY(0)" },
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background:
+          radial-gradient(circle at 0% 0%, rgba(99, 102, 241, 0.15) 0%, transparent 50%),
+          radial-gradient(circle at 100% 100%, rgba(236, 72, 153, 0.12) 0%, transparent 50%),
+          #0a0a0f;
+        min-height: 100vh;
+      }
+      .glass {
+        background: rgba(255, 255, 255, 0.03);
+        backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+      .glass:hover {
+        border-color: rgba(255, 255, 255, 0.12);
+      }
+      select,
+      .select-style {
+        background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%23a3a3a3%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpolyline%20points%3D%226%209%2012%2015%2018%209%22%2F%3E%3C%2Fsvg%3E");
+        background-repeat: no-repeat;
+        background-position: right 0.85rem center;
+        background-size: 1rem;
+        appearance: none;
+      }
+      .scrollbar::-webkit-scrollbar {
+        width: 6px;
+      }
+      .scrollbar::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 3px;
+      }
+      .scrollbar::-webkit-scrollbar-thumb:hover {
+        background: rgba(255, 255, 255, 0.2);
+      }
+      .pulse-dot {
+        animation: pulseDot 1.4s ease-in-out infinite;
+      }
+      .pulse-dot:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+      .pulse-dot:nth-child(3) {
+        animation-delay: 0.4s;
+      }
+      @keyframes pulseDot {
+        0%,
+        80%,
+        100% {
+          opacity: 0.3;
+          transform: scale(0.8);
+        }
+        40% {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+  <body class="font-sans text-neutral-100 antialiased">
+    <div class="mx-auto max-w-6xl px-6 py-12 sm:py-16">
+      <header class="mb-12 animate-fade-in">
+        <div class="flex items-center gap-3 mb-4">
+          <div
+            class="h-2 w-2 rounded-full bg-emerald-400 shadow-[0_0_12px_rgba(52,211,153,0.6)]"
+          ></div>
+          <span class="text-xs uppercase tracking-[0.2em] text-neutral-400 font-medium">
+            ylazzari-countrystatecity · live demo
+          </span>
+        </div>
+        <h1
+          class="text-4xl sm:text-5xl font-extrabold tracking-tight bg-gradient-to-br from-white via-neutral-200 to-neutral-500 bg-clip-text text-transparent"
+        >
+          Países, estados y ciudades
+        </h1>
+        <p class="mt-4 text-neutral-400 max-w-2xl leading-relaxed">
+          Una librería liviana para Node.js que sirve catálogos geográficos.
+          Carga lazy — solo lee el JSON que pedís, cachea en memoria, y mantiene el cold start
+          en el mínimo. Probala abajo con selectores encadenados.
+        </p>
+      </header>
+
+      <section class="glass rounded-2xl p-6 sm:p-8 mb-8 animate-slide-up">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <label class="block">
+            <span class="text-xs uppercase tracking-wider text-neutral-400 font-semibold mb-2 block">
+              País
+            </span>
+            <select
+              id="countrySelect"
+              class="w-full bg-neutral-900/60 border border-neutral-800 rounded-xl px-4 py-3 text-neutral-100 focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 transition"
+            >
+              <option value="">Cargando…</option>
+            </select>
+          </label>
+
+          <label class="block">
+            <span class="text-xs uppercase tracking-wider text-neutral-400 font-semibold mb-2 block">
+              Estado / Provincia
+            </span>
+            <select
+              id="stateSelect"
+              disabled
+              class="w-full bg-neutral-900/60 border border-neutral-800 rounded-xl px-4 py-3 text-neutral-100 disabled:opacity-40 disabled:cursor-not-allowed focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 transition"
+            >
+              <option value="">Elegí un país</option>
+            </select>
+          </label>
+
+          <label class="block">
+            <span class="text-xs uppercase tracking-wider text-neutral-400 font-semibold mb-2 block">
+              Ciudad
+            </span>
+            <select
+              id="citySelect"
+              disabled
+              class="w-full bg-neutral-900/60 border border-neutral-800 rounded-xl px-4 py-3 text-neutral-100 disabled:opacity-40 disabled:cursor-not-allowed focus:outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500/20 transition"
+            >
+              <option value="">Elegí un estado</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="statusBar" class="mt-6 flex items-center gap-3 text-sm text-neutral-500 min-h-[24px]">
+          <span>Esperando selección…</span>
+        </div>
+      </section>
+
+      <section id="resultsCard" class="glass rounded-2xl p-6 sm:p-8 mb-8 hidden">
+        <div class="flex items-center justify-between mb-5">
+          <div>
+            <h2 class="text-lg font-semibold text-neutral-100">Ciudades</h2>
+            <p id="resultsMeta" class="text-xs text-neutral-500 mt-1"></p>
+          </div>
+          <div
+            id="resultsCount"
+            class="text-2xl font-bold bg-gradient-to-br from-indigo-400 to-fuchsia-400 bg-clip-text text-transparent"
+          ></div>
+        </div>
+        <div
+          id="citiesGrid"
+          class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 max-h-[480px] overflow-y-auto pr-2 scrollbar"
+        ></div>
+      </section>
+
+      <section class="glass rounded-2xl overflow-hidden animate-slide-up">
+        <div class="border-b border-neutral-800/60 px-6 py-4 flex items-center justify-between">
+          <h2 class="text-sm font-semibold text-neutral-200">Cómo se usa en tu código</h2>
+          <span class="text-xs text-neutral-500 font-mono">node.js</span>
+        </div>
+        <div class="p-6 grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <div>
+            <p class="text-xs uppercase tracking-wider text-neutral-500 font-semibold mb-3">
+              1 · Instalación
+            </p>
+            <pre class="bg-black/40 rounded-lg p-4 text-sm font-mono text-neutral-300 overflow-x-auto"><code>npm install ylazzari-countrystatecity</code></pre>
+          </div>
+          <div>
+            <p class="text-xs uppercase tracking-wider text-neutral-500 font-semibold mb-3">
+              2 · Uso básico
+            </p>
+            <pre class="bg-black/40 rounded-lg p-4 text-sm font-mono text-neutral-300 overflow-x-auto"><code><span class="text-fuchsia-300">import</span> {
+  CountryService,
+  StateService,
+  CityService,
+  CountryEnum,
+} <span class="text-fuchsia-300">from</span> <span class="text-emerald-300">"ylazzari-countrystatecity"</span>;
+
+<span class="text-neutral-500">// Países</span>
+<span class="text-fuchsia-300">const</span> countries = <span class="text-fuchsia-300">new</span> CountryService().getAllCountries();
+
+<span class="text-neutral-500">// Estados de un país</span>
+<span class="text-fuchsia-300">const</span> states = <span class="text-fuchsia-300">new</span> StateService()
+  .getStatesByCountry(CountryEnum.AR);
+
+<span class="text-neutral-500">// Ciudades de un estado (lazy load + cache)</span>
+<span class="text-fuchsia-300">const</span> cities = <span class="text-fuchsia-300">new</span> CityService()
+  .getCitiesByCountryAndState(CountryEnum.AR, <span class="text-amber-300">3430657</span>);</code></pre>
+          </div>
+        </div>
+      </section>
+
+      <footer class="mt-12 text-center text-xs text-neutral-600">
+        <p>Esta demo corre un mini server Node que importa la librería desde <code class="font-mono text-neutral-500">dist/</code> y expone <code class="font-mono text-neutral-500">/api/*</code>.</p>
+      </footer>
+    </div>
+
+    <script>
+      const $country = document.getElementById("countrySelect");
+      const $state = document.getElementById("stateSelect");
+      const $city = document.getElementById("citySelect");
+      const $status = document.getElementById("statusBar");
+      const $resultsCard = document.getElementById("resultsCard");
+      const $resultsCount = document.getElementById("resultsCount");
+      const $resultsMeta = document.getElementById("resultsMeta");
+      const $citiesGrid = document.getElementById("citiesGrid");
+
+      const setStatus = (text, tone = "neutral") => {
+        const dot =
+          tone === "loading"
+            ? '<span class="flex gap-1"><span class="pulse-dot h-1.5 w-1.5 rounded-full bg-indigo-400"></span><span class="pulse-dot h-1.5 w-1.5 rounded-full bg-indigo-400"></span><span class="pulse-dot h-1.5 w-1.5 rounded-full bg-indigo-400"></span></span>'
+            : tone === "ok"
+              ? '<span class="h-1.5 w-1.5 rounded-full bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.6)]"></span>'
+              : tone === "error"
+                ? '<span class="h-1.5 w-1.5 rounded-full bg-rose-400 shadow-[0_0_8px_rgba(251,113,133,0.6)]"></span>'
+                : '<span class="h-1.5 w-1.5 rounded-full bg-neutral-600"></span>';
+        $status.innerHTML = `${dot}<span>${text}</span>`;
+      };
+
+      const resetSelect = ($el, placeholder) => {
+        $el.innerHTML = `<option value="">${placeholder}</option>`;
+        $el.disabled = true;
+      };
+
+      const populate = ($el, items, placeholder) => {
+        $el.innerHTML = `<option value="">${placeholder}</option>`;
+        for (const it of items) {
+          const opt = document.createElement("option");
+          opt.value = it.value;
+          opt.textContent = it.label;
+          $el.appendChild(opt);
+        }
+        $el.disabled = items.length === 0;
+      };
+
+      async function fetchJson(url) {
+        const r = await fetch(url);
+        if (!r.ok) throw new Error((await r.json()).error || r.statusText);
+        return r.json();
+      }
+
+      async function loadCountries() {
+        setStatus("Cargando países…", "loading");
+        try {
+          const data = await fetchJson("/api/countries");
+          const items = Object.entries(data)
+            .map(([code, name]) => ({ value: code, label: `${name} (${code})` }))
+            .sort((a, b) => a.label.localeCompare(b.label));
+          populate($country, items, "Elegí un país");
+          $country.disabled = false;
+          setStatus(`${items.length} países disponibles`, "ok");
+        } catch (e) {
+          setStatus(`Error: ${e.message}`, "error");
+        }
+      }
+
+      async function loadStates(country) {
+        resetSelect($state, "Cargando…");
+        resetSelect($city, "Elegí un estado");
+        $resultsCard.classList.add("hidden");
+        setStatus(`Cargando estados de ${country}…`, "loading");
+        try {
+          const states = await fetchJson(`/api/states/${country}`);
+          const items = states.map((s) => ({
+            value: s.id,
+            label: s.name,
+          }));
+          populate($state, items, "Elegí un estado");
+          setStatus(`${items.length} estados en ${country}`, "ok");
+        } catch (e) {
+          setStatus(`Error: ${e.message}`, "error");
+        }
+      }
+
+      async function loadCities(country, stateId) {
+        resetSelect($city, "Cargando…");
+        setStatus(`Cargando ciudades…`, "loading");
+        try {
+          const cities = await fetchJson(`/api/cities/${country}/${stateId}`);
+          const items = cities.map((c) => ({ value: c.id, label: c.name }));
+          populate($city, items, "Elegí una ciudad");
+          $city.disabled = false;
+          renderCitiesGrid(cities, country);
+          setStatus(`${cities.length} ciudades cargadas`, "ok");
+        } catch (e) {
+          setStatus(`Error: ${e.message}`, "error");
+          $resultsCard.classList.add("hidden");
+        }
+      }
+
+      function renderCitiesGrid(cities, country) {
+        $resultsCount.textContent = cities.length.toLocaleString("es-AR");
+        const stateName = $state.options[$state.selectedIndex]?.textContent || "";
+        $resultsMeta.textContent = `${country} · ${stateName}`;
+        $citiesGrid.innerHTML = cities
+          .map(
+            (c) => `
+            <div class="bg-neutral-900/50 border border-neutral-800/60 rounded-xl p-4 hover:border-indigo-500/30 transition group">
+              <div class="font-semibold text-neutral-100 truncate">${c.name}</div>
+              <div class="text-xs text-neutral-500 truncate mt-0.5">${c.fullName || "—"}</div>
+              <div class="mt-3 flex items-center gap-3 text-[11px] font-mono text-neutral-500">
+                <span>${c.lat?.toFixed?.(3) ?? "?"}, ${c.lng?.toFixed?.(3) ?? "?"}</span>
+                <span class="text-neutral-700">·</span>
+                <span class="truncate">${c.tz || ""}</span>
+              </div>
+            </div>`,
+          )
+          .join("");
+        $resultsCard.classList.remove("hidden");
+      }
+
+      $country.addEventListener("change", (e) => {
+        const c = e.target.value;
+        if (!c) return;
+        loadStates(c);
+      });
+
+      $state.addEventListener("change", (e) => {
+        const sid = e.target.value;
+        if (!sid) return;
+        loadCities($country.value, sid);
+      });
+
+      loadCountries();
+    </script>
+  </body>
+</html>
