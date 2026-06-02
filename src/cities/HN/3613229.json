@@ -1,0 +1,402 @@
+[
+  {
+    "id": 3615473,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Agua Caliente",
+    "fullName": null,
+    "lat": 14.88333,
+    "lng": -88.81667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614583,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Buenos Aires",
+    "fullName": null,
+    "lat": 15.03333,
+    "lng": -88.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613708,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Chalmeca",
+    "fullName": null,
+    "lat": 15.09579,
+    "lng": -88.68036,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613285,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Concepción de la Barranca",
+    "fullName": null,
+    "lat": 15.16667,
+    "lng": -88.71667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613230,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Copán Ruinas",
+    "fullName": null,
+    "lat": 14.83936,
+    "lng": -89.15583,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613171,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Corquín",
+    "fullName": null,
+    "lat": 14.56667,
+    "lng": -88.86667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613015,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Cucuyagua",
+    "fullName": null,
+    "lat": 14.64777,
+    "lng": -88.87385,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612838,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Dolores",
+    "fullName": null,
+    "lat": 14.87459,
+    "lng": -88.81637,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612813,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Dulce Nombre",
+    "fullName": null,
+    "lat": 14.84802,
+    "lng": -88.8316,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611986,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "El Corpús",
+    "fullName": null,
+    "lat": 14.69814,
+    "lng": -88.90862,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611914,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "El Derrumbo",
+    "fullName": null,
+    "lat": 14.75,
+    "lng": -88.78333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611069,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "El Ocotón",
+    "fullName": null,
+    "lat": 15.03333,
+    "lng": -88.88333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609681,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Florida",
+    "fullName": null,
+    "lat": 15.02692,
+    "lng": -88.83567,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607986,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Entrada",
+    "fullName": null,
+    "lat": 15.06381,
+    "lng": -88.74627,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607957,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Esperanza",
+    "fullName": null,
+    "lat": 15.05091,
+    "lng": -89.09818,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607679,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Jigua",
+    "fullName": null,
+    "lat": 15.03333,
+    "lng": -88.8,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607146,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Playona",
+    "fullName": null,
+    "lat": 15.11803,
+    "lng": -88.98197,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 9072478,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Ruidosa",
+    "fullName": null,
+    "lat": 15.23628,
+    "lng": -88.75142,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606075,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "La Zumbadora",
+    "fullName": null,
+    "lat": 15.01433,
+    "lng": -88.90117,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605758,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Los Arroyos",
+    "fullName": null,
+    "lat": 14.65,
+    "lng": -88.88333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605258,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Los Tangos",
+    "fullName": null,
+    "lat": 15.14585,
+    "lng": -88.67931,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604396,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Nueva Armenia",
+    "fullName": null,
+    "lat": 15.03333,
+    "lng": -89.1,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604263,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Ojos de Agua",
+    "fullName": null,
+    "lat": 14.7057,
+    "lng": -88.81617,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604172,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Ostumán",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -89.16667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603224,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Pueblo Nuevo",
+    "fullName": null,
+    "lat": 15,
+    "lng": -88.75,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602984,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Quezailica",
+    "fullName": null,
+    "lat": 14.87652,
+    "lng": -88.72714,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602813,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Río Amarillo",
+    "fullName": null,
+    "lat": 14.96667,
+    "lng": -89.13333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602546,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Agustín",
+    "fullName": null,
+    "lat": 14.81958,
+    "lng": -88.93562,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602184,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Jerónimo",
+    "fullName": null,
+    "lat": 14.96667,
+    "lng": -88.86667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602169,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Joaquín",
+    "fullName": null,
+    "lat": 15.06053,
+    "lng": -88.91193,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602092,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San José",
+    "fullName": null,
+    "lat": 14.90235,
+    "lng": -88.72063,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601993,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Juan de Opoa",
+    "fullName": null,
+    "lat": 14.779,
+    "lng": -88.69641,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601992,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Juan de Planes",
+    "fullName": null,
+    "lat": 14.93333,
+    "lng": -88.78333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601833,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "San Nicolás",
+    "fullName": null,
+    "lat": 15.00341,
+    "lng": -88.75167,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601651,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": 14.75,
+    "lng": -88.98333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601519,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Santa Rita, Copan",
+    "fullName": null,
+    "lat": 14.86748,
+    "lng": -89.1,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601494,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Santa Rosa de Copán",
+    "fullName": null,
+    "lat": 14.77388,
+    "lng": -88.7756,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600605,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Trinidad de Copán",
+    "fullName": null,
+    "lat": 14.94567,
+    "lng": -88.7422,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600382,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Veracruz",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -88.78333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600313,
+    "parentId": 3613229,
+    "country": "HN",
+    "name": "Vivistorio",
+    "fullName": null,
+    "lat": 14.9,
+    "lng": -88.73333,
+    "tz": "America/Tegucigalpa"
+  }
+]

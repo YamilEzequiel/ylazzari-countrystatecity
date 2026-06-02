@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3614983,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Azacualpa",
+    "fullName": null,
+    "lat": 14.26667,
+    "lng": -88.38333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614328,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Camasca",
+    "fullName": null,
+    "lat": 13.99677,
+    "lng": -88.37973,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608834,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Intibucá",
+    "fullName": null,
+    "lat": 14.31226,
+    "lng": -88.17608,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608715,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Jesús de Otoro",
+    "fullName": null,
+    "lat": 14.48775,
+    "lng": -87.98181,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608656,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Jiquinlaca",
+    "fullName": null,
+    "lat": 14.00595,
+    "lng": -88.35162,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607966,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "La Esperanza",
+    "fullName": null,
+    "lat": 14.30158,
+    "lng": -88.16725,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605179,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Magdalena",
+    "fullName": null,
+    "lat": 13.86667,
+    "lng": -88.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600254,
+    "parentId": 3608833,
+    "country": "HN",
+    "name": "Yamaranguila",
+    "fullName": null,
+    "lat": 14.28333,
+    "lng": -88.24199,
+    "tz": "America/Tegucigalpa"
+  }
+]

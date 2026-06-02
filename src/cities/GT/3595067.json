@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3599972,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Agua Blanca",
+    "fullName": null,
+    "lat": 14.49805,
+    "lng": -89.64961,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599639,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Asunción Mita",
+    "fullName": null,
+    "lat": 14.33365,
+    "lng": -89.71094,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599633,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Atescatempa",
+    "fullName": null,
+    "lat": 14.1755,
+    "lng": -89.74184,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598031,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Comapa",
+    "fullName": null,
+    "lat": 14.11282,
+    "lng": -89.91471,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597966,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Conguaco",
+    "fullName": null,
+    "lat": 14.04417,
+    "lng": -90.03111,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597676,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "El Adelanto",
+    "fullName": null,
+    "lat": 14.17102,
+    "lng": -89.82715,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596423,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "El Progreso",
+    "fullName": null,
+    "lat": 14.35604,
+    "lng": -89.84854,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595232,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Jalpatagua",
+    "fullName": null,
+    "lat": 14.1369,
+    "lng": -90.00908,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595224,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Jerez",
+    "fullName": null,
+    "lat": 14.09083,
+    "lng": -89.7511,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595069,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Jutiapa",
+    "fullName": null,
+    "lat": 14.28491,
+    "lng": -89.88798,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592322,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Moyuta",
+    "fullName": null,
+    "lat": 14.03861,
+    "lng": -90.08083,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591618,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Pasaco",
+    "fullName": null,
+    "lat": 13.97722,
+    "lng": -90.20639,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590987,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Quesada",
+    "fullName": null,
+    "lat": 14.27028,
+    "lng": -90.04028,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590053,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "San José Acatempa",
+    "fullName": null,
+    "lat": 14.26528,
+    "lng": -90.12694,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589456,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Santa Catarina Mita",
+    "fullName": null,
+    "lat": 14.45131,
+    "lng": -89.74285,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587593,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Yupiltepeque",
+    "fullName": null,
+    "lat": 14.19705,
+    "lng": -89.79262,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587546,
+    "parentId": 3595067,
+    "country": "GT",
+    "name": "Zapotitlán",
+    "fullName": null,
+    "lat": 14.13917,
+    "lng": -89.82628,
+    "tz": "America/Guatemala"
+  }
+]

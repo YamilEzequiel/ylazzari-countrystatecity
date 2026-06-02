@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3660773,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Alfredo Baquerizo Moreno",
+    "fullName": null,
+    "lat": -1.91667,
+    "lng": -79.51667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660387,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Balao",
+    "fullName": null,
+    "lat": -2.9106,
+    "lng": -79.81505,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660361,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Balzar",
+    "fullName": null,
+    "lat": -1.36553,
+    "lng": -79.90507,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658948,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Colimes",
+    "fullName": null,
+    "lat": -1.54566,
+    "lng": -80.01158,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658822,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Coronel Marcelino Maridueña",
+    "fullName": null,
+    "lat": -2.21025,
+    "lng": -79.43734,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658501,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Daule",
+    "fullName": null,
+    "lat": -1.86032,
+    "lng": -79.97683,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650273,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "El Empalme",
+    "fullName": null,
+    "lat": -1.04491,
+    "lng": -79.6384,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658053,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "El Triunfo",
+    "fullName": null,
+    "lat": -1.93333,
+    "lng": -79.96667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658192,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Eloy Alfaro",
+    "fullName": null,
+    "lat": -2.16919,
+    "lng": -79.83987,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657509,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Guayaquil",
+    "fullName": null,
+    "lat": -2.19616,
+    "lng": -79.88621,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3655131,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "La Libertad",
+    "fullName": null,
+    "lat": -2.233,
+    "lng": -80.91039,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654650,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Lomas de Sargentillo",
+    "fullName": null,
+    "lat": -1.88082,
+    "lng": -80.08354,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654215,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Milagro",
+    "fullName": null,
+    "lat": -2.13396,
+    "lng": -79.59337,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653882,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Naranjal",
+    "fullName": null,
+    "lat": -2.67638,
+    "lng": -79.61735,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653873,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Naranjito",
+    "fullName": null,
+    "lat": -2.17071,
+    "lng": -79.465,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653581,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Palestina",
+    "fullName": null,
+    "lat": -1.93709,
+    "lng": -79.71396,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653295,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Pedro Carbo",
+    "fullName": null,
+    "lat": -1.81619,
+    "lng": -80.23431,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653015,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Playas",
+    "fullName": null,
+    "lat": -2.63199,
+    "lng": -80.38808,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652928,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Posorja",
+    "fullName": null,
+    "lat": -2.70924,
+    "lng": -80.24719,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652065,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Samborondón",
+    "fullName": null,
+    "lat": -1.96071,
+    "lng": -79.72566,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651411,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Santa Lucía",
+    "fullName": null,
+    "lat": -2.18333,
+    "lng": -80,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 12238029,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Tres Postes",
+    "fullName": null,
+    "lat": -1.98745,
+    "lng": -79.60451,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650121,
+    "parentId": 3657505,
+    "country": "EC",
+    "name": "Yaguachi Nuevo",
+    "fullName": null,
+    "lat": -2.09757,
+    "lng": -79.69261,
+    "tz": "America/Guayaquil"
+  }
+]

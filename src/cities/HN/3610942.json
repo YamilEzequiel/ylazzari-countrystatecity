@@ -1,0 +1,272 @@
+[
+  {
+    "id": 3615108,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Araulí",
+    "fullName": null,
+    "lat": 13.973,
+    "lng": -86.545,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612937,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Cuyalí",
+    "fullName": null,
+    "lat": 13.88333,
+    "lng": -86.55,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612907,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Danlí",
+    "fullName": null,
+    "lat": 14.03333,
+    "lng": -86.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612581,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Benque",
+    "fullName": null,
+    "lat": 14.03333,
+    "lng": -86.46667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612160,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Chichicaste",
+    "fullName": null,
+    "lat": 14.06667,
+    "lng": -86.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611128,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Obraje",
+    "fullName": null,
+    "lat": 14,
+    "lng": -86.43333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610965,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Paraíso",
+    "fullName": null,
+    "lat": 13.86667,
+    "lng": -86.55,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610860,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Pescadero",
+    "fullName": null,
+    "lat": 13.93333,
+    "lng": -86.55,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610412,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "El Rodeo",
+    "fullName": null,
+    "lat": 14.28333,
+    "lng": -86.6,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609112,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Güinope",
+    "fullName": null,
+    "lat": 13.88333,
+    "lng": -86.93333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608798,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Jacaleapa",
+    "fullName": null,
+    "lat": 14.01667,
+    "lng": -86.66667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608522,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Jutiapa",
+    "fullName": null,
+    "lat": 13.98333,
+    "lng": -86.4,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607030,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Las Ánimas",
+    "fullName": null,
+    "lat": 14.25,
+    "lng": -86.56667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606292,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Las Trojes",
+    "fullName": null,
+    "lat": 14.06667,
+    "lng": -85.98333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605950,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Liure",
+    "fullName": null,
+    "lat": 13.53583,
+    "lng": -87.09194,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605082,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Mandasta",
+    "fullName": null,
+    "lat": 13.73333,
+    "lng": -86.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604579,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Morocelí",
+    "fullName": null,
+    "lat": 14.11667,
+    "lng": -86.86667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604292,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Ojo de Agua",
+    "fullName": null,
+    "lat": 14.01667,
+    "lng": -86.35,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604181,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Oropolí",
+    "fullName": null,
+    "lat": 13.81667,
+    "lng": -86.81667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603041,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Quebrada Larga",
+    "fullName": null,
+    "lat": 14.1,
+    "lng": -86.36667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602368,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "San Diego",
+    "fullName": null,
+    "lat": 14.05,
+    "lng": -86.46667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601951,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "San Lucas",
+    "fullName": null,
+    "lat": 13.73333,
+    "lng": -86.95,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601874,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "San Matías",
+    "fullName": null,
+    "lat": 13.98333,
+    "lng": -86.63333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601664,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": 13.86667,
+    "lng": -86.63333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600841,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Teupasenti",
+    "fullName": null,
+    "lat": 14.21667,
+    "lng": -86.7,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3812188,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Texíguat",
+    "fullName": null,
+    "lat": 13.64972,
+    "lng": -87.0225,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600165,
+    "parentId": 3610942,
+    "country": "HN",
+    "name": "Yuscarán",
+    "fullName": null,
+    "lat": 13.94439,
+    "lng": -86.85241,
+    "tz": "America/Tegucigalpa"
+  }
+]

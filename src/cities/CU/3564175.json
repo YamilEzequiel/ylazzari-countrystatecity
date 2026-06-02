@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3567823,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Baraguá",
+    "fullName": null,
+    "lat": 21.68216,
+    "lng": -78.62567,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564394,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Chambas",
+    "fullName": null,
+    "lat": 22.19534,
+    "lng": -78.9123,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564178,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Ciego de Ávila",
+    "fullName": null,
+    "lat": 21.8422,
+    "lng": -78.76034,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564084,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Ciro Redondo",
+    "fullName": null,
+    "lat": 22.01921,
+    "lng": -78.70365,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558792,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Florencia",
+    "fullName": null,
+    "lat": 22.1461,
+    "lng": -78.97328,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3546434,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Morón",
+    "fullName": null,
+    "lat": 22.10774,
+    "lng": -78.62667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543498,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Primero de Enero",
+    "fullName": null,
+    "lat": 21.94501,
+    "lng": -78.4313,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534432,
+    "parentId": 3564175,
+    "country": "CU",
+    "name": "Venezuela",
+    "fullName": null,
+    "lat": 21.73748,
+    "lng": -78.79336,
+    "tz": "America/Havana"
+  }
+]

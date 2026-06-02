@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3620353,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Ciudad Antigua",
+    "fullName": null,
+    "lat": 13.6406,
+    "lng": -86.30815,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618954,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Jalapa",
+    "fullName": null,
+    "lat": 13.92221,
+    "lng": -86.12346,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617565,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Mozonte",
+    "fullName": null,
+    "lat": 13.66034,
+    "lng": -86.43841,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617543,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Murra",
+    "fullName": null,
+    "lat": 13.7585,
+    "lng": -86.01843,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617448,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Ocotal",
+    "fullName": null,
+    "lat": 13.63222,
+    "lng": -86.47399,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617109,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Quilalí",
+    "fullName": null,
+    "lat": 13.56695,
+    "lng": -86.026,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616871,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "San Fernando",
+    "fullName": null,
+    "lat": 13.67755,
+    "lng": -86.31486,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616441,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Santa María",
+    "fullName": null,
+    "lat": 13.74665,
+    "lng": -86.70934,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615683,
+    "parentId": 3617458,
+    "country": "NI",
+    "name": "Wiwilí",
+    "fullName": null,
+    "lat": 13.62679,
+    "lng": -85.8254,
+    "tz": "America/Managua"
+  }
+]

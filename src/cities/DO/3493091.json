@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3511262,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Bohechío",
+    "fullName": null,
+    "lat": 18.77515,
+    "lng": -70.98889,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509882,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Cercado Abajo",
+    "fullName": null,
+    "lat": 18.72681,
+    "lng": -71.51742,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503900,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Juan de Herrera",
+    "fullName": null,
+    "lat": 18.87402,
+    "lng": -71.2383,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500370,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Las Matas de Farfán",
+    "fullName": null,
+    "lat": 18.87309,
+    "lng": -71.51656,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496574,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Matayaya",
+    "fullName": null,
+    "lat": 18.89036,
+    "lng": -71.59459,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495115,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Pedro Corto",
+    "fullName": null,
+    "lat": 18.84856,
+    "lng": -71.41041,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493081,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "San Juan de la Maguana",
+    "fullName": null,
+    "lat": 18.8064,
+    "lng": -71.22626,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492123,
+    "parentId": 3493091,
+    "country": "DO",
+    "name": "Vallejuelo",
+    "fullName": null,
+    "lat": 18.65354,
+    "lng": -71.33431,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3660422,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Baba",
+    "fullName": null,
+    "lat": -1.78443,
+    "lng": -79.6787,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660418,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Babahoyo",
+    "fullName": null,
+    "lat": -1.80493,
+    "lng": -79.52492,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659592,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Catarama",
+    "fullName": null,
+    "lat": -1.57091,
+    "lng": -79.47335,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654064,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Montalvo",
+    "fullName": null,
+    "lat": -1.79008,
+    "lng": -79.28759,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653587,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Palenque",
+    "fullName": null,
+    "lat": -1.43757,
+    "lng": -79.7569,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652567,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Quevedo",
+    "fullName": null,
+    "lat": -1.02881,
+    "lng": -79.46264,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651726,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "San Juan",
+    "fullName": null,
+    "lat": -1.66667,
+    "lng": -79.76667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650301,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Valencia",
+    "fullName": null,
+    "lat": -0.95312,
+    "lng": -79.35513,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650267,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Ventanas",
+    "fullName": null,
+    "lat": -1.44285,
+    "lng": -79.46274,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650186,
+    "parentId": 3654592,
+    "country": "EC",
+    "name": "Vinces",
+    "fullName": null,
+    "lat": -1.55637,
+    "lng": -79.75249,
+    "tz": "America/Guayaquil"
+  }
+]

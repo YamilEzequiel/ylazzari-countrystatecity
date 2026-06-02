@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3508952,
+    "parentId": 3508951,
+    "country": "DO",
+    "name": "Dajabón",
+    "fullName": null,
+    "lat": 19.54811,
+    "lng": -71.70821,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3506541,
+    "parentId": 3508951,
+    "country": "DO",
+    "name": "El Pino",
+    "fullName": null,
+    "lat": 19.43537,
+    "lng": -71.4754,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3499602,
+    "parentId": 3508951,
+    "country": "DO",
+    "name": "Loma de Cabrera",
+    "fullName": null,
+    "lat": 19.43333,
+    "lng": -71.6,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495256,
+    "parentId": 3508951,
+    "country": "DO",
+    "name": "Partido",
+    "fullName": null,
+    "lat": 19.48403,
+    "lng": -71.5473,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493887,
+    "parentId": 3508951,
+    "country": "DO",
+    "name": "Restauración",
+    "fullName": null,
+    "lat": 19.31532,
+    "lng": -71.69239,
+    "tz": "America/Santo_Domingo"
+  }
+]

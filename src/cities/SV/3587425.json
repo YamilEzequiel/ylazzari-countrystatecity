@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3587426,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Ahuachapán",
+    "fullName": null,
+    "lat": 13.92403,
+    "lng": -89.84344,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587317,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Atiquizaya",
+    "fullName": null,
+    "lat": 13.97694,
+    "lng": -89.7525,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586926,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Concepción de Ataco",
+    "fullName": null,
+    "lat": 13.87028,
+    "lng": -89.84861,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585640,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Guaymango",
+    "fullName": null,
+    "lat": 13.75028,
+    "lng": -89.84222,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585392,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Jujutla",
+    "fullName": null,
+    "lat": 13.78694,
+    "lng": -89.85722,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583716,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "San Francisco Menéndez",
+    "fullName": null,
+    "lat": 13.84306,
+    "lng": -90.01583,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583065,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Tacuba",
+    "fullName": null,
+    "lat": 13.90111,
+    "lng": -89.92972,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582896,
+    "parentId": 3587425,
+    "country": "SV",
+    "name": "Turín",
+    "fullName": null,
+    "lat": 13.96639,
+    "lng": -89.76611,
+    "tz": "America/El_Salvador"
+  }
+]

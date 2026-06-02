@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3620170,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "Diriamba",
+    "fullName": null,
+    "lat": 11.85812,
+    "lng": -86.23922,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620163,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "Dolores",
+    "fullName": null,
+    "lat": 11.85624,
+    "lng": -86.21582,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619420,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "El Rosario",
+    "fullName": null,
+    "lat": 11.778,
+    "lng": -86.3738,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618926,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "Jinotepe",
+    "fullName": null,
+    "lat": 11.84828,
+    "lng": -86.19916,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618635,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "La Conquista",
+    "fullName": null,
+    "lat": 11.73426,
+    "lng": -86.19279,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618410,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "La Paz de Carazo",
+    "fullName": null,
+    "lat": 11.82311,
+    "lng": -86.12781,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616682,
+    "parentId": 3620481,
+    "country": "NI",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 11.90949,
+    "lng": -86.20351,
+    "tz": "America/Managua"
+  }
+]

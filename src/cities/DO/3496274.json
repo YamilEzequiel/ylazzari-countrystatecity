@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3511233,
+    "parentId": 3496274,
+    "country": "DO",
+    "name": "Bonao",
+    "fullName": null,
+    "lat": 18.94154,
+    "lng": -70.41111,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503950,
+    "parentId": 3496274,
+    "country": "DO",
+    "name": "Juan Adrián",
+    "fullName": null,
+    "lat": 18.76365,
+    "lng": -70.33732,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494863,
+    "parentId": 3496274,
+    "country": "DO",
+    "name": "Piedra Blanca",
+    "fullName": null,
+    "lat": 18.84431,
+    "lng": -70.31688,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493537,
+    "parentId": 3496274,
+    "country": "DO",
+    "name": "Sabana del Puerto",
+    "fullName": null,
+    "lat": 19.06667,
+    "lng": -70.41667,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3566603,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Cabaiguán",
+    "fullName": null,
+    "lat": 22.07874,
+    "lng": -79.49726,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563609,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Condado",
+    "fullName": null,
+    "lat": 21.8767,
+    "lng": -79.84014,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558744,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Fomento",
+    "fullName": null,
+    "lat": 22.10475,
+    "lng": -79.72141,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557432,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Guayos",
+    "fullName": null,
+    "lat": 22.04956,
+    "lng": -79.46106,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556334,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Jatibonico",
+    "fullName": null,
+    "lat": 21.94333,
+    "lng": -79.16906,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3551184,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "La Sierpe",
+    "fullName": null,
+    "lat": 21.77241,
+    "lng": -79.26832,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540667,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Sancti Spíritus",
+    "fullName": null,
+    "lat": 21.93429,
+    "lng": -79.4398,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3535143,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Topes de Collantes",
+    "fullName": null,
+    "lat": 21.91524,
+    "lng": -80.01929,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534915,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Trinidad",
+    "fullName": null,
+    "lat": 21.80224,
+    "lng": -79.98467,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3533826,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Yaguajay",
+    "fullName": null,
+    "lat": 22.32691,
+    "lng": -79.23567,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3533556,
+    "parentId": 3540665,
+    "country": "CU",
+    "name": "Zaza del Medio",
+    "fullName": null,
+    "lat": 21.99712,
+    "lng": -79.36678,
+    "tz": "America/Havana"
+  }
+]

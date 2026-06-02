@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3586021,
+    "parentId": 3585087,
+    "country": "SV",
+    "name": "El Rosario",
+    "fullName": null,
+    "lat": 13.49778,
+    "lng": -89.02972,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584212,
+    "parentId": 3585087,
+    "country": "SV",
+    "name": "Olocuilta",
+    "fullName": null,
+    "lat": 13.56972,
+    "lng": -89.11722,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583407,
+    "parentId": 3585087,
+    "country": "SV",
+    "name": "San Pedro Masahuat",
+    "fullName": null,
+    "lat": 13.54361,
+    "lng": -89.03861,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583196,
+    "parentId": 3585087,
+    "country": "SV",
+    "name": "Santiago Nonualco",
+    "fullName": null,
+    "lat": 13.51667,
+    "lng": -88.95,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582805,
+    "parentId": 3585087,
+    "country": "SV",
+    "name": "Zacatecoluca",
+    "fullName": null,
+    "lat": 13.50872,
+    "lng": -88.87017,
+    "tz": "America/El_Salvador"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3599181,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Camotán",
+    "fullName": null,
+    "lat": 14.82017,
+    "lng": -89.37224,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598465,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Chiquimula",
+    "fullName": null,
+    "lat": 14.8009,
+    "lng": -89.54641,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597985,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Concepción Las Minas",
+    "fullName": null,
+    "lat": 14.52173,
+    "lng": -89.45717,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595783,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Esquipulas",
+    "fullName": null,
+    "lat": 14.56571,
+    "lng": -89.35166,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595366,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Ipala",
+    "fullName": null,
+    "lat": 14.61987,
+    "lng": -89.6194,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595181,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Jocotán",
+    "fullName": null,
+    "lat": 14.82072,
+    "lng": -89.38991,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592035,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Olopa",
+    "fullName": null,
+    "lat": 14.69229,
+    "lng": -89.35003,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590973,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "Quezaltepeque",
+    "fullName": null,
+    "lat": 14.63553,
+    "lng": -89.44241,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590127,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "San Jacinto",
+    "fullName": null,
+    "lat": 14.67687,
+    "lng": -89.50272,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590017,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "San José La Arada",
+    "fullName": null,
+    "lat": 14.72266,
+    "lng": -89.58599,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589903,
+    "parentId": 3598464,
+    "country": "GT",
+    "name": "San Juan Ermita",
+    "fullName": null,
+    "lat": 14.76471,
+    "lng": -89.43014,
+    "tz": "America/Guatemala"
+  }
+]

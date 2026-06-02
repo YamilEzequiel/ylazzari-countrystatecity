@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3500243,
+    "parentId": 3493232,
+    "country": "DO",
+    "name": "Las Terrenas",
+    "fullName": null,
+    "lat": 19.31102,
+    "lng": -69.5428,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492997,
+    "parentId": 3493232,
+    "country": "DO",
+    "name": "Samaná",
+    "fullName": null,
+    "lat": 19.20404,
+    "lng": -69.33407,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493198,
+    "parentId": 3493232,
+    "country": "DO",
+    "name": "Sánchez",
+    "fullName": null,
+    "lat": 19.2281,
+    "lng": -69.6137,
+    "tz": "America/Santo_Domingo"
+  }
+]

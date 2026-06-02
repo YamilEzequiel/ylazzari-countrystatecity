@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3512795,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Altamira",
+    "fullName": null,
+    "lat": 19.6773,
+    "lng": -70.84428,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510969,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Cabarete",
+    "fullName": null,
+    "lat": 19.74982,
+    "lng": -70.40829,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505819,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Estero Hondo",
+    "fullName": null,
+    "lat": 19.82712,
+    "lng": -71.17411,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505128,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Guananico",
+    "fullName": null,
+    "lat": 19.72693,
+    "lng": -70.92294,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504332,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Imbert",
+    "fullName": null,
+    "lat": 19.75371,
+    "lng": -70.82906,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3498418,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Los Hidalgos",
+    "fullName": null,
+    "lat": 19.73333,
+    "lng": -71.03333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3497350,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Luperón",
+    "fullName": null,
+    "lat": 19.89131,
+    "lng": -70.96204,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496150,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Monte Llano",
+    "fullName": null,
+    "lat": 19.7346,
+    "lng": -70.59915,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493175,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Puerto Plata",
+    "fullName": null,
+    "lat": 19.79344,
+    "lng": -70.6884,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493769,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Río Grande",
+    "fullName": null,
+    "lat": 19.66667,
+    "lng": -70.76667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492628,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Sosúa",
+    "fullName": null,
+    "lat": 19.7522,
+    "lng": -70.51995,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491929,
+    "parentId": 3494267,
+    "country": "DO",
+    "name": "Villa Isabela",
+    "fullName": null,
+    "lat": 19.81564,
+    "lng": -71.06056,
+    "tz": "America/Santo_Domingo"
+  }
+]

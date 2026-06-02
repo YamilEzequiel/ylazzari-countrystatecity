@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3624730,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Batán",
+    "fullName": null,
+    "lat": 10.08354,
+    "lng": -83.33413,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624524,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Cahuita",
+    "fullName": null,
+    "lat": 9.73853,
+    "lng": -82.84104,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623601,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Guácimo",
+    "fullName": null,
+    "lat": 10.2129,
+    "lng": -83.68793,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623580,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Guápiles",
+    "fullName": null,
+    "lat": 10.21682,
+    "lng": -83.78483,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623342,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Jiménez",
+    "fullName": null,
+    "lat": 10.16772,
+    "lng": -83.774,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622247,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Limón",
+    "fullName": null,
+    "lat": 9.99074,
+    "lng": -83.03596,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622895,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Matina",
+    "fullName": null,
+    "lat": 10.08363,
+    "lng": -83.28431,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622325,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Pocora",
+    "fullName": null,
+    "lat": 10.17195,
+    "lng": -83.60264,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622036,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Roxana",
+    "fullName": null,
+    "lat": 10.26712,
+    "lng": -83.7511,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621440,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Siquirres",
+    "fullName": null,
+    "lat": 10.09748,
+    "lng": -83.50659,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621430,
+    "parentId": 3623064,
+    "country": "CR",
+    "name": "Sixaola",
+    "fullName": null,
+    "lat": 9.50371,
+    "lng": -82.612,
+    "tz": "America/Costa_Rica"
+  }
+]

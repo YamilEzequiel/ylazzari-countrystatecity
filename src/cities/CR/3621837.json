@@ -1,0 +1,352 @@
+[
+  {
+    "id": 3624951,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Alajuelita",
+    "fullName": null,
+    "lat": 9.90294,
+    "lng": -84.10037,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624848,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Aserrí",
+    "fullName": null,
+    "lat": 9.86142,
+    "lng": -84.09266,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624509,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Calle Blancos",
+    "fullName": null,
+    "lat": 9.9453,
+    "lng": -84.0669,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624174,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Colima",
+    "fullName": null,
+    "lat": 9.95532,
+    "lng": -84.08235,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624171,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Colón",
+    "fullName": null,
+    "lat": 9.91491,
+    "lng": -84.2417,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623977,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Curridabat",
+    "fullName": null,
+    "lat": 9.9139,
+    "lng": -84.03595,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623961,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Daniel Flores",
+    "fullName": null,
+    "lat": 9.33607,
+    "lng": -83.66999,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623787,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Escazú",
+    "fullName": null,
+    "lat": 9.91887,
+    "lng": -84.13989,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623643,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Granadilla",
+    "fullName": null,
+    "lat": 9.93203,
+    "lng": -84.01964,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623593,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Guadalupe",
+    "fullName": null,
+    "lat": 9.94805,
+    "lng": -84.05665,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623394,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Ipís",
+    "fullName": null,
+    "lat": 9.96548,
+    "lng": -84.0182,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622884,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Mercedes",
+    "fullName": null,
+    "lat": 9.27447,
+    "lng": -83.57968,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622602,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Palmichal",
+    "fullName": null,
+    "lat": 9.83802,
+    "lng": -84.20405,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622507,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Patarrá",
+    "fullName": null,
+    "lat": 9.88059,
+    "lng": -84.03551,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622217,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Purral",
+    "fullName": null,
+    "lat": 9.95689,
+    "lng": -84.03209,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622023,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Sabanilla",
+    "fullName": null,
+    "lat": 9.94706,
+    "lng": -84.03408,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622005,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Salitral",
+    "fullName": null,
+    "lat": 9.91163,
+    "lng": -84.17835,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621997,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Salitrillos",
+    "fullName": null,
+    "lat": 9.85373,
+    "lng": -84.0916,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621922,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Felipe",
+    "fullName": null,
+    "lat": 9.90444,
+    "lng": -84.1062,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621890,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Ignacio",
+    "fullName": null,
+    "lat": 9.79853,
+    "lng": -84.16173,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621889,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Isidro",
+    "fullName": null,
+    "lat": 9.3674,
+    "lng": -83.69713,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621849,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San José",
+    "fullName": null,
+    "lat": 9.93388,
+    "lng": -84.08489,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621819,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Juan",
+    "fullName": null,
+    "lat": 9.96188,
+    "lng": -84.07876,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621804,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Juan de Dios",
+    "fullName": null,
+    "lat": 9.87812,
+    "lng": -84.08438,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621762,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 9.6601,
+    "lng": -84.02026,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621753,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Miguel",
+    "fullName": null,
+    "lat": 9.87121,
+    "lng": -84.06084,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621717,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": 9.92829,
+    "lng": -84.05074,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621689,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Rafael",
+    "fullName": null,
+    "lat": 9.92826,
+    "lng": -84.13537,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621659,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Rafael Abajo",
+    "fullName": null,
+    "lat": 9.831,
+    "lng": -84.29008,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621655,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Rafael Arriba",
+    "fullName": null,
+    "lat": 9.87648,
+    "lng": -84.07479,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621505,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Vicente",
+    "fullName": null,
+    "lat": 9.96194,
+    "lng": -84.0494,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 6612154,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "San Vicente de Moravia",
+    "fullName": null,
+    "lat": 9.96164,
+    "lng": -84.0488,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621630,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 9.9326,
+    "lng": -84.18255,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621524,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 9.84636,
+    "lng": -84.31428,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621335,
+    "parentId": 3621837,
+    "country": "CR",
+    "name": "Tejar",
+    "fullName": null,
+    "lat": 9.74301,
+    "lng": -84.23219,
+    "tz": "America/Costa_Rica"
+  }
+]

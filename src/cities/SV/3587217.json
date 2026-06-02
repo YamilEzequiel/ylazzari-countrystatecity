@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3583158,
+    "parentId": 3587217,
+    "country": "SV",
+    "name": "Sensuntepeque",
+    "fullName": null,
+    "lat": 13.87583,
+    "lng": -88.62727,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582835,
+    "parentId": 3587217,
+    "country": "SV",
+    "name": "Victoria",
+    "fullName": null,
+    "lat": 13.95,
+    "lng": -88.63333,
+    "tz": "America/El_Salvador"
+  }
+]

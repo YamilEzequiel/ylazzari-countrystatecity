@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3509823,
+    "parentId": 3493192,
+    "country": "DO",
+    "name": "Cevicos",
+    "fullName": null,
+    "lat": 19.00449,
+    "lng": -69.97896,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509207,
+    "parentId": 3493192,
+    "country": "DO",
+    "name": "Cotuí",
+    "fullName": null,
+    "lat": 19.05385,
+    "lng": -70.15116,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505778,
+    "parentId": 3493192,
+    "country": "DO",
+    "name": "Fantino",
+    "fullName": null,
+    "lat": 19.12148,
+    "lng": -70.29972,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3620390,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Chichigalpa",
+    "fullName": null,
+    "lat": 12.57039,
+    "lng": -87.02802,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620381,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Chinandega",
+    "fullName": null,
+    "lat": 12.62951,
+    "lng": -87.13133,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620358,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Cinco Pinos",
+    "fullName": null,
+    "lat": 13.22956,
+    "lng": -86.86808,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620269,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Corinto",
+    "fullName": null,
+    "lat": 12.4825,
+    "lng": -87.17304,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619451,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "El Realejo",
+    "fullName": null,
+    "lat": 12.54333,
+    "lng": -87.16517,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619267,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "El Viejo",
+    "fullName": null,
+    "lat": 12.66348,
+    "lng": -87.16663,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618924,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Jiquilillo",
+    "fullName": null,
+    "lat": 12.74593,
+    "lng": -87.4516,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617191,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Posoltega",
+    "fullName": null,
+    "lat": 12.54422,
+    "lng": -86.97982,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617146,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Puerto Morazán",
+    "fullName": null,
+    "lat": 12.85079,
+    "lng": -87.172,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616346,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Santo Tomás del Norte",
+    "fullName": null,
+    "lat": 13.1861,
+    "lng": -86.92267,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616234,
+    "parentId": 3620380,
+    "country": "NI",
+    "name": "Somotillo",
+    "fullName": null,
+    "lat": 13.04387,
+    "lng": -86.90506,
+    "tz": "America/Managua"
+  }
+]

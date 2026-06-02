@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3620673,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Boaco",
+    "fullName": null,
+    "lat": 12.5,
+    "lng": -85.5,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620481,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Carazo",
+    "fullName": null,
+    "lat": 11.75,
+    "lng": -86.25,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620380,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Chinandega",
+    "fullName": null,
+    "lat": 12.83333,
+    "lng": -87.08333,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620368,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Chontales",
+    "fullName": null,
+    "lat": 12.08333,
+    "lng": -85.16667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619193,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Estelí",
+    "fullName": null,
+    "lat": 13.16667,
+    "lng": -86.33333,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619135,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Granada",
+    "fullName": null,
+    "lat": 11.83333,
+    "lng": -85.91667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618928,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Jinotega",
+    "fullName": null,
+    "lat": 13.75,
+    "lng": -85.58333,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618029,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de León",
+    "fullName": null,
+    "lat": 12.58333,
+    "lng": -86.58333,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617796,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Madriz",
+    "fullName": null,
+    "lat": 13.5,
+    "lng": -86.41667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617762,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Managua",
+    "fullName": null,
+    "lat": 12,
+    "lng": -86.41667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617722,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Masaya",
+    "fullName": null,
+    "lat": 12,
+    "lng": -86.16667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617707,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Matagalpa",
+    "fullName": null,
+    "lat": 12.91667,
+    "lng": -85.66667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617458,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Nueva Segovia",
+    "fullName": null,
+    "lat": 13.7,
+    "lng": -86.16667,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617056,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Río San Juan",
+    "fullName": null,
+    "lat": 11.33333,
+    "lng": -84.58333,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617051,
+    "parentId": null,
+    "country": "NI",
+    "name": "Departamento de Rivas",
+    "fullName": null,
+    "lat": 11.3,
+    "lng": -85.75,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3830307,
+    "parentId": null,
+    "country": "NI",
+    "name": "North Caribbean Coast",
+    "fullName": null,
+    "lat": 14,
+    "lng": -84.25,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3830308,
+    "parentId": null,
+    "country": "NI",
+    "name": "South Caribbean Coast",
+    "fullName": null,
+    "lat": 11.84585,
+    "lng": -84.14978,
+    "tz": "America/Managua"
+  }
+]

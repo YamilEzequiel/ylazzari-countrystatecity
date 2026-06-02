@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3659578,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Cayambe",
+    "fullName": null,
+    "lat": 0.04103,
+    "lng": -78.14636,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654536,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Machachi",
+    "fullName": null,
+    "lat": -0.51273,
+    "lng": -78.57066,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 12238293,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Oyambarillo",
+    "fullName": null,
+    "lat": -0.19516,
+    "lng": -78.33173,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652977,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Pomasqui",
+    "fullName": null,
+    "lat": -0.0542,
+    "lng": -78.45382,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652462,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Quito",
+    "fullName": null,
+    "lat": -0.22985,
+    "lng": -78.52495,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651857,
+    "parentId": 3653224,
+    "country": "EC",
+    "name": "Sangolquí",
+    "fullName": null,
+    "lat": -0.33405,
+    "lng": -78.45217,
+    "tz": "America/Guayaquil"
+  }
+]

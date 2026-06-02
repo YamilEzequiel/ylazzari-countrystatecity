@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3509363,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Constanza",
+    "fullName": null,
+    "lat": 18.90919,
+    "lng": -70.74499,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504158,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Jarabacoa",
+    "fullName": null,
+    "lat": 19.11683,
+    "lng": -70.63595,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504080,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Jima Abajo",
+    "fullName": null,
+    "lat": 19.13292,
+    "lng": -70.37607,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509382,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "La Vega",
+    "fullName": null,
+    "lat": 19.22031,
+    "lng": -70.53101,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493873,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Rincón",
+    "fullName": null,
+    "lat": 19.11938,
+    "lng": -70.40632,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493732,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Río Verde Arriba",
+    "fullName": null,
+    "lat": 19.31583,
+    "lng": -70.56643,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492367,
+    "parentId": 3499977,
+    "country": "DO",
+    "name": "Tireo Arriba",
+    "fullName": null,
+    "lat": 18.93537,
+    "lng": -70.6885,
+    "tz": "America/Santo_Domingo"
+  }
+]

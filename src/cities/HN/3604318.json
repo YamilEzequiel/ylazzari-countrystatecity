@@ -1,0 +1,212 @@
+[
+  {
+    "id": 3615169,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Antigua Ocotepeque",
+    "fullName": null,
+    "lat": 14.40131,
+    "lng": -89.19971,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614797,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Belén Gualcho",
+    "fullName": null,
+    "lat": 14.48333,
+    "lng": -88.8,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611759,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "El Granzal",
+    "fullName": null,
+    "lat": 14.4,
+    "lng": -88.86667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610082,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "El Tránsito",
+    "fullName": null,
+    "lat": 14.38333,
+    "lng": -88.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607992,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "La Encarnación",
+    "fullName": null,
+    "lat": 14.66676,
+    "lng": -89.08751,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607644,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "La Labor",
+    "fullName": null,
+    "lat": 14.48625,
+    "lng": -89.00272,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605907,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Llano Largo",
+    "fullName": null,
+    "lat": 14.46667,
+    "lng": -89.01667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605222,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Lucerna",
+    "fullName": null,
+    "lat": 14.55817,
+    "lng": -88.9345,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604855,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Mercedes",
+    "fullName": null,
+    "lat": 14.43333,
+    "lng": -89.15,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604384,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Nueva Ocotepeque",
+    "fullName": null,
+    "lat": 14.43382,
+    "lng": -89.18281,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602488,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": 14.51667,
+    "lng": -88.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602337,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "San Fernando",
+    "fullName": null,
+    "lat": 14.68333,
+    "lng": -89.11667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602286,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "San Francisco de Cones",
+    "fullName": null,
+    "lat": 14.51667,
+    "lng": -88.9,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602277,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "San Francisco del Valle",
+    "fullName": null,
+    "lat": 14.43542,
+    "lng": -88.95608,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601903,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 14.40788,
+    "lng": -88.95525,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601596,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Santa Fe",
+    "fullName": null,
+    "lat": 14.51667,
+    "lng": -89.23333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601563,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Santa Lucía",
+    "fullName": null,
+    "lat": 14.41667,
+    "lng": -89.2,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601479,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Santa Teresa",
+    "fullName": null,
+    "lat": 14.38333,
+    "lng": -89,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601367,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Sensenti",
+    "fullName": null,
+    "lat": 14.49379,
+    "lng": -88.93761,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601282,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Sinuapa",
+    "fullName": null,
+    "lat": 14.44305,
+    "lng": -89.18594,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600236,
+    "parentId": 3604318,
+    "country": "HN",
+    "name": "Yaruchel",
+    "fullName": null,
+    "lat": 14.52794,
+    "lng": -88.81579,
+    "tz": "America/Tegucigalpa"
+  }
+]

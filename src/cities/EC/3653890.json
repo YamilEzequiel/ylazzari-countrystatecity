@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3660573,
+    "parentId": 3653890,
+    "country": "EC",
+    "name": "Archidona",
+    "fullName": null,
+    "lat": -0.9095,
+    "lng": -77.80772,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650721,
+    "parentId": 3653890,
+    "country": "EC",
+    "name": "Tena",
+    "fullName": null,
+    "lat": -0.9961,
+    "lng": -77.81315,
+    "tz": "America/Guayaquil"
+  }
+]

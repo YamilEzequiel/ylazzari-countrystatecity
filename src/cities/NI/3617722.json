@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3620441,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Catarina",
+    "fullName": null,
+    "lat": 11.91197,
+    "lng": -86.07383,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618648,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "La Concepción",
+    "fullName": null,
+    "lat": 11.93711,
+    "lng": -86.18976,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617725,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Masatepe",
+    "fullName": null,
+    "lat": 11.91445,
+    "lng": -86.14458,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617723,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Masaya",
+    "fullName": null,
+    "lat": 11.97316,
+    "lng": -86.09587,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617510,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Nandasmo",
+    "fullName": null,
+    "lat": 11.92411,
+    "lng": -86.12072,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617473,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Nindirí",
+    "fullName": null,
+    "lat": 12.00324,
+    "lng": -86.12051,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617470,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Niquinohomo",
+    "fullName": null,
+    "lat": 11.90518,
+    "lng": -86.09446,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616723,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "San Juan de Oriente",
+    "fullName": null,
+    "lat": 11.90624,
+    "lng": -86.07343,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616028,
+    "parentId": 3617722,
+    "country": "NI",
+    "name": "Tisma",
+    "fullName": null,
+    "lat": 12.08194,
+    "lng": -86.01739,
+    "tz": "America/Managua"
+  }
+]

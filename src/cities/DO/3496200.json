@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3510553,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Cana Chapetón",
+    "fullName": null,
+    "lat": 19.60703,
+    "lng": -71.25734,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510083,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Castañuelas",
+    "fullName": null,
+    "lat": 19.71387,
+    "lng": -71.49876,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504793,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Hatillo Palma",
+    "fullName": null,
+    "lat": 19.66256,
+    "lng": -71.19406,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500367,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Las Matas de Santa Cruz",
+    "fullName": null,
+    "lat": 19.67119,
+    "lng": -71.50471,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495024,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Pepillo Salcedo",
+    "fullName": null,
+    "lat": 19.69841,
+    "lng": -71.74513,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493174,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "San Fernando de Monte Cristi",
+    "fullName": null,
+    "lat": 19.84799,
+    "lng": -71.64604,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491943,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Villa Elisa",
+    "fullName": null,
+    "lat": 19.6856,
+    "lng": -71.27007,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491905,
+    "parentId": 3496200,
+    "country": "DO",
+    "name": "Villa Vásquez",
+    "fullName": null,
+    "lat": 19.7411,
+    "lng": -71.4464,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3660478,
+    "parentId": 3655635,
+    "country": "EC",
+    "name": "Atuntaqui",
+    "fullName": null,
+    "lat": 0.32759,
+    "lng": -78.21908,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658781,
+    "parentId": 3655635,
+    "country": "EC",
+    "name": "Cotacachi",
+    "fullName": null,
+    "lat": 0.29947,
+    "lng": -78.26565,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3655673,
+    "parentId": 3655635,
+    "country": "EC",
+    "name": "Ibarra",
+    "fullName": null,
+    "lat": 0.34881,
+    "lng": -78.12462,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653693,
+    "parentId": 3655635,
+    "country": "EC",
+    "name": "Otavalo",
+    "fullName": null,
+    "lat": 0.23457,
+    "lng": -78.26248,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653146,
+    "parentId": 3655635,
+    "country": "EC",
+    "name": "Pimampiro",
+    "fullName": null,
+    "lat": 0.39093,
+    "lng": -77.94094,
+    "tz": "America/Guayaquil"
+  }
+]

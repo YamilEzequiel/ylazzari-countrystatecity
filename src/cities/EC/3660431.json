@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3658666,
+    "parentId": 3660431,
+    "country": "EC",
+    "name": "Cuenca",
+    "fullName": null,
+    "lat": -2.8953,
+    "lng": -78.9963,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657670,
+    "parentId": 3660431,
+    "country": "EC",
+    "name": "Gualaceo",
+    "fullName": null,
+    "lat": -2.89418,
+    "lng": -78.77907,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654842,
+    "parentId": 3660431,
+    "country": "EC",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": -2.85,
+    "lng": -78.78333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654724,
+    "parentId": 3660431,
+    "country": "EC",
+    "name": "Llacao",
+    "fullName": null,
+    "lat": -2.86667,
+    "lng": -78.88333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653771,
+    "parentId": 3660431,
+    "country": "EC",
+    "name": "Nulti",
+    "fullName": null,
+    "lat": -2.91667,
+    "lng": -78.85,
+    "tz": "America/Guayaquil"
+  }
+]

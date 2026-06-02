@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3512720,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Amina",
+    "fullName": null,
+    "lat": 19.54813,
+    "lng": -70.99599,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505855,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Esperanza",
+    "fullName": null,
+    "lat": 19.58469,
+    "lng": -70.98489,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505034,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Guatapanal",
+    "fullName": null,
+    "lat": 19.50705,
+    "lng": -70.91713,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504193,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Jaibón",
+    "fullName": null,
+    "lat": 19.61169,
+    "lng": -71.14847,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504097,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Jicomé",
+    "fullName": null,
+    "lat": 19.64955,
+    "lng": -70.94927,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503256,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "La Caya",
+    "fullName": null,
+    "lat": 19.69981,
+    "lng": -71.12084,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3502373,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Laguna Salada",
+    "fullName": null,
+    "lat": 19.65043,
+    "lng": -71.08429,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3497204,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Maizal",
+    "fullName": null,
+    "lat": 19.63655,
+    "lng": -71.02734,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496831,
+    "parentId": 3492112,
+    "country": "DO",
+    "name": "Mao",
+    "fullName": null,
+    "lat": 19.54908,
+    "lng": -71.07808,
+    "tz": "America/Santo_Domingo"
+  }
+]

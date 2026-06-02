@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3599265,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Cahabón",
+    "fullName": null,
+    "lat": 15.60662,
+    "lng": -89.81172,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598825,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Chahal",
+    "fullName": null,
+    "lat": 15.79122,
+    "lng": -89.60518,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598415,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Chisec",
+    "fullName": null,
+    "lat": 15.81311,
+    "lng": -90.28896,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598119,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Cobán",
+    "fullName": null,
+    "lat": 15.47025,
+    "lng": -90.37455,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594315,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Lanquín",
+    "fullName": null,
+    "lat": 15.57568,
+    "lng": -89.98078,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591676,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Panzos",
+    "fullName": null,
+    "lat": 15.39862,
+    "lng": -89.64147,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590316,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "San Cristóbal Verapaz",
+    "fullName": null,
+    "lat": 15.36663,
+    "lng": -90.47825,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589917,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "San Juan Chamelco",
+    "fullName": null,
+    "lat": 15.42433,
+    "lng": -90.33044,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589643,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "San Pedro Carchá",
+    "fullName": null,
+    "lat": 15.47745,
+    "lng": -90.31105,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589395,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Santa Cruz Verapaz",
+    "fullName": null,
+    "lat": 15.37342,
+    "lng": -90.42857,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588858,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Senahú",
+    "fullName": null,
+    "lat": 15.4164,
+    "lng": -89.82215,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588603,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Tactic",
+    "fullName": null,
+    "lat": 15.32218,
+    "lng": -90.35448,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588554,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Tamahú",
+    "fullName": null,
+    "lat": 15.3089,
+    "lng": -90.23599,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588206,
+    "parentId": 3599773,
+    "country": "GT",
+    "name": "Tucurú",
+    "fullName": null,
+    "lat": 15.29402,
+    "lng": -90.11916,
+    "tz": "America/Guatemala"
+  }
+]

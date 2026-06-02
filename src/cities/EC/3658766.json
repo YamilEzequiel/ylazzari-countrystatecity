@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3655117,
+    "parentId": 3658766,
+    "country": "EC",
+    "name": "La Maná",
+    "fullName": null,
+    "lat": -0.94096,
+    "lng": -79.22655,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654870,
+    "parentId": 3658766,
+    "country": "EC",
+    "name": "Latacunga",
+    "fullName": null,
+    "lat": -0.93424,
+    "lng": -78.6152,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652684,
+    "parentId": 3658766,
+    "country": "EC",
+    "name": "Pujilí",
+    "fullName": null,
+    "lat": -0.95759,
+    "lng": -78.69636,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651613,
+    "parentId": 3658766,
+    "country": "EC",
+    "name": "San Miguel",
+    "fullName": null,
+    "lat": -1.04559,
+    "lng": -78.59019,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651251,
+    "parentId": 3658766,
+    "country": "EC",
+    "name": "Saquisilí",
+    "fullName": null,
+    "lat": -0.8399,
+    "lng": -78.667,
+    "tz": "America/Guayaquil"
+  }
+]

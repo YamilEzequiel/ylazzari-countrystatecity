@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3563559,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Consolación del Sur",
+    "fullName": null,
+    "lat": 22.50419,
+    "lng": -83.51442,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557758,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Guane",
+    "fullName": null,
+    "lat": 22.20179,
+    "lng": -84.08484,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3548993,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Los Palacios",
+    "fullName": null,
+    "lat": 22.58882,
+    "lng": -83.24671,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547930,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Mantua",
+    "fullName": null,
+    "lat": 22.29058,
+    "lng": -84.28599,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3546882,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Minas de Matahambre",
+    "fullName": null,
+    "lat": 22.58691,
+    "lng": -83.94551,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3544091,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Pinar del Río",
+    "fullName": null,
+    "lat": 22.41649,
+    "lng": -83.69657,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3554097,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Puerto Esperanza",
+    "fullName": null,
+    "lat": 22.77041,
+    "lng": -83.73138,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540618,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "San Diego de Los Baños",
+    "fullName": null,
+    "lat": 22.64667,
+    "lng": -83.36972,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3539092,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "San Luis",
+    "fullName": null,
+    "lat": 22.27898,
+    "lng": -83.75956,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534094,
+    "parentId": 3544088,
+    "country": "CU",
+    "name": "Viñales",
+    "fullName": null,
+    "lat": 22.61892,
+    "lng": -83.70694,
+    "tz": "America/Havana"
+  }
+]

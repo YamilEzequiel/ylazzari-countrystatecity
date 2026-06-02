@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3599582,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Barberena",
+    "fullName": null,
+    "lat": 14.30739,
+    "lng": -90.36156,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598968,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Casillas",
+    "fullName": null,
+    "lat": 14.41915,
+    "lng": -90.24328,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598462,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Chiquimulilla",
+    "fullName": null,
+    "lat": 14.0838,
+    "lng": -90.38547,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597804,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Cuilapa",
+    "fullName": null,
+    "lat": 14.27537,
+    "lng": -90.29865,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595503,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Guazacapán",
+    "fullName": null,
+    "lat": 14.07417,
+    "lng": -90.41667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592126,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Nueva Santa Rosa",
+    "fullName": null,
+    "lat": 14.38111,
+    "lng": -90.27611,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592019,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Oratorio",
+    "fullName": null,
+    "lat": 14.22806,
+    "lng": -90.17583,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591092,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Pueblo Nuevo Viñas",
+    "fullName": null,
+    "lat": 14.22576,
+    "lng": -90.47613,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589880,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "San Juan Tecuaco",
+    "fullName": null,
+    "lat": 14.08361,
+    "lng": -90.26649,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589592,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "San Rafael Las Flores",
+    "fullName": null,
+    "lat": 14.47604,
+    "lng": -90.17855,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589398,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Santa Cruz Naranjo",
+    "fullName": null,
+    "lat": 14.38806,
+    "lng": -90.36972,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589249,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Santa María Ixhuatán",
+    "fullName": null,
+    "lat": 14.19,
+    "lng": -90.27472,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589159,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Santa Rosa de Lima",
+    "fullName": null,
+    "lat": 14.38806,
+    "lng": -90.29556,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588491,
+    "parentId": 3589172,
+    "country": "GT",
+    "name": "Taxisco",
+    "fullName": null,
+    "lat": 14.06719,
+    "lng": -90.46791,
+    "tz": "America/Guatemala"
+  }
+]

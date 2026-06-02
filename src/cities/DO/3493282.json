@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3493283,
+    "parentId": 3493282,
+    "country": "DO",
+    "name": "Salcedo",
+    "fullName": null,
+    "lat": 19.37766,
+    "lng": -70.41719,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493271,
+    "parentId": 3493282,
+    "country": "DO",
+    "name": "Salsipuedes",
+    "fullName": null,
+    "lat": 19.40552,
+    "lng": -70.37985,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492477,
+    "parentId": 3493282,
+    "country": "DO",
+    "name": "Tenares",
+    "fullName": null,
+    "lat": 19.37439,
+    "lng": -70.35087,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491908,
+    "parentId": 3493282,
+    "country": "DO",
+    "name": "Villa Tapia",
+    "fullName": null,
+    "lat": 19.30084,
+    "lng": -70.42199,
+    "tz": "America/Santo_Domingo"
+  }
+]

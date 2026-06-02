@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3600008,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Acatenango",
+    "fullName": null,
+    "lat": 14.55451,
+    "lng": -90.94368,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598572,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Chimaltenango",
+    "fullName": null,
+    "lat": 14.65881,
+    "lng": -90.8216,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598034,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Comalapa",
+    "fullName": null,
+    "lat": 14.74086,
+    "lng": -90.88761,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596041,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "El Tejar",
+    "fullName": null,
+    "lat": 14.64683,
+    "lng": -90.79122,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591629,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Parramos",
+    "fullName": null,
+    "lat": 14.60891,
+    "lng": -90.80303,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591523,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Patzicía",
+    "fullName": null,
+    "lat": 14.63194,
+    "lng": -90.92659,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591512,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Patzún",
+    "fullName": null,
+    "lat": 14.68189,
+    "lng": -91.01397,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591210,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Pochuta",
+    "fullName": null,
+    "lat": 14.5445,
+    "lng": -91.08904,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590529,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "San Andrés Itzapa",
+    "fullName": null,
+    "lat": 14.62222,
+    "lng": -90.84314,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589975,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "San José Poaquil",
+    "fullName": null,
+    "lat": 14.81808,
+    "lng": -90.91248,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589780,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "San Martín Jilotepeque",
+    "fullName": null,
+    "lat": 14.78008,
+    "lng": -90.79259,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589480,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Santa Apolonia",
+    "fullName": null,
+    "lat": 14.79049,
+    "lng": -90.97267,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589408,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Santa Cruz Balanyá",
+    "fullName": null,
+    "lat": 14.68522,
+    "lng": -90.91906,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588476,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Tecpán Guatemala",
+    "fullName": null,
+    "lat": 14.76181,
+    "lng": -90.99247,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587636,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Yepocapa",
+    "fullName": null,
+    "lat": 14.50195,
+    "lng": -90.95396,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587543,
+    "parentId": 3598571,
+    "country": "GT",
+    "name": "Zaragoza",
+    "fullName": null,
+    "lat": 14.64968,
+    "lng": -90.89034,
+    "tz": "America/Guatemala"
+  }
+]

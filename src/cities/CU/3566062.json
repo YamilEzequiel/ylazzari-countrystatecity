@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3566067,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Camagüey",
+    "fullName": null,
+    "lat": 21.38083,
+    "lng": -77.91694,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3561667,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "El Caney",
+    "fullName": null,
+    "lat": 21.3,
+    "lng": -78.48333,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3559318,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Esmeralda",
+    "fullName": null,
+    "lat": 21.85139,
+    "lng": -78.11725,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558771,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Florida",
+    "fullName": null,
+    "lat": 21.52536,
+    "lng": -78.22579,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557923,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Guáimaro",
+    "fullName": null,
+    "lat": 21.05222,
+    "lng": -77.3499,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3754915,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Jimaguayú",
+    "fullName": null,
+    "lat": 21.24224,
+    "lng": -77.82625,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3546894,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Minas",
+    "fullName": null,
+    "lat": 21.48802,
+    "lng": -77.61033,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3545841,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Nuevitas",
+    "fullName": null,
+    "lat": 21.54585,
+    "lng": -77.26504,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3537840,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Santa Cruz del Sur",
+    "fullName": null,
+    "lat": 20.71633,
+    "lng": -77.99816,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3536259,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Sibanicú",
+    "fullName": null,
+    "lat": 21.23631,
+    "lng": -77.52561,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534363,
+    "parentId": 3566062,
+    "country": "CU",
+    "name": "Vertientes",
+    "fullName": null,
+    "lat": 21.25817,
+    "lng": -78.14979,
+    "tz": "America/Havana"
+  }
+]

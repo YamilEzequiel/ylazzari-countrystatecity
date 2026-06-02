@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3587091,
+    "parentId": 3587090,
+    "country": "SV",
+    "name": "Chalatenango",
+    "fullName": null,
+    "lat": 14.04138,
+    "lng": -88.93951,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584266,
+    "parentId": 3587090,
+    "country": "SV",
+    "name": "Nueva Concepción",
+    "fullName": null,
+    "lat": 14.13333,
+    "lng": -89.3,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583714,
+    "parentId": 3587090,
+    "country": "SV",
+    "name": "San Francisco Morazán",
+    "fullName": null,
+    "lat": 14.18333,
+    "lng": -89.05,
+    "tz": "America/El_Salvador"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3620680,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Bluefields",
+    "fullName": null,
+    "lat": 12.01292,
+    "lng": -83.76449,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620661,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Bocana de Paiwas",
+    "fullName": null,
+    "lat": 12.78571,
+    "lng": -85.12269,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617457,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "El Tortuguero",
+    "fullName": null,
+    "lat": 12.82247,
+    "lng": -84.19629,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618618,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "La Cruz de Río Grande",
+    "fullName": null,
+    "lat": 13.1129,
+    "lng": -84.18588,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617562,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Muelle de los Bueyes",
+    "fullName": null,
+    "lat": 12.06999,
+    "lng": -84.53503,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617459,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Nueva Guinea",
+    "fullName": null,
+    "lat": 11.68758,
+    "lng": -84.45616,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618522,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Pearl City",
+    "fullName": null,
+    "lat": 12.34294,
+    "lng": -83.67123,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617095,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "Rama",
+    "fullName": null,
+    "lat": 12.15965,
+    "lng": -84.21952,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620266,
+    "parentId": 3830308,
+    "country": "NI",
+    "name": "South End",
+    "fullName": null,
+    "lat": 12.17,
+    "lng": -83.041,
+    "tz": "America/Managua"
+  }
+]

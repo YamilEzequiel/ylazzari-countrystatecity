@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3512128,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "Bajos de Haina",
+    "fullName": null,
+    "lat": 18.41538,
+    "lng": -70.03317,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510637,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "Cambita Garabitos",
+    "fullName": null,
+    "lat": 18.45458,
+    "lng": -70.19907,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508286,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "El Cacao",
+    "fullName": null,
+    "lat": 18.52719,
+    "lng": -70.29585,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508083,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "El Carril",
+    "fullName": null,
+    "lat": 18.44905,
+    "lng": -70.02785,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493480,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "Sabana Grande de Palenque",
+    "fullName": null,
+    "lat": 18.26256,
+    "lng": -70.14821,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3511540,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "San Cristóbal",
+    "fullName": null,
+    "lat": 18.41713,
+    "lng": -70.10682,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493143,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "San Gregorio de Nigua",
+    "fullName": null,
+    "lat": 18.38336,
+    "lng": -70.05241,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491952,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "Villa Altagracia",
+    "fullName": null,
+    "lat": 18.67297,
+    "lng": -70.17095,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491807,
+    "parentId": 3493186,
+    "country": "DO",
+    "name": "Yaguate",
+    "fullName": null,
+    "lat": 18.3353,
+    "lng": -70.18113,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": 3598958,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Catarina",
+    "fullName": null,
+    "lat": 14.85354,
+    "lng": -92.07682,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598129,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Ciudad Tecún Umán",
+    "fullName": null,
+    "lat": 14.67737,
+    "lng": -92.14039,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598025,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Comitancillo",
+    "fullName": null,
+    "lat": 15.08937,
+    "lng": -91.74971,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597976,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Concepción Tutuapa",
+    "fullName": null,
+    "lat": 15.2394,
+    "lng": -91.8446,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596389,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "El Quetzal",
+    "fullName": null,
+    "lat": 14.76865,
+    "lng": -91.81757,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596249,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "El Rodeo",
+    "fullName": null,
+    "lat": 14.91447,
+    "lng": -91.97631,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595929,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "El Tumbador",
+    "fullName": null,
+    "lat": 14.86375,
+    "lng": -91.93416,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595778,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Esquipulas Palo Gordo",
+    "fullName": null,
+    "lat": 14.94135,
+    "lng": -91.82564,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595329,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Ixchiguán",
+    "fullName": null,
+    "lat": 15.16375,
+    "lng": -91.93256,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594143,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "La Reforma",
+    "fullName": null,
+    "lat": 14.80104,
+    "lng": -91.82233,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592753,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Malacatán",
+    "fullName": null,
+    "lat": 14.91132,
+    "lng": -92.05788,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592108,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Nuevo Progreso",
+    "fullName": null,
+    "lat": 14.79174,
+    "lng": -91.91946,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592086,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Ocós",
+    "fullName": null,
+    "lat": 14.50998,
+    "lng": -92.19298,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591885,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Pajapita",
+    "fullName": null,
+    "lat": 14.72152,
+    "lng": -92.03521,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590814,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Río Blanco",
+    "fullName": null,
+    "lat": 15.0382,
+    "lng": -91.68463,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590419,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Antonio Sacatepéquez",
+    "fullName": null,
+    "lat": 14.9606,
+    "lng": -91.73154,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590323,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Cristóbal Cucho",
+    "fullName": null,
+    "lat": 14.90505,
+    "lng": -91.78123,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589983,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San José Ojetenán",
+    "fullName": null,
+    "lat": 15.21667,
+    "lng": -91.96667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589865,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Lorenzo",
+    "fullName": null,
+    "lat": 15.03087,
+    "lng": -91.73534,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589805,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 14.96437,
+    "lng": -91.79486,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589720,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Miguel Ixtahuacán",
+    "fullName": null,
+    "lat": 15.27247,
+    "lng": -91.74785,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589677,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Pablo",
+    "fullName": null,
+    "lat": 14.93269,
+    "lng": -92.00415,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589626,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Pedro Sacatepéquez",
+    "fullName": null,
+    "lat": 14.96807,
+    "lng": -91.76172,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589577,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "San Rafael Pie de la Cuesta",
+    "fullName": null,
+    "lat": 14.93052,
+    "lng": -91.91388,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588760,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Sibinal",
+    "fullName": null,
+    "lat": 15.14963,
+    "lng": -92.04892,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588726,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Sipacapa",
+    "fullName": null,
+    "lat": 15.21246,
+    "lng": -91.63416,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588612,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Tacaná",
+    "fullName": null,
+    "lat": 15.24058,
+    "lng": -92.06721,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588588,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Tajumulco",
+    "fullName": null,
+    "lat": 15.08349,
+    "lng": -91.92225,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588460,
+    "parentId": 3589801,
+    "country": "GT",
+    "name": "Tejutla",
+    "fullName": null,
+    "lat": 15.12254,
+    "lng": -91.80635,
+    "tz": "America/Guatemala"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3624593,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Buenos Aires",
+    "fullName": null,
+    "lat": 9.17298,
+    "lng": -83.33277,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624436,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Canoas",
+    "fullName": null,
+    "lat": 8.53305,
+    "lng": -82.83844,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624288,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Chacarita",
+    "fullName": null,
+    "lat": 9.98424,
+    "lng": -84.77892,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624066,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Corredor",
+    "fullName": null,
+    "lat": 8.64002,
+    "lng": -82.946,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623781,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Esparza",
+    "fullName": null,
+    "lat": 9.99197,
+    "lng": -84.66628,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623656,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Golfito",
+    "fullName": null,
+    "lat": 8.60327,
+    "lng": -83.11342,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623369,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Jacó",
+    "fullName": null,
+    "lat": 9.61497,
+    "lng": -84.62975,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622974,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Macacona",
+    "fullName": null,
+    "lat": 10.00268,
+    "lng": -84.63994,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622854,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Miramar",
+    "fullName": null,
+    "lat": 10.0925,
+    "lng": -84.72978,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622561,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Paquera",
+    "fullName": null,
+    "lat": 9.82005,
+    "lng": -84.93513,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622537,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Parrita",
+    "fullName": null,
+    "lat": 9.52166,
+    "lng": -84.32289,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624198,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Puerto Cortés",
+    "fullName": null,
+    "lat": 8.96171,
+    "lng": -83.52463,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622228,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Puntarenas",
+    "fullName": null,
+    "lat": 9.97691,
+    "lng": -84.8379,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622193,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "Quepos",
+    "fullName": null,
+    "lat": 9.43063,
+    "lng": -84.16231,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621501,
+    "parentId": 3622226,
+    "country": "CR",
+    "name": "San Vito",
+    "fullName": null,
+    "lat": 8.82079,
+    "lng": -82.97092,
+    "tz": "America/Costa_Rica"
+  }
+]

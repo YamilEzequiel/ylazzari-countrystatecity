@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3920177,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Chuquisaca",
+    "fullName": null,
+    "lat": -20,
+    "lng": -64.33333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919966,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Cochabamba",
+    "fullName": null,
+    "lat": -17.5,
+    "lng": -65.66667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3911924,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de La Paz",
+    "fullName": null,
+    "lat": -15.5,
+    "lng": -68,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3909233,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Oruro",
+    "fullName": null,
+    "lat": -18.66667,
+    "lng": -67.5,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3908600,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Pando",
+    "fullName": null,
+    "lat": -11.33333,
+    "lng": -67.66667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907580,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Potosí",
+    "fullName": null,
+    "lat": -20.66667,
+    "lng": -67,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904907,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Santa Cruz",
+    "fullName": null,
+    "lat": -17.5,
+    "lng": -61.5,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3903319,
+    "parentId": null,
+    "country": "BO",
+    "name": "Departamento de Tarija",
+    "fullName": null,
+    "lat": -21.5,
+    "lng": -64,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923172,
+    "parentId": null,
+    "country": "BO",
+    "name": "El Beni",
+    "fullName": null,
+    "lat": -14,
+    "lng": -65.5,
+    "tz": "America/La_Paz"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3569136,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Alquízar",
+    "fullName": null,
+    "lat": 22.80517,
+    "lng": -82.58392,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3568312,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Artemisa",
+    "fullName": null,
+    "lat": 22.81366,
+    "lng": -82.75814,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567995,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Bahía Honda",
+    "fullName": null,
+    "lat": 22.90332,
+    "lng": -83.15994,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567612,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Bauta",
+    "fullName": null,
+    "lat": 22.98226,
+    "lng": -82.54719,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566573,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Cabañas",
+    "fullName": null,
+    "lat": 22.97944,
+    "lng": -82.92214,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565768,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Candelaria",
+    "fullName": null,
+    "lat": 22.73851,
+    "lng": -82.95954,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3561287,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "El Corojal",
+    "fullName": null,
+    "lat": 22.96104,
+    "lng": -83.20367,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557801,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Guanajay",
+    "fullName": null,
+    "lat": 22.92616,
+    "lng": -82.68687,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557347,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Güira de Melena",
+    "fullName": null,
+    "lat": 22.79613,
+    "lng": -82.50667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547600,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Mariel",
+    "fullName": null,
+    "lat": 22.98931,
+    "lng": -82.75376,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543913,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Playa Baracoa",
+    "fullName": null,
+    "lat": 23.04601,
+    "lng": -82.56723,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540885,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "San Antonio de los Baños",
+    "fullName": null,
+    "lat": 22.89018,
+    "lng": -82.50099,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540680,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "San Cristobal",
+    "fullName": null,
+    "lat": 22.71658,
+    "lng": -83.05647,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3535775,
+    "parentId": 7668824,
+    "country": "CU",
+    "name": "Soroa",
+    "fullName": null,
+    "lat": 22.79837,
+    "lng": -83.01253,
+    "tz": "America/Havana"
+  }
+]

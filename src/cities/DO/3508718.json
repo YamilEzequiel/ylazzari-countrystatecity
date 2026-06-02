@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3512902,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Agua Santa del Yuna",
+    "fullName": null,
+    "lat": 19.15072,
+    "lng": -69.80069,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3512573,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Arenoso",
+    "fullName": null,
+    "lat": 19.18732,
+    "lng": -69.85917,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510065,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Castillo",
+    "fullName": null,
+    "lat": 19.20824,
+    "lng": -70.02726,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509921,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Cenoví",
+    "fullName": null,
+    "lat": 19.2545,
+    "lng": -70.368,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504438,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Hostos",
+    "fullName": null,
+    "lat": 19.18043,
+    "lng": -70.02046,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3501329,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "La Peña",
+    "fullName": null,
+    "lat": 19.27676,
+    "lng": -70.17173,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500518,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Las Guáranas",
+    "fullName": null,
+    "lat": 19.1931,
+    "lng": -70.20835,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494768,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Pimentel",
+    "fullName": null,
+    "lat": 19.18416,
+    "lng": -70.10884,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493146,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "San Francisco de Macorís",
+    "fullName": null,
+    "lat": 19.29377,
+    "lng": -70.25285,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491916,
+    "parentId": 3508718,
+    "country": "DO",
+    "name": "Villa Riva",
+    "fullName": null,
+    "lat": 19.18069,
+    "lng": -69.91319,
+    "tz": "America/Santo_Domingo"
+  }
+]

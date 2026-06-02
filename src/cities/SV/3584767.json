@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3587372,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Anamorós",
+    "fullName": null,
+    "lat": 13.74056,
+    "lng": -87.87361,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586917,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Conchagua",
+    "fullName": null,
+    "lat": 13.30778,
+    "lng": -87.86472,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585480,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Intipucá",
+    "fullName": null,
+    "lat": 13.19694,
+    "lng": -88.05444,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584772,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 13.33915,
+    "lng": -87.84328,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584264,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Nueva Esparta",
+    "fullName": null,
+    "lat": 13.78361,
+    "lng": -87.83861,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584140,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Pasaquina",
+    "fullName": null,
+    "lat": 13.58444,
+    "lng": -87.84111,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583905,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "San Alejo",
+    "fullName": null,
+    "lat": 13.43139,
+    "lng": -87.96306,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583214,
+    "parentId": 3584767,
+    "country": "SV",
+    "name": "Santa Rosa de Lima",
+    "fullName": null,
+    "lat": 13.62472,
+    "lng": -87.89361,
+    "tz": "America/El_Salvador"
+  }
+]

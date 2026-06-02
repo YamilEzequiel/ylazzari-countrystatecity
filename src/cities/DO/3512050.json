@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3506719,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "El Palmar",
+    "fullName": null,
+    "lat": 18.41139,
+    "lng": -71.24558,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505517,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "Galván",
+    "fullName": null,
+    "lat": 18.50228,
+    "lng": -71.34271,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500013,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "La Uvilla",
+    "fullName": null,
+    "lat": 18.36186,
+    "lng": -71.21046,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3497564,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "Los Ríos",
+    "fullName": null,
+    "lat": 18.52131,
+    "lng": -71.59106,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495857,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "Neiba",
+    "fullName": null,
+    "lat": 18.4898,
+    "lng": -71.41894,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492520,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "Tamayo",
+    "fullName": null,
+    "lat": 18.3947,
+    "lng": -71.2029,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491927,
+    "parentId": 3512050,
+    "country": "DO",
+    "name": "Villa Jaragua",
+    "fullName": null,
+    "lat": 18.49077,
+    "lng": -71.48377,
+    "tz": "America/Santo_Domingo"
+  }
+]

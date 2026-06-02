@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3496396,
+    "parentId": 3506189,
+    "country": "DO",
+    "name": "Miches",
+    "fullName": null,
+    "lat": 18.98364,
+    "lng": -69.0476,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495102,
+    "parentId": 3506189,
+    "country": "DO",
+    "name": "Pedro Sánchez",
+    "fullName": null,
+    "lat": 18.86375,
+    "lng": -69.10868,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492984,
+    "parentId": 3506189,
+    "country": "DO",
+    "name": "Santa Cruz de El Seibo",
+    "fullName": null,
+    "lat": 18.76484,
+    "lng": -69.03991,
+    "tz": "America/Santo_Domingo"
+  }
+]

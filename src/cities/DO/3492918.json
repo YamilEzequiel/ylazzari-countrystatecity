@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3512166,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Baitoa",
+    "fullName": null,
+    "lat": 19.32512,
+    "lng": -70.70357,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3506241,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "El Rubio",
+    "fullName": null,
+    "lat": 19.36966,
+    "lng": -71.06964,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503782,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Juncalito Abajo",
+    "fullName": null,
+    "lat": 19.2199,
+    "lng": -70.81905,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503338,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "La Canela",
+    "fullName": null,
+    "lat": 19.47341,
+    "lng": -70.81629,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3499748,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Licey al Medio",
+    "fullName": null,
+    "lat": 19.43333,
+    "lng": -70.6,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495555,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Palmar Arriba",
+    "fullName": null,
+    "lat": 19.53957,
+    "lng": -70.73826,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495111,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Pedro García",
+    "fullName": null,
+    "lat": 19.59202,
+    "lng": -70.65256,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493478,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Sabana Iglesia",
+    "fullName": null,
+    "lat": 19.32114,
+    "lng": -70.75992,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493103,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "San José de Las Matas",
+    "fullName": null,
+    "lat": 19.33915,
+    "lng": -70.93819,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492914,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Santiago de los Caballeros",
+    "fullName": null,
+    "lat": 19.45036,
+    "lng": -70.69085,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492517,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Tamboril",
+    "fullName": null,
+    "lat": 19.48538,
+    "lng": -70.61104,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491948,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Villa Bisonó",
+    "fullName": null,
+    "lat": 19.56378,
+    "lng": -70.87582,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491937,
+    "parentId": 3492918,
+    "country": "DO",
+    "name": "Villa González",
+    "fullName": null,
+    "lat": 19.54057,
+    "lng": -70.78853,
+    "tz": "America/Santo_Domingo"
+  }
+]

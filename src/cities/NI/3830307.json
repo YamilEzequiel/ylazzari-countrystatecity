@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3620645,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Bonanza",
+    "fullName": null,
+    "lat": 14.02885,
+    "lng": -84.59103,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618810,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Krukira",
+    "fullName": null,
+    "lat": 14.16838,
+    "lng": -83.3077,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617154,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Puerto Cabezas",
+    "fullName": null,
+    "lat": 14.03507,
+    "lng": -83.38882,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616253,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Siuna",
+    "fullName": null,
+    "lat": 13.73321,
+    "lng": -84.77725,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615745,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Waslala",
+    "fullName": null,
+    "lat": 13.335,
+    "lng": -85.37,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615730,
+    "parentId": 3830307,
+    "country": "NI",
+    "name": "Waspán",
+    "fullName": null,
+    "lat": 14.74189,
+    "lng": -83.9717,
+    "tz": "America/Managua"
+  }
+]

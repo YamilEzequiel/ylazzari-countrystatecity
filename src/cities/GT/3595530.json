@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3599735,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Amatitlán",
+    "fullName": null,
+    "lat": 14.4774,
+    "lng": -90.63489,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598529,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Chinautla",
+    "fullName": null,
+    "lat": 14.70289,
+    "lng": -90.49983,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598277,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Chuarrancho",
+    "fullName": null,
+    "lat": 14.81794,
+    "lng": -90.51568,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595714,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Fraijanes",
+    "fullName": null,
+    "lat": 14.46528,
+    "lng": -90.44083,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598132,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Guatemala City",
+    "fullName": null,
+    "lat": 14.64072,
+    "lng": -90.51327,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592519,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Mixco",
+    "fullName": null,
+    "lat": 14.63077,
+    "lng": -90.60711,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591851,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Palencia",
+    "fullName": null,
+    "lat": 14.66715,
+    "lng": -90.35721,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591415,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Petapa",
+    "fullName": null,
+    "lat": 14.50189,
+    "lng": -90.56196,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590030,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San José del Golfo",
+    "fullName": null,
+    "lat": 14.76414,
+    "lng": -90.37228,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589977,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San José Pinula",
+    "fullName": null,
+    "lat": 14.546,
+    "lng": -90.41288,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589885,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San Juan Sacatepéquez",
+    "fullName": null,
+    "lat": 14.71889,
+    "lng": -90.64417,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589646,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San Pedro Ayampuc",
+    "fullName": null,
+    "lat": 14.77943,
+    "lng": -90.45318,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589627,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San Pedro Sacatepéquez",
+    "fullName": null,
+    "lat": 14.68612,
+    "lng": -90.64253,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589569,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "San Raimundo",
+    "fullName": null,
+    "lat": 14.76462,
+    "lng": -90.59493,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589452,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Santa Catarina Pinula",
+    "fullName": null,
+    "lat": 14.57047,
+    "lng": -90.49925,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587923,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Villa Canales",
+    "fullName": null,
+    "lat": 14.48285,
+    "lng": -90.53425,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587902,
+    "parentId": 3595530,
+    "country": "GT",
+    "name": "Villa Nueva",
+    "fullName": null,
+    "lat": 14.52512,
+    "lng": -90.58544,
+    "tz": "America/Guatemala"
+  }
+]

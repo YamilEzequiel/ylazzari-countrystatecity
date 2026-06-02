@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3650053,
+    "parentId": 3649953,
+    "country": "EC",
+    "name": "Yantzaza",
+    "fullName": null,
+    "lat": -3.83299,
+    "lng": -78.76122,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3649959,
+    "parentId": 3649953,
+    "country": "EC",
+    "name": "Zamora",
+    "fullName": null,
+    "lat": -4.06446,
+    "lng": -78.95123,
+    "tz": "America/Guayaquil"
+  }
+]

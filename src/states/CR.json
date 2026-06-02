@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3624953,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Alajuela",
+    "fullName": null,
+    "lat": 10.5,
+    "lng": -84.5,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624368,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Cartago",
+    "fullName": null,
+    "lat": 9.83333,
+    "lng": -83.75,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623582,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Guanacaste",
+    "fullName": null,
+    "lat": 10.5,
+    "lng": -85.25,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623484,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Heredia",
+    "fullName": null,
+    "lat": 10.33333,
+    "lng": -84,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623064,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Limón",
+    "fullName": null,
+    "lat": 10,
+    "lng": -83.21667,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622226,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de Puntarenas",
+    "fullName": null,
+    "lat": 9.97794,
+    "lng": -84.83068,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621837,
+    "parentId": null,
+    "country": "CR",
+    "name": "Provincia de San José",
+    "fullName": null,
+    "lat": 9.66667,
+    "lng": -84,
+    "tz": "America/Costa_Rica"
+  }
+]

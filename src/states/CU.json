@@ -1,0 +1,162 @@
+[
+  {
+    "id": 7668824,
+    "parentId": null,
+    "country": "CU",
+    "name": "Artemisa",
+    "fullName": null,
+    "lat": 22.814,
+    "lng": -82.75606,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564073,
+    "parentId": null,
+    "country": "CU",
+    "name": "La Habana",
+    "fullName": null,
+    "lat": 23.08333,
+    "lng": -82.3,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3550595,
+    "parentId": null,
+    "country": "CU",
+    "name": "Las Tunas",
+    "fullName": null,
+    "lat": 21.1,
+    "lng": -76.9,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556608,
+    "parentId": null,
+    "country": "CU",
+    "name": "Municipio Especial Isla de la Juventud",
+    "fullName": null,
+    "lat": 21.7,
+    "lng": -82.81667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566062,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Camagüey",
+    "fullName": null,
+    "lat": 21.35,
+    "lng": -77.85,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564175,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Ciego de Ávila",
+    "fullName": null,
+    "lat": 21.96667,
+    "lng": -78.63333,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564120,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Cienfuegos",
+    "fullName": null,
+    "lat": 22.26667,
+    "lng": -80.45,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557685,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Guantánamo",
+    "fullName": null,
+    "lat": 20.21667,
+    "lng": -74.86667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556965,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Holguín",
+    "fullName": null,
+    "lat": 20.75,
+    "lng": -75.91667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547394,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Matanzas",
+    "fullName": null,
+    "lat": 22.66667,
+    "lng": -81.16667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3544088,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Pinar del Río",
+    "fullName": null,
+    "lat": 22.41667,
+    "lng": -83.83333,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540665,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Sancti Spíritus",
+    "fullName": null,
+    "lat": 21.91667,
+    "lng": -79.41667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3536725,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Santiago de Cuba",
+    "fullName": null,
+    "lat": 20.2,
+    "lng": -75.93333,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534168,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia de Villa Clara",
+    "fullName": null,
+    "lat": 22.56667,
+    "lng": -80,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558052,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia Granma",
+    "fullName": null,
+    "lat": 20.28333,
+    "lng": -76.86667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 7668827,
+    "parentId": null,
+    "country": "CU",
+    "name": "Provincia Mayabeque",
+    "fullName": null,
+    "lat": 22.96155,
+    "lng": -82.14718,
+    "tz": "America/Havana"
+  }
+]

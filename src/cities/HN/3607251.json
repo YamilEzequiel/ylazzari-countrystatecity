@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3614218,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Cane",
+    "fullName": null,
+    "lat": 14.27933,
+    "lng": -87.65794,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607905,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "La Florida",
+    "fullName": null,
+    "lat": 14.06667,
+    "lng": -87.98333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607254,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": 14.32124,
+    "lng": -87.67589,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605382,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Los Planes",
+    "fullName": null,
+    "lat": 14.05,
+    "lng": -88.01667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605005,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Marcala",
+    "fullName": null,
+    "lat": 14.15661,
+    "lng": -88.03466,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602428,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "San Antonio del Norte",
+    "fullName": null,
+    "lat": 13.88444,
+    "lng": -87.70306,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602137,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "San José",
+    "fullName": null,
+    "lat": 14.24809,
+    "lng": -87.95951,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601784,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "San Pedro de Tutule",
+    "fullName": null,
+    "lat": 14.25145,
+    "lng": -87.85414,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601462,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Santiago de Puringla",
+    "fullName": null,
+    "lat": 14.35783,
+    "lng": -87.9041,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600906,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Tepanguare",
+    "fullName": null,
+    "lat": 14.33333,
+    "lng": -87.75,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600232,
+    "parentId": 3607251,
+    "country": "HN",
+    "name": "Yarumela",
+    "fullName": null,
+    "lat": 14.33578,
+    "lng": -87.64557,
+    "tz": "America/Tegucigalpa"
+  }
+]

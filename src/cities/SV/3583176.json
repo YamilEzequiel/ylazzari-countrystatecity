@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3587349,
+    "parentId": 3583176,
+    "country": "SV",
+    "name": "Apastepeque",
+    "fullName": null,
+    "lat": 13.66667,
+    "lng": -88.78333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583352,
+    "parentId": 3583176,
+    "country": "SV",
+    "name": "San Sebastián",
+    "fullName": null,
+    "lat": 13.73333,
+    "lng": -88.83333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583178,
+    "parentId": 3583176,
+    "country": "SV",
+    "name": "San Vicente",
+    "fullName": null,
+    "lat": 13.64114,
+    "lng": -88.78459,
+    "tz": "America/El_Salvador"
+  }
+]

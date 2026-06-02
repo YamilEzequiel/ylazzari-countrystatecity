@@ -1,0 +1,192 @@
+[
+  {
+    "id": 3598006,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Concepción",
+    "fullName": null,
+    "lat": 14.78417,
+    "lng": -91.14754,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592286,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Nahualá",
+    "fullName": null,
+    "lat": 14.8429,
+    "lng": -91.31799,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591750,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Panajachel",
+    "fullName": null,
+    "lat": 14.74185,
+    "lng": -91.15676,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590524,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Andrés Semetabaj",
+    "fullName": null,
+    "lat": 14.74497,
+    "lng": -91.13344,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590424,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Antonio Palopó",
+    "fullName": null,
+    "lat": 14.69232,
+    "lng": -91.11638,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590041,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San José Chacayá",
+    "fullName": null,
+    "lat": 14.77096,
+    "lng": -91.21564,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589896,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Juan La Laguna",
+    "fullName": null,
+    "lat": 14.69453,
+    "lng": -91.28666,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589850,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Lucas Tolimán",
+    "fullName": null,
+    "lat": 14.59471,
+    "lng": -91.14659,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589795,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Marcos La Laguna",
+    "fullName": null,
+    "lat": 14.72504,
+    "lng": -91.25844,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589669,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Pablo La Laguna",
+    "fullName": null,
+    "lat": 14.72092,
+    "lng": -91.27242,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589637,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "San Pedro La Laguna",
+    "fullName": null,
+    "lat": 14.69297,
+    "lng": -91.27201,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589458,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa Catarina Ixtahuacán",
+    "fullName": null,
+    "lat": 14.79797,
+    "lng": -91.35866,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589454,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa Catarina Palopó",
+    "fullName": null,
+    "lat": 14.72335,
+    "lng": -91.13428,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589433,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa Clara La Laguna",
+    "fullName": null,
+    "lat": 14.71509,
+    "lng": -91.30355,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589402,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa Cruz La Laguna",
+    "fullName": null,
+    "lat": 14.74421,
+    "lng": -91.20716,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589282,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa Lucía Utatlán",
+    "fullName": null,
+    "lat": 14.77135,
+    "lng": -91.267,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589247,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santa María Visitación",
+    "fullName": null,
+    "lat": 14.71717,
+    "lng": -91.30844,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589105,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Santiago Atitlán",
+    "fullName": null,
+    "lat": 14.63823,
+    "lng": -91.22901,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588698,
+    "parentId": 3588697,
+    "country": "GT",
+    "name": "Sololá",
+    "fullName": null,
+    "lat": 14.7707,
+    "lng": -91.18344,
+    "tz": "America/Guatemala"
+  }
+]

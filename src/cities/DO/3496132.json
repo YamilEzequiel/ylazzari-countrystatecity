@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3511626,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Bayaguana",
+    "fullName": null,
+    "lat": 18.75031,
+    "lng": -69.63525,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508761,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Don Juan",
+    "fullName": null,
+    "lat": 18.82774,
+    "lng": -69.94629,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505861,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Esperalvillo",
+    "fullName": null,
+    "lat": 18.81509,
+    "lng": -70.03557,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505432,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Gonzalo",
+    "fullName": null,
+    "lat": 18.95147,
+    "lng": -69.75114,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3499230,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Los Botados",
+    "fullName": null,
+    "lat": 18.73226,
+    "lng": -69.99536,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3497176,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Majagual",
+    "fullName": null,
+    "lat": 19.04134,
+    "lng": -69.83616,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496134,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Monte Plata",
+    "fullName": null,
+    "lat": 18.80748,
+    "lng": -69.78431,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493482,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Sabana Grande de Boyá",
+    "fullName": null,
+    "lat": 18.94498,
+    "lng": -69.79331,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491796,
+    "parentId": 3496132,
+    "country": "DO",
+    "name": "Yamasá",
+    "fullName": null,
+    "lat": 18.77315,
+    "lng": -70.02583,
+    "tz": "America/Santo_Domingo"
+  }
+]

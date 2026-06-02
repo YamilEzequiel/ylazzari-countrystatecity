@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3587425,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Ahuachapán",
+    "fullName": null,
+    "lat": 13.86667,
+    "lng": -89.91667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587217,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Cabañas",
+    "fullName": null,
+    "lat": 13.86667,
+    "lng": -88.75,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587090,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Chalatenango",
+    "fullName": null,
+    "lat": 14.13333,
+    "lng": -89.01667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586831,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Cuscatlán",
+    "fullName": null,
+    "lat": 13.83333,
+    "lng": -89.03333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585155,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de La Libertad",
+    "fullName": null,
+    "lat": 13.75,
+    "lng": -89.38333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585087,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de La Paz",
+    "fullName": null,
+    "lat": 13.46667,
+    "lng": -88.98333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584767,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de La Unión",
+    "fullName": null,
+    "lat": 13.55,
+    "lng": -87.9,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584317,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Morazán",
+    "fullName": null,
+    "lat": 13.8,
+    "lng": -88.1,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583462,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de San Miguel",
+    "fullName": null,
+    "lat": 13.53333,
+    "lng": -88.28333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583360,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de San Salvador",
+    "fullName": null,
+    "lat": 13.78333,
+    "lng": -89.18333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583176,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de San Vicente",
+    "fullName": null,
+    "lat": 13.51667,
+    "lng": -88.75,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583332,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Santa Ana",
+    "fullName": null,
+    "lat": 14.1,
+    "lng": -89.58333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583101,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Sonsonate",
+    "fullName": null,
+    "lat": 13.7,
+    "lng": -89.7,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582882,
+    "parentId": null,
+    "country": "SV",
+    "name": "Departamento de Usulután",
+    "fullName": null,
+    "lat": 13.43333,
+    "lng": -88.53333,
+    "tz": "America/El_Salvador"
+  }
+]

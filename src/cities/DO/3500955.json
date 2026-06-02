@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3504951,
+    "parentId": 3500955,
+    "country": "DO",
+    "name": "Guaymate",
+    "fullName": null,
+    "lat": 18.58793,
+    "lng": -68.97867,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500957,
+    "parentId": 3500955,
+    "country": "DO",
+    "name": "La Romana",
+    "fullName": null,
+    "lat": 18.42332,
+    "lng": -68.96635,
+    "tz": "America/Santo_Domingo"
+  }
+]

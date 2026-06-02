@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3510885,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Cabral",
+    "fullName": null,
+    "lat": 18.25,
+    "lng": -71.21667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510822,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Cachón",
+    "fullName": null,
+    "lat": 18.24833,
+    "lng": -71.18912,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510363,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Canoa",
+    "fullName": null,
+    "lat": 18.35499,
+    "lng": -71.15851,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3506630,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "El Peñón",
+    "fullName": null,
+    "lat": 18.29643,
+    "lng": -71.1841,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505947,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Enriquillo",
+    "fullName": null,
+    "lat": 17.9,
+    "lng": -71.23333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505612,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Fundación",
+    "fullName": null,
+    "lat": 18.28668,
+    "lng": -71.18147,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504160,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Jaquimeyes",
+    "fullName": null,
+    "lat": 18.31173,
+    "lng": -71.16145,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503100,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "La Ciénaga",
+    "fullName": null,
+    "lat": 18.06858,
+    "lng": -71.10651,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500261,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Las Salinas",
+    "fullName": null,
+    "lat": 18.27485,
+    "lng": -71.31596,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495272,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Paraíso",
+    "fullName": null,
+    "lat": 17.99172,
+    "lng": -71.16526,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494979,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Pescadería",
+    "fullName": null,
+    "lat": 18.26766,
+    "lng": -71.16612,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494584,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Polo",
+    "fullName": null,
+    "lat": 18.07873,
+    "lng": -71.28723,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492985,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Santa Cruz de Barahona",
+    "fullName": null,
+    "lat": 18.20861,
+    "lng": -71.10068,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492030,
+    "parentId": 3512042,
+    "country": "DO",
+    "name": "Vicente Noble",
+    "fullName": null,
+    "lat": 18.38443,
+    "lng": -71.18009,
+    "tz": "America/Santo_Domingo"
+  }
+]

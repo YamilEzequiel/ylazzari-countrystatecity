@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3512332,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "Arroyo Salado",
+    "fullName": null,
+    "lat": 19.5,
+    "lng": -69.9,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3510874,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "Cabrera",
+    "fullName": null,
+    "lat": 19.6426,
+    "lng": -69.90489,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3507628,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "El Factor",
+    "fullName": null,
+    "lat": 19.31834,
+    "lng": -69.88827,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3502745,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "La Entrada",
+    "fullName": null,
+    "lat": 19.55367,
+    "lng": -69.90762,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496021,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "Nagua",
+    "fullName": null,
+    "lat": 19.3832,
+    "lng": -69.8474,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493743,
+    "parentId": 3496772,
+    "country": "DO",
+    "name": "Río San Juan",
+    "fullName": null,
+    "lat": 19.64385,
+    "lng": -70.07635,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3620930,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Altagracia",
+    "fullName": null,
+    "lat": 11.56615,
+    "lng": -85.5784,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620734,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Belén",
+    "fullName": null,
+    "lat": 11.50299,
+    "lng": -85.88935,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620603,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Buenos Aires",
+    "fullName": null,
+    "lat": 11.46916,
+    "lng": -85.81661,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620479,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Cárdenas",
+    "fullName": null,
+    "lat": 11.19639,
+    "lng": -85.5089,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617569,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Moyogalpa",
+    "fullName": null,
+    "lat": 11.54006,
+    "lng": -85.69795,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617187,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Potosí",
+    "fullName": null,
+    "lat": 11.49416,
+    "lng": -85.8568,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617052,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Rivas",
+    "fullName": null,
+    "lat": 11.43977,
+    "lng": -85.82749,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616794,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "San Jorge",
+    "fullName": null,
+    "lat": 11.45584,
+    "lng": -85.80308,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616726,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "San Juan del Sur",
+    "fullName": null,
+    "lat": 11.25292,
+    "lng": -85.87049,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616019,
+    "parentId": 3617051,
+    "country": "NI",
+    "name": "Tola",
+    "fullName": null,
+    "lat": 11.43927,
+    "lng": -85.93891,
+    "tz": "America/Managua"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3512064,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Bánica",
+    "fullName": null,
+    "lat": 19.08239,
+    "lng": -71.7054,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509386,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Comendador",
+    "fullName": null,
+    "lat": 18.87755,
+    "lng": -71.70321,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3507117,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "El Llano",
+    "fullName": null,
+    "lat": 18.81667,
+    "lng": -71.63333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504466,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Hondo Valle",
+    "fullName": null,
+    "lat": 18.71599,
+    "lng": -71.69511,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503811,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Juan Santiago",
+    "fullName": null,
+    "lat": 18.70342,
+    "lng": -71.58971,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495098,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Pedro Santana",
+    "fullName": null,
+    "lat": 19.10515,
+    "lng": -71.69498,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493756,
+    "parentId": 3507269,
+    "country": "DO",
+    "name": "Río Limpio",
+    "fullName": null,
+    "lat": 19.24513,
+    "lng": -71.53077,
+    "tz": "America/Santo_Domingo"
+  }
+]

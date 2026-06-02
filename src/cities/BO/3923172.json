@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3915350,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Guayaramerín",
+    "fullName": null,
+    "lat": -10.8258,
+    "lng": -65.3581,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906478,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Reyes",
+    "fullName": null,
+    "lat": -14.2952,
+    "lng": -67.33624,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906466,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Riberalta",
+    "fullName": null,
+    "lat": -11.01026,
+    "lng": -66.05257,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906209,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Rurrenabaque",
+    "fullName": null,
+    "lat": -14.44125,
+    "lng": -67.52781,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 11467676,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "San Borja",
+    "fullName": null,
+    "lat": -14.85195,
+    "lng": -66.74954,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905660,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "San Ignacio de Moxo",
+    "fullName": null,
+    "lat": -14.9947,
+    "lng": -65.64074,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905088,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "San Ramón",
+    "fullName": null,
+    "lat": -13.26647,
+    "lng": -64.61515,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905007,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Santa Ana de Yacuma",
+    "fullName": null,
+    "lat": -13.74406,
+    "lng": -65.42688,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904793,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Santa Rosa de Yacuma",
+    "fullName": null,
+    "lat": -14.07719,
+    "lng": -66.79349,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902377,
+    "parentId": 3923172,
+    "country": "BO",
+    "name": "Trinidad",
+    "fullName": null,
+    "lat": -14.83223,
+    "lng": -64.90335,
+    "tz": "America/La_Paz"
+  }
+]

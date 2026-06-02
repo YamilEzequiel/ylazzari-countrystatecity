@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3496284,
+    "parentId": 3492912,
+    "country": "DO",
+    "name": "Monción",
+    "fullName": null,
+    "lat": 19.41083,
+    "lng": -71.15257,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493383,
+    "parentId": 3492912,
+    "country": "DO",
+    "name": "San Ignacio de Sabaneta",
+    "fullName": null,
+    "lat": 19.47837,
+    "lng": -71.33932,
+    "tz": "America/Santo_Domingo"
+  }
+]

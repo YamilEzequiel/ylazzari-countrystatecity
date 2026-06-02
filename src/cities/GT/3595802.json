@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3595803,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Escuintla",
+    "fullName": null,
+    "lat": 14.30097,
+    "lng": -90.78816,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595554,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Guanagazapa",
+    "fullName": null,
+    "lat": 14.22598,
+    "lng": -90.64332,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595255,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Iztapa",
+    "fullName": null,
+    "lat": 13.93333,
+    "lng": -90.7075,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594753,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "La Democracia",
+    "fullName": null,
+    "lat": 14.22919,
+    "lng": -90.94806,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594575,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "La Gomera",
+    "fullName": null,
+    "lat": 14.08213,
+    "lng": -91.05383,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592642,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Masagua",
+    "fullName": null,
+    "lat": 14.20306,
+    "lng": -90.84806,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592145,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Nueva Concepción",
+    "fullName": null,
+    "lat": 14.2,
+    "lng": -91.3,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591833,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Palín",
+    "fullName": null,
+    "lat": 14.40358,
+    "lng": -90.69659,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591060,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Puerto San José",
+    "fullName": null,
+    "lat": 13.92216,
+    "lng": -90.81906,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589036,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "San Vicente Pacaya",
+    "fullName": null,
+    "lat": 14.41466,
+    "lng": -90.63613,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589289,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Santa Lucía Cotzumalguapa",
+    "fullName": null,
+    "lat": 14.33505,
+    "lng": -91.02339,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591093,
+    "parentId": 3595802,
+    "country": "GT",
+    "name": "Tiquisate",
+    "fullName": null,
+    "lat": 14.28356,
+    "lng": -91.36063,
+    "tz": "America/Guatemala"
+  }
+]

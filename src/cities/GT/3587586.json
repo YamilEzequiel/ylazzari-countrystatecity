@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3599298,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Cabañas",
+    "fullName": null,
+    "lat": 14.93333,
+    "lng": -89.8,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595757,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Estanzuela",
+    "fullName": null,
+    "lat": 14.99777,
+    "lng": -89.57285,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595560,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Gualán",
+    "fullName": null,
+    "lat": 15.11952,
+    "lng": -89.35721,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595403,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Huité",
+    "fullName": null,
+    "lat": 14.92786,
+    "lng": -89.71627,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3593500,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 14.96656,
+    "lng": -89.29023,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590788,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Río Hondo",
+    "fullName": null,
+    "lat": 15.04505,
+    "lng": -89.58523,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590312,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "San Diego",
+    "fullName": null,
+    "lat": 14.78979,
+    "lng": -89.77639,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588469,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Teculután",
+    "fullName": null,
+    "lat": 14.98901,
+    "lng": -89.71936,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588040,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Usumatlán",
+    "fullName": null,
+    "lat": 14.94779,
+    "lng": -89.77712,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587587,
+    "parentId": 3587586,
+    "country": "GT",
+    "name": "Zacapa",
+    "fullName": null,
+    "lat": 14.96867,
+    "lng": -89.52732,
+    "tz": "America/Guatemala"
+  }
+]

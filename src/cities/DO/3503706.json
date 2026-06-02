@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3511277,
+    "parentId": 3503706,
+    "country": "DO",
+    "name": "Boca de Yuma",
+    "fullName": null,
+    "lat": 18.37825,
+    "lng": -68.609,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495694,
+    "parentId": 3503706,
+    "country": "DO",
+    "name": "Otra Banda",
+    "fullName": null,
+    "lat": 18.65017,
+    "lng": -68.66281,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494242,
+    "parentId": 3503706,
+    "country": "DO",
+    "name": "Punta Cana",
+    "fullName": null,
+    "lat": 18.58182,
+    "lng": -68.40431,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493240,
+    "parentId": 3503706,
+    "country": "DO",
+    "name": "Salvaleón de Higüey",
+    "fullName": null,
+    "lat": 18.61501,
+    "lng": -68.70798,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493022,
+    "parentId": 3503706,
+    "country": "DO",
+    "name": "San Rafael del Yuma",
+    "fullName": null,
+    "lat": 18.42993,
+    "lng": -68.6739,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3595237,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "Jalapa",
+    "fullName": null,
+    "lat": 14.63542,
+    "lng": -89.99112,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592635,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "Mataquescuintla",
+    "fullName": null,
+    "lat": 14.52917,
+    "lng": -90.18417,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592477,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "Monjas",
+    "fullName": null,
+    "lat": 14.50309,
+    "lng": -89.87246,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589822,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "San Luis Jilotepeque",
+    "fullName": null,
+    "lat": 14.64724,
+    "lng": -89.72463,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589812,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "San Manuel Chaparrón",
+    "fullName": null,
+    "lat": 14.51987,
+    "lng": -89.76917,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589629,
+    "parentId": 3595236,
+    "country": "GT",
+    "name": "San Pedro Pinula",
+    "fullName": null,
+    "lat": 14.66349,
+    "lng": -89.84625,
+    "tz": "America/Guatemala"
+  }
+]

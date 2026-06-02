@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3587208,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "Cacaopera",
+    "fullName": null,
+    "lat": 13.76667,
+    "lng": -88.08333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586884,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "Corinto",
+    "fullName": null,
+    "lat": 13.81083,
+    "lng": -87.97139,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585653,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "Guatajiagua",
+    "fullName": null,
+    "lat": 13.66667,
+    "lng": -88.2,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585427,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "Jocoro",
+    "fullName": null,
+    "lat": 13.61667,
+    "lng": -88.01667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583747,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 13.69408,
+    "lng": -88.10407,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583111,
+    "parentId": 3584317,
+    "country": "SV",
+    "name": "Sociedad",
+    "fullName": null,
+    "lat": 13.7,
+    "lng": -88.01667,
+    "tz": "America/El_Salvador"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 3587428,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Aguilares",
+    "fullName": null,
+    "lat": 13.95722,
+    "lng": -89.18972,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587345,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Apopa",
+    "fullName": null,
+    "lat": 13.80722,
+    "lng": -89.17917,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587308,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Ayutuxtepeque",
+    "fullName": null,
+    "lat": 13.73538,
+    "lng": -89.20221,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586833,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Cuscatancingo",
+    "fullName": null,
+    "lat": 13.72702,
+    "lng": -89.18161,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586814,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Delgado",
+    "fullName": null,
+    "lat": 13.72171,
+    "lng": -89.16874,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586204,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "El Paisnal",
+    "fullName": null,
+    "lat": 13.97361,
+    "lng": -89.21861,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585636,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Guazapa",
+    "fullName": null,
+    "lat": 13.87694,
+    "lng": -89.17306,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585484,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Ilopango",
+    "fullName": null,
+    "lat": 13.70167,
+    "lng": -89.10944,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584399,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Mejicanos",
+    "fullName": null,
+    "lat": 13.72397,
+    "lng": -89.188,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584156,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Panchimalco",
+    "fullName": null,
+    "lat": 13.61278,
+    "lng": -89.18,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583937,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Rosario de Mora",
+    "fullName": null,
+    "lat": 13.57528,
+    "lng": -89.20889,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583480,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 13.66108,
+    "lng": -89.18252,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583361,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "San Salvador",
+    "fullName": null,
+    "lat": 13.68935,
+    "lng": -89.18718,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583183,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Santo Tomás",
+    "fullName": null,
+    "lat": 13.64083,
+    "lng": -89.13333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583096,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Soyapango",
+    "fullName": null,
+    "lat": 13.71024,
+    "lng": -89.13989,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582918,
+    "parentId": 3583360,
+    "country": "SV",
+    "name": "Tonacatepeque",
+    "fullName": null,
+    "lat": 13.78111,
+    "lng": -89.11861,
+    "tz": "America/El_Salvador"
+  }
+]

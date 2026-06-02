@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3652764,
+    "parentId": 3657879,
+    "country": "EC",
+    "name": "Puerto Ayora",
+    "fullName": null,
+    "lat": -0.74018,
+    "lng": -90.3138,
+    "tz": "Pacific/Galapagos"
+  },
+  {
+    "id": 3652758,
+    "parentId": 3657879,
+    "country": "EC",
+    "name": "Puerto Baquerizo Moreno",
+    "fullName": null,
+    "lat": -0.90172,
+    "lng": -89.61021,
+    "tz": "Pacific/Galapagos"
+  },
+  {
+    "id": 3652694,
+    "parentId": 3657879,
+    "country": "EC",
+    "name": "Puerto Villamil",
+    "fullName": null,
+    "lat": -0.95542,
+    "lng": -90.96654,
+    "tz": "Pacific/Galapagos"
+  }
+]

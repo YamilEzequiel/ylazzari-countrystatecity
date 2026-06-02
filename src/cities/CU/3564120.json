@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3569741,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Abreus",
+    "fullName": null,
+    "lat": 22.27797,
+    "lng": -80.56931,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3569546,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Aguada de Pasajeros",
+    "fullName": null,
+    "lat": 22.3852,
+    "lng": -80.84792,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564124,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Cienfuegos",
+    "fullName": null,
+    "lat": 22.14681,
+    "lng": -80.4481,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563145,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Cruces",
+    "fullName": null,
+    "lat": 22.34203,
+    "lng": -80.27021,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3562827,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Cumanayagua",
+    "fullName": null,
+    "lat": 22.15247,
+    "lng": -80.20354,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3553343,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Lajas",
+    "fullName": null,
+    "lat": 22.41479,
+    "lng": -80.2931,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3545040,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Palmira",
+    "fullName": null,
+    "lat": 22.24126,
+    "lng": -80.3911,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3541999,
+    "parentId": 3564120,
+    "country": "CU",
+    "name": "Rodas",
+    "fullName": null,
+    "lat": 22.34184,
+    "lng": -80.55596,
+    "tz": "America/Havana"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3503910,
+    "parentId": 3495136,
+    "country": "DO",
+    "name": "Juancho",
+    "fullName": null,
+    "lat": 17.85782,
+    "lng": -71.29311,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495684,
+    "parentId": 3495136,
+    "country": "DO",
+    "name": "Oviedo",
+    "fullName": null,
+    "lat": 17.80136,
+    "lng": -71.401,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495137,
+    "parentId": 3495136,
+    "country": "DO",
+    "name": "Pedernales",
+    "fullName": null,
+    "lat": 18.03562,
+    "lng": -71.7467,
+    "tz": "America/Santo_Domingo"
+  }
+]

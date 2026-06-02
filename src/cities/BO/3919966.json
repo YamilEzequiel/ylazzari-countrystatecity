@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3924341,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Aiquile",
+    "fullName": null,
+    "lat": -18.20408,
+    "lng": -65.18068,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923770,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Arani",
+    "fullName": null,
+    "lat": -17.56854,
+    "lng": -65.76883,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919886,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Calchani",
+    "fullName": null,
+    "lat": -17.32276,
+    "lng": -66.69131,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 6618531,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Cañada Hornillos",
+    "fullName": null,
+    "lat": -17.68587,
+    "lng": -65.13912,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3922125,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Capinota",
+    "fullName": null,
+    "lat": -17.71113,
+    "lng": -66.26082,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3920736,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Chimoré",
+    "fullName": null,
+    "lat": -16.99417,
+    "lng": -65.1533,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3920016,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Cliza",
+    "fullName": null,
+    "lat": -17.58777,
+    "lng": -65.93253,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919968,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Cochabamba",
+    "fullName": null,
+    "lat": -17.38195,
+    "lng": -66.15995,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919902,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Colcapirhua",
+    "fullName": null,
+    "lat": -17.3857,
+    "lng": -66.23814,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919813,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Colomi",
+    "fullName": null,
+    "lat": -17.35,
+    "lng": -65.86667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3914084,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Irpa Irpa",
+    "fullName": null,
+    "lat": -17.71667,
+    "lng": -66.26667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910291,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Mizque",
+    "fullName": null,
+    "lat": -17.94101,
+    "lng": -65.34016,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3909953,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Morochata",
+    "fullName": null,
+    "lat": -17.2349,
+    "lng": -66.53185,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907165,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Puerto Villarroel",
+    "fullName": null,
+    "lat": -16.84286,
+    "lng": -64.79996,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907080,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Punata",
+    "fullName": null,
+    "lat": -17.54234,
+    "lng": -65.83472,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906791,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Quillacollo",
+    "fullName": null,
+    "lat": -17.39228,
+    "lng": -66.27838,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906194,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Sacaba",
+    "fullName": null,
+    "lat": -17.39799,
+    "lng": -66.03825,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904656,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Santiváñez",
+    "fullName": null,
+    "lat": -17.54598,
+    "lng": -66.2461,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904221,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Sipe Sipe",
+    "fullName": null,
+    "lat": -17.45419,
+    "lng": -66.35737,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3903342,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Tarata",
+    "fullName": null,
+    "lat": -17.60898,
+    "lng": -66.02135,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902949,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Tiquipaya",
+    "fullName": null,
+    "lat": -17.33801,
+    "lng": -66.21579,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902523,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Totora",
+    "fullName": null,
+    "lat": -17.72662,
+    "lng": -65.1932,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901435,
+    "parentId": 3919966,
+    "country": "BO",
+    "name": "Vinto",
+    "fullName": null,
+    "lat": -17.39141,
+    "lng": -66.31681,
+    "tz": "America/La_Paz"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3597722,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Dolores",
+    "fullName": null,
+    "lat": 16.51178,
+    "lng": -89.41704,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595725,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Flores",
+    "fullName": null,
+    "lat": 16.92258,
+    "lng": -89.89941,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594422,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "La Libertad",
+    "fullName": null,
+    "lat": 16.7885,
+    "lng": -90.11698,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598131,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Melchor de Mencos",
+    "fullName": null,
+    "lat": 17.06606,
+    "lng": -89.15229,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591181,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Poptún",
+    "fullName": null,
+    "lat": 16.33111,
+    "lng": -89.41694,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590537,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "San Andrés",
+    "fullName": null,
+    "lat": 16.96863,
+    "lng": -89.91181,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590389,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "San Benito",
+    "fullName": null,
+    "lat": 16.91675,
+    "lng": -89.91898,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590249,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 16.7978,
+    "lng": -89.93507,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590069,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "San José",
+    "fullName": null,
+    "lat": 16.98333,
+    "lng": -89.9,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589841,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "San Luis",
+    "fullName": null,
+    "lat": 16.19889,
+    "lng": -89.44028,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589507,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 16.80582,
+    "lng": -89.82708,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588984,
+    "parentId": 3591410,
+    "country": "GT",
+    "name": "Sayaxché",
+    "fullName": null,
+    "lat": 16.52446,
+    "lng": -90.18801,
+    "tz": "America/Guatemala"
+  }
+]

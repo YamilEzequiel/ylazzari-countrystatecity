@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3569379,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Alacranes",
+    "fullName": null,
+    "lat": 22.76719,
+    "lng": -81.56803,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3749701,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Australia",
+    "fullName": null,
+    "lat": 22.49892,
+    "lng": -81.13486,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567082,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Bolondrón",
+    "fullName": null,
+    "lat": 22.76307,
+    "lng": -81.4478,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566134,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Calimete",
+    "fullName": null,
+    "lat": 22.5342,
+    "lng": -80.91105,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565938,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Campo Florido",
+    "fullName": null,
+    "lat": 22.81222,
+    "lng": -81.00167,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565432,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Cárdenas",
+    "fullName": null,
+    "lat": 23.03661,
+    "lng": -81.20596,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563843,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Colón",
+    "fullName": null,
+    "lat": 22.72064,
+    "lng": -80.90492,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556437,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Jagüey Grande",
+    "fullName": null,
+    "lat": 22.52694,
+    "lng": -81.12861,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3555907,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Jovellanos",
+    "fullName": null,
+    "lat": 22.80375,
+    "lng": -81.19127,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3549835,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Limonar",
+    "fullName": null,
+    "lat": 22.95035,
+    "lng": -81.41059,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3549463,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Los Arabos",
+    "fullName": null,
+    "lat": 22.72969,
+    "lng": -80.72081,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3548000,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Manguito",
+    "fullName": null,
+    "lat": 22.58733,
+    "lng": -80.91451,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547519,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Martí",
+    "fullName": null,
+    "lat": 22.94714,
+    "lng": -80.91902,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547398,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Matanzas",
+    "fullName": null,
+    "lat": 23.04388,
+    "lng": -81.58284,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3544607,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Pedro Betancourt",
+    "fullName": null,
+    "lat": 22.72709,
+    "lng": -81.28963,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3544393,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Perico",
+    "fullName": null,
+    "lat": 22.76987,
+    "lng": -81.0183,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534761,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Unión de Reyes",
+    "fullName": null,
+    "lat": 22.79505,
+    "lng": -81.53617,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534632,
+    "parentId": 3547394,
+    "country": "CU",
+    "name": "Varadero",
+    "fullName": null,
+    "lat": 23.15678,
+    "lng": -81.24441,
+    "tz": "America/Havana"
+  }
+]

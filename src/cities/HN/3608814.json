@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3602736,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "Coxen Hole",
+    "fullName": null,
+    "lat": 16.31553,
+    "lng": -86.53966,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609667,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "French Harbor",
+    "fullName": null,
+    "lat": 16.35,
+    "lng": -86.43333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609293,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "Guanaja",
+    "fullName": null,
+    "lat": 16.44186,
+    "lng": -85.88717,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605060,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "Mangrove Bight",
+    "fullName": null,
+    "lat": 16.46667,
+    "lng": -85.88333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602359,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "Sandy Bay",
+    "fullName": null,
+    "lat": 16.32923,
+    "lng": -86.56446,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601402,
+    "parentId": 3608814,
+    "country": "HN",
+    "name": "Savannah Bight",
+    "fullName": null,
+    "lat": 16.48458,
+    "lng": -85.84474,
+    "tz": "America/Tegucigalpa"
+  }
+]

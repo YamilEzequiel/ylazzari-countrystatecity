@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3624422,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Capellades",
+    "fullName": null,
+    "lat": 9.92165,
+    "lng": -83.78526,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624370,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Cartago",
+    "fullName": null,
+    "lat": 9.86371,
+    "lng": -83.9195,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624142,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Concepción",
+    "fullName": null,
+    "lat": 9.92683,
+    "lng": -84.00123,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624057,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Cot",
+    "fullName": null,
+    "lat": 9.89472,
+    "lng": -83.8745,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623112,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "La Suiza",
+    "fullName": null,
+    "lat": 9.85065,
+    "lng": -83.6169,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622663,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Orosi",
+    "fullName": null,
+    "lat": 9.79617,
+    "lng": -83.85383,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622648,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Pacayas",
+    "fullName": null,
+    "lat": 9.80737,
+    "lng": -84.04817,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622547,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Paraíso",
+    "fullName": null,
+    "lat": 9.83847,
+    "lng": -83.86655,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622466,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Pejibaye",
+    "fullName": null,
+    "lat": 9.81253,
+    "lng": -83.70378,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621926,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "San Diego",
+    "fullName": null,
+    "lat": 9.90028,
+    "lng": -84.0017,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621265,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Tobosi",
+    "fullName": null,
+    "lat": 9.83837,
+    "lng": -83.98391,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621224,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Tres Ríos",
+    "fullName": null,
+    "lat": 9.90692,
+    "lng": -83.98789,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621200,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Tucurrique",
+    "fullName": null,
+    "lat": 9.85336,
+    "lng": -83.72273,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621184,
+    "parentId": 3624368,
+    "country": "CR",
+    "name": "Turrialba",
+    "fullName": null,
+    "lat": 9.90371,
+    "lng": -83.68361,
+    "tz": "America/Costa_Rica"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3660152,
+    "parentId": 3830306,
+    "country": "EC",
+    "name": "Boca Suno",
+    "fullName": null,
+    "lat": -0.69832,
+    "lng": -77.14083,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653773,
+    "parentId": 3830306,
+    "country": "EC",
+    "name": "Nuevo Rocafuerte",
+    "fullName": null,
+    "lat": -0.92624,
+    "lng": -75.40243,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652743,
+    "parentId": 3830306,
+    "country": "EC",
+    "name": "Puerto Francisco de Orellana",
+    "fullName": null,
+    "lat": -0.44967,
+    "lng": -76.99724,
+    "tz": "America/Guayaquil"
+  }
+]

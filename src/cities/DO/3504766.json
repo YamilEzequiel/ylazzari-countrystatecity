@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3506034,
+    "parentId": 3504766,
+    "country": "DO",
+    "name": "El Valle",
+    "fullName": null,
+    "lat": 18.97567,
+    "lng": -69.37827,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504983,
+    "parentId": 3504766,
+    "country": "DO",
+    "name": "Guayabo Dulce",
+    "fullName": null,
+    "lat": 18.65,
+    "lng": -69.28333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504765,
+    "parentId": 3504766,
+    "country": "DO",
+    "name": "Hato Mayor del Rey",
+    "fullName": null,
+    "lat": 18.76575,
+    "lng": -69.25579,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493568,
+    "parentId": 3504766,
+    "country": "DO",
+    "name": "Sabana de la Mar",
+    "fullName": null,
+    "lat": 19.05934,
+    "lng": -69.38843,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": 3615358,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Agualote",
+    "fullName": null,
+    "lat": 15.33621,
+    "lng": -88.55312,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615125,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Arada",
+    "fullName": null,
+    "lat": 14.84582,
+    "lng": -88.30108,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615028,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Atima",
+    "fullName": null,
+    "lat": 14.93253,
+    "lng": -88.48965,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614970,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Azacualpa",
+    "fullName": null,
+    "lat": 15.34364,
+    "lng": -88.55226,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614975,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Azacualpa",
+    "fullName": null,
+    "lat": 14.71218,
+    "lng": -88.0901,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614789,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Berlín",
+    "fullName": null,
+    "lat": 14.84281,
+    "lng": -88.49452,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614381,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Callejones",
+    "fullName": null,
+    "lat": 15.16667,
+    "lng": -88.65,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614343,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Camalote",
+    "fullName": null,
+    "lat": 15.33333,
+    "lng": -88.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614011,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Casa Quemada",
+    "fullName": null,
+    "lat": 15.26667,
+    "lng": -88.55,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613900,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Ceguaca",
+    "fullName": null,
+    "lat": 14.80232,
+    "lng": -88.20387,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613586,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Chiquila",
+    "fullName": null,
+    "lat": 15.23333,
+    "lng": -88.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613283,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Concepción del Norte",
+    "fullName": null,
+    "lat": 15.16667,
+    "lng": -88.13333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613281,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Concepción del Sur",
+    "fullName": null,
+    "lat": 14.8,
+    "lng": -88.16667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613145,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Correderos",
+    "fullName": null,
+    "lat": 15.41778,
+    "lng": -88.4552,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612064,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "El Ciruelo",
+    "fullName": null,
+    "lat": 15.29443,
+    "lng": -88.5083,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611995,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "El Corozal",
+    "fullName": null,
+    "lat": 15.06667,
+    "lng": -88.61667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611847,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "El Ermitano",
+    "fullName": null,
+    "lat": 15.25,
+    "lng": -88.68333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611267,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "El Mochito",
+    "fullName": null,
+    "lat": 14.86667,
+    "lng": -88.08333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611144,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "El Níspero",
+    "fullName": null,
+    "lat": 14.76667,
+    "lng": -88.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609453,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Guacamaya",
+    "fullName": null,
+    "lat": 15.02044,
+    "lng": -88.15025,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609342,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Gualjoco",
+    "fullName": null,
+    "lat": 14.9599,
+    "lng": -88.23735,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608860,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Ilama",
+    "fullName": null,
+    "lat": 15.06809,
+    "lng": -88.22311,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608631,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Joconal",
+    "fullName": null,
+    "lat": 15.35519,
+    "lng": -88.63295,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607919,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "La Flecha",
+    "fullName": null,
+    "lat": 15.29237,
+    "lng": -88.48953,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607079,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "La Reina",
+    "fullName": null,
+    "lat": 15.11667,
+    "lng": -88.63333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606164,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 15.13333,
+    "lng": -88.55,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607797,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Laguna Verde",
+    "fullName": null,
+    "lat": 15.2,
+    "lng": -88.16667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606251,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Las Vegas, Santa Barbara",
+    "fullName": null,
+    "lat": 14.87649,
+    "lng": -88.07473,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605873,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Loma Alta",
+    "fullName": null,
+    "lat": 15.39818,
+    "lng": -88.56251,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605203,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Macholoa",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -88.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604478,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Naranjito",
+    "fullName": null,
+    "lat": 14.95297,
+    "lng": -88.68333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604386,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Nueva Jalapa",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -88.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604376,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Nuevo Celilac",
+    "fullName": null,
+    "lat": 14.98333,
+    "lng": -88.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603799,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Petoa",
+    "fullName": null,
+    "lat": 15.26939,
+    "lng": -88.28878,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603627,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Pinalejo",
+    "fullName": null,
+    "lat": 15.38705,
+    "lng": -88.39207,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603329,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Potrerillos",
+    "fullName": null,
+    "lat": 15.26667,
+    "lng": -88.43333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603256,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Protección",
+    "fullName": null,
+    "lat": 15.02764,
+    "lng": -88.6469,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602952,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Quimistán",
+    "fullName": null,
+    "lat": 15.34752,
+    "lng": -88.4052,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602275,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Francisco de Ojuera",
+    "fullName": null,
+    "lat": 14.75,
+    "lng": -88.18333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602097,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San José de Colinas",
+    "fullName": null,
+    "lat": 15.04101,
+    "lng": -88.30186,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602069,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San José de Oriente",
+    "fullName": null,
+    "lat": 15.03333,
+    "lng": -88.11667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602065,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San José de Tarros",
+    "fullName": null,
+    "lat": 15.3,
+    "lng": -88.7,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601932,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Luis",
+    "fullName": null,
+    "lat": 15.12692,
+    "lng": -88.43931,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601925,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Luis de Planes",
+    "fullName": null,
+    "lat": 14.97603,
+    "lng": -88.1251,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601899,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Marcos",
+    "fullName": null,
+    "lat": 15.30248,
+    "lng": -88.41605,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601834,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Nicolás",
+    "fullName": null,
+    "lat": 14.9423,
+    "lng": -88.32796,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601780,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Pedro Zacapa",
+    "fullName": null,
+    "lat": 14.7565,
+    "lng": -88.11373,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601436,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "San Vicente Centenario",
+    "fullName": null,
+    "lat": 14.89045,
+    "lng": -88.28534,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601691,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Santa Bárbara",
+    "fullName": null,
+    "lat": 14.92217,
+    "lng": -88.23756,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601626,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Santa Cruz Minas",
+    "fullName": null,
+    "lat": 15.36667,
+    "lng": -88.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601518,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Santa Rita",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -88.21667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601162,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Sula",
+    "fullName": null,
+    "lat": 15.24765,
+    "lng": -88.56047,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600629,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Tras Cerros",
+    "fullName": null,
+    "lat": 15.3,
+    "lng": -88.66667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600608,
+    "parentId": 3601689,
+    "country": "HN",
+    "name": "Trinidad",
+    "fullName": null,
+    "lat": 15.14237,
+    "lng": -88.23321,
+    "tz": "America/Tegucigalpa"
+  }
+]

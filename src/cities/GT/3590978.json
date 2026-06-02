@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3599793,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Almolonga",
+    "fullName": null,
+    "lat": 14.81591,
+    "lng": -91.49464,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599287,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Cabricán",
+    "fullName": null,
+    "lat": 15.07485,
+    "lng": -91.648,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599253,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Cajolá",
+    "fullName": null,
+    "lat": 14.92205,
+    "lng": -91.61478,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599069,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Cantel",
+    "fullName": null,
+    "lat": 14.81154,
+    "lng": -91.45536,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598122,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Coatepeque",
+    "fullName": null,
+    "lat": 14.70413,
+    "lng": -91.86426,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598073,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Colomba",
+    "fullName": null,
+    "lat": 14.7073,
+    "lng": -91.73167,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597993,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Concepción Chiquirichapa",
+    "fullName": null,
+    "lat": 14.8551,
+    "lng": -91.6236,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596644,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "El Palmar",
+    "fullName": null,
+    "lat": 14.65083,
+    "lng": -91.578,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595721,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Flores Costa Cuca",
+    "fullName": null,
+    "lat": 14.63238,
+    "lng": -91.86341,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595674,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Génova",
+    "fullName": null,
+    "lat": 14.62216,
+    "lng": -91.8358,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595406,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Huitán",
+    "fullName": null,
+    "lat": 15.0492,
+    "lng": -91.63944,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594703,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "La Esperanza",
+    "fullName": null,
+    "lat": 14.87169,
+    "lng": -91.5614,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591997,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Ostuncalco",
+    "fullName": null,
+    "lat": 14.86899,
+    "lng": -91.62137,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591841,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Palestina de los Altos",
+    "fullName": null,
+    "lat": 14.93338,
+    "lng": -91.69403,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590979,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Quetzaltenango",
+    "fullName": null,
+    "lat": 14.84462,
+    "lng": -91.52316,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590605,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Salcajá",
+    "fullName": null,
+    "lat": 14.87964,
+    "lng": -91.45699,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590567,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Samayac",
+    "fullName": null,
+    "lat": 14.58084,
+    "lng": -91.46135,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590347,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "San Carlos Sija",
+    "fullName": null,
+    "lat": 14.98436,
+    "lng": -91.54912,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590213,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "San Francisco la Unión",
+    "fullName": null,
+    "lat": 14.9235,
+    "lng": -91.54157,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589778,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "San Martín Sacatepéquez",
+    "fullName": null,
+    "lat": 14.82443,
+    "lng": -91.64192,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589774,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "San Mateo",
+    "fullName": null,
+    "lat": 14.858,
+    "lng": -91.59004,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589706,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "San Miguel Sigüilá",
+    "fullName": null,
+    "lat": 14.89547,
+    "lng": -91.61457,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588762,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Sibilia",
+    "fullName": null,
+    "lat": 14.99391,
+    "lng": -91.62371,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587510,
+    "parentId": 3590978,
+    "country": "GT",
+    "name": "Zunil",
+    "fullName": null,
+    "lat": 14.78463,
+    "lng": -91.48345,
+    "tz": "America/Guatemala"
+  }
+]

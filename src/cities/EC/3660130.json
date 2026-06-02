@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3657571,
+    "parentId": 3660130,
+    "country": "EC",
+    "name": "Guaranda",
+    "fullName": null,
+    "lat": -1.59106,
+    "lng": -78.99903,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651639,
+    "parentId": 3660130,
+    "country": "EC",
+    "name": "San Miguel de Bolívar",
+    "fullName": null,
+    "lat": -1.70935,
+    "lng": -79.04201,
+    "tz": "America/Guayaquil"
+  }
+]

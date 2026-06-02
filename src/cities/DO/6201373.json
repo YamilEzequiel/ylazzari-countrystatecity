@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3511336,
+    "parentId": 6201373,
+    "country": "DO",
+    "name": "Boca Chica",
+    "fullName": null,
+    "lat": 18.45,
+    "lng": -69.6,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 8601412,
+    "parentId": 6201373,
+    "country": "DO",
+    "name": "Santo Domingo Este",
+    "fullName": null,
+    "lat": 18.48511,
+    "lng": -69.84757,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 7874116,
+    "parentId": 6201373,
+    "country": "DO",
+    "name": "Santo Domingo Oeste",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -70,
+    "tz": "America/Santo_Domingo"
+  }
+]

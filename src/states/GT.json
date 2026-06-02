@@ -1,0 +1,222 @@
+[
+  {
+    "id": 3599773,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Alta Verapaz",
+    "fullName": null,
+    "lat": 15.66667,
+    "lng": -90,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599602,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Baja Verapaz",
+    "fullName": null,
+    "lat": 15.08333,
+    "lng": -90.33333,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598571,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Chimaltenango",
+    "fullName": null,
+    "lat": 14.66667,
+    "lng": -90.91667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598464,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Chiquimula",
+    "fullName": null,
+    "lat": 14.66667,
+    "lng": -89.41667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596416,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de El Progreso",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -90,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595802,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Escuintla",
+    "fullName": null,
+    "lat": 14.16667,
+    "lng": -91,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595530,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Guatemala",
+    "fullName": null,
+    "lat": 14.66667,
+    "lng": -90.5,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595415,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Huehuetenango",
+    "fullName": null,
+    "lat": 15.66667,
+    "lng": -91.58333,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595259,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Izabal",
+    "fullName": null,
+    "lat": 15.5,
+    "lng": -89,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595236,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Jalapa",
+    "fullName": null,
+    "lat": 14.58333,
+    "lng": -89.91667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595067,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Jutiapa",
+    "fullName": null,
+    "lat": 14.16667,
+    "lng": -89.83333,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590978,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Quetzaltenango",
+    "fullName": null,
+    "lat": 14.75,
+    "lng": -91.66667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590857,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Retalhuleu",
+    "fullName": null,
+    "lat": 14.33333,
+    "lng": -91.83333,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590686,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Sacatepéquez",
+    "fullName": null,
+    "lat": 14.58333,
+    "lng": -90.75,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589801,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de San Marcos",
+    "fullName": null,
+    "lat": 15,
+    "lng": -91.91667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589172,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Santa Rosa",
+    "fullName": null,
+    "lat": 14.16667,
+    "lng": -90.3,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588697,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Sololá",
+    "fullName": null,
+    "lat": 14.66667,
+    "lng": -91.25,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588668,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Suchitepéquez",
+    "fullName": null,
+    "lat": 14.38084,
+    "lng": -91.43046,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588257,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Totonicapán",
+    "fullName": null,
+    "lat": 15,
+    "lng": -91.33333,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587586,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento de Zacapa",
+    "fullName": null,
+    "lat": 15,
+    "lng": -89.5,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591410,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento del Petén",
+    "fullName": null,
+    "lat": 16.83333,
+    "lng": -90,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590964,
+    "parentId": null,
+    "country": "GT",
+    "name": "Departamento del Quiché",
+    "fullName": null,
+    "lat": 15.5,
+    "lng": -90.91667,
+    "tz": "America/Guatemala"
+  }
+]

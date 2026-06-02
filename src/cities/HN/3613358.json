@@ -1,0 +1,212 @@
+[
+  {
+    "id": 3614705,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Bonito Oriental",
+    "fullName": null,
+    "lat": 15.74765,
+    "lng": -85.73559,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613189,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Corocito",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -85.78333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612949,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Cusuna",
+    "fullName": null,
+    "lat": 15.85,
+    "lng": -85.23333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611572,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Elíxir",
+    "fullName": null,
+    "lat": 15.48333,
+    "lng": -86.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609673,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Francia",
+    "fullName": null,
+    "lat": 15.85,
+    "lng": -85.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608718,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Jericó",
+    "fullName": null,
+    "lat": 15.95,
+    "lng": -85.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608377,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "La Brea",
+    "fullName": null,
+    "lat": 15.8,
+    "lng": -85.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608022,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "La Curva",
+    "fullName": null,
+    "lat": 15.8,
+    "lng": -85.76667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607948,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "La Esperanza",
+    "fullName": null,
+    "lat": 15.63333,
+    "lng": -85.76667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603267,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Prieta",
+    "fullName": null,
+    "lat": 15.5806,
+    "lng": -86.13664,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603167,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Puerto Castilla",
+    "fullName": null,
+    "lat": 16.01667,
+    "lng": -85.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603136,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Punta Piedra",
+    "fullName": null,
+    "lat": 15.9,
+    "lng": -85.28333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603097,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Quebrada de Arena",
+    "fullName": null,
+    "lat": 15.76667,
+    "lng": -85.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602769,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Río Esteban",
+    "fullName": null,
+    "lat": 15.83333,
+    "lng": -86.3,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601403,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Sabá",
+    "fullName": null,
+    "lat": 15.46667,
+    "lng": -86.25,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602602,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Salamá",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -85.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601496,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Santa Rosa de Aguán",
+    "fullName": null,
+    "lat": 15.95,
+    "lng": -85.71667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600969,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Taujica",
+    "fullName": null,
+    "lat": 15.7,
+    "lng": -85.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600704,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Tocoa",
+    "fullName": null,
+    "lat": 15.68333,
+    "lng": -86,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600591,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Trujillo",
+    "fullName": null,
+    "lat": 15.91741,
+    "lng": -85.95263,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600134,
+    "parentId": 3613358,
+    "country": "HN",
+    "name": "Zamora",
+    "fullName": null,
+    "lat": 15.63333,
+    "lng": -86.06667,
+    "tz": "America/Tegucigalpa"
+  }
+]

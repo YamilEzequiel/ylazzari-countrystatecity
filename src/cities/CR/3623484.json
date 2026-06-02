@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3624908,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "Ángeles",
+    "fullName": null,
+    "lat": 9.98863,
+    "lng": -84.05922,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623486,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "Heredia",
+    "fullName": null,
+    "lat": 9.99872,
+    "lng": -84.11587,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623287,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "La Asunción",
+    "fullName": null,
+    "lat": 9.97955,
+    "lng": -84.17178,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623032,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "Llorente",
+    "fullName": null,
+    "lat": 9.99842,
+    "lng": -84.15814,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622881,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "Mercedes Norte",
+    "fullName": null,
+    "lat": 10.00611,
+    "lng": -84.13018,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621967,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": 9.9816,
+    "lng": -84.18592,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621911,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 9.9938,
+    "lng": -84.12742,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621831,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "San Josecito",
+    "fullName": null,
+    "lat": 10.01265,
+    "lng": -84.1075,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621729,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "San Pablo",
+    "fullName": null,
+    "lat": 9.99559,
+    "lng": -84.09656,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621683,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "San Rafael",
+    "fullName": null,
+    "lat": 10.01817,
+    "lng": -84.09465,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621515,
+    "parentId": 3623484,
+    "country": "CR",
+    "name": "Santo Domingo",
+    "fullName": null,
+    "lat": 10.06389,
+    "lng": -84.15499,
+    "tz": "America/Costa_Rica"
+  }
+]

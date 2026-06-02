@@ -1,0 +1,312 @@
+[
+  {
+    "id": 3924610,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Achacachi",
+    "fullName": null,
+    "lat": -16.04707,
+    "lng": -68.68534,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3924569,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Achocalla",
+    "fullName": null,
+    "lat": -16.57386,
+    "lng": -68.15112,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3924105,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Amarete",
+    "fullName": null,
+    "lat": -15.23736,
+    "lng": -68.98517,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923284,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Batallas",
+    "fullName": null,
+    "lat": -16.3,
+    "lng": -68.53333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923251,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Belen",
+    "fullName": null,
+    "lat": -17.36667,
+    "lng": -67.55,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919715,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Campamento Colquiri",
+    "fullName": null,
+    "lat": -17.39169,
+    "lng": -67.12526,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3922037,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Caranavi",
+    "fullName": null,
+    "lat": -15.83403,
+    "lng": -67.56586,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3920244,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Chulumani",
+    "fullName": null,
+    "lat": -16.40855,
+    "lng": -67.5294,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919189,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Copacabana",
+    "fullName": null,
+    "lat": -16.1699,
+    "lng": -69.07919,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919097,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Coripata",
+    "fullName": null,
+    "lat": -16.3,
+    "lng": -67.6,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919085,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Coroico",
+    "fullName": null,
+    "lat": -16.19386,
+    "lng": -67.72998,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902685,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Eucaliptus",
+    "fullName": null,
+    "lat": -17.58333,
+    "lng": -67.51667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3914763,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Huarina",
+    "fullName": null,
+    "lat": -16.19066,
+    "lng": -68.6009,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3914715,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Huatajata",
+    "fullName": null,
+    "lat": -16.20886,
+    "lng": -68.70041,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3913855,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Ixiamas",
+    "fullName": null,
+    "lat": -13.76766,
+    "lng": -68.128,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3911925,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "La Paz",
+    "fullName": null,
+    "lat": -16.5,
+    "lng": -68.15,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3912119,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Lahuachaca",
+    "fullName": null,
+    "lat": -17.37692,
+    "lng": -67.67488,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3912103,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Laja",
+    "fullName": null,
+    "lat": -16.53333,
+    "lng": -68.38333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910758,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Mapiri",
+    "fullName": null,
+    "lat": -15.25,
+    "lng": -68.16667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910539,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Mecapaca",
+    "fullName": null,
+    "lat": -16.66829,
+    "lng": -68.01808,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910274,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Mocomoco",
+    "fullName": null,
+    "lat": -15.45648,
+    "lng": -68.99849,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3908339,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Patacamaya",
+    "fullName": null,
+    "lat": -17.23611,
+    "lng": -67.91443,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907361,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Pucarani",
+    "fullName": null,
+    "lat": -16.39959,
+    "lng": -68.47753,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3906765,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Quime",
+    "fullName": null,
+    "lat": -16.98333,
+    "lng": -67.21667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905206,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "San Pablo de Tiquina",
+    "fullName": null,
+    "lat": -16.21795,
+    "lng": -68.8428,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905159,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": -16.23717,
+    "lng": -68.85063,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904043,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Sorata",
+    "fullName": null,
+    "lat": -15.77305,
+    "lng": -68.64973,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3903046,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Tiahuanaco",
+    "fullName": null,
+    "lat": -16.55228,
+    "lng": -68.67953,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901742,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Viacha",
+    "fullName": null,
+    "lat": -16.65,
+    "lng": -68.3,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901485,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Viloco",
+    "fullName": null,
+    "lat": -16.95,
+    "lng": -67.55,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3913985,
+    "parentId": 3911924,
+    "country": "BO",
+    "name": "Yumani",
+    "fullName": null,
+    "lat": -16.03574,
+    "lng": -69.14843,
+    "tz": "America/La_Paz"
+  }
+]

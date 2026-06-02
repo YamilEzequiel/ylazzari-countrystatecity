@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3615022,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Auas",
+    "fullName": null,
+    "lat": 15.48333,
+    "lng": -84.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615011,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Auka",
+    "fullName": null,
+    "lat": 14.94087,
+    "lng": -83.83229,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614835,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Barra Patuca",
+    "fullName": null,
+    "lat": 15.8,
+    "lng": -84.28333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614663,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Brus Laguna",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -84.48333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608828,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Iralaya",
+    "fullName": null,
+    "lat": 15,
+    "lng": -83.23333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604089,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Palkaka",
+    "fullName": null,
+    "lat": 15.31667,
+    "lng": -83.86667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603998,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Paptalaya",
+    "fullName": null,
+    "lat": 15.5,
+    "lng": -84.31667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603157,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Puerto Lempira",
+    "fullName": null,
+    "lat": 15.26566,
+    "lng": -83.77436,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600754,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Tikiraya",
+    "fullName": null,
+    "lat": 15.01667,
+    "lng": -83.63333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600301,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Wasma",
+    "fullName": null,
+    "lat": 15.43333,
+    "lng": -84.4,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600280,
+    "parentId": 3609583,
+    "country": "HN",
+    "name": "Wawina",
+    "fullName": null,
+    "lat": 15.41667,
+    "lng": -84.43333,
+    "tz": "America/Tegucigalpa"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3620298,
+    "parentId": 3619193,
+    "country": "NI",
+    "name": "Condega",
+    "fullName": null,
+    "lat": 13.36502,
+    "lng": -86.39846,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619194,
+    "parentId": 3619193,
+    "country": "NI",
+    "name": "Estelí",
+    "fullName": null,
+    "lat": 13.09291,
+    "lng": -86.35589,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617162,
+    "parentId": 3619193,
+    "country": "NI",
+    "name": "Pueblo Nuevo",
+    "fullName": null,
+    "lat": 13.37984,
+    "lng": -86.48075,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616732,
+    "parentId": 3619193,
+    "country": "NI",
+    "name": "San Juan de Limay",
+    "fullName": null,
+    "lat": 13.17603,
+    "lng": -86.61234,
+    "tz": "America/Managua"
+  }
+]

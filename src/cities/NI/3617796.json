@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3618124,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Las Sabanas",
+    "fullName": null,
+    "lat": 13.34302,
+    "lng": -86.62184,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617388,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Palacagüina",
+    "fullName": null,
+    "lat": 13.45566,
+    "lng": -86.40622,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616757,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "San José de Cusmapa",
+    "fullName": null,
+    "lat": 13.28841,
+    "lng": -86.65539,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616721,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "San Juan de Río Coco",
+    "fullName": null,
+    "lat": 13.54476,
+    "lng": -86.16499,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616700,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "San Lucas",
+    "fullName": null,
+    "lat": 13.4138,
+    "lng": -86.6111,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616232,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Somoto",
+    "fullName": null,
+    "lat": 13.4841,
+    "lng": -86.58229,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616088,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Telpaneca",
+    "fullName": null,
+    "lat": 13.53151,
+    "lng": -86.2871,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615998,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Totogalpa",
+    "fullName": null,
+    "lat": 13.56284,
+    "lng": -86.49254,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615669,
+    "parentId": 3617796,
+    "country": "NI",
+    "name": "Yalagüina",
+    "fullName": null,
+    "lat": 13.48383,
+    "lng": -86.49305,
+    "tz": "America/Managua"
+  }
+]

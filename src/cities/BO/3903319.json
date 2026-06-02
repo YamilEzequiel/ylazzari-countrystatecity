@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3923154,
+    "parentId": 3903319,
+    "country": "BO",
+    "name": "Bermejo",
+    "fullName": null,
+    "lat": -22.73206,
+    "lng": -64.33724,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3917939,
+    "parentId": 3903319,
+    "country": "BO",
+    "name": "Entre Ríos",
+    "fullName": null,
+    "lat": -21.52661,
+    "lng": -64.17299,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3903320,
+    "parentId": 3903319,
+    "country": "BO",
+    "name": "Tarija",
+    "fullName": null,
+    "lat": -21.53549,
+    "lng": -64.72956,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901547,
+    "parentId": 3903319,
+    "country": "BO",
+    "name": "Villamontes",
+    "fullName": null,
+    "lat": -21.26235,
+    "lng": -63.46903,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901178,
+    "parentId": 3903319,
+    "country": "BO",
+    "name": "Yacuiba",
+    "fullName": null,
+    "lat": -22.01643,
+    "lng": -63.67753,
+    "tz": "America/La_Paz"
+  }
+]

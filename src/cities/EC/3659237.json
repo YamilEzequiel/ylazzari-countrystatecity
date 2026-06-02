@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3660798,
+    "parentId": 3659237,
+    "country": "EC",
+    "name": "Alausí",
+    "fullName": null,
+    "lat": -2.20128,
+    "lng": -78.84781,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657594,
+    "parentId": 3659237,
+    "country": "EC",
+    "name": "Guano",
+    "fullName": null,
+    "lat": -1.60689,
+    "lng": -78.63726,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652350,
+    "parentId": 3659237,
+    "country": "EC",
+    "name": "Riobamba",
+    "fullName": null,
+    "lat": -1.66506,
+    "lng": -78.65887,
+    "tz": "America/Guayaquil"
+  }
+]

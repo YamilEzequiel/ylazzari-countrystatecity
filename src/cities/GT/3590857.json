@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3598787,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "Champerico",
+    "fullName": null,
+    "lat": 14.29206,
+    "lng": -91.91339,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597587,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "El Asintal",
+    "fullName": null,
+    "lat": 14.59626,
+    "lng": -91.72744,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592105,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "Nuevo San Carlos",
+    "fullName": null,
+    "lat": 14.593,
+    "lng": -91.6939,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590858,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "Retalhuleu",
+    "fullName": null,
+    "lat": 14.53575,
+    "lng": -91.67848,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590522,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "San Andrés Villa Seca",
+    "fullName": null,
+    "lat": 14.57801,
+    "lng": -91.58539,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590288,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "San Felipe",
+    "fullName": null,
+    "lat": 14.62304,
+    "lng": -91.595,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589776,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "San Martín Zapotitlán",
+    "fullName": null,
+    "lat": 14.60794,
+    "lng": -91.60613,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589548,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "San Sebastián",
+    "fullName": null,
+    "lat": 14.56177,
+    "lng": -91.64865,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589400,
+    "parentId": 3590857,
+    "country": "GT",
+    "name": "Santa Cruz Muluá",
+    "fullName": null,
+    "lat": 14.58153,
+    "lng": -91.62441,
+    "tz": "America/Guatemala"
+  }
+]

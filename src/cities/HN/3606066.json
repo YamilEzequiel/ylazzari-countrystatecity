@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3613371,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Cololaca",
+    "fullName": null,
+    "lat": 14.3,
+    "lng": -88.88333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612784,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "El Achiotal",
+    "fullName": null,
+    "lat": 14.08333,
+    "lng": -88.75,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609775,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Erandique",
+    "fullName": null,
+    "lat": 14.23787,
+    "lng": -88.46447,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609586,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Gracias",
+    "fullName": null,
+    "lat": 14.59065,
+    "lng": -88.58612,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609191,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Guatemalita",
+    "fullName": null,
+    "lat": 14.11667,
+    "lng": -88.61667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607565,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "La Laguna del Pedernal",
+    "fullName": null,
+    "lat": 14.81667,
+    "lng": -88.56667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607538,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "La Libertad",
+    "fullName": null,
+    "lat": 14.81132,
+    "lng": -88.58715,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606171,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 14.81387,
+    "lng": -88.40845,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606097,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "La Virtud",
+    "fullName": null,
+    "lat": 14.06137,
+    "lng": -88.69482,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607810,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Lagunas",
+    "fullName": null,
+    "lat": 14.61667,
+    "lng": -88.48333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606319,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Las Tejeras",
+    "fullName": null,
+    "lat": 14.80442,
+    "lng": -88.59508,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606048,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Lepaera",
+    "fullName": null,
+    "lat": 14.77876,
+    "lng": -88.5902,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600997,
+    "parentId": 3606066,
+    "country": "HN",
+    "name": "Taragual",
+    "fullName": null,
+    "lat": 14.75,
+    "lng": -88.48333,
+    "tz": "America/Tegucigalpa"
+  }
+]

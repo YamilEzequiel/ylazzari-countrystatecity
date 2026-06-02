@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3659849,
+    "parentId": null,
+    "country": "EC",
+    "name": "Cañar",
+    "fullName": null,
+    "lat": -2.5,
+    "lng": -79,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659237,
+    "parentId": null,
+    "country": "EC",
+    "name": "Chimborazo",
+    "fullName": null,
+    "lat": -1.91667,
+    "lng": -78.75,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654005,
+    "parentId": null,
+    "country": "EC",
+    "name": "Morona Santiago",
+    "fullName": null,
+    "lat": -2.5,
+    "lng": -77.91667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3830306,
+    "parentId": null,
+    "country": "EC",
+    "name": "Orellana",
+    "fullName": null,
+    "lat": -0.75,
+    "lng": -76.41667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653392,
+    "parentId": null,
+    "country": "EC",
+    "name": "Pastaza",
+    "fullName": null,
+    "lat": -1.66667,
+    "lng": -76.83333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660130,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Bolívar",
+    "fullName": null,
+    "lat": -1.58333,
+    "lng": -79.08333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658766,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Cotopaxi",
+    "fullName": null,
+    "lat": -0.83333,
+    "lng": -78.83333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3658195,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de El Oro",
+    "fullName": null,
+    "lat": -3.5,
+    "lng": -79.83333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657986,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Esmeraldas",
+    "fullName": null,
+    "lat": 0.83333,
+    "lng": -79.25,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657879,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Galápagos",
+    "fullName": null,
+    "lat": -0.67015,
+    "lng": -90.87341,
+    "tz": "Pacific/Galapagos"
+  },
+  {
+    "id": 3655635,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Imbabura",
+    "fullName": null,
+    "lat": 0.37631,
+    "lng": -78.32371,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654665,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Loja",
+    "fullName": null,
+    "lat": -4.16667,
+    "lng": -79.5,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654592,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Los Ríos",
+    "fullName": null,
+    "lat": -1.41667,
+    "lng": -79.58333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654451,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Manabí",
+    "fullName": null,
+    "lat": -0.66667,
+    "lng": -80.08333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653890,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Napo",
+    "fullName": null,
+    "lat": -0.62915,
+    "lng": -77.83164,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653224,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Pichincha",
+    "fullName": null,
+    "lat": -0.08333,
+    "lng": -78.5,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 7062138,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Santa Elena",
+    "fullName": null,
+    "lat": -2.08333,
+    "lng": -80.58333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 7062136,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Santo Domingo de los Tsáchilas",
+    "fullName": null,
+    "lat": -0.28945,
+    "lng": -79.18577,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3830305,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia de Sucumbíos",
+    "fullName": null,
+    "lat": 0.1,
+    "lng": -76.86667,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660431,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia del Azuay",
+    "fullName": null,
+    "lat": -3.08333,
+    "lng": -79.33333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659718,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia del Carchi",
+    "fullName": null,
+    "lat": 0.75,
+    "lng": -78.08333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657505,
+    "parentId": null,
+    "country": "EC",
+    "name": "Provincia del Guayas",
+    "fullName": null,
+    "lat": -2,
+    "lng": -79.83333,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650445,
+    "parentId": null,
+    "country": "EC",
+    "name": "Tungurahua",
+    "fullName": null,
+    "lat": -1.25,
+    "lng": -78.5,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3649953,
+    "parentId": null,
+    "country": "EC",
+    "name": "Zamora Chinchipe",
+    "fullName": null,
+    "lat": -4.25,
+    "lng": -78.83333,
+    "tz": "America/Guayaquil"
+  }
+]

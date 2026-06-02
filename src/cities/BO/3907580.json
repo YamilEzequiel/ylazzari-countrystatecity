@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3923570,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Atocha",
+    "fullName": null,
+    "lat": -20.93515,
+    "lng": -66.22139,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923145,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Betanzos",
+    "fullName": null,
+    "lat": -19.55293,
+    "lng": -65.45395,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 12520246,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Ckochas",
+    "fullName": null,
+    "lat": -19.90708,
+    "lng": -64.86483,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919884,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Colchani",
+    "fullName": null,
+    "lat": -20.3,
+    "lng": -66.93333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919720,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Colquechaca",
+    "fullName": null,
+    "lat": -18.70031,
+    "lng": -66.00397,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3911409,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Llallagua",
+    "fullName": null,
+    "lat": -18.42494,
+    "lng": -66.57778,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907669,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Porco",
+    "fullName": null,
+    "lat": -21.05295,
+    "lng": -66.43024,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907584,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Potosí",
+    "fullName": null,
+    "lat": -19.58361,
+    "lng": -65.75306,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904956,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Santa Bárbara",
+    "fullName": null,
+    "lat": -20.91667,
+    "lng": -66.05,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3918972,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Santiago de Cotagaita",
+    "fullName": null,
+    "lat": -20.81724,
+    "lng": -65.66087,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902202,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Tupiza",
+    "fullName": null,
+    "lat": -21.44345,
+    "lng": -65.71875,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902024,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Uncía",
+    "fullName": null,
+    "lat": -18.46713,
+    "lng": -66.5671,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901903,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Uyuni",
+    "fullName": null,
+    "lat": -20.45967,
+    "lng": -66.82503,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901501,
+    "parentId": 3907580,
+    "country": "BO",
+    "name": "Villazón",
+    "fullName": null,
+    "lat": -22.08659,
+    "lng": -65.59422,
+    "tz": "America/La_Paz"
+  }
+]

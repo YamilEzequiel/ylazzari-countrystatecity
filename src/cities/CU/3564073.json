@@ -1,0 +1,322 @@
+[
+  {
+    "id": 3569370,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Alamar",
+    "fullName": null,
+    "lat": 23.15794,
+    "lng": -82.27837,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3569175,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Almendares",
+    "fullName": null,
+    "lat": 23.11012,
+    "lng": -82.42322,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3569116,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Alta Habana",
+    "fullName": null,
+    "lat": 23.06302,
+    "lng": -82.39542,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3568342,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Arroyo Naranjo",
+    "fullName": null,
+    "lat": 23.03811,
+    "lng": -82.37703,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567924,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Balcón de la Lisa",
+    "fullName": null,
+    "lat": 23.05346,
+    "lng": -82.4476,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 6956647,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Boyeros",
+    "fullName": null,
+    "lat": 23.0072,
+    "lng": -82.4017,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565136,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Casablanca",
+    "fullName": null,
+    "lat": 23.14292,
+    "lng": -82.3399,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3746183,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Centro Habana",
+    "fullName": null,
+    "lat": 23.13833,
+    "lng": -82.36417,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564436,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Cerro",
+    "fullName": null,
+    "lat": 23.10809,
+    "lng": -82.3866,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3746181,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Ciudad Camilo Cienfuegos",
+    "fullName": null,
+    "lat": 23.16076,
+    "lng": -82.32798,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563908,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Cojímar",
+    "fullName": null,
+    "lat": 23.16481,
+    "lng": -82.30116,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 6956648,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Diez de Octubre",
+    "fullName": null,
+    "lat": 23.0881,
+    "lng": -82.3597,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558729,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Fontanar",
+    "fullName": null,
+    "lat": 23.02389,
+    "lng": -82.408,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557846,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Guanabacoa",
+    "fullName": null,
+    "lat": 23.12518,
+    "lng": -82.30067,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557823,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Guanabo",
+    "fullName": null,
+    "lat": 23.16831,
+    "lng": -82.13737,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3553478,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Havana",
+    "fullName": null,
+    "lat": 23.13302,
+    "lng": -82.38304,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3746184,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "La Habana Vieja",
+    "fullName": null,
+    "lat": 23.13028,
+    "lng": -82.35306,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3550002,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Leader",
+    "fullName": null,
+    "lat": 23.03333,
+    "lng": -82.25,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547932,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Mantilla",
+    "fullName": null,
+    "lat": 23.06794,
+    "lng": -82.34143,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547640,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Marianao",
+    "fullName": null,
+    "lat": 23.07385,
+    "lng": -82.4189,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3546242,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Naranjito",
+    "fullName": null,
+    "lat": 23.07939,
+    "lng": -82.3769,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 8393989,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Plaza de la Revolución",
+    "fullName": null,
+    "lat": 23.11936,
+    "lng": -82.39197,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543361,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Puentes Grandes",
+    "fullName": null,
+    "lat": 23.1,
+    "lng": -82.4,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542502,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Regla",
+    "fullName": null,
+    "lat": 23.125,
+    "lng": -82.33194,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3540209,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "San Francisco de Paula",
+    "fullName": null,
+    "lat": 23.06325,
+    "lng": -82.29619,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3538803,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "San Miguel del Padrón",
+    "fullName": null,
+    "lat": 23.09544,
+    "lng": -82.32669,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3536724,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Santiago de las Vegas",
+    "fullName": null,
+    "lat": 22.97,
+    "lng": -82.38694,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3535498,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Tarará",
+    "fullName": null,
+    "lat": 23.17452,
+    "lng": -82.20655,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534599,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Vedado",
+    "fullName": null,
+    "lat": 23.13767,
+    "lng": -82.39339,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534597,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Vedado del Cotorro",
+    "fullName": null,
+    "lat": 23.05,
+    "lng": -82.25,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3550209,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Víbora",
+    "fullName": null,
+    "lat": 23.09387,
+    "lng": -82.37191,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534332,
+    "parentId": 3564073,
+    "country": "CU",
+    "name": "Víbora Park",
+    "fullName": null,
+    "lat": 23.08105,
+    "lng": -82.35448,
+    "tz": "America/Havana"
+  }
+]

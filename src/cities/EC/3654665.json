@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3659711,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Cariamanga",
+    "fullName": null,
+    "lat": -4.32804,
+    "lng": -79.55575,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659602,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Catacocha",
+    "fullName": null,
+    "lat": -4.05031,
+    "lng": -79.64982,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659599,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Catamayo",
+    "fullName": null,
+    "lat": -3.98661,
+    "lng": -79.35763,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659544,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Celica",
+    "fullName": null,
+    "lat": -4.10304,
+    "lng": -79.95598,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654667,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Loja",
+    "fullName": null,
+    "lat": -3.99313,
+    "lng": -79.20422,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654545,
+    "parentId": 3654665,
+    "country": "EC",
+    "name": "Macará",
+    "fullName": null,
+    "lat": -4.38184,
+    "lng": -79.94521,
+    "tz": "America/Guayaquil"
+  }
+]

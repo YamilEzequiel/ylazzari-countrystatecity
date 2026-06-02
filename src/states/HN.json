@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3615027,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Atlántida",
+    "fullName": null,
+    "lat": 15.66667,
+    "lng": -87,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613527,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Choluteca",
+    "fullName": null,
+    "lat": 13.33333,
+    "lng": -87.08333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613358,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Colón",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -85.66667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613319,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Comayagua",
+    "fullName": null,
+    "lat": 14.58333,
+    "lng": -87.66667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613229,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Copán",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -88.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613140,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Cortés",
+    "fullName": null,
+    "lat": 15.41667,
+    "lng": -88,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610942,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de El Paraíso",
+    "fullName": null,
+    "lat": 14.08333,
+    "lng": -86.5,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609672,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Francisco Morazán",
+    "fullName": null,
+    "lat": 14.25,
+    "lng": -87.16667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609583,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Gracias a Dios",
+    "fullName": null,
+    "lat": 15.25,
+    "lng": -84.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608833,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Intibucá",
+    "fullName": null,
+    "lat": 14.33333,
+    "lng": -88.16667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608814,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Islas de la Bahía",
+    "fullName": null,
+    "lat": 16.09597,
+    "lng": -86.93291,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607251,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de La Paz",
+    "fullName": null,
+    "lat": 14.08333,
+    "lng": -87.91667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606066,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Lempira",
+    "fullName": null,
+    "lat": 14.5,
+    "lng": -88.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604318,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Ocotepeque",
+    "fullName": null,
+    "lat": 14.5,
+    "lng": -89,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604249,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Olancho",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -86,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601689,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Santa Bárbara",
+    "fullName": null,
+    "lat": 15.08333,
+    "lng": -88.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600456,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Valle",
+    "fullName": null,
+    "lat": 13.58333,
+    "lng": -87.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600193,
+    "parentId": null,
+    "country": "HN",
+    "name": "Departamento de Yoro",
+    "fullName": null,
+    "lat": 15.25,
+    "lng": -87.16667,
+    "tz": "America/Tegucigalpa"
+  }
+]

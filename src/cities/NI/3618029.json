@@ -1,0 +1,132 @@
+[
+  {
+    "id": 3620982,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Achuapa",
+    "fullName": null,
+    "lat": 13.0537,
+    "lng": -86.59004,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619695,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "El Jicaral",
+    "fullName": null,
+    "lat": 12.72676,
+    "lng": -86.38057,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619382,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "El Sauce",
+    "fullName": null,
+    "lat": 12.88687,
+    "lng": -86.53903,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618411,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "La Paz Centro",
+    "fullName": null,
+    "lat": 12.34,
+    "lng": -86.67528,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618336,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Larreynaga",
+    "fullName": null,
+    "lat": 12.67612,
+    "lng": -86.57117,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618030,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "León",
+    "fullName": null,
+    "lat": 12.43527,
+    "lng": -86.87862,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617522,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Nagarote",
+    "fullName": null,
+    "lat": 12.26593,
+    "lng": -86.56474,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617833,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Nuevo Renacer",
+    "fullName": null,
+    "lat": 12.482,
+    "lng": -86.478,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617204,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Poneloya",
+    "fullName": null,
+    "lat": 12.3783,
+    "lng": -87.04223,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617143,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Puerto Sandino",
+    "fullName": null,
+    "lat": 12.19566,
+    "lng": -86.76005,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617115,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Quezalguaque",
+    "fullName": null,
+    "lat": 12.50683,
+    "lng": -86.90292,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616387,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Santa Rosa del Peñón",
+    "fullName": null,
+    "lat": 12.80116,
+    "lng": -86.36994,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616092,
+    "parentId": 3618029,
+    "country": "NI",
+    "name": "Telica",
+    "fullName": null,
+    "lat": 12.522,
+    "lng": -86.85938,
+    "tz": "America/Managua"
+  }
+]

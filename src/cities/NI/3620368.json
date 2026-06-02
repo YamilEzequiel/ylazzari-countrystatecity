@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3620978,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Acoyapa",
+    "fullName": null,
+    "lat": 11.97028,
+    "lng": -85.17113,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620318,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Comalapa",
+    "fullName": null,
+    "lat": 12.28345,
+    "lng": -85.51081,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618908,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Juigalpa",
+    "fullName": null,
+    "lat": 12.10591,
+    "lng": -85.36549,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618482,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "La Libertad",
+    "fullName": null,
+    "lat": 12.21635,
+    "lng": -85.16595,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620084,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Los Copeles",
+    "fullName": null,
+    "lat": 12.20869,
+    "lng": -85.31241,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620243,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "San Francisco de Cuapa",
+    "fullName": null,
+    "lat": 12.26875,
+    "lng": -85.38205,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616356,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Santo Domingo",
+    "fullName": null,
+    "lat": 12.26438,
+    "lng": -85.08235,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616349,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Santo Tomás",
+    "fullName": null,
+    "lat": 12.06938,
+    "lng": -85.09059,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615813,
+    "parentId": 3620368,
+    "country": "NI",
+    "name": "Villa Sandino",
+    "fullName": null,
+    "lat": 12.0483,
+    "lng": -84.99362,
+    "tz": "America/Managua"
+  }
+]

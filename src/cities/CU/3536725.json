@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3563504,
+    "parentId": 3536725,
+    "country": "CU",
+    "name": "Contramaestre",
+    "fullName": null,
+    "lat": 20.29879,
+    "lng": -76.24511,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3561408,
+    "parentId": 3536725,
+    "country": "CU",
+    "name": "El Cobre",
+    "fullName": null,
+    "lat": 20.0485,
+    "lng": -75.94579,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3545064,
+    "parentId": 3536725,
+    "country": "CU",
+    "name": "Palma Soriano",
+    "fullName": null,
+    "lat": 20.2113,
+    "lng": -75.99362,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3539093,
+    "parentId": 3536725,
+    "country": "CU",
+    "name": "San Luis",
+    "fullName": null,
+    "lat": 20.18809,
+    "lng": -75.85031,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3536729,
+    "parentId": 3536725,
+    "country": "CU",
+    "name": "Santiago de Cuba",
+    "fullName": null,
+    "lat": 20.02287,
+    "lng": -75.82171,
+    "tz": "America/Havana"
+  }
+]

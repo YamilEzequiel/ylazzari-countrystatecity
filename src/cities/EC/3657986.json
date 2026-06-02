@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3657990,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "Esmeraldas",
+    "fullName": null,
+    "lat": 0.9592,
+    "lng": -79.65397,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653967,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "Muisne",
+    "fullName": null,
+    "lat": 0.61045,
+    "lng": -80.0186,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660134,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "Pampanal de Bolívar",
+    "fullName": null,
+    "lat": 1.35251,
+    "lng": -78.8936,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652257,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "Rosa Zarate",
+    "fullName": null,
+    "lat": 0.32779,
+    "lng": -79.47407,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651694,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "San Lorenzo de Esmeraldas",
+    "fullName": null,
+    "lat": 1.28626,
+    "lng": -78.83514,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650312,
+    "parentId": 3657986,
+    "country": "EC",
+    "name": "Valdez",
+    "fullName": null,
+    "lat": 1.24917,
+    "lng": -78.98306,
+    "tz": "America/Guayaquil"
+  }
+]

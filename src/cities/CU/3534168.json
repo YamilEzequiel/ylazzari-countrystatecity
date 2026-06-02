@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3569548,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Aguada de Moya",
+    "fullName": null,
+    "lat": 22.547,
+    "lng": -79.72014,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566356,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Caibarién",
+    "fullName": null,
+    "lat": 22.51996,
+    "lng": -79.46599,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566235,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Calabazar de Sagua",
+    "fullName": null,
+    "lat": 22.64515,
+    "lng": -79.8951,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566054,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Camajuaní",
+    "fullName": null,
+    "lat": 22.48333,
+    "lng": -79.75,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 11784278,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Chorrerón",
+    "fullName": null,
+    "lat": 22.53363,
+    "lng": -79.7116,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564114,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Cifuentes",
+    "fullName": null,
+    "lat": 22.6493,
+    "lng": -80.04935,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563317,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Corralillo",
+    "fullName": null,
+    "lat": 22.98212,
+    "lng": -80.58556,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3763126,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Crucero Carmita",
+    "fullName": null,
+    "lat": 22.45551,
+    "lng": -79.79266,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3559416,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Encrucijada",
+    "fullName": null,
+    "lat": 22.61802,
+    "lng": -79.86603,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3559235,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Esperanza",
+    "fullName": null,
+    "lat": 22.4468,
+    "lng": -80.09711,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556629,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Isabela de Sagua",
+    "fullName": null,
+    "lat": 22.93924,
+    "lng": -80.01185,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3552821,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "La Luz",
+    "fullName": null,
+    "lat": 22.52507,
+    "lng": -79.79768,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565244,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Luis Arcos Bergnes",
+    "fullName": null,
+    "lat": 22.50402,
+    "lng": -79.81521,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547976,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Manicaragua",
+    "fullName": null,
+    "lat": 22.15021,
+    "lng": -79.97867,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543961,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Placetas",
+    "fullName": null,
+    "lat": 22.31184,
+    "lng": -79.6544,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543077,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Quemado de Güines",
+    "fullName": null,
+    "lat": 22.78816,
+    "lng": -80.25226,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542753,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Rancho Veloz",
+    "fullName": null,
+    "lat": 22.88042,
+    "lng": -80.39098,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542744,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Ranchuelo",
+    "fullName": null,
+    "lat": 22.37266,
+    "lng": -80.15046,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542455,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Remedios",
+    "fullName": null,
+    "lat": 22.49502,
+    "lng": -79.54548,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3541440,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Sagua la Grande",
+    "fullName": null,
+    "lat": 22.80667,
+    "lng": -80.07556,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3537906,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Santa Clara",
+    "fullName": null,
+    "lat": 22.40711,
+    "lng": -79.96581,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3536640,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Santo Domingo",
+    "fullName": null,
+    "lat": 22.58677,
+    "lng": -80.24261,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534583,
+    "parentId": 3534168,
+    "country": "CU",
+    "name": "Vega Alta",
+    "fullName": null,
+    "lat": 22.55,
+    "lng": -79.81917,
+    "tz": "America/Havana"
+  }
+]

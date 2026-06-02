@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3567834,
+    "parentId": 3557685,
+    "country": "CU",
+    "name": "Baracoa",
+    "fullName": null,
+    "lat": 20.34711,
+    "lng": -74.49624,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557689,
+    "parentId": 3557685,
+    "country": "CU",
+    "name": "Guantánamo",
+    "fullName": null,
+    "lat": 20.14444,
+    "lng": -75.20917,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3548441,
+    "parentId": 3557685,
+    "country": "CU",
+    "name": "Maisí",
+    "fullName": null,
+    "lat": 20.24673,
+    "lng": -74.15181,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 13527055,
+    "parentId": 3557685,
+    "country": "CU",
+    "name": "Naval Station Guantanamo Bay",
+    "fullName": null,
+    "lat": 19.91579,
+    "lng": -75.14385,
+    "tz": "America/New_York"
+  },
+  {
+    "id": 3542137,
+    "parentId": 3557685,
+    "country": "CU",
+    "name": "Río Guayabal de Yateras",
+    "fullName": null,
+    "lat": 20.36667,
+    "lng": -75.01667,
+    "tz": "America/Havana"
+  }
+]

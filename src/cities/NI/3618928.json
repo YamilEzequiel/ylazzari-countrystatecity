@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3618929,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "Jinotega",
+    "fullName": null,
+    "lat": 13.09103,
+    "lng": -86.00234,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3618637,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "La Concordia",
+    "fullName": null,
+    "lat": 13.19528,
+    "lng": -86.16659,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 7701408,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "Las Praderas",
+    "fullName": null,
+    "lat": 13.348,
+    "lng": -85.944,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615899,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "LLano de La Cruz",
+    "fullName": null,
+    "lat": 13.12491,
+    "lng": -86.00942,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616759,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "San José de Bocay",
+    "fullName": null,
+    "lat": 13.54204,
+    "lng": -85.53942,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616597,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "San Rafael del Norte",
+    "fullName": null,
+    "lat": 13.21248,
+    "lng": -86.11089,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616572,
+    "parentId": 3618928,
+    "country": "NI",
+    "name": "San Sebastián de Yalí",
+    "fullName": null,
+    "lat": 13.3054,
+    "lng": -86.18641,
+    "tz": "America/Managua"
+  }
+]

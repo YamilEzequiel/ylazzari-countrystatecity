@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3921355,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Challapata",
+    "fullName": null,
+    "lat": -18.90208,
+    "lng": -66.77048,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3918611,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Curahuara de Carangas",
+    "fullName": null,
+    "lat": -17.84265,
+    "lng": -68.40877,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3914839,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Huanuni",
+    "fullName": null,
+    "lat": -18.289,
+    "lng": -66.83583,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910971,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Machacamarca",
+    "fullName": null,
+    "lat": -18.17251,
+    "lng": -67.02099,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3909234,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Oruro",
+    "fullName": null,
+    "lat": -17.97153,
+    "lng": -67.0932,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907685,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Poopó",
+    "fullName": null,
+    "lat": -18.37978,
+    "lng": -66.96896,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3902504,
+    "parentId": 3909233,
+    "country": "BO",
+    "name": "Totoral",
+    "fullName": null,
+    "lat": -18.4957,
+    "lng": -66.87397,
+    "tz": "America/La_Paz"
+  }
+]

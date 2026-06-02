@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3567669,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Bartolomé Masó",
+    "fullName": null,
+    "lat": 20.16635,
+    "lng": -76.94291,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567597,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Bayamo",
+    "fullName": null,
+    "lat": 20.37368,
+    "lng": -76.64272,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3565951,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Campechuela",
+    "fullName": null,
+    "lat": 20.23329,
+    "lng": -77.2799,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3564885,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Cauto Cristo",
+    "fullName": null,
+    "lat": 20.55709,
+    "lng": -76.4727,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557332,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Guisa",
+    "fullName": null,
+    "lat": 20.25494,
+    "lng": -76.5393,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556168,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Jiguaní",
+    "fullName": null,
+    "lat": 20.36785,
+    "lng": -76.42741,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547867,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Manzanillo",
+    "fullName": null,
+    "lat": 20.34173,
+    "lng": -77.12126,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3547260,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Media Luna",
+    "fullName": null,
+    "lat": 20.14298,
+    "lng": -77.43532,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3545981,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Niquero",
+    "fullName": null,
+    "lat": 20.04698,
+    "lng": -77.58089,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3544171,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Pilón",
+    "fullName": null,
+    "lat": 19.90553,
+    "lng": -77.32152,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542167,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Río Cauto",
+    "fullName": null,
+    "lat": 20.55971,
+    "lng": -76.91673,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3533753,
+    "parentId": 3558052,
+    "country": "CU",
+    "name": "Yara",
+    "fullName": null,
+    "lat": 20.27465,
+    "lng": -76.95132,
+    "tz": "America/Havana"
+  }
+]

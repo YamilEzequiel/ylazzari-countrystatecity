@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3597078,
+    "parentId": 3595259,
+    "country": "GT",
+    "name": "El Estor",
+    "fullName": null,
+    "lat": 15.53221,
+    "lng": -89.33111,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3593376,
+    "parentId": 3595259,
+    "country": "GT",
+    "name": "Lívingston",
+    "fullName": null,
+    "lat": 15.82826,
+    "lng": -88.75039,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3593235,
+    "parentId": 3595259,
+    "country": "GT",
+    "name": "Los Amates",
+    "fullName": null,
+    "lat": 15.25645,
+    "lng": -89.09723,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592362,
+    "parentId": 3595259,
+    "country": "GT",
+    "name": "Morales",
+    "fullName": null,
+    "lat": 15.47225,
+    "lng": -88.8407,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591062,
+    "parentId": 3595259,
+    "country": "GT",
+    "name": "Puerto Barrios",
+    "fullName": null,
+    "lat": 15.72724,
+    "lng": -88.59787,
+    "tz": "America/Guatemala"
+  }
+]

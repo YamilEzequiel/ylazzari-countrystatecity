@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3569024,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Amancio",
+    "fullName": null,
+    "lat": 20.81914,
+    "lng": -77.57958,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3563856,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Colombia",
+    "fullName": null,
+    "lat": 20.98812,
+    "lng": -77.42598,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556268,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Jesús Menéndez",
+    "fullName": null,
+    "lat": 21.16139,
+    "lng": -76.47919,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556078,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Jobabo",
+    "fullName": null,
+    "lat": 20.90748,
+    "lng": -77.28194,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3550598,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Las Tunas",
+    "fullName": null,
+    "lat": 20.96135,
+    "lng": -76.95192,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3548099,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Manatí",
+    "fullName": null,
+    "lat": 21.3107,
+    "lng": -76.93403,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3543299,
+    "parentId": 3550595,
+    "country": "CU",
+    "name": "Puerto Padre",
+    "fullName": null,
+    "lat": 21.19517,
+    "lng": -76.60358,
+    "tz": "America/Havana"
+  }
+]

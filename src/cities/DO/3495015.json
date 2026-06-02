@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3512067,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Baní",
+    "fullName": null,
+    "lat": 18.27971,
+    "lng": -70.33181,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496601,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Matanzas",
+    "fullName": null,
+    "lat": 18.24297,
+    "lng": -70.41768,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495811,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Nizao",
+    "fullName": null,
+    "lat": 18.24697,
+    "lng": -70.21053,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495159,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Paya",
+    "fullName": null,
+    "lat": 18.26196,
+    "lng": -70.2956,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494655,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Pizarrete",
+    "fullName": null,
+    "lat": 18.29935,
+    "lng": -70.22648,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493601,
+    "parentId": 3495015,
+    "country": "DO",
+    "name": "Sabana Buey",
+    "fullName": null,
+    "lat": 18.27351,
+    "lng": -70.52352,
+    "tz": "America/Santo_Domingo"
+  }
+]

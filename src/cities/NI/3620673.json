@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3620674,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "Boaco",
+    "fullName": null,
+    "lat": 12.47255,
+    "lng": -85.65956,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620544,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "Camoapa",
+    "fullName": null,
+    "lat": 12.38383,
+    "lng": -85.51277,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616753,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "San José de los Remates",
+    "fullName": null,
+    "lat": 12.5975,
+    "lng": -85.76174,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616708,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "San Lorenzo",
+    "fullName": null,
+    "lat": 12.3783,
+    "lng": -85.66646,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616459,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "Santa Lucía",
+    "fullName": null,
+    "lat": 12.53262,
+    "lng": -85.71074,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616070,
+    "parentId": 3620673,
+    "country": "NI",
+    "name": "Teustepe",
+    "fullName": null,
+    "lat": 12.4203,
+    "lng": -85.79798,
+    "tz": "America/Managua"
+  }
+]

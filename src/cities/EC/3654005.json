@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3657661,
+    "parentId": 3654005,
+    "country": "EC",
+    "name": "Gualaquiza",
+    "fullName": null,
+    "lat": -3.40352,
+    "lng": -78.58148,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654541,
+    "parentId": 3654005,
+    "country": "EC",
+    "name": "Macas",
+    "fullName": null,
+    "lat": -2.30741,
+    "lng": -78.12026,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653523,
+    "parentId": 3654005,
+    "country": "EC",
+    "name": "Palora",
+    "fullName": null,
+    "lat": -1.70087,
+    "lng": -77.96609,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650956,
+    "parentId": 3654005,
+    "country": "EC",
+    "name": "Sucúa",
+    "fullName": null,
+    "lat": -2.45737,
+    "lng": -78.17102,
+    "tz": "America/Guayaquil"
+  }
+]

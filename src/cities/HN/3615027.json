@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3615069,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Arizona",
+    "fullName": null,
+    "lat": 15.63333,
+    "lng": -87.31667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615030,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Atenas de San Cristóbal",
+    "fullName": null,
+    "lat": 15.68333,
+    "lng": -87.31667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613175,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Corozal",
+    "fullName": null,
+    "lat": 15.8,
+    "lng": -86.71667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610813,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "El Pino",
+    "fullName": null,
+    "lat": 15.7,
+    "lng": -86.93333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610676,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "El Porvenir",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -86.93333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610051,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "El Triunfo de la Cruz",
+    "fullName": null,
+    "lat": 15.76667,
+    "lng": -87.43333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609027,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Hicaque",
+    "fullName": null,
+    "lat": 15.71667,
+    "lng": -87.36667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608514,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Jutiapa",
+    "fullName": null,
+    "lat": 15.76667,
+    "lng": -86.51667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608248,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "La Ceiba",
+    "fullName": null,
+    "lat": 15.75971,
+    "lng": -86.78221,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608155,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "La Colorada",
+    "fullName": null,
+    "lat": 15.61667,
+    "lng": -86.81667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607419,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "La Masica",
+    "fullName": null,
+    "lat": 15.61667,
+    "lng": -87.11667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606159,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "La Unión",
+    "fullName": null,
+    "lat": 15.71667,
+    "lng": -87,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604922,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Matarras",
+    "fullName": null,
+    "lat": 15.51667,
+    "lng": -87.4,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604835,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Mezapa",
+    "fullName": null,
+    "lat": 15.58333,
+    "lng": -87.65,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604836,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Mezapa",
+    "fullName": null,
+    "lat": 15.55,
+    "lng": -87.38333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604395,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Nueva Armenia",
+    "fullName": null,
+    "lat": 15.79556,
+    "lng": -86.49845,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603696,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Piedras Amarillas",
+    "fullName": null,
+    "lat": 15.68333,
+    "lng": -86.56667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602561,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Sambo Creek",
+    "fullName": null,
+    "lat": 15.81667,
+    "lng": -86.68333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602473,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "San Antonio",
+    "fullName": null,
+    "lat": 15.6,
+    "lng": -87.15,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602301,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 15.65,
+    "lng": -87.05,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601984,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "San Juan Pueblo",
+    "fullName": null,
+    "lat": 15.58333,
+    "lng": -87.23333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601707,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 15.65,
+    "lng": -87.06667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600931,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Tela",
+    "fullName": null,
+    "lat": 15.77425,
+    "lng": -87.46731,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600662,
+    "parentId": 3615027,
+    "country": "HN",
+    "name": "Tornabé",
+    "fullName": null,
+    "lat": 15.75,
+    "lng": -87.55,
+    "tz": "America/Tegucigalpa"
+  }
+]

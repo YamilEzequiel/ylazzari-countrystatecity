@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3509989,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Cayetano Germosén",
+    "fullName": null,
+    "lat": 19.34413,
+    "lng": -70.48342,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505488,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Gaspar Hernández",
+    "fullName": null,
+    "lat": 19.62748,
+    "lng": -70.27772,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504175,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Jamao al Norte",
+    "fullName": null,
+    "lat": 19.63552,
+    "lng": -70.44664,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504033,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Joba Arriba",
+    "fullName": null,
+    "lat": 19.56667,
+    "lng": -70.26667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503981,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "José Contreras",
+    "fullName": null,
+    "lat": 19.46954,
+    "lng": -70.45253,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503845,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Juan López Abajo",
+    "fullName": null,
+    "lat": 19.43333,
+    "lng": -70.5,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496331,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Moca",
+    "fullName": null,
+    "lat": 19.39289,
+    "lng": -70.52347,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492897,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "San Víctor Arriba",
+    "fullName": null,
+    "lat": 19.47741,
+    "lng": -70.53585,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492073,
+    "parentId": 3505867,
+    "country": "DO",
+    "name": "Veragua Arriba",
+    "fullName": null,
+    "lat": 19.58333,
+    "lng": -70.33333,
+    "tz": "America/Santo_Domingo"
+  }
+]

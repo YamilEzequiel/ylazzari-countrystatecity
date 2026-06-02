@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3567655,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Batabanó",
+    "fullName": null,
+    "lat": 22.71794,
+    "lng": -82.28965,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3567546,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Bejucal",
+    "fullName": null,
+    "lat": 22.92861,
+    "lng": -82.38861,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3557378,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Güines",
+    "fullName": null,
+    "lat": 22.83727,
+    "lng": -82.02641,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556406,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Jamaica",
+    "fullName": null,
+    "lat": 22.97559,
+    "lng": -82.16852,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556351,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Jaruco",
+    "fullName": null,
+    "lat": 23.04419,
+    "lng": -82.00919,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3554850,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "La Casualidad",
+    "fullName": null,
+    "lat": 23,
+    "lng": -82.21667,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3551608,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "La Salud",
+    "fullName": null,
+    "lat": 22.87199,
+    "lng": -82.42328,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3548529,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Madruga",
+    "fullName": null,
+    "lat": 22.91,
+    "lng": -81.85639,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3542965,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Quivicán",
+    "fullName": null,
+    "lat": 22.82313,
+    "lng": -82.35558,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3539560,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "San José de las Lajas",
+    "fullName": null,
+    "lat": 22.96121,
+    "lng": -82.15151,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3538758,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "San Nicolás de Bari",
+    "fullName": null,
+    "lat": 22.78444,
+    "lng": -81.91333,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3537845,
+    "parentId": 7668827,
+    "country": "CU",
+    "name": "Santa Cruz del Norte",
+    "fullName": null,
+    "lat": 23.15356,
+    "lng": -81.92262,
+    "tz": "America/Havana"
+  }
+]

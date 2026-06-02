@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3660559,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Arenillas",
+    "fullName": null,
+    "lat": -3.55399,
+    "lng": -80.06682,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660356,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Balsas",
+    "fullName": null,
+    "lat": -3.76146,
+    "lng": -79.82422,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3657722,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Guabo",
+    "fullName": null,
+    "lat": -3.24401,
+    "lng": -79.82874,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3655720,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Huaquillas",
+    "fullName": null,
+    "lat": -3.47523,
+    "lng": -80.23084,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654533,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Machala",
+    "fullName": null,
+    "lat": -3.25886,
+    "lng": -79.95876,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654367,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Marcabelí",
+    "fullName": null,
+    "lat": -3.7839,
+    "lng": -79.91227,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653403,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Pasaje",
+    "fullName": null,
+    "lat": -3.32561,
+    "lng": -79.80697,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653130,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Piñas",
+    "fullName": null,
+    "lat": -3.68017,
+    "lng": -79.68169,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652943,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Portovelo",
+    "fullName": null,
+    "lat": -3.71601,
+    "lng": -79.61893,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652757,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Puerto Bolívar",
+    "fullName": null,
+    "lat": -3.26649,
+    "lng": -79.99749,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651356,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Santa Rosa",
+    "fullName": null,
+    "lat": -3.45571,
+    "lng": -79.9637,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3649914,
+    "parentId": 3658195,
+    "country": "EC",
+    "name": "Zaruma",
+    "fullName": null,
+    "lat": -3.69227,
+    "lng": -79.61254,
+    "tz": "America/Guayaquil"
+  }
+]

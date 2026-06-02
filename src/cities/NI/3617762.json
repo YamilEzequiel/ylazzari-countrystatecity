@@ -1,0 +1,102 @@
+[
+  {
+    "id": 3828262,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Ciudad Sandino",
+    "fullName": null,
+    "lat": 12.15889,
+    "lng": -86.34417,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619853,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "El Crucero",
+    "fullName": null,
+    "lat": 11.99008,
+    "lng": -86.30954,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617763,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Managua",
+    "fullName": null,
+    "lat": 12.13282,
+    "lng": -86.2504,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617730,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Masachapa",
+    "fullName": null,
+    "lat": 11.78687,
+    "lng": -86.51416,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617697,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Mateare",
+    "fullName": null,
+    "lat": 12.23512,
+    "lng": -86.42809,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616594,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "San Rafael del Sur",
+    "fullName": null,
+    "lat": 11.84854,
+    "lng": -86.43839,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616064,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Ticuantepe",
+    "fullName": null,
+    "lat": 12.02263,
+    "lng": -86.20493,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616035,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Tipitapa",
+    "fullName": null,
+    "lat": 12.19732,
+    "lng": -86.09706,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3615865,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Valle San Francisco",
+    "fullName": null,
+    "lat": 12.5248,
+    "lng": -86.28872,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620473,
+    "parentId": 3617762,
+    "country": "NI",
+    "name": "Villa El Carmen",
+    "fullName": null,
+    "lat": 11.98009,
+    "lng": -86.50571,
+    "tz": "America/Managua"
+  }
+]

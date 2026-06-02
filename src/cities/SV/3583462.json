@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3587064,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Chapeltique",
+    "fullName": null,
+    "lat": 13.63333,
+    "lng": -88.26667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587037,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Chinameca",
+    "fullName": null,
+    "lat": 13.5,
+    "lng": -88.35,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587018,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Chirilagua",
+    "fullName": null,
+    "lat": 13.22028,
+    "lng": -88.13861,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586983,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Ciudad Barrios",
+    "fullName": null,
+    "lat": 13.76667,
+    "lng": -88.26667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585856,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "El Tránsito",
+    "fullName": null,
+    "lat": 13.35,
+    "lng": -88.35,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584714,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Lolotique",
+    "fullName": null,
+    "lat": 13.55,
+    "lng": -88.35,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584348,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Moncagua",
+    "fullName": null,
+    "lat": 13.53333,
+    "lng": -88.25,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584260,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Nueva Guadalupe",
+    "fullName": null,
+    "lat": 13.53333,
+    "lng": -88.35,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583446,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "San Miguel",
+    "fullName": null,
+    "lat": 13.48261,
+    "lng": -88.18211,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583379,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "San Rafael Oriente",
+    "fullName": null,
+    "lat": 13.38333,
+    "lng": -88.35,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583155,
+    "parentId": 3583462,
+    "country": "SV",
+    "name": "Sesori",
+    "fullName": null,
+    "lat": 13.71667,
+    "lng": -88.36667,
+    "tz": "America/El_Salvador"
+  }
+]

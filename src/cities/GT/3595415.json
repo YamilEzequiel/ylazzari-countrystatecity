@@ -1,0 +1,312 @@
+[
+  {
+    "id": 3599912,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Aguacatán",
+    "fullName": null,
+    "lat": 15.34222,
+    "lng": -91.31141,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3599575,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Barillas",
+    "fullName": null,
+    "lat": 15.80361,
+    "lng": -91.31583,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598692,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Chiantla",
+    "fullName": null,
+    "lat": 15.35484,
+    "lng": -91.45807,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598041,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Colotenango",
+    "fullName": null,
+    "lat": 15.40602,
+    "lng": -91.71267,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598005,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Concepción Huista",
+    "fullName": null,
+    "lat": 15.62378,
+    "lng": -91.66521,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597802,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Cuilco",
+    "fullName": null,
+    "lat": 15.40719,
+    "lng": -91.94667,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595416,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Huehuetenango",
+    "fullName": null,
+    "lat": 15.32097,
+    "lng": -91.47001,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595282,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Ixtahuacán",
+    "fullName": null,
+    "lat": 15.41688,
+    "lng": -91.76927,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595248,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Jacaltenango",
+    "fullName": null,
+    "lat": 15.66662,
+    "lng": -91.71177,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3594423,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "La Libertad",
+    "fullName": null,
+    "lat": 15.51421,
+    "lng": -91.86944,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592751,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Malacatancito",
+    "fullName": null,
+    "lat": 15.24457,
+    "lng": -91.49901,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592217,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Nentón",
+    "fullName": null,
+    "lat": 15.80113,
+    "lng": -91.75423,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 11449731,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Nuevo León",
+    "fullName": null,
+    "lat": 15.79369,
+    "lng": -91.09237,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590458,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Antonio Huista",
+    "fullName": null,
+    "lat": 15.6501,
+    "lng": -91.77163,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590188,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Gaspar Ixchil",
+    "fullName": null,
+    "lat": 15.38796,
+    "lng": -91.72564,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589925,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Juan Atitán",
+    "fullName": null,
+    "lat": 15.42886,
+    "lng": -91.62398,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589900,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Juan Ixcoy",
+    "fullName": null,
+    "lat": 15.60022,
+    "lng": -91.44639,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589770,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Mateo Ixtatán",
+    "fullName": null,
+    "lat": 15.83194,
+    "lng": -91.47806,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589734,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Miguel Acatán",
+    "fullName": null,
+    "lat": 15.70401,
+    "lng": -91.59771,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589632,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Pedro Necta",
+    "fullName": null,
+    "lat": 15.49142,
+    "lng": -91.76551,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589595,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Rafael La Independencia",
+    "fullName": null,
+    "lat": 15.7015,
+    "lng": -91.53553,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589579,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Rafael Petzal",
+    "fullName": null,
+    "lat": 15.40487,
+    "lng": -91.66451,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589543,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Sebastián Coatán",
+    "fullName": null,
+    "lat": 15.73584,
+    "lng": -91.56285,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589541,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "San Sebastián Huehuetenango",
+    "fullName": null,
+    "lat": 15.38768,
+    "lng": -91.6153,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589498,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Santa Ana Huista",
+    "fullName": null,
+    "lat": 15.68085,
+    "lng": -91.82005,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589468,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Santa Bárbara",
+    "fullName": null,
+    "lat": 15.31617,
+    "lng": -91.63279,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589355,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Santa Eulalia",
+    "fullName": null,
+    "lat": 15.7306,
+    "lng": -91.45846,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589103,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Santiago Chimaltenango",
+    "fullName": null,
+    "lat": 15.47658,
+    "lng": -91.69656,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588694,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Soloma",
+    "fullName": null,
+    "lat": 15.65841,
+    "lng": -91.42994,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588474,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Tectitán",
+    "fullName": null,
+    "lat": 15.3063,
+    "lng": -92.06051,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588308,
+    "parentId": 3595415,
+    "country": "GT",
+    "name": "Todos Santos Cuchumatán",
+    "fullName": null,
+    "lat": 15.50846,
+    "lng": -91.60382,
+    "tz": "America/Guatemala"
+  }
+]

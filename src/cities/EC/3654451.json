@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3660401,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Bahía de Caráquez",
+    "fullName": null,
+    "lat": -0.60033,
+    "lng": -80.42444,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659926,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Calceta",
+    "fullName": null,
+    "lat": -0.84582,
+    "lng": -80.16389,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659139,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Chone",
+    "fullName": null,
+    "lat": -0.6985,
+    "lng": -80.0925,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3655446,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Jipijapa",
+    "fullName": null,
+    "lat": -1.34841,
+    "lng": -80.57913,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3655385,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Junín",
+    "fullName": null,
+    "lat": -0.92777,
+    "lng": -80.20583,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654410,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Manta",
+    "fullName": null,
+    "lat": -0.94937,
+    "lng": -80.73137,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654055,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Montecristi",
+    "fullName": null,
+    "lat": -1.04576,
+    "lng": -80.65889,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653609,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Paján",
+    "fullName": null,
+    "lat": -1.55266,
+    "lng": -80.42846,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653307,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Pedernales",
+    "fullName": null,
+    "lat": 0.07168,
+    "lng": -80.05216,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652941,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Portoviejo",
+    "fullName": null,
+    "lat": -1.05764,
+    "lng": -80.45145,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3652315,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Rocafuerte",
+    "fullName": null,
+    "lat": -0.92447,
+    "lng": -80.45017,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651495,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Santa Ana de Vuelta Larga",
+    "fullName": null,
+    "lat": -1.20784,
+    "lng": -80.37059,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650960,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Sucre",
+    "fullName": null,
+    "lat": -1.27987,
+    "lng": -80.41776,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650554,
+    "parentId": 3654451,
+    "country": "EC",
+    "name": "Tosagua",
+    "fullName": null,
+    "lat": -0.78585,
+    "lng": -80.2346,
+    "tz": "America/Guayaquil"
+  }
+]

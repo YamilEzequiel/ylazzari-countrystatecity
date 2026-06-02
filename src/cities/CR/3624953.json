@@ -1,0 +1,242 @@
+[
+  {
+    "id": 3624955,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Alajuela",
+    "fullName": null,
+    "lat": 10.01723,
+    "lng": -84.21275,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624842,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Atenas",
+    "fullName": null,
+    "lat": 9.97489,
+    "lng": -84.37886,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624702,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Bijagua",
+    "fullName": null,
+    "lat": 10.73243,
+    "lng": -85.05721,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624379,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Carrillos",
+    "fullName": null,
+    "lat": 10.02918,
+    "lng": -84.27403,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623935,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Desamparados",
+    "fullName": null,
+    "lat": 9.94727,
+    "lng": -84.50626,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623755,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Esquipulas",
+    "fullName": null,
+    "lat": 10.05676,
+    "lng": -84.42337,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623726,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Florencia",
+    "fullName": null,
+    "lat": 10.36131,
+    "lng": -84.47496,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623716,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "La Fortuna",
+    "fullName": null,
+    "lat": 10.47089,
+    "lng": -84.64535,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623224,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Laguna",
+    "fullName": null,
+    "lat": 10.20951,
+    "lng": -84.40074,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623008,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Los Chiles",
+    "fullName": null,
+    "lat": 11.03253,
+    "lng": -84.71544,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622751,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Naranjo",
+    "fullName": null,
+    "lat": 10.09866,
+    "lng": -84.37824,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622660,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Orotina",
+    "fullName": null,
+    "lat": 9.91193,
+    "lng": -84.52337,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622382,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Pital",
+    "fullName": null,
+    "lat": 10.45056,
+    "lng": -84.27406,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622323,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Poco Sol",
+    "fullName": null,
+    "lat": 10.35509,
+    "lng": -84.65336,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622190,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Quesada",
+    "fullName": null,
+    "lat": 10.3266,
+    "lng": -84.432,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622074,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Río Segundo",
+    "fullName": null,
+    "lat": 10.2398,
+    "lng": -84.3171,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622022,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Sabanilla",
+    "fullName": null,
+    "lat": 10.07404,
+    "lng": -84.21551,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621841,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "San José",
+    "fullName": null,
+    "lat": 10.95192,
+    "lng": -85.13572,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621817,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "San Juan",
+    "fullName": null,
+    "lat": 10.10248,
+    "lng": -84.31694,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621679,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "San Rafael",
+    "fullName": null,
+    "lat": 10.06441,
+    "lng": -84.47361,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621644,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "San Ramón",
+    "fullName": null,
+    "lat": 10.08802,
+    "lng": -84.47022,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621520,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 10.02275,
+    "lng": -84.4442,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621153,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Upala",
+    "fullName": null,
+    "lat": 10.89908,
+    "lng": -85.01366,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3620994,
+    "parentId": 3624953,
+    "country": "CR",
+    "name": "Zarcero",
+    "fullName": null,
+    "lat": 10.18455,
+    "lng": -84.39163,
+    "tz": "America/Costa_Rica"
+  }
+]

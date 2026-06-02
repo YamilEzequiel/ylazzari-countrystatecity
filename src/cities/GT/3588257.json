@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3592483,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "Momostenango",
+    "fullName": null,
+    "lat": 15.04437,
+    "lng": -91.40864,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590520,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "San Andrés Xecul",
+    "fullName": null,
+    "lat": 14.90482,
+    "lng": -91.48307,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590399,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "San Bartolo",
+    "fullName": null,
+    "lat": 15.08438,
+    "lng": -91.45606,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590318,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "San Cristóbal Totonicapán",
+    "fullName": null,
+    "lat": 14.91682,
+    "lng": -91.4406,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590219,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "San Francisco El Alto",
+    "fullName": null,
+    "lat": 14.9449,
+    "lng": -91.4431,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589287,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "Santa Lucia La Reforma",
+    "fullName": null,
+    "lat": 15.12819,
+    "lng": -91.23619,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589256,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "Santa María Chiquimula",
+    "fullName": null,
+    "lat": 15.02992,
+    "lng": -91.3292,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588258,
+    "parentId": 3588257,
+    "country": "GT",
+    "name": "Totonicapán",
+    "fullName": null,
+    "lat": 14.91188,
+    "lng": -91.36054,
+    "tz": "America/Guatemala"
+  }
+]

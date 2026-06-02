@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3620106,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "El Almendro",
+    "fullName": null,
+    "lat": 11.67859,
+    "lng": -84.70269,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619954,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "El Castillo de La Concepción",
+    "fullName": null,
+    "lat": 11.01888,
+    "lng": -84.39702,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616730,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "Grey Town",
+    "fullName": null,
+    "lat": 10.94684,
+    "lng": -83.73467,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617575,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "Morrito",
+    "fullName": null,
+    "lat": 11.62118,
+    "lng": -85.08052,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616911,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": 11.12711,
+    "lng": -84.77794,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3616659,
+    "parentId": 3617056,
+    "country": "NI",
+    "name": "San Miguelito",
+    "fullName": null,
+    "lat": 11.40255,
+    "lng": -84.89991,
+    "tz": "America/Managua"
+  }
+]

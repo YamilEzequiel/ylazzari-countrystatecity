@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3658379,
+    "parentId": 3659718,
+    "country": "EC",
+    "name": "El Ángel",
+    "fullName": null,
+    "lat": 0.62022,
+    "lng": -77.94098,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651868,
+    "parentId": 3659718,
+    "country": "EC",
+    "name": "San Gabriel",
+    "fullName": null,
+    "lat": 0.59354,
+    "lng": -77.83066,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3650472,
+    "parentId": 3659718,
+    "country": "EC",
+    "name": "Tulcán",
+    "fullName": null,
+    "lat": 0.8124,
+    "lng": -77.71709,
+    "tz": "America/Guayaquil"
+  }
+]

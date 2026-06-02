@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3599094,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Canillá",
+    "fullName": null,
+    "lat": 15.16549,
+    "lng": -90.85256,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598804,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Chajul",
+    "fullName": null,
+    "lat": 15.48523,
+    "lng": -91.0352,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598670,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Chicamán",
+    "fullName": null,
+    "lat": 15.34786,
+    "lng": -90.79968,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598659,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Chiché",
+    "fullName": null,
+    "lat": 15.00885,
+    "lng": -91.06379,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598655,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Chichicastenango",
+    "fullName": null,
+    "lat": 14.94333,
+    "lng": -91.11116,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3598513,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Chinique",
+    "fullName": null,
+    "lat": 15.04147,
+    "lng": -91.02594,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3597772,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Cunén",
+    "fullName": null,
+    "lat": 15.33626,
+    "lng": -91.02776,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3595148,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Joyabaj",
+    "fullName": null,
+    "lat": 14.99311,
+    "lng": -90.80161,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592237,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Nebaj",
+    "fullName": null,
+    "lat": 15.40614,
+    "lng": -91.14682,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591955,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Pachalum",
+    "fullName": null,
+    "lat": 14.92472,
+    "lng": -90.66278,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3591517,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Patzité",
+    "fullName": null,
+    "lat": 14.96426,
+    "lng": -91.20788,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590690,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Sacapulas",
+    "fullName": null,
+    "lat": 15.28801,
+    "lng": -91.08914,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590526,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "San Andrés Sajcabajá",
+    "fullName": null,
+    "lat": 15.17603,
+    "lng": -90.9422,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590456,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "San Antonio Ilotenango",
+    "fullName": null,
+    "lat": 15.05472,
+    "lng": -91.22986,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590395,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "San Bartolomé Jocotenango",
+    "fullName": null,
+    "lat": 15.19153,
+    "lng": -91.07806,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589913,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "San Juan Cotzal",
+    "fullName": null,
+    "lat": 15.43368,
+    "lng": -91.03481,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589640,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "San Pédro Jocopilas",
+    "fullName": null,
+    "lat": 15.09525,
+    "lng": -91.15135,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589404,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Santa Cruz del Quiché",
+    "fullName": null,
+    "lat": 15.02995,
+    "lng": -91.14876,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3588043,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Uspantán",
+    "fullName": null,
+    "lat": 15.34672,
+    "lng": -90.8705,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3587578,
+    "parentId": 3590964,
+    "country": "GT",
+    "name": "Zacualpa",
+    "fullName": null,
+    "lat": 15.02681,
+    "lng": -90.87815,
+    "tz": "America/Guatemala"
+  }
+]

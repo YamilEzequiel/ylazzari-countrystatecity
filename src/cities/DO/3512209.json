@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3512208,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Azua",
+    "fullName": null,
+    "lat": 18.45319,
+    "lng": -70.7349,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3507461,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "El Guayabal",
+    "fullName": null,
+    "lat": 18.7496,
+    "lng": -70.8369,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505825,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Estebanía",
+    "fullName": null,
+    "lat": 18.4577,
+    "lng": -70.6435,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500641,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Las Charcas",
+    "fullName": null,
+    "lat": 18.45026,
+    "lng": -70.61724,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495664,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Padre Las Casas",
+    "fullName": null,
+    "lat": 18.73172,
+    "lng": -70.93917,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495546,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Palmar de Ocoa",
+    "fullName": null,
+    "lat": 18.29656,
+    "lng": -70.58635,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495020,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Peralta",
+    "fullName": null,
+    "lat": 18.58164,
+    "lng": -70.77029,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494329,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Pueblo Viejo",
+    "fullName": null,
+    "lat": 18.4,
+    "lng": -70.76765,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493410,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Sabana Yegua",
+    "fullName": null,
+    "lat": 18.71667,
+    "lng": -71.01667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492557,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Tábara Arriba",
+    "fullName": null,
+    "lat": 18.56999,
+    "lng": -70.87978,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491914,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Villarpando",
+    "fullName": null,
+    "lat": 18.6586,
+    "lng": -71.03916,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491736,
+    "parentId": 3512209,
+    "country": "DO",
+    "name": "Yayas de Viajama",
+    "fullName": null,
+    "lat": 18.6071,
+    "lng": -70.92753,
+    "tz": "America/Santo_Domingo"
+  }
+]

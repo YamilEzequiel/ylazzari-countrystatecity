@@ -1,0 +1,412 @@
+[
+  {
+    "id": 3924668,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Abapó Viejo",
+    "fullName": null,
+    "lat": -18.88562,
+    "lng": -63.3829,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 9129422,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Ascención de Guarayos",
+    "fullName": null,
+    "lat": -15.89299,
+    "lng": -63.18855,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923644,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Ascensión",
+    "fullName": null,
+    "lat": -15.7,
+    "lng": -63.08333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3923015,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Boyuibe",
+    "fullName": null,
+    "lat": -20.43274,
+    "lng": -63.2823,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3922965,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Buena Vista",
+    "fullName": null,
+    "lat": -17.4583,
+    "lng": -63.67126,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3922414,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Camiri",
+    "fullName": null,
+    "lat": -20.04063,
+    "lng": -63.52396,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3921141,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Charagua",
+    "fullName": null,
+    "lat": -19.79028,
+    "lng": -63.19775,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919703,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Comarapa",
+    "fullName": null,
+    "lat": -17.91537,
+    "lng": -64.53163,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3919352,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Concepción",
+    "fullName": null,
+    "lat": -16.43333,
+    "lng": -60.9,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3918937,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Cotoca",
+    "fullName": null,
+    "lat": -17.81667,
+    "lng": -63.05,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904666,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "El Torno",
+    "fullName": null,
+    "lat": -18.00014,
+    "lng": -63.38712,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3913271,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Jorochito",
+    "fullName": null,
+    "lat": -18.05608,
+    "lng": -63.42788,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3912418,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "La Bélgica",
+    "fullName": null,
+    "lat": -17.55,
+    "lng": -63.21667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3911512,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Limoncito",
+    "fullName": null,
+    "lat": -18.02782,
+    "lng": -63.40307,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3911120,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Los Negros",
+    "fullName": null,
+    "lat": -17.73333,
+    "lng": -63.43333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910901,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Mairana",
+    "fullName": null,
+    "lat": -18.1199,
+    "lng": -63.96058,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910343,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Mineros",
+    "fullName": null,
+    "lat": -17.11918,
+    "lng": -63.23226,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3910027,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Montero",
+    "fullName": null,
+    "lat": -17.33874,
+    "lng": -63.25093,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3909360,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Okinawa Número Uno",
+    "fullName": null,
+    "lat": -17.23333,
+    "lng": -62.81667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 12522475,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Okinawa Uno",
+    "fullName": null,
+    "lat": -17.21889,
+    "lng": -62.89528,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3909010,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Pailón",
+    "fullName": null,
+    "lat": -17.66395,
+    "lng": -62.71804,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3908263,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Paurito",
+    "fullName": null,
+    "lat": -17.88093,
+    "lng": -62.9414,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907646,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Portachuelo",
+    "fullName": null,
+    "lat": -17.35374,
+    "lng": -63.39571,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3907159,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Puerto Pailas",
+    "fullName": null,
+    "lat": -17.66783,
+    "lng": -62.79025,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3444201,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Puerto Quijarro",
+    "fullName": null,
+    "lat": -17.78333,
+    "lng": -57.76667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3444199,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Puerto Suárez",
+    "fullName": null,
+    "lat": -18.96722,
+    "lng": -57.80127,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3444176,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Roboré",
+    "fullName": null,
+    "lat": -18.33473,
+    "lng": -59.76142,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905951,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Samaipata",
+    "fullName": null,
+    "lat": -18.17754,
+    "lng": -63.87563,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905775,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": -17.40447,
+    "lng": -63.732,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905658,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Ignacio de Velasco",
+    "fullName": null,
+    "lat": -16.37767,
+    "lng": -60.96472,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905462,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Juan del Surutú",
+    "fullName": null,
+    "lat": -17.48333,
+    "lng": -63.7,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3905453,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Julian",
+    "fullName": null,
+    "lat": -17.78333,
+    "lng": -62.86667,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3444105,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Matías",
+    "fullName": null,
+    "lat": -16.3597,
+    "lng": -58.40039,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3444091,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "San Pedro",
+    "fullName": null,
+    "lat": -18.28691,
+    "lng": -59.81742,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904906,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Santa Cruz de la Sierra",
+    "fullName": null,
+    "lat": -17.78629,
+    "lng": -63.18117,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904809,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Santa Rita",
+    "fullName": null,
+    "lat": -17.97974,
+    "lng": -63.37084,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3904729,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Santa Rosa del Sara",
+    "fullName": null,
+    "lat": -17.10805,
+    "lng": -63.59967,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901969,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Urubichá",
+    "fullName": null,
+    "lat": -15.39286,
+    "lng": -62.94661,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901874,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Vallegrande",
+    "fullName": null,
+    "lat": -18.48887,
+    "lng": -64.10827,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901504,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Villa Yapacaní",
+    "fullName": null,
+    "lat": -17.4,
+    "lng": -63.83333,
+    "tz": "America/La_Paz"
+  },
+  {
+    "id": 3901301,
+    "parentId": 3904907,
+    "country": "BO",
+    "name": "Warnes",
+    "fullName": null,
+    "lat": -17.5163,
+    "lng": -63.16778,
+    "tz": "America/La_Paz"
+  }
+]

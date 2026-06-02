@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3652100,
+    "parentId": 7062138,
+    "country": "EC",
+    "name": "Salinas",
+    "fullName": null,
+    "lat": -2.21452,
+    "lng": -80.95151,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3651438,
+    "parentId": 7062138,
+    "country": "EC",
+    "name": "Santa Elena",
+    "fullName": null,
+    "lat": -2.22652,
+    "lng": -80.85807,
+    "tz": "America/Guayaquil"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3587498,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Acajutla",
+    "fullName": null,
+    "lat": 13.59278,
+    "lng": -89.8275,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587333,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Armenia",
+    "fullName": null,
+    "lat": 13.74361,
+    "lng": -89.49889,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585473,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Izalco",
+    "fullName": null,
+    "lat": 13.74472,
+    "lng": -89.67306,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585401,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Juayúa",
+    "fullName": null,
+    "lat": 13.84139,
+    "lng": -89.74556,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584297,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Nahuizalco",
+    "fullName": null,
+    "lat": 13.7775,
+    "lng": -89.73667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583851,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "San Antonio del Monte",
+    "fullName": null,
+    "lat": 13.71639,
+    "lng": -89.73833,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583102,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Sonsonate",
+    "fullName": null,
+    "lat": 13.71726,
+    "lng": -89.72304,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583098,
+    "parentId": 3583101,
+    "country": "SV",
+    "name": "Sonzacate",
+    "fullName": null,
+    "lat": 13.73417,
+    "lng": -89.71472,
+    "tz": "America/El_Salvador"
+  }
+]

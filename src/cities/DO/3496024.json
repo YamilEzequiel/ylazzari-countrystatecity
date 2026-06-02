@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3511550,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Bella Vista",
+    "fullName": null,
+    "lat": 18.45539,
+    "lng": -69.9454,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509578,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Ciudad Nueva",
+    "fullName": null,
+    "lat": 18.46707,
+    "lng": -69.89339,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3509183,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Cristo Rey",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -69.93333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505935,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Ensanche Luperón",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -69.9,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503735,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "La Agustina",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -69.93333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3502052,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "La Julia",
+    "fullName": null,
+    "lat": 18.46667,
+    "lng": -69.93333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493202,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "San Carlos",
+    "fullName": null,
+    "lat": 18.47674,
+    "lng": -69.89409,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492908,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Santo Domingo",
+    "fullName": null,
+    "lat": 18.47186,
+    "lng": -69.89232,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491946,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Villa Consuelo",
+    "fullName": null,
+    "lat": 18.48333,
+    "lng": -69.9,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3491941,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Villa Francisca",
+    "fullName": null,
+    "lat": 18.48278,
+    "lng": -69.88914,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 7290233,
+    "parentId": 3496024,
+    "country": "DO",
+    "name": "Zona Colonial",
+    "fullName": null,
+    "lat": 18.47,
+    "lng": -69.88644,
+    "tz": "America/Santo_Domingo"
+  }
+]

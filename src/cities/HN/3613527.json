@@ -1,0 +1,232 @@
+[
+  {
+    "id": 3615439,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Agua Caliente de Linaca",
+    "fullName": null,
+    "lat": 13.43528,
+    "lng": -87.23167,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613528,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Ciudad Choluteca",
+    "fullName": null,
+    "lat": 13.30569,
+    "lng": -87.17882,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613279,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Concepción de María",
+    "fullName": null,
+    "lat": 13.21667,
+    "lng": -87,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611987,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Corpus",
+    "fullName": null,
+    "lat": 13.28889,
+    "lng": -87.03472,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612801,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Duyure",
+    "fullName": null,
+    "lat": 13.63333,
+    "lng": -86.81667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611133,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "El Obraje",
+    "fullName": null,
+    "lat": 13.15417,
+    "lng": -87.13083,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610867,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "El Perico",
+    "fullName": null,
+    "lat": 13.13889,
+    "lng": -87.03222,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610610,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "El Puente",
+    "fullName": null,
+    "lat": 13.28333,
+    "lng": -87.11667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610060,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "El Triunfo",
+    "fullName": null,
+    "lat": 13.11667,
+    "lng": -87,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605491,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Los Llanitos",
+    "fullName": null,
+    "lat": 13.28694,
+    "lng": -87.33444,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605000,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Marcovia",
+    "fullName": null,
+    "lat": 13.28806,
+    "lng": -87.30972,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604686,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Monjarás",
+    "fullName": null,
+    "lat": 13.20056,
+    "lng": -87.37417,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604576,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Morolica",
+    "fullName": null,
+    "lat": 13.56667,
+    "lng": -86.9,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604503,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Namasigüe",
+    "fullName": null,
+    "lat": 13.20472,
+    "lng": -87.13889,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604189,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Orocuina",
+    "fullName": null,
+    "lat": 13.48167,
+    "lng": -87.105,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603805,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Pespire",
+    "fullName": null,
+    "lat": 13.59222,
+    "lng": -87.36167,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602549,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "San Agustín",
+    "fullName": null,
+    "lat": 13.2,
+    "lng": -87.11667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602330,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "San Francisco",
+    "fullName": null,
+    "lat": 13.36667,
+    "lng": -86.9,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602205,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "San Jerónimo",
+    "fullName": null,
+    "lat": 13.17667,
+    "lng": -87.13639,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3606901,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "San José de Las Conchas",
+    "fullName": null,
+    "lat": 13.32528,
+    "lng": -87.39556,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601888,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "San Marcos de Colón",
+    "fullName": null,
+    "lat": 13.43333,
+    "lng": -86.8,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601702,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Santa Ana de Yusguare",
+    "fullName": null,
+    "lat": 13.30056,
+    "lng": -87.11389,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601672,
+    "parentId": 3613527,
+    "country": "HN",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": 13.25806,
+    "lng": -87.34833,
+    "tz": "America/Tegucigalpa"
+  }
+]

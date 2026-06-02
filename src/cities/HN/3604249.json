@@ -1,0 +1,302 @@
+[
+  {
+    "id": 3615070,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Arimís",
+    "fullName": null,
+    "lat": 14.78333,
+    "lng": -86,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3614319,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Campamento",
+    "fullName": null,
+    "lat": 14.55,
+    "lng": -86.65,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3613263,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Concordia",
+    "fullName": null,
+    "lat": 14.61667,
+    "lng": -86.65,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3612810,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Dulce Nombre de Culmí",
+    "fullName": null,
+    "lat": 15.1,
+    "lng": -85.53333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611699,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "El Guayabito",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -86.03333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610375,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "El Rosario",
+    "fullName": null,
+    "lat": 14.9,
+    "lng": -86.68333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610365,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "El Rusio",
+    "fullName": null,
+    "lat": 14.46667,
+    "lng": -86.36667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609389,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Gualaco",
+    "fullName": null,
+    "lat": 15.02521,
+    "lng": -86.07076,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609231,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Guarizama",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -86.33333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609152,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Guayape",
+    "fullName": null,
+    "lat": 14.71667,
+    "lng": -86.83333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608503,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Juticalpa",
+    "fullName": null,
+    "lat": 14.66438,
+    "lng": -86.22246,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608500,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Jutiquile",
+    "fullName": null,
+    "lat": 14.71667,
+    "lng": -86.08333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608142,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "La Concepción",
+    "fullName": null,
+    "lat": 14.7,
+    "lng": -86.23333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607996,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "La Empalizada",
+    "fullName": null,
+    "lat": 14.65,
+    "lng": -86.13333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607931,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "La Estancia",
+    "fullName": null,
+    "lat": 15.05,
+    "lng": -86.35,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607830,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "La Guata",
+    "fullName": null,
+    "lat": 15.08333,
+    "lng": -86.38333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607802,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Laguna Seca",
+    "fullName": null,
+    "lat": 14.7,
+    "lng": -86.1,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605053,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Mangulile",
+    "fullName": null,
+    "lat": 15.06667,
+    "lng": -86.8,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3605042,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Manto",
+    "fullName": null,
+    "lat": 14.91667,
+    "lng": -86.38333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3603130,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Punuare",
+    "fullName": null,
+    "lat": 14.73333,
+    "lng": -85.96667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602690,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Sabana Abajo",
+    "fullName": null,
+    "lat": 14.6,
+    "lng": -86.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602603,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Salamá",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -86.58333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602355,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "San Esteban",
+    "fullName": null,
+    "lat": 15.21231,
+    "lng": -85.76996,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602287,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "San Francisco de Becerra",
+    "fullName": null,
+    "lat": 14.63333,
+    "lng": -86.1,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602281,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "San Francisco de la Paz",
+    "fullName": null,
+    "lat": 14.9,
+    "lng": -86.2,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602066,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "San José de Río Tinto",
+    "fullName": null,
+    "lat": 14.93333,
+    "lng": -85.7,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601836,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "San Nicolás",
+    "fullName": null,
+    "lat": 14.55,
+    "lng": -86.25,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601543,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Santa María del Real",
+    "fullName": null,
+    "lat": 14.76667,
+    "lng": -85.95,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601302,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Silca",
+    "fullName": null,
+    "lat": 14.83333,
+    "lng": -86.53333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3600057,
+    "parentId": 3604249,
+    "country": "HN",
+    "name": "Zopilotepe",
+    "fullName": null,
+    "lat": 14.6,
+    "lng": -86.26667,
+    "tz": "America/Tegucigalpa"
+  }
+]

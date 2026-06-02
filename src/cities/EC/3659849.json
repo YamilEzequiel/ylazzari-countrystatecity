@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3660434,
+    "parentId": 3659849,
+    "country": "EC",
+    "name": "Azogues",
+    "fullName": null,
+    "lat": -2.73982,
+    "lng": -78.84561,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3659852,
+    "parentId": 3659849,
+    "country": "EC",
+    "name": "Cañar",
+    "fullName": null,
+    "lat": -2.55941,
+    "lng": -78.93808,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3654853,
+    "parentId": 3659849,
+    "country": "EC",
+    "name": "La Troncal",
+    "fullName": null,
+    "lat": -2.42466,
+    "lng": -79.34159,
+    "tz": "America/Guayaquil"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3620172,
+    "parentId": 3619135,
+    "country": "NI",
+    "name": "Diriá",
+    "fullName": null,
+    "lat": 11.8842,
+    "lng": -86.05508,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3620168,
+    "parentId": 3619135,
+    "country": "NI",
+    "name": "Diriomo",
+    "fullName": null,
+    "lat": 11.87631,
+    "lng": -86.05184,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3619136,
+    "parentId": 3619135,
+    "country": "NI",
+    "name": "Granada",
+    "fullName": null,
+    "lat": 11.93062,
+    "lng": -85.95368,
+    "tz": "America/Managua"
+  },
+  {
+    "id": 3617513,
+    "parentId": 3619135,
+    "country": "NI",
+    "name": "Nandaime",
+    "fullName": null,
+    "lat": 11.75696,
+    "lng": -86.05286,
+    "tz": "America/Managua"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3586977,
+    "parentId": 3586831,
+    "country": "SV",
+    "name": "Cojutepeque",
+    "fullName": null,
+    "lat": 13.71971,
+    "lng": -88.93309,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583471,
+    "parentId": 3586831,
+    "country": "SV",
+    "name": "San Martín",
+    "fullName": null,
+    "lat": 13.78333,
+    "lng": -88.91667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583090,
+    "parentId": 3586831,
+    "country": "SV",
+    "name": "Suchitoto",
+    "fullName": null,
+    "lat": 13.93806,
+    "lng": -89.02778,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583009,
+    "parentId": 3586831,
+    "country": "SV",
+    "name": "Tecoluca",
+    "fullName": null,
+    "lat": 13.78917,
+    "lng": -89.00528,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582987,
+    "parentId": 3586831,
+    "country": "SV",
+    "name": "Tenancingo",
+    "fullName": null,
+    "lat": 13.83333,
+    "lng": -88.98333,
+    "tz": "America/El_Salvador"
+  }
+]

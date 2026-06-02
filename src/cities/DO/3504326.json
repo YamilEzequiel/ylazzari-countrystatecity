@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3509191,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Cristóbal",
+    "fullName": null,
+    "lat": 18.29405,
+    "lng": -71.29298,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508694,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Duvergé",
+    "fullName": null,
+    "lat": 18.37839,
+    "lng": -71.52469,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505029,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Guayabal",
+    "fullName": null,
+    "lat": 18.5981,
+    "lng": -71.64184,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504077,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Jimaní",
+    "fullName": null,
+    "lat": 18.48775,
+    "lng": -71.85148,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3502786,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "La Descubierta",
+    "fullName": null,
+    "lat": 18.57053,
+    "lng": -71.72967,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496446,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Mella",
+    "fullName": null,
+    "lat": 18.35871,
+    "lng": -71.41716,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494509,
+    "parentId": 3504326,
+    "country": "DO",
+    "name": "Postrer Río",
+    "fullName": null,
+    "lat": 18.54374,
+    "lng": -71.63561,
+    "tz": "America/Santo_Domingo"
+  }
+]

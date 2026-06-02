@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3587157,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Candelaria de La Frontera",
+    "fullName": null,
+    "lat": 14.11667,
+    "lng": -89.65,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3587086,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Chalchuapa",
+    "fullName": null,
+    "lat": 13.98667,
+    "lng": -89.68111,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586981,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Coatepeque",
+    "fullName": null,
+    "lat": 13.92861,
+    "lng": -89.50417,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586550,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "El Congo",
+    "fullName": null,
+    "lat": 13.90889,
+    "lng": -89.49583,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584384,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Metapán",
+    "fullName": null,
+    "lat": 14.33333,
+    "lng": -89.45,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583334,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Santa Ana",
+    "fullName": null,
+    "lat": 13.98827,
+    "lng": -89.55685,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582954,
+    "parentId": 3583332,
+    "country": "SV",
+    "name": "Texistepeque",
+    "fullName": null,
+    "lat": 14.13333,
+    "lng": -89.5,
+    "tz": "America/El_Salvador"
+  }
+]

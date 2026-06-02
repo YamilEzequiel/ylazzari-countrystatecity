@@ -1,0 +1,322 @@
+[
+  {
+    "id": 3512209,
+    "parentId": null,
+    "country": "DO",
+    "name": "Azua",
+    "fullName": null,
+    "lat": 18.58333,
+    "lng": -70.8,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3512050,
+    "parentId": null,
+    "country": "DO",
+    "name": "Baoruco",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -71.35,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3512042,
+    "parentId": null,
+    "country": "DO",
+    "name": "Barahona",
+    "fullName": null,
+    "lat": 18.16667,
+    "lng": -71.25,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508951,
+    "parentId": null,
+    "country": "DO",
+    "name": "Dajabón",
+    "fullName": null,
+    "lat": 19.43333,
+    "lng": -71.58333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496024,
+    "parentId": null,
+    "country": "DO",
+    "name": "Distrito Nacional",
+    "fullName": null,
+    "lat": 18.48333,
+    "lng": -69.93333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3506189,
+    "parentId": null,
+    "country": "DO",
+    "name": "El Seibo",
+    "fullName": null,
+    "lat": 18.8,
+    "lng": -69.05,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3507269,
+    "parentId": null,
+    "country": "DO",
+    "name": "Elías Piña",
+    "fullName": null,
+    "lat": 19,
+    "lng": -71.63333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504766,
+    "parentId": null,
+    "country": "DO",
+    "name": "Hato Mayor",
+    "fullName": null,
+    "lat": 18.83333,
+    "lng": -69.33333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3504326,
+    "parentId": null,
+    "country": "DO",
+    "name": "Independencia",
+    "fullName": null,
+    "lat": 18.4,
+    "lng": -71.63333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3500955,
+    "parentId": null,
+    "country": "DO",
+    "name": "La Romana",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -68.96667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3499977,
+    "parentId": null,
+    "country": "DO",
+    "name": "La Vega",
+    "fullName": null,
+    "lat": 19.05,
+    "lng": -70.65,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496274,
+    "parentId": null,
+    "country": "DO",
+    "name": "Monseñor Nouel",
+    "fullName": null,
+    "lat": 18.91667,
+    "lng": -70.41667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496200,
+    "parentId": null,
+    "country": "DO",
+    "name": "Monte Cristi",
+    "fullName": null,
+    "lat": 19.71667,
+    "lng": -71.46667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496132,
+    "parentId": null,
+    "country": "DO",
+    "name": "Monte Plata",
+    "fullName": null,
+    "lat": 18.83333,
+    "lng": -69.83333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495136,
+    "parentId": null,
+    "country": "DO",
+    "name": "Pedernales",
+    "fullName": null,
+    "lat": 18,
+    "lng": -71.56667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3495015,
+    "parentId": null,
+    "country": "DO",
+    "name": "Peravia",
+    "fullName": null,
+    "lat": 18.33333,
+    "lng": -70.36667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493282,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia de Hermanas Mirabal",
+    "fullName": null,
+    "lat": 19.41667,
+    "lng": -70.33333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3503706,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia de La Altagracia",
+    "fullName": null,
+    "lat": 18.58333,
+    "lng": -68.63333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 6201372,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia de San José de Ocoa",
+    "fullName": null,
+    "lat": 18.54882,
+    "lng": -70.50877,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 6201373,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia de Santo Domingo",
+    "fullName": null,
+    "lat": 18.56678,
+    "lng": -69.84874,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3508718,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia Duarte",
+    "fullName": null,
+    "lat": 19.25,
+    "lng": -70.08333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3505867,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia Espaillat",
+    "fullName": null,
+    "lat": 19.58333,
+    "lng": -70.41667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3496772,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia María Trinidad Sánchez",
+    "fullName": null,
+    "lat": 19.41667,
+    "lng": -70,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493192,
+    "parentId": null,
+    "country": "DO",
+    "name": "Provincia Sánchez Ramírez",
+    "fullName": null,
+    "lat": 19,
+    "lng": -70.16667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494267,
+    "parentId": null,
+    "country": "DO",
+    "name": "Puerto Plata",
+    "fullName": null,
+    "lat": 19.75,
+    "lng": -70.75,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493232,
+    "parentId": null,
+    "country": "DO",
+    "name": "Samaná Province",
+    "fullName": null,
+    "lat": 19.25,
+    "lng": -69.45,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493186,
+    "parentId": null,
+    "country": "DO",
+    "name": "San Cristóbal",
+    "fullName": null,
+    "lat": 18.55,
+    "lng": -70.2,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493091,
+    "parentId": null,
+    "country": "DO",
+    "name": "San Juan",
+    "fullName": null,
+    "lat": 18.83333,
+    "lng": -71.25,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493031,
+    "parentId": null,
+    "country": "DO",
+    "name": "San Pedro de Macorís",
+    "fullName": null,
+    "lat": 18.5,
+    "lng": -69.33333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492918,
+    "parentId": null,
+    "country": "DO",
+    "name": "Santiago",
+    "fullName": null,
+    "lat": 19.31667,
+    "lng": -70.88333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492912,
+    "parentId": null,
+    "country": "DO",
+    "name": "Santiago Rodríguez",
+    "fullName": null,
+    "lat": 19.41667,
+    "lng": -71.33333,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3492112,
+    "parentId": null,
+    "country": "DO",
+    "name": "Valverde",
+    "fullName": null,
+    "lat": 19.58333,
+    "lng": -71.05,
+    "tz": "America/Santo_Domingo"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3624822,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Bagaces",
+    "fullName": null,
+    "lat": 10.52541,
+    "lng": -85.25537,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624718,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Belén",
+    "fullName": null,
+    "lat": 10.40789,
+    "lng": -85.58836,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3624468,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Cañas",
+    "fullName": null,
+    "lat": 10.43105,
+    "lng": -85.09825,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623454,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Hojancha",
+    "fullName": null,
+    "lat": 10.0581,
+    "lng": -85.41809,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623307,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Juntas",
+    "fullName": null,
+    "lat": 10.28082,
+    "lng": -84.95912,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623258,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "La Cruz",
+    "fullName": null,
+    "lat": 11.07377,
+    "lng": -85.63272,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623715,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "La Fortuna",
+    "fullName": null,
+    "lat": 10.67434,
+    "lng": -85.19962,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3623076,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Liberia",
+    "fullName": null,
+    "lat": 10.63517,
+    "lng": -85.43779,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622765,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Nandayure",
+    "fullName": null,
+    "lat": 10.03333,
+    "lng": -85.2,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3622716,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Nicoya",
+    "fullName": null,
+    "lat": 10.15038,
+    "lng": -85.45093,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621990,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Sámara",
+    "fullName": null,
+    "lat": 9.88147,
+    "lng": -85.52809,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621607,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Santa Cruz",
+    "fullName": null,
+    "lat": 10.26053,
+    "lng": -85.5851,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621490,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Sardinal",
+    "fullName": null,
+    "lat": 10.51674,
+    "lng": -85.64748,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 6619864,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Tamarindo",
+    "fullName": null,
+    "lat": 10.29913,
+    "lng": -85.84107,
+    "tz": "America/Costa_Rica"
+  },
+  {
+    "id": 3621278,
+    "parentId": 3623582,
+    "country": "CR",
+    "name": "Tilarán",
+    "fullName": null,
+    "lat": 10.46701,
+    "lng": -84.96775,
+    "tz": "America/Costa_Rica"
+  }
+]

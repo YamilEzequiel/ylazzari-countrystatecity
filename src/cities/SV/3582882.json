@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3587266,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Berlín",
+    "fullName": null,
+    "lat": 13.5,
+    "lng": -88.53333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3586930,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Concepción Batres",
+    "fullName": null,
+    "lat": 13.35,
+    "lng": -88.36667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585438,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Jiquilisco",
+    "fullName": null,
+    "lat": 13.31667,
+    "lng": -88.58333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585398,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Jucuapa",
+    "fullName": null,
+    "lat": 13.51667,
+    "lng": -88.38333,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3585395,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Jucuarán",
+    "fullName": null,
+    "lat": 13.25389,
+    "lng": -88.24778,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584190,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Ozatlán",
+    "fullName": null,
+    "lat": 13.38333,
+    "lng": -88.5,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3584003,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Puerto El Triunfo",
+    "fullName": null,
+    "lat": 13.28333,
+    "lng": -88.55,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583910,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "San Agustín",
+    "fullName": null,
+    "lat": 13.43333,
+    "lng": -88.6,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583278,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Santa Elena",
+    "fullName": null,
+    "lat": 13.38333,
+    "lng": -88.41667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3583199,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Santiago de María",
+    "fullName": null,
+    "lat": 13.48333,
+    "lng": -88.46667,
+    "tz": "America/El_Salvador"
+  },
+  {
+    "id": 3582883,
+    "parentId": 3582882,
+    "country": "SV",
+    "name": "Usulután",
+    "fullName": null,
+    "lat": 13.34467,
+    "lng": -88.43994,
+    "tz": "America/El_Salvador"
+  }
+]

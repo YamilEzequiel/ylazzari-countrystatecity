@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3567869,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Banes",
+    "fullName": null,
+    "lat": 20.96116,
+    "lng": -75.722,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3566429,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Cacocum",
+    "fullName": null,
+    "lat": 20.73775,
+    "lng": -76.32574,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3562895,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Cueto",
+    "fullName": null,
+    "lat": 20.64855,
+    "lng": -75.92967,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3558315,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Gibara",
+    "fullName": null,
+    "lat": 21.10988,
+    "lng": -76.13145,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556969,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Holguín",
+    "fullName": null,
+    "lat": 20.88722,
+    "lng": -76.26306,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3556077,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Jobabo",
+    "fullName": null,
+    "lat": 20.96917,
+    "lng": -76.29944,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3546791,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Moa",
+    "fullName": null,
+    "lat": 20.65776,
+    "lng": -74.95075,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3541446,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "Sagua de Tánamo",
+    "fullName": null,
+    "lat": 20.58269,
+    "lng": -75.24116,
+    "tz": "America/Havana"
+  },
+  {
+    "id": 3534749,
+    "parentId": 3556965,
+    "country": "CU",
+    "name": "San Germán",
+    "fullName": null,
+    "lat": 20.60009,
+    "lng": -76.13364,
+    "tz": "America/Havana"
+  }
+]

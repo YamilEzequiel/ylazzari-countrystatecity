@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3660689,
+    "parentId": 3650445,
+    "country": "EC",
+    "name": "Ambato",
+    "fullName": null,
+    "lat": -1.24908,
+    "lng": -78.61675,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3660346,
+    "parentId": 3650445,
+    "country": "EC",
+    "name": "Baños",
+    "fullName": null,
+    "lat": -1.39699,
+    "lng": -78.42289,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653287,
+    "parentId": 3650445,
+    "country": "EC",
+    "name": "Pelileo",
+    "fullName": null,
+    "lat": -1.33057,
+    "lng": -78.54523,
+    "tz": "America/Guayaquil"
+  },
+  {
+    "id": 3653159,
+    "parentId": 3650445,
+    "country": "EC",
+    "name": "Píllaro",
+    "fullName": null,
+    "lat": -1.17381,
+    "lng": -78.55092,
+    "tz": "America/Guayaquil"
+  }
+]

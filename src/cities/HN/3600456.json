@@ -1,0 +1,142 @@
+[
+  {
+    "id": 3615391,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Agua Fría",
+    "fullName": null,
+    "lat": 13.46889,
+    "lng": -87.55111,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615213,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Amapala",
+    "fullName": null,
+    "lat": 13.29222,
+    "lng": -87.65389,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615115,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Aramecina",
+    "fullName": null,
+    "lat": 13.74222,
+    "lng": -87.71028,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611933,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "El Cubolero",
+    "fullName": null,
+    "lat": 13.46667,
+    "lng": -87.66667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3611697,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "El Guayabo",
+    "fullName": null,
+    "lat": 13.48944,
+    "lng": -87.44389,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3610046,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "El Tular",
+    "fullName": null,
+    "lat": 13.46639,
+    "lng": -87.51528,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3609608,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Goascorán",
+    "fullName": null,
+    "lat": 13.58333,
+    "lng": -87.61667,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608692,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Jícaro Galán",
+    "fullName": null,
+    "lat": 13.53167,
+    "lng": -87.43889,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3615250,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "La Alianza",
+    "fullName": null,
+    "lat": 13.51222,
+    "lng": -87.72444,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3608112,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "La Criba",
+    "fullName": null,
+    "lat": 13.45361,
+    "lng": -87.41333,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3607294,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Langue",
+    "fullName": null,
+    "lat": 13.62083,
+    "lng": -87.6525,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3604522,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "Nacaome",
+    "fullName": null,
+    "lat": 13.53917,
+    "lng": -87.48913,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3602284,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "San Francisco de Coray",
+    "fullName": null,
+    "lat": 13.66139,
+    "lng": -87.53278,
+    "tz": "America/Tegucigalpa"
+  },
+  {
+    "id": 3601977,
+    "parentId": 3600456,
+    "country": "HN",
+    "name": "San Lorenzo",
+    "fullName": null,
+    "lat": 13.42417,
+    "lng": -87.44722,
+    "tz": "America/Tegucigalpa"
+  }
+]

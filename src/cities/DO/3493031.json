@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3506415,
+    "parentId": 3493031,
+    "country": "DO",
+    "name": "El Puerto",
+    "fullName": null,
+    "lat": 18.78333,
+    "lng": -69.46667,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3498191,
+    "parentId": 3493031,
+    "country": "DO",
+    "name": "Los Llanos",
+    "fullName": null,
+    "lat": 18.62035,
+    "lng": -69.49581,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494121,
+    "parentId": 3493031,
+    "country": "DO",
+    "name": "Quisqueya",
+    "fullName": null,
+    "lat": 18.55542,
+    "lng": -69.40814,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3494064,
+    "parentId": 3493031,
+    "country": "DO",
+    "name": "Ramón Santana",
+    "fullName": null,
+    "lat": 18.54224,
+    "lng": -69.17979,
+    "tz": "America/Santo_Domingo"
+  },
+  {
+    "id": 3493032,
+    "parentId": 3493031,
+    "country": "DO",
+    "name": "San Pedro de Macorís",
+    "fullName": null,
+    "lat": 18.4539,
+    "lng": -69.30864,
+    "tz": "America/Santo_Domingo"
+  }
+]

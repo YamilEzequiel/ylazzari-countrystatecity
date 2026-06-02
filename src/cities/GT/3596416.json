@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3596940,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "El Jícaro",
+    "fullName": null,
+    "lat": 14.91333,
+    "lng": -89.89654,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3596421,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "Guastatoya",
+    "fullName": null,
+    "lat": 14.85442,
+    "lng": -90.06991,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3592349,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "Morazán",
+    "fullName": null,
+    "lat": 14.93278,
+    "lng": -90.14306,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590547,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "San Agustín Acasaguastlán",
+    "fullName": null,
+    "lat": 14.945,
+    "lng": -89.96967,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590449,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "San Antonio La Paz",
+    "fullName": null,
+    "lat": 14.75888,
+    "lng": -90.28485,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590325,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "San Cristóbal Acasaguastlán",
+    "fullName": null,
+    "lat": 14.92485,
+    "lng": -89.87427,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3590406,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "Sanarate",
+    "fullName": null,
+    "lat": 14.78828,
+    "lng": -90.19876,
+    "tz": "America/Guatemala"
+  },
+  {
+    "id": 3589554,
+    "parentId": 3596416,
+    "country": "GT",
+    "name": "Sansare",
+    "fullName": null,
+    "lat": 14.74572,
+    "lng": -90.11615,
+    "tz": "America/Guatemala"
+  }
+]
