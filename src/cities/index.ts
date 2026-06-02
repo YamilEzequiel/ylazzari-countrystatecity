@@ -1,6 +1,6 @@
+import * as path from "path";
 import { CountryEnum } from "../shared/enum";
 import { City } from "../shared/interface";
-import { LIST_CITIES } from "./cities-index";
 
 /**
  * @class CityService
@@ -8,6 +8,8 @@ import { LIST_CITIES } from "./cities-index";
  * @version 1.0.6
  */
 export class CityService {
+  private static cache = new Map<string, City[]>();
+
   constructor() {}
 
   /**
@@ -18,23 +20,18 @@ export class CityService {
    * @returns The cities array
    */
   public getCitiesByCountryAndState(country: CountryEnum, stateId: number): City[] {
+    const key = `${country}/${stateId}`;
+
+    const cached = CityService.cache.get(key);
+    if (cached) return cached;
+
     try {
-      return this.loadCitiesData(country, stateId);
-    } catch (error) {
+      const cities: City[] = require(path.join(__dirname, country, `${stateId}.json`));
+      CityService.cache.set(key, cities);
+      return cities;
+    } catch {
       throw new Error(`No se encontraron ciudades para el país ${country} y estado ${stateId}`);
     }
-  }
-
-  private loadCitiesData(country: CountryEnum, stateId: number): City[] {
-    const key = `${country}/${stateId}`;
-    const cities = LIST_CITIES[key];
-
-    if (!cities) {
-      console.error(`No se encontró el archivo de ciudades para ${key}`);
-      throw new Error(`No se encontró el archivo de ciudades para ${key}`);
-    }
-
-    return cities;
   }
 }
 
