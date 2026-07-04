@@ -1,6 +1,6 @@
 {
   "name": "ylazzari-countrystatecity",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "List of countries, states and cities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -30,7 +30,7 @@
     "build": "rimraf dist && tsc && npm run copy-files",
     "build:cjs": "tsc && npm run copy-files",
     "build:esm": "tsc -p tsconfig.esm.json && npm run copy-files",
-    "copy-files": "shx cp -r src/cities dist/",
+    "copy-files": "shx cp -r src/cities dist/ && shx rm dist/cities/index.ts",
     "prepare": "npm run build",
     "clean": "rimraf dist",
     "start": "npx ts-node src/index.ts",

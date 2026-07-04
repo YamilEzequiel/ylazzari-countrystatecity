@@ -252,6 +252,10 @@ Contributions are welcome — issues and pull requests both. If you are adding a
 
 ## Changelog
 
+### 1.1.1
+
+- **fix(build)**: `dist/cities/index.ts` (raw TypeScript source) was being copied into `dist/` alongside the compiled `dist/cities/index.js`, left over from the `copy-files` build step that only intended to ship the per-country JSON data files. Under `moduleResolution: "bundler"` (Vite/esbuild/Angular's new application builder), bundlers can resolve the transitive `CityService` import to that stray `.ts` file instead of the compiled output — and since it uses Node-only `require()`/`__dirname` to lazy-load JSON from disk, this broke `ng build`/esbuild for any consumer importing `CityService` in a browser app. The build script no longer ships the `.ts` file; only the compiled `.js`/`.d.ts` and the JSON data are published.
+
 ### 1.1.0
 
 - **perf(cities)**: cities are now lazy-loaded on demand and cached in memory. The library no longer loads 3.6 MB of JSON at `require()` time — only the country/state pairs you actually ask for. Cold start drops dramatically.
